@@ -12,7 +12,6 @@ The player spends most of this chapter enjoying it. That's the point. Fame in th
 ## World state at open
 
 - *Borrowed Stone* is pressed and a week from release. Southern Star has ordered 5,000 copies, which Harold Vance calls "optimistic" and his boss calls "the tax shelter."
-- The Blakes are known in Laurel City, a curiosity in Tannersville, and a subject of opinion in Hollow Ridge.
 - Ellis still works at Roy's four days a week. Riley has moved out of the dorm into a second-floor apartment on Cutler Street, near the college, with Gerald and a mattress on the floor. Cal lives above the dry cleaner. Dean lives at home in Belle Grove, allegedly.
 - Autumn 1975: Ford survives two assassination attempts in September. The Reds and the Red Sox in October. "Fame" and "Rhinestone Cowboy" on the radio; *Wish You Were Here* in college dorms; CB radio in every truck at the Starlite; *One Flew Over the Cuckoo's Nest* opens in November.
 
@@ -635,6 +634,8 @@ Roy is on the phone in the office. Ellis goes out anyway.
 
 **FLOYD:** Fill it.
 
+Ellis fills it.
+
 **FLOYD:** Heard your record.
 
 **ELLIS:** Yes sir.
@@ -690,6 +691,8 @@ Ellis doesn't know what to do next, so he looks at the shelf. Roy follows his ey
 Ellis doesn't say anything.
 
 **ROY:** He couldn't tell a carburetor from a coffee pot. Wanted to be a radio announcer. Talked all day. Talked to the cars.
+
+He smiles, a little.
 
 **ROY:** You don't talk to the cars.
 
@@ -1141,7 +1144,7 @@ The crowd model at the Civic is slow and enormous. Sixteen hundred people in sea
 The performance rotates through all four, a song or two each, with switches on the band's own musical cues (Cal's headstock, Dean's sticks, Riley's nod):
 
 - **Dean** opens "Low Water" alone on the floor tom. With *read the room* the crowd is a huge dim field, bright in the first ten rows where the college kids have pushed forward, dark under the balcony. The task is to find the warmth and play to it.
-- **Riley** on "Linwood" and "Sunday Clothes." On "Sunday Clothes," Ellis sings harmony under her, because it's her song. The player chooses her phrasing. If the player looks out, there are three girls in the fourth row who know every word, and one of them is crying, and it isn't about Ellis.
+- **Riley** on "Linwood" and "Sunday Clothes." On "Sunday Clothes," Ellis sings harmony under her, because it's her song. If the player looks out, there are three girls in the fourth row who know every word, and one of them is crying, and it isn't about Ellis.
 - **Cal** on "Borrowed Stone" and "Parietal Hours." The player's job is mostly *lock*, holding Dean back from rushing into the echo, and Cal is watching Ellis more than he usually does.
 - **Dean** on "Tomorrow Problem." He throws his sticks up on the last chorus and the whole front section shouts the title back at him (*THAT'S A TOMORROW PROBLEM*), and the balcony, a beat and a half late, shouts it too. No crowd has sung Dean's song before.
 - **Ellis** on "No Name" and "Stony Knob," and then on the one they've all been waiting for.
@@ -1253,7 +1256,7 @@ The dressing-room hallway, 12:30 a.m. Dex interviews them one at a time on a fol
 
 **DEAN:** Blake's a genius, man. I'm not kidding. He's the real thing. The rest of us are just trying to keep up.
 
-**Riley.** Dex asks what it's like to be the girl in the band. The options: *"I'm the one who can read music."* / *"One of us isn't a boy."* (the band's running joke) / talk about the arrangements (a long answer about voice-leading, her mother, and how the twelve-string drone works under Ellis's glide) / silence. Dex listens to all of it with real interest. He asks one follow-up about her mother.
+**Riley.** Dex asks what it's like to be the girl in the band. The options: *"I'm the one who can read music."* / *"One of us isn't a boy."* / talk about the arrangements (a long answer about voice-leading, her mother, and how the twelve-string drone works under Ellis's glide) / silence. Dex listens to all of it with real interest. He asks one follow-up about her mother.
 
 **Cal.** Dex asks whose band it is. The options: *"It's ours."* / *"Nobody's. It's a band."* / *"Ask the bank."* If the player picks another answer, Dex pushes ("Come on. It's Ellis's band. Everybody knows it's Ellis's band.") and the prompt comes back, and this time Cal says it:
 
@@ -1328,7 +1331,7 @@ If the player sits about two minutes, real time, a prompt appears: *Speak.*
 
 Then he can leave whenever the player likes.
 
-> **Design note.** Rule 7. Ellis's mind won't bring Clara to a place that proves Grace is dead, and her help turns him away from it first: it is cold up there. A player who never finds the cemetery loses nothing they need.
+> **Design note.** Rule 7. Ellis's mind won't bring Clara to a place that proves Grace is dead, and her help turns him away first ("It's cold up there"). A player who never finds the cemetery loses nothing they need.
 > **Tracked.** If Ellis pulled the chickweed, Wayne brings it up on the drive to Sylva in Chapter IX: "You been up the hill." / "How do you know?" / "Somebody did the chickweed."
 
 ---
@@ -1410,6 +1413,8 @@ She follows him down the drive in her socks and hands him a violet greeting-card
 **DEAN:** You're writing to my singer?
 
 **PATTY:** He's not your singer. Give it to him.
+
+Dean puts it in his jacket.
 
 **PATTY:** Sunday. Six o'clock. You heard him.
 
@@ -1611,7 +1616,7 @@ He stops.
 
 **CLARA:** She knows what you told her in a field. That's not the same thing.
 
-**ELLIS:** That's what knowing somebody is.
+**ELLIS:** It's more than I ever told anybody.
 
 **CLARA:** Is it.
 
@@ -1621,7 +1626,7 @@ He walks back down to the ice machine. He's angry now, the quiet kind.
 
 **ELLIS:** What do you want?
 
-**CLARA:** I want you to stop pretending they know you. Sixteen hundred people sang my words and not one of them knows who they were singing to.
+**CLARA:** Sixteen hundred people sang my song. Not a one of them could tell you who it's about.
 
 **ELLIS:** So?
 
@@ -1633,7 +1638,7 @@ A pause. She looks at the door with the light under it.
 
 **ELLIS** *(too loud)*: She knows me better than you do.
 
-**CLARA:** Hush. Nobody knows you better than me.
+**CLARA:** Hush. I knew you before she did.
 
 **ELLIS:** You're not even—
 
@@ -1911,7 +1916,7 @@ Joan comes in from the kitchen, drying her hands.
 
 **ELLIS:** Some. Most of them, I reckon.
 
-**JOAN:** I went to a singing once. Nineteen sixty-eight, in Alabama. A church in a field. I bought the book at the table and I've never been able to make them work.
+**JOAN:** I went to a singing once. Nineteen sixty-one, in Alabama. A church in a field. I bought the book at the table and I've never been able to make them work.
 
 **ELLIS:** They don't work on piano.
 
@@ -1992,7 +1997,7 @@ A long quiet. Somewhere downstairs a clock.
 
 **ELLIS:** She sat in a chair, Riley. She didn't do anything.
 
-The player chooses what Riley does with that: push (*"Define 'anything.'"*), let it go, or say the true thing (*"I'm not scared of her. I'm scared of what happens to you."*). Whichever the player picks, Ellis's answer is the same, very tired:
+The player chooses what Riley does with that: push (*"Define 'anything.'"*), let it go, or say what she saw (*"I watched you smile at an empty chair, Ellis."*). Whichever the player picks, Ellis's answer is the same, very tired:
 
 **ELLIS:** After New York.
 
