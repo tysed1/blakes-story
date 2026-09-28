@@ -87,8 +87,7 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | Nov 17 | III M6 | On mushrooms, 50 yards out in the frosted field, more vivid: "Same way you did." | High banter | She came in his head | subliminal |
 | Nov 17 | III M6 | "I wish you'd come around more." / "You sure?" | A tender moment | He's asking his mind for more of her | invisible |
 | Nov 17 | III M6 | Riley: "You were standing in a field talking to yourself." / "Working out a song." | He's high | He was | visible (to perceptive players) |
-| Nov 17 | III M6 | The frost where she stood is unbroken | Nobody looks | Nobody stood there | invisible |
-| Nov 17 | III M6 | "Riley couldn't see you." / "She's never met me." | An odd answer | Not an answer | subliminal |
+| Nov 17 | III M6 | "Riley didn't even say hey to you." / "She's never met me." | An odd answer | Not an answer | subliminal |
 | Nov 17 | III M6 | Stops at the fence; won't ride in the van | She isn't coming | Rule 11 | invisible |
 | Nov 17, 3:50 a.m. | III M7 | The drive home passes the mouth of Tolliver Road | Nothing | The crash road | invisible† |
 | Nov 17, sunrise | III M7 | Ellis: "You scared I'm gonna wreck something?" / Wayne: "I already buried one child." | A child died; a wreck | Grace; the crash | visible† |
@@ -113,12 +112,12 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | Dec 17 | IV M6 | Marlon: "Who're you talking to?" / "Myself." / "Bad company." | The door hid her | Nobody on the step | subliminal → visible |
 | Thu Dec 19 | IV M8 | Wayne: "It's Thursday." / "I know what day it is." | Wayne needling | The crash was a Thursday; Wayne waits up every Thursday | subliminal† |
 | Dec 19 | IV M8 | "She know?" ... "You want me to tell her?" | A secret Ellis dreads | That Ellis was driving | visible† |
-| Dec 19 | IV M8 | Under the EXIT sign: "They're waiting on you." / "I'll be there. Somebody's got to clap." Cal passes and sees only Ellis | A friend seeing him off | Nobody in the hallway; she won't send him anywhere | invisible |
-| Dec 19 | IV M8 | At the mezzanine rail all set; Ellis misses an entrance watching her; Cal misses a note watching Ellis smile at an empty balcony | A friend in the balcony | Ellis's perception | subliminal |
+| Dec 19 | IV M8 | Under the EXIT sign: "Cal's looking at his watch." / "I'll be there. Somebody's got to clap." Cal passes and sees only Ellis | A friend keeping him on time | Nobody in the hallway; she won't send him anywhere | invisible |
+| Dec 19 | IV M8 | At the mezzanine rail all set; Ellis misses an entrance watching her; Cal starts to follow Ellis's smile past the lights, is pulled back to Dean, and misses a note anyway | A friend in the balcony | Ellis's perception | subliminal |
 | Dec 20, 4 a.m. | IV M8 | In the van's cargo bay, alone with him: "I would've." / "Would." | A slip of tense | Grace can't | subliminal |
 | Sat Dec 21 | IV M9 | Crawdad snapshot, green felt-tip on the back: "El caught it, I held it. G." Put back face down | A kid's caption | The name only Grace used | invisible (plant) |
 | Dec 21 | IV M9 | "Take me with you." / "Promise." | Odd | The argument in the car | invisible |
-| Dec 21 | IV M9 | Leaves as Wayne's boots hit the porch; Wayne: "You on something?" (he's sober) | A friend dodging a hard father | Rule 8; the drugs didn't make her | invisible (camouflaged) |
+| Dec 21 | IV M9 | Wayne's door swings across where she sits, and when it stops she's gone; Wayne: "You on something?" (he's sober) | A friend dodging a hard father | Rule 13 (she vanishes when Wayne comes in); the drugs didn't make her | invisible (camouflaged) |
 | Sat Dec 21, midnight | IV M10 | "Grace died in a car wreck." / "I was there." | The first plain fact | He was driving | visible† |
 | Sun Dec 22 | IV M11 | Cal's ledger margin: *Clara?*, one line through it | Cal's odd note | Cal's first recorded doubt | subliminal† |
 
@@ -339,12 +338,12 @@ What the player knows about the crash and Grace at the end of each chapter.
 | 5 | Never enters Grace's room until the end of IX | IX M13 (stays at the end of the hall; "She never comes into this room") | **Broken on purpose, IX M14:** at fourteen she walks in and he closes the door. Epi M7: the room is empty |
 | 6 | Never knows anything Ellis couldn't | IV M6 ("You and Riley kissed," read off his face); V M16 (where, not when); VII M7 (her correction of the lyric is Ellis's own memory); VIII M13 (can't answer "Is that you?"); IX M7 ("I remembered the car." / "I know."; then "Ask me something I know"); X M7 ("What are you?" gets no answer) | Never broken |
 | 7 | Never goes to the cemetery | I M1 (looks away at the church); VII M9 (stops at the foot of the hill and turns back); Epi M2 (absent from the funeral) | Never broken |
-| 8 | Never stays long in a room with Wayne | I M1 (stays in the car); I M9, II M10 (appears after Wayne snores); II M3 (gone when he flips the porch light); IV M9 (leaves as his boots hit the porch); VII M16 (gone from the wing once Wayne is in the room); VIII M13 (stops at the kitchen door, then vanishes); VIII M16–M17 (never in the kitchen with him); IX M9 (gone when he sings in the gallery) | Strained only in IX M13–M14, where she stands at the end of the hall while Wayne is in the kitchen (same house, not the same room) |
+| 8 | Never stays long in a room with Wayne | I M1 (stays in the car); I M9, II M10 (appears after Wayne snores); II M3 (gone when he flips the porch light); IV M9 (gone when his door stops swinging); VII M16 (gone from the wing once Wayne is in the room); VIII M13 (stops at the kitchen door, then vanishes); VIII M16–M17 (never in the kitchen with him); IX M9 (gone when he sings in the gallery) | Strained only in IX M13–M14, where she stands at the end of the hall while Wayne is in the kitchen (same house, not the same room) |
 | 9 | The switch never catches on her until VIII, and then fails | VIII M4 (bus aisle); VIII M10 (*Night Stage*) | Deliberately extended: IX M1 (catches on her empty chair); X M9 (fails to find Ellis); X end (fails to find anyone) |
-| 10 | Never says "go on," or anything that sends him away | I M1 and VII M19 ("Keep going," both in a car); IV M8 ("They're waiting on you"; "I'll be there"); X M5 ("come on, come on" in the squall); X M7 ("Come on. They're waiting on you."); X M8 (she says nothing and looks upstage) | Held |
+| 10 | Never says "go on," or anything that sends him away | I M1 and VII M19 ("Keep going," both in a car); IV M8 ("Cal's looking at his watch"; "I'll be there"); X M5 ("come on, come on" in the squall); X M7 ("Come on. They're waiting on you."); X M8 (she says nothing and looks upstage) | Held |
 | 11 | Until V M16, never in a vehicle with a band member, and no third party's point of view frames her place | III M6 (stops at the fence); IV M8 (in the van's cargo bay only while Ellis is alone; walks off before the others come out); V M5 (stays behind under the club light) | Strained, V M7: played from Riley's side, Riley turns to the fence where Ellis sees her (the chapter calls it "a small preview of the midpoint"; bible §11.4 calls it an echo). After the midpoint she rides freely: VI M1 (Riley's back seat), VII M19 (the van's engine cover), X M1 (the bus) |
 | 12 | No horror grammar: never revealed in a mirror, window or reflection; never closer between cuts | VIII M6 (the bar mirror is never looked into); VIII M10 (back to the glass; "the camera never looks in the mirror"); X M3 (the motel mirror). Studio glass (III M2, VI CO, VI M18) frames her beyond a window, not in a reflection | Strained, VI M1: in Riley's back seat she is "looking at him in the rearview mirror" |
-| 13 | Vanishes rather than leaving in exactly two situations: Wayne entering, and Lorraine's handwriting | Wayne: II M3, VII M16, VIII M13, IX M9. Lorraine: VII M19 (the letter; the replay note cites Rule 13) | Strained: several look-away disappearances with neither trigger (III M11 headlights; V CO; V M16 booth after the flicker; VI M3 behind Vance's chair). VIII M13 extends the Lorraine trigger from handwriting to her photograph. In IV M9 she walks out ahead of Wayne rather than vanishing (the chapter's camouflage) |
+| 13 | Vanishes rather than leaving in exactly two situations: Wayne entering, and Lorraine's handwriting | Wayne: II M3, IV M9, VII M16, VIII M13, IX M9. Lorraine: VII M19 (the letter; the replay note cites Rule 13) | Strained: several look-away disappearances with neither trigger (III M11 headlights; V CO; V M16 booth after the flicker; VI M3 behind Vance's chair). VIII M13 extends the Lorraine trigger from handwriting to her photograph |
 
 ---
 
@@ -376,7 +375,7 @@ Nobody else says it. Grace doesn't say it aloud on the WGRC tapes in IX M13 or i
 | Speaker | Where | Line |
 |---|---|---|
 | Clara ("your daddy," the disguise) | I M9 | "What'd your daddy say?" |
-| Clara | IV M9 | "Your daddy hates it." / "That's your daddy. I'm gone." |
+| Clara | IV M9 | "Your daddy hates it." / "That's your daddy." |
 | Clara (implied) | I M1 | "He come?" |
 | **Clara, the one "Daddy"** | VIII M14, Sat Mar 20, 1976, Tolliver Road between the farm and the bend, mid-aging | "Daddy'll kill us both." |
 | Grace | IX M6 (memory, Apr 12, 1973) | "Daddy's at a derailment." |
