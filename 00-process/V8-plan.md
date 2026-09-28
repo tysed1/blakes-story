@@ -40,7 +40,7 @@ The fourth new thing is structural: **the last playable character is the man the
 
 **What she never helps with.** Her help is always right about the world, because it's Ellis's own knowledge (Rule 6). It is always biased toward keeping him with her.
 - She steers him away from Tolliver Road.
-- She steers him away from doctors: *"You don't need anybody looking at you."*
+- She steers him away from doctors: *"Don't you let some doctor poke at you."*
 - She steers him away from telling Riley about the car, and from going home early.
 
 **How it plays.**
