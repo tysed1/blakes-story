@@ -87,7 +87,7 @@ How the chapters apply it:
 |---|---|---|---|---|---|
 | I M4 (Oct 1974) | Cocaine in a Sucrets tin in his desk; Jim Beam behind the water heater | Before going out | Social | Nobody at home | The raid; Tully in the car |
 | I M8 (Fri Oct 18, 1974) | Cocaine | The first band night | — | Cal: "You're high." / "Not relevant." | None yet |
-| II M6 (Sat Oct 26, 1974) | A line off a *Chilton's* manual behind the car lot | A daytime car-lot gig | — | Cal: "You need that to play a car lot?" / "Need's a strong word." / "That's what people say right before they start needing something." / "You're not my father, Mercer." / "Then stop acting like him." | First argument |
+| II M6 (Sat Oct 26, 1974) | A line off a *Chilton's* manual behind the car lot | A daytime car-lot gig | — | Cal: "You need that to play a car lot?" / "Need's a strong word." / "Then you won't miss it." / "You're not my father, Mercer." / "Then stop acting like him." | First argument |
 | II M8 (Fri Nov 1, 1974) | High onstage: bright-eyed, knee jiggling | Marlon's | — | Cal, inside the song | He drags the tempo; Cal locks him: "The band's first argument about Dean's drug use happens entirely inside a song" |
 | III M6–7 (Sun Nov 17, 1974) | Drink, cigarette, a line upstairs with a sculptor named Pete | The farmhouse party; "No downward spiral… The player should enjoy it." | Party | Cal: "Seriously?" / "Yes, *Dad.*" / "Fuck you, Dean." | Asleep on the drive home "the way it does when the cocaine runs out and the beer doesn't" |
 | IV M4 (Dec 13–15, 1974) | Cocaine, "more than once and in front of people" | Motel afterparty | Rising | Cal ("nobody is counting but Cal") | Starlite at 4:10 a.m.: knee going, jaw tight. Richard, Monday: "Are you high?" (IV M5) |

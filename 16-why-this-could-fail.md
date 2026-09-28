@@ -191,11 +191,11 @@
 
 **The risk.** The gap, the ambulance, Route 17, the funeral, the list, the pocket, M., Tater, 1996, the coda, the credits, and the post-credits.
 
-**What the design does.** The epilogue is short and playable, and each mission is one person keeping one thing. The 1996 frame was cut to four minutes and moved before the Tater mission (V7), so the documentary closes a door and the last mission goes behind it. The epilogue then ends on "Wayne goes on." The coda is open-ended and ends when the player drives home.
+**What the design does.** The epilogue is short and playable, and each mission is one person keeping one thing. The 1976–77 missions run in order, Wayne's winter last among them. Then the 1996 frame (four minutes) ends on Wayne's closed door, and the picture comes up behind that door in the same house, twenty-two years earlier: the coda. The door is the only ending before the coda, and the coda is open-ended and ends when the player drives home.
 
 **Watch.** If the team has to cut more, cut the 1996 frame to Dean, Riley and the door, and keep everything else.
 
-**Fixed in V7.** The 1996 frame was moved and cut to about four minutes.
+**Fixed in V7 and V8.** V7 cut the 1996 frame to about four minutes. V8 (Critic G, cold read 3) moved it after Wayne's winter, so it cuts straight into the coda, and cut two closures from the Tater mission (the April 12 pie and "Wayne goes on."). **Test:** T11 covers the coda; T10 times the epilogue.
 
 ## The one-sentence version
 

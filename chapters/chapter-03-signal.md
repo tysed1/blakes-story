@@ -102,12 +102,6 @@ And yet, underneath it, something's there.
 
 **CAL:** That's generally how you fix something.
 
-**VALE:** Music isn't an alternator.
-
-**CAL:** Everything has parts.
-
-**VALE:** People don't.
-
 Cal looks at him. Vale turns a page of the sports page.
 
 **VALE:** Engineers lost again.
@@ -220,8 +214,6 @@ Riley looks at the pocket calendar in her hand. Monday the 11th, circled, *WTCR 
 
 **JOAN:** Margaret.
 
-Disappointed, which is worse than angry.
-
 **RILEY:** I said I'll do it.
 
 Her mother softens.
@@ -282,7 +274,7 @@ Dean immediately loves Martin.
 
 ### The session
 
-This is one of the chapter's strongest gameplay sections, because recording is not "perform the song successfully." Recording is different. Everything's exposed. There's no crowd noise to hide in and no crowd energy to lift you. Cal thrives on it. Dean hates it. Ellis gets self-conscious. Riley becomes fascinated.
+Recording is not "perform the song successfully." Recording is different. Everything's exposed. There's no crowd noise to hide in and no crowd energy to lift you. Cal thrives on it. Dean hates it. Ellis gets self-conscious. Riley becomes fascinated.
 
 The room is tiny. The drums go in a corner with a mattress behind them (Tully brought the mattress; nobody asks where from). Martin places four microphones with a care that makes Cal like him.
 
@@ -524,7 +516,7 @@ Ellis wasn't expecting the question.
 
 **WAYNE:** Hm.
 
-That's all. Ellis waits for the mockery. It doesn't come. That's worse.
+That's all. Ellis waits for the mockery. It doesn't come.
 
 ### The mountain
 
@@ -550,7 +542,7 @@ Ellis sits up straighter. Roy looks at him and doesn't say anything.
 
 **ELLIS:** We do not.
 
-**ROY:** Apparently you do.
+**ROY:** Radio says you do.
 
 **MARTIN:** —and they came in and recorded right here at WTCR Monday night, at an hour I don't recommend. This one's called "No Name," or at least that's what they wrote on the box—
 
@@ -704,7 +696,7 @@ Ellis's room. Clara is sitting on the floor by his clock radio, which is on and 
 
 He smiles.
 
-**ELLIS:** Everybody heard me, apparently.
+**ELLIS:** Whole county heard me.
 
 **CLARA:** Not everybody.
 
@@ -756,7 +748,9 @@ Dean slaps a piece of paper on the counter: a Blind Tiger contract form, typed, 
 
 Cal reads it. It's real.
 
-**ELLIS** *(on the phone, when Cal calls Roy's):* How much?
+Cut to Cal on Vale's counter phone to Roy's.
+
+**ELLIS** *(on the phone):* How much?
 
 Cal checks. Everyone looks at him.
 
@@ -810,7 +804,7 @@ The player can do all the van things: change the radio (Laurel City gets real FM
 
 **CAL:** You took one business class.
 
-**DEAN:** And apparently learned more than you.
+**DEAN:** And I stayed awake for it.
 
 **The set-list argument:**
 
@@ -913,7 +907,7 @@ Real equipment exposes weaknesses. Dean is too loud in a room that's built to be
 
 ### The show
 
-The room is half full when they start. Almost nobody cares. This is the chapter's lesson: Marlon's audiences have affection; Laurel City has indifference, and indifference is harder than hostility.
+The room is half full when they start. Almost nobody cares.
 
 **Song one:** polite. No disaster. No magic. Ellis looks uncomfortable. Dean's trying too hard. Cal notices. Riley stays composed.
 
@@ -943,7 +937,7 @@ The last song. Riley takes the opening alone, a verse on the Martin with just he
 
 He realizes she actually plays. Cal, watching Skeeter from across the stage, notices, and smiles slightly. Riley never sees it.
 
-The song builds. Dean comes in on the second verse like the door being kicked. They finish.
+The song builds. Dean comes in on the second verse like a truck downshifting. They finish.
 
 Applause. Not huge, but stronger than what they walked in to. A few strangers yell:
 
@@ -983,7 +977,7 @@ Riley doesn't understand why that matters.
 
 ### The money
 
-Artie pays them a hundred and fifty dollars in twenties and a ten, the most they've made at once. Not rich. Real.
+Artie pays them a hundred and fifty dollars in twenties and a ten, the most they've made at once.
 
 They divide it on the backstage couch nobody should sit on. Dean wants to spend it celebrating. Cal wants a share for the band fund. Riley suggests they keep enough for food. Ellis wants to send some home: he's thinking about Friday's rent. Nobody judges anyone's answer. Cal proposes twenty percent to the fund and the rest in four shares, and writes it in the green ledger:
 
@@ -1043,11 +1037,7 @@ A woman (a weaver, late twenties, with clay under her nails) watches him from th
 
 **WEAVER:** Do you always fix things at parties?
 
-**CAL:** Only when they're broken.
-
-**WEAVER:** Everything here's broken.
-
-**CAL:** Then I'll be busy.
+**CAL:** Belt slipped off the pulley.
 
 She laughs.
 
@@ -1166,7 +1156,7 @@ That's it. No music cue. No visual emphasis. No journal entry. A new player may 
 
 ### Switch — Ellis alone
 
-Riley gets up to find water. She walks toward the farmhouse. The camera stays with Ellis. Stutter. Control becomes Ellis. He's alone. Apparently.
+Riley gets up to find water. She walks toward the farmhouse. The camera stays with Ellis. Stutter. Control becomes Ellis. He's alone.
 
 ### Ellis's walk
 
@@ -1226,7 +1216,7 @@ Clara looks at him. There's something sad in it, very small.
 
 **CLARA:** Okay.
 
-> **Design note — "You sure?"** This is one of the most important exchanges in the chapter. Nothing supernatural happens. Ellis has said out loud that Clara makes him feel safe and that he wants more of that. His mind will provide it. As stress, substances and sleep loss accumulate, she will come around more. Players will remember "You sure?"
+> **Design note — "You sure?"** Nothing supernatural happens. Ellis has said out loud that Clara makes him feel safe and that he wants more of that. His mind will provide it. As stress, substances and sleep loss accumulate, she will come around more.
 
 ### Riley finds him
 
@@ -1242,7 +1232,7 @@ Ellis turns.
 
 A tiny silence. The first direct crack.
 
-Ellis looks at Clara, who's standing a few feet to his left, looking back at him. Riley follows Ellis's eyes, and her gaze crosses the place where Clara stands and keeps going to the barn, the tree line, the dark. From Ellis's camera it's ambiguous: did she look right at her? Did she look past? It's dark. They're both high.
+Ellis looks at Clara, who's standing a few feet to his left, looking back at him. Riley is looking at him, not at the field. It's dark. They're both high.
 
 **ELLIS:** Song.
 
@@ -1256,7 +1246,7 @@ Riley looks at him. He's high. She's high. It makes enough sense.
 
 She sits down in the grass beside him and hands him the water. Clara stays where she is, a few feet off. Riley can't see her. The player gets no confirmation either way. Riley starts talking about the stars again, and Ellis's attention goes naturally to her, and the camera goes with it.
 
-When the camera later drifts back to where Clara was standing: empty grass, the frost on it unbroken.
+When the camera later drifts back to where Clara was standing: empty grass.
 
 > **Design note — fairness.** The player must not solve it here. People talk to themselves when they're high. Ellis is a songwriter. Clara has always come and gone on her own. A player may assume she walked off as Riley came up. Some perceptive players will start to wonder. That's good. Most shouldn't know yet.
 
@@ -1308,15 +1298,15 @@ Riley immediately hears the judgment in it.
 
 **ELLIS:** I'm fine.
 
-**CAL:** Everybody here's fine, apparently.
+**CAL:** Everybody here's fine.
 
 Ellis's mood turns.
 
 **ELLIS:** What's your problem?
 
-**CAL:** Nothing.
+**CAL:** Your pupils.
 
-**ELLIS:** Then quit talking like there is one.
+**ELLIS:** Then quit looking at them.
 
 **CAL:** I have three people I need to get home alive.
 
@@ -1356,7 +1346,7 @@ Clara falls in beside him.
 
 Ellis smiles. Then:
 
-**ELLIS:** Riley couldn't see you.
+**ELLIS:** Riley didn't even say hey to you.
 
 Clara looks at him. This is the closest the game has come.
 
@@ -1388,7 +1378,7 @@ Fog in the low places of the South Fork. The van's headlights on high make it wo
 
 **DEAN:** You know what your problem is?
 
-**CAL:** Apparently everybody does tonight.
+**CAL:** Everybody's got one for me tonight.
 
 **DEAN:** You think if you're responsible enough, nothing bad happens.
 
@@ -1416,7 +1406,7 @@ Cal glances in the mirror.
 
 **ELLIS:** Both.
 
-That ends it.
+Nobody says anything for a mile.
 
 ### Riley and Cal
 
@@ -1542,7 +1532,7 @@ Ellis stares at him.
 
 **WAYNE:** I don't know what you're doing.
 
-**ELLIS:** You don't ask. You tell.
+**ELLIS:** When did you ever ask?
 
 Neither of them has anywhere to go. Ellis walks past him into the house. Wayne doesn't follow. Tater, who has watched this from the porch, gets up and goes to stand by Wayne's leg.
 
@@ -1716,7 +1706,7 @@ He looks up.
 
 **ELLIS:** She wants it?
 
-**RILEY:** Apparently.
+**RILEY:** In pink.
 
 He looks at the three of them. Something changes. Until this moment the band has been an experience. Now it might become a thing, something that exists when they aren't in the room.
 
@@ -1770,7 +1760,7 @@ And for about four minutes, Wayne and Ellis Blake are a father and son at a ball
 
 Then the game is over and the diner goes back to being a diner. They finish their pie. Wayne pays. They drive home in the same truck without talking, and it's a different kind of not talking than usual.
 
-> **Design note.** This is one of the chapter's two quietest scenes and one of its best. It's a real game (Thanksgiving Day, 1974). The player should feel how little it takes, and how rarely it comes.
+> **Design note.** This is one of the chapter's two quietest scenes. It's a real game (Thanksgiving Day, 1974). The player should feel how little it takes, and how rarely it comes.
 
 ---
 
@@ -1812,13 +1802,13 @@ Gameplay rotates between all four. They're better. More confident. And new dynam
 
 During "Low Water," Ellis looks toward the back of the room. Clara is there, leaning on the wall by the cigarette machine, watching.
 
-She used to show up mostly when Ellis was alone. Now she's come into the band's space, in the middle of a show, and nobody else sees her.
+She used to show up mostly when Ellis was alone. Now she's in plain sight in the middle of a show, and nobody else sees her.
 
 Ellis smiles toward her.
 
 When the last chorus comes around and the player could turn to Dean, Clara lifts one finger: once more. If the player takes it (a look at Cal, *stay with me*), the band goes around again with him.
 
-Riley, at her mic, catches Ellis smiling at apparently nobody over the heads of the crowd. She assumes he's found somebody he knows. She keeps playing.
+Riley, at her mic, catches Ellis smiling out over the heads of the crowd. She assumes he's found somebody he knows. She keeps playing.
 
 > **Blocking note.** The camera stays with Ellis for all of this. No one else's view takes the back wall (Rule 11).
 
@@ -1971,8 +1961,7 @@ A college station recording. A 10-watt broadcast caught from a mountaintop. A sh
 | Far off in a field; "same way you did" | High banter | She came in his head | subliminal |
 | "I wish you'd come around more." / "You sure?" | Tender moment | He's asking his mind for more of her | invisible |
 | "You were talking to yourself" | Working out a song | He was | visible (to perceptive players) |
-| Where she stood, the frost is unbroken | Nobody looks | No trace, because nobody stood there | invisible |
-| "Riley couldn't see you." / "She's never met me." | An odd answer | Not an answer | subliminal |
+| "Riley didn't even say hey to you." / "She's never met me." | An odd answer | Not an answer | subliminal |
 | Stops at the fence; doesn't ride in the van | Isn't coming along | She never shares a vehicle with the band before V (rule 11) | invisible |
 | Leaning on her shoulder after Wayne | Comfort | Alone against a wall | invisible |
 | Cal: "Who's Clara?" | Cal forgot | Nobody has met her | subliminal |

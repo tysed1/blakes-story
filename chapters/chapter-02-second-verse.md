@@ -55,9 +55,9 @@ She covers it with her hand.
 
 **RILEY:** Sorry.
 
-**MRS. VOORHEES:** That wasn't a question.
+**MRS. VOORHEES:** You were somewhere else.
 
-**RILEY:** Then probably not.
+**RILEY:** Hollow Ridge.
 
 Even Mrs. Voorhees almost smiles.
 
@@ -65,7 +65,7 @@ Even Mrs. Voorhees almost smiles.
 
 Chapter II begins with consequences, small ones. Riley has a work-study shift she took to cover the difference her scholarship doesn't, and The Blakes have already gotten into it, by about an inch. That's how this chapter works: inches, not miles.
 
-The player works the desk (check-ins, the reserve shelf, re-shelving a cart in the stacks by call number). It's quiet, pleasant, a little tedious. As she shelves, Riley hums without noticing. The player may not notice either until Hannah comes in with two coffees and a paper bag of doughnuts from the Krispy Kreme on River Street.
+The player works the desk (check-ins, the reserve shelf, re-shelving a cart in the stacks by call number). It's quiet, pleasant, a little tedious. As she shelves, Riley hums without noticing. Nobody notices until Hannah comes in with two coffees and a paper bag of doughnuts from the Krispy Kreme on River Street.
 
 **HANNAH:** So?
 
@@ -207,8 +207,6 @@ The officer puts his thumbs in his belt and waits.
 
 **DEAN:** Getting it down.
 
-The chapter starts funny because later Dean will be one of its sources of tension.
-
 ### Dean's objective
 
 Nobody has granted Dean any authority. This doesn't concern him. He has decided that the four of them are rehearsing tomorrow and that he will now inform them. Riley: done (by phone). Three to go. He drives.
@@ -263,7 +261,7 @@ Dean grins, already backing toward the door.
 
 **CAL** *(to the closing door):* *Ten.*
 
-Mr. Vale, from the repair room: *"Who was that?"* Cal: *"Weather."*
+Mr. Vale, from the repair room: *"Who was that?"* Cal: *"Holloway."* Vale: *"The pig one?"*
 
 ### West through the valley
 
@@ -341,7 +339,7 @@ Roy hands Ellis a rag.
 
 **ROY:** You weren't in one yesterday?
 
-**ELLIS:** Apparently not.
+**ELLIS:** Not to my knowledge.
 
 **ROY:** Good to keep track.
 
@@ -779,7 +777,7 @@ Ellis isn't comfortable with the word. Nobody else notices.
 
 ### Rehearsal (Ellis)
 
-This should be a section players remember because it feels like discovering chemistry, and because it's worse than Friday.
+This should feel like discovering chemistry, and it's worse than Friday.
 
 Friday had adrenaline. Sunday has daylight, and everything is exposed. Dean rushes. Ellis changes the arrangement of a cover in the middle of it because he's bored. Riley's harmony on the second cover collides with Ellis's melody on a note neither of them expected. Cal stops the song every sixteen bars.
 
@@ -853,7 +851,7 @@ Nobody says anything for a second.
 
 **CAL:** Less.
 
-**ELLIS:** That's basically love from you.
+**ELLIS:** Less is up from Friday.
 
 **DEAN:** I said the same thing Friday.
 
@@ -902,7 +900,7 @@ Nobody planned this. The player rotates across all four as it forms: Dean holdin
 
 It's the low-water bridge on the South Fork, the one that floods every spring. Riley answers the line with a harmony that's almost a second melody. Cal changes his figure. Dean drops out completely for a bar and comes back like a door opening.
 
-Ellis laughs in the middle of a line, because he's having fun, purely. No audience, no money, no Wayne, no Clara. For about three minutes Ellis is just eighteen years old making noise with his friends.
+Ellis laughs in the middle of a line, because he's having fun, purely. No audience, no money, no Wayne. For about three minutes Ellis is just eighteen years old making noise with his friends.
 
 That needs to matter, and it can only matter if it's allowed to run. The player can let this jam go on as long as they like, and the game will hold it.
 
@@ -924,7 +922,7 @@ When they finally stop:
 
 They break. Ellis goes to the bar for a glass of water from the soda gun. He glances at one of the booths along the wall.
 
-Clara is sitting in it with her feet up on the opposite seat, the way she sits everywhere. She's apparently been listening.
+Clara is sitting in it with her feet up on the opposite seat, the way she sits everywhere. She looks like she's been listening.
 
 **CLARA:** That one's better.
 
@@ -970,7 +968,7 @@ Nobody contradicts him this time.
 
 ### The back steps (Ellis and Cal)
 
-Everyone's leaving. Ellis is sitting on the back steps with a cigarette, looking at the rail line, while Cal loads his car in the alley. Cal comes and stands beside him because the car is loaded and he has, apparently, nowhere to be.
+Everyone's leaving. Ellis is sitting on the back steps with a cigarette, looking at the rail line, while Cal loads his car in the alley. Cal comes and stands beside him because the car is loaded and he has nowhere else to be.
 
 **ELLIS:** You ever relax?
 
@@ -1058,7 +1056,7 @@ Wayne gets up and turns the knob. The picture shrinks to a white dot.
 
 Wayne goes down the hall. Ellis sits in the dark for a while. Then he goes out and fills Tater's bowl, which is already full.
 
-> **Replay layer.** Wayne waits up every Thursday. This is the first Thursday in six months his son has been home to see him do it. It's the best evening they have in Chapter II, and they speak six words.
+> **Replay layer.** Wayne waits up every Thursday. This is the first Thursday in six months his son has been home to see him do it. It's the best evening they have in Chapter II, and they speak nine words, one of them Hm.
 
 ---
 
@@ -1100,7 +1098,7 @@ Dean reads it.
 
 **DEAN:** We're artists.
 
-**CAL:** You were asleep on a bench a week ago with one shoe.
+**RILEY:** You were asleep on a bench a week ago with one shoe.
 
 **DEAN:** Artists sleep on benches.
 
@@ -1152,7 +1150,7 @@ Dean keeps playing. Riley starts laughing in the middle of a harmony and can't s
 
 Cal keeps playing perfectly.
 
-> **Design note.** Not every memorable mission should be sad. Players need stories from this world that feel like their own memories. This is one of those. The gorilla will be mentioned in Chapter VII and in the 1996 interviews.
+> **Design note.** Not every mission should be sad. Players need stories from this world that feel like their own memories. The gorilla will be mentioned in Chapter VII and in the 1996 interviews.
 
 ### Break — Riley and Ellis
 
@@ -1184,7 +1182,7 @@ Riley realizes Ellis is a lot smarter than his circumstances make people assume.
 
 **RILEY:** You ever think about college?
 
-Ellis laughs, not because it's stupid. Because it's so far away it's absurd.
+Ellis laughs. College is so far away it's absurd.
 
 **ELLIS:** With what money?
 
@@ -1224,7 +1222,7 @@ Dean laughs.
 
 **DEAN:** Need's a strong word.
 
-**CAL:** That's what people say right before they start needing something.
+**CAL:** Then you won't miss it.
 
 Dean looks at him. First real friction.
 
@@ -1248,7 +1246,7 @@ Dean's smile goes.
 
 **DEAN:** Then stop acting like him.
 
-That lands. Cal stops, and doesn't say anything, and walks back around the building. Dean has found the one criticism that actually reaches him, which is that Cal's care looks, from outside, exactly like control.
+That lands. Cal stops, and doesn't say anything, and walks back around the building.
 
 Dean stands there a moment. Then he closes the manual and puts it back on the seat of the Oldsmobile exactly where it was.
 
@@ -1268,7 +1266,7 @@ Stroud looks at the gorilla, deflated on the roof of a Buick. He pays eighty.
 
 Back at Vale's that evening, they pool it on the counter: the $80, Cal's $35 from the week's session work, Riley's $20, and Dean, who throws in sixty like it's lint. Ellis looks at the pile. His rent to Wayne is due Friday: twenty dollars.
 
-Cal notices. Says nothing. He takes twenty back off the pile.
+Cal notices. Says nothing. He takes twenty back off the pile and folds it into Ellis's shirt pocket without looking at him.
 
 **CAL:** We're twenty short on the down payment anyway.
 
@@ -1444,7 +1442,7 @@ He looks over. She isn't making fun of him.
 
 **RILEY:** Probably.
 
-A long silence. The player may choose to fill it (a prompt offers Ellis a deflection) or hold (silence is always an option). If the player holds:
+A long silence. The player can fill it (a prompt offers Ellis a deflection) or hold (silence is always an option). If the player holds:
 
 **ELLIS:** I don't know.
 
@@ -1540,7 +1538,7 @@ She walks away across the quad. The camera follows her, as it did two weeks ago,
 
 Then, behind her, the camera catches on Ellis still sitting under the tree. Stutter. It turns back toward him. Control returns to Ellis.
 
-This is an important variation of the grammar. The story chooses not to follow Riley, because something else is about to happen.
+This is a variation of the grammar. The story chooses not to follow Riley, because something else is about to happen.
 
 ### Clara in the grass
 
@@ -1648,7 +1646,7 @@ The set is noticeably better than two weeks ago. Songs have arrangements now: in
 
 ### Dean's problem, in music
 
-Halfway through "Low Water," Dean starts to push. The tempo creeps. The player, as Cal, sees it before hearing it (Dean's knee going faster than his hands).
+Halfway through the third cover, Dean starts to push. The tempo creeps. The player, as Cal, sees it before hearing it (Dean's knee going faster than his hands).
 
 Cal looks back at him. No reaction.
 
@@ -1744,11 +1742,11 @@ Martin gives Riley a WTCR card with the station's address and the words *10 WATT
 
 Nobody wants to go home. Dean suggests another party. Riley says absolutely not. Cal wants food. Ellis doesn't care. They end up, all four, at the Starlite, the twenty-four-hour diner at the Laurel Gap truck stop on US 19, because it's the only thing open between here and anywhere.
 
-Nothing to perform and nothing to win: just people. This may be the most important scene in the chapter.
+Nothing to perform and nothing to win: just people.
 
 ### The Starlite
 
-Red vinyl booths patched with red tape. A counter with pie under plastic domes. A jukebox at every booth with a coin slot and flip cards. Truckers at the counter in feed caps. Pulpwood trucks idling outside under the sodium lights. The night waitress, **Lynette Crowe**, twenty-two, pencil in her hair, a paperback romance face-down by the register, pours coffee for four without being asked.
+Red vinyl booths patched with red tape. A counter with pie under plastic domes. A jukebox at every booth with a coin slot and flip cards. Truckers at the counter in feed caps. Pulpwood trucks idling outside under the sodium lights. The night waitress, **Lynette Crowe**, twenty-two, pencil in her hair, a paperback romance face-down by the register, brings four cups and the pot.
 
 **LYNETTE:** Coffee?
 
@@ -1936,7 +1934,7 @@ Dean holds the Polaroid out to Ellis.
 
 **ELLIS:** Why me?
 
-**DEAN:** Because Blake is apparently our corporate headquarters.
+**DEAN:** Because Blake is our corporate headquarters.
 
 **ELLIS:** That sentence doesn't mean anything.
 
@@ -1968,7 +1966,7 @@ Everyone laughs. Ellis looks down at the photograph in his hand: four faces, and
 
 **Playable:** Ellis · **Where:** US 19 → the Blake house · **When:** Saturday Nov 2, 4:00 – 4:45 a.m. · **Length:** ~15 min
 
-Ellis drives home alone. **No Clara.** For once, the night belongs entirely to the living.
+Ellis drives home alone. **No Clara.** For once, the drive belongs entirely to the living.
 
 The radio plays quietly: an all-night country station out of Laurel City, a trucker's request line. The Polaroid rides on the passenger seat. Ellis glances at it at stoplights (there's one) and at the crossing. He smiles.
 
@@ -2076,7 +2074,7 @@ Silence. The player expects her to reassure him. She doesn't.
 
 He thinks about it.
 
-**ELLIS:** That's annoyingly reasonable.
+**ELLIS:** Yes ma'am.
 
 **CLARA:** Goodnight, Ellis.
 

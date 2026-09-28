@@ -195,7 +195,7 @@ Fields: **Start** (starting assumption) · **Friction** · **Bond** (bonding eve
 
 ### Riley ↔ Landry
 - **Start:** "Would you like to join us?"
-- **Bond:** He never tells her to quit. "You're allowed more than one ambition."
+- **Bond:** He never tells her to quit. "Do you want me to tell you not to go?" / "No." / "Good. I wasn't going to."
 - **Late:** After the Tabernacle: "I hated most of it. The part with your mother I didn't hate." (IX)
 - **Last:** Three typed lines on department letterhead: *There is a chair.* One raised finger through an open office door in January (Ep. M5).
 

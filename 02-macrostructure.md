@@ -139,7 +139,7 @@ Total main story ≈ 57.5 hours. With side content, 80–110.
 
 **Band state.** A tape; an audience outside Marlon's; the first real fight about sobriety; the decision to "make something."
 
-**Ellis/Clara.** Behind the studio glass beside Riley. Vivid and far away in a field on mushrooms ("I wish you'd come around more." "You sure?" "Okay."). Riley finds him talking to himself; plausible cover. In the van: "Riley couldn't see you." / "She's never met me." At the back of Marlon's during a show; Riley thinks he's smiling at someone behind her.
+**Ellis/Clara.** Behind the studio glass beside Riley. Vivid and far away in a field on mushrooms ("I wish you'd come around more." "You sure?" "Okay."). Riley finds him talking to himself; plausible cover. On the walk to the van: "Riley didn't even say hey to you." / "She's never met me." At the back of Marlon's during a show; Riley thinks he's smiling at someone behind her.
 **Grace info.** "I already buried one child."
 **Ellis/Wayne.** Wayne drives up Stony Knob in the dark to hear his son on the radio and says a deputy told him about it. Then the worst morning yet.
 **Riley.** Discovers the studio; introduces Ellis to psychedelics without pushing; is told by Cal, "Neither do you" (know him).
