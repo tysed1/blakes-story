@@ -77,7 +77,7 @@ How the story was rebuilt, in the order it happened:
 | V4 | Red-team decisions; bible and macro to V4 canon; Chapters I–VI repaired | `e1559e0`, `db75ff5`, `55afc57`, `9ed13bb` |
 | V5 | Complete draft: Chapters VII–X, epilogue and coda | `d1bec6f`, `0853c99`, `b1b87df`, `5d62593`, `bf4fc7a` |
 | V6 | Critics C (continuity) and D (emotion, replay, prose) on the full draft; decisions; continuity repaired across I–X and the epilogue | `f625f14`, `c541f21`, `95fc084`, `129734d`, `2431ed7` |
-| V7 | Finale and epilogue rebuilt and verified (Critic E); prose and voice passes; timelines reconciled; quality gate | `bac4b1b`, `6c7965f`, and the V7 sign-off commit |
+| V7 | Finale and epilogue rebuilt and verified (Critic E); prose and voice passes; timelines reconciled; quality gate | `bac4b1b`, `6c7965f`, `a94ae9c` |
 
 ## The fiction line
 
