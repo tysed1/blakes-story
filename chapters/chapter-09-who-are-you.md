@@ -1980,7 +1980,7 @@ Then, looking at the lake:
 
 **ELLIS:** I know. Do it anyway.
 
-> **Setup.** On every song's ending since Chapter II, Riley has drifted back to the stage-right corner of the drum riser, so that when Ellis turns home to face Dean, she's in his eyeline. He's asking her to be where he'll turn.
+> **Setup.** On every song's ending since Chapter II, Riley has drifted back to the stage-left corner of the drum riser, so that when Ellis turns home to face Dean, she's in his eyeline. He's asking her to be where he'll turn.
 
 She puts the Martin in its case. They sit on the dock until it's dark, and the frogs start, and the lodge lights come on behind them.
 

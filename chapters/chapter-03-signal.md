@@ -108,11 +108,9 @@ And yet, underneath it, something's there.
 
 **VALE:** People don't.
 
-Cal looks at him.
+Cal looks at him. Vale turns a page of the sports page.
 
-**VALE:** That's why they're harder.
-
-Cal doesn't answer. It shouldn't feel like prophecy. It's an older man who knows Cal, talking over the sports page.
+**VALE:** Engineers lost again.
 
 ### Riley
 

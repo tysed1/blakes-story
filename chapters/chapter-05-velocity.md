@@ -13,36 +13,37 @@ And at the end of it, Ellis asks Clara a question she can't answer, and the came
 ## World state at open
 
 - Christmas Eve 1974. Carter announced for president twelve days ago and Hollow Ridge thinks it's the funniest thing it's heard all year.
-- The 45 is on consignment in one Laurel City record store and on WLSU's playlist. Martin Keller has quietly mailed copies to thirty college stations in the Southeast.
-- The Blakes own an Econoline in eighths and have six dates booked for February and March.
+- The 45 is on consignment in one Laurel City record store and on WLSU's playlist. Martin Keller is about to mail copies to thirty college stations in the Southeast.
+- The Blakes own an Econoline in eighths and have six dates booked, February into April.
 
 ## Chapter at a glance
 
 | # | Mission | Playable | Where / when | Length |
 |---|---|---|---|---|
-| — | Cold Open | Ellis | the Exit, Tannersville, Apr 4 | 2 min |
-| 1 | Christmas Eve | Dean → Ellis | Belle Grove → Hollow Ridge, Dec 24 | 35 min |
-| 2 | Lettering | Riley | the state capitol, Laurel City → Marlon's lot, Jan 28 | 20 min |
-| 3 | Six Dates | Cal | the map edge → Chattanooga (off-map), Feb 7 | 35 min |
-| 4 | Dial | Dean → Ellis | on the road → Knoxville (off-map), Feb 13–14 | 25 min |
-| 5 | Two Cars | Ellis ‖ Riley | Birmingham (off-map) → the Laurel Gap in rain, Feb 26–27 | 40 min |
-| 6 | The Kitchen Table | Dean | Belle Grove, Mar 4 | 15 min |
-| 7 | Still Here | Ellis → Riley | the Blake house; Marlon's, Mar 10–14 | 25 min |
-| 8 | Sold Out | rotating | the Lantern, Laurel City, Thu Mar 20 | 35 min |
-| 9 | The Exit | rotating | the Row → the Exit, Tannersville, Fri Apr 4 | 35 min |
+| — | Cold Open | Ellis | the Exit, Tannersville, Fri Apr 4 | 2 min |
+| 1 | Christmas Eve | Dean → Ellis | Belle Grove → Cold Branch Road, Tue Dec 24 | 35 min |
+| 1b | Saturday Bach | Riley | the Riley house → Linwood Presbyterian Church, Linwood (Laurel City), Sat Dec 28 | 15 min |
+| 2 | Lettering | Riley | the state capitol, Laurel City → Marlon's lot, Tue Jan 28 | 20 min |
+| 3 | Six Dates | Cal | Tannersville → the map edge → Chattanooga (off-map), Fri Feb 7 | 35 min |
+| 4 | Dial | Dean → Ellis | the road to Knoxville → Knoxville (off-map), Thu Feb 13 – Fri Feb 14 | 25 min |
+| 5 | Two Cars | Ellis ‖ Riley | Birmingham (off-map) → the map edge → Laurel City → the Laurel Gap in rain, Wed Feb 26 – Thu Feb 27 | 40 min |
+| 6 | The Kitchen Table | Dean | Belle Grove, Tue Mar 4 | 15 min |
+| 7 | Still Here | Ellis → Riley | the Blake house; Marlon's, Mon Mar 10 – Fri Mar 14 | 25 min |
+| 8 | Sold Out | rotating | the Lantern, Laurel City, Thu Mar 20 (fifth of six dates) | 35 min |
+| 9 | The Exit | rotating | the Row → the Exit, Tannersville, Fri Apr 4 (sixth of six) | 35 min |
 | 10 | Opening Day | Ellis | Hollow Ridge → Engineers Park, Laurel City → US 19 at night, Sat Apr 12 | 40 min |
-| 11 | Choosing | Riley | Tannersville College → the van → Jacksonville (off-map), Apr 17–24 | 25 min |
+| 11 | Choosing | Riley | Tannersville College → the van → Jacksonville (off-map), Thu Apr 17 – Thu Apr 24 | 25 min |
 | 12 | Saigon | Cal → Dean | Savannah (off-map), Tue Apr 29 | 35 min |
-| 13 | Consequences | relay | Apr 30 – May 1 | 20 min |
-| 14 | Southern Star | rotating | Southern Star Records, Laurel City, Thu May 1 | 20 min |
-| 15 | Four Hands | rotating | the van, Marlon's lot, Fri May 2 | 10 min |
-| 16 | Where Did We Meet? | Ellis | Marlon's → Depot Street, Fri May 2 | 30 min |
+| 13 | Consequences | Riley → Dean → Cal → Ellis (relay) | across the map, Wed Apr 30 – Thu May 1 | 20 min |
+| 14 | Southern Star | rotating | Marlon's → Southern Star Records, Laurel City, Wed Apr 30 – Thu May 1 | 20 min |
+| 15 | Four Hands | rotating (conversation) | the van, Marlon's lot, Fri May 2, 5:30 p.m. | 10 min |
+| 16 | Where Did We Meet? | Ellis | Marlon's → the alley → Depot Street, Fri May 2 – Sat May 3, 1:40 a.m. | 30 min |
 
 ---
 
 ## COLD OPEN
 
-Black. A crowd. Not enormous, maybe four hundred people, but they're chanting something, and at first we can't make it out.
+Black. A crowd, maybe four hundred people, chanting something, and at first we can't make it out.
 
 Then we can.
 
@@ -76,6 +77,8 @@ Clara is sitting on an equipment case against the wall with her boots on another
 
 **ELLIS:** Yeah.
 
+**CLARA:** You're grinning like a possum.
+
 She studies him.
 
 **CLARA:** Careful.
@@ -89,7 +92,7 @@ He looks back toward the curtain. When he looks back at the case, she's gone.
 
 Cut to black. A card:
 
-**FOUR MONTHS EARLIER**
+**THREE MONTHS EARLIER**
 
 ---
 
@@ -145,7 +148,7 @@ Richard Holloway finds Ellis in the front hall. He's heard from Dean that Ellis 
 
 **RICHARD:** Mine makes a sort of whistle. At idle. The dealership says it's nothing and charges me forty dollars to say it.
 
-**ELLIS:** Can I hear it?
+**ELLIS:** Might could hear it, if you'll start it.
 
 They go out to the driveway, Richard in his cardigan, Ellis in the too-short sport coat. Richard starts the Lincoln. Ellis listens, walks around it, lifts the hood, listens with his head cocked, and pulls a cracked vacuum hose off a fitting behind the carburetor with two fingers.
 
@@ -187,7 +190,7 @@ A pause. Dean looks at him. He realizes Ellis isn't joking.
 
 **ELLIS:** I'd be a hell of an accountant.
 
-Dean laughs. It lands anyway. It's the first time Dean has had to see his father through somebody else's eyes, and the eyes were hungry.
+Dean laughs. It lands anyway. Dean has never had to look at his father through somebody else's eyes before, and these eyes were hungry.
 
 > **Seed.** Each envies the other's father. Neither can have the other's life. That will come back.
 
@@ -207,9 +210,11 @@ The camera follows Ellis out the front door, down the brick walk under the Chris
 
 ### The drive home
 
-The Valiant is cold. The player starts it. And warm air comes out of the vents, for the first time in more than a year. (The heater blend door has been stuck since last winter.) A small particle effect of warmth on the windshield. Ellis puts his hand in front of the vent.
+The Valiant is cold. The player starts it. And warm air comes out of the vents, which it hasn't done in more than a year. (The heater blend door has been stuck since last winter.) A small particle effect of warmth on the windshield. Ellis puts his hand in front of the vent.
 
 West on the Tanner Valley road. Christmas Eve: the Church of God marquee reads JOY TO THE WORLD — SERVICE 11 PM. A house with a lit plastic nativity in the yard and a lit Santa on the roof who appears to be looking down at it. The radio: a Laurel City station playing carols, then a DJ reading greetings, then "Blue Christmas."
+
+> **Observe** (the Santa on the roof): *Dec 24. Plastic Santa on a roof, looking down at the manger like he's thinking about making an offer.*
 
 Hollow Ridge: the Methodist candlelight service letting out onto the church steps, people Ellis has known his whole life holding white candles in paper collars and hugging in the cold. Nobody sees the Valiant go by. Or they all do.
 
@@ -217,9 +222,9 @@ Hollow Ridge: the Methodist candlelight service letting out onto the church step
 
 The kitchen light is on. Wayne is at the table in his undershirt with a cup of coffee and the Laurel City paper.
 
-There's no tree. There hasn't been since 1973. But on the kitchen window, hanging from the sash lock by a loop of yarn, there's a construction-paper star with a glitter border half gone and, in green crayon, **GRACE — 2ND GRADE**.
+There's no tree. There hasn't been one since Grace. But on the kitchen window, hanging from the sash lock by a loop of yarn, there's a construction-paper star with a glitter border half gone and, in green crayon, **GRACE — 2ND GRADE**.
 
-Ellis sees it. Wayne sees him see it. Neither says anything about it. It's up. It's been up every Christmas Eve for three years. Neither of them has ever seen the other hang it or take it down.
+Ellis sees it. Wayne sees him see it. Neither says anything about it. It's up. It's been up every Christmas Eve, two years running. Neither of them has ever seen the other hang it or take it down.
 
 **ELLIS:** Heater's working.
 
@@ -231,7 +236,7 @@ Ellis sees it. Wayne sees him see it. Neither says anything about it. It's up. I
 
 That's the present.
 
-Ellis takes an envelope out of his coat and puts it on the table next to Wayne's cup. Wayne opens it. Inside: a book of four tickets from the Laurel City Engineers, *OPENING HOMESTAND — GOOD FOR ANY APRIL HOME GAME — GRANDSTAND*. Twelve dollars. More than a week's groceries.
+Ellis takes an envelope out of his coat and puts it on the table next to Wayne's cup. Wayne opens it. Inside: a book of four tickets from the Laurel City Engineers, *OPENING HOMESTAND — GOOD FOR ANY APRIL HOME GAME — GRANDSTAND*. Twelve dollars. About half a week's groceries.
 
 Wayne looks at it for a long time.
 
@@ -257,6 +262,22 @@ Ellis's room. Lamp off. Clear, cold night; the window's frosted at the corners. 
 
 **CLARA:** Good.
 
+She watches him work his boots off.
+
+**CLARA:** You okay?
+
+**ELLIS:** Fine.
+
+**CLARA:** Liar.
+
+She nods at Dean's sport coat, hung over the chair.
+
+**CLARA:** Bet you looked like a scarecrow at a wedding in that.
+
+**ELLIS:** Patty Holloway said I looked distinguished.
+
+**CLARA:** Patty Holloway is fifteen.
+
 A long quiet.
 
 **CLARA:** Merry Christmas, Ellis.
@@ -267,13 +288,95 @@ A long quiet.
 
 ---
 
+## MISSION 1b — SATURDAY BACH
+
+**Playable:** Riley · **Where:** the Riley house → Linwood Presbyterian Church, Linwood (Laurel City) → the church lot · **When:** Saturday Dec 28, 1974, 9:30 – 10:40 a.m. · **Length:** ~15 min
+
+### The kitchen
+
+The Rileys' kitchen in Linwood, the Saturday after Christmas. The leaf is still in the dining table. Tommy is asleep upstairs; the Navy has taught him to sleep through anything. Tom Riley is at the counter in his bathrobe with the crossword Riley already finished in pen, checking it.
+
+**RILEY:** Where's Mom?
+
+**TOM:** Church.
+
+**RILEY:** It's Saturday.
+
+**TOM:** She's gone to pull out all the stops.
+
+He waits, delighted with himself.
+
+**RILEY:** That isn't a pun. That's a description of what she's doing.
+
+**TOM:** I've been saving it since October.
+
+Riley takes her coat and the Datsun keys off the hook. She tells her father she's going to the drugstore. He tells her 14 across is wrong. It isn't.
+
+### The sanctuary
+
+Linwood Presbyterian: red brick, a white steeple, the lot empty except for her mother's green Buick. Riley goes in by the side door near the Sunday school rooms, the one that's never locked, and slides into the back pew in her coat.
+
+White walls. Clear windows with a band of colored glass at the top, and the winter sun lying across the pews in long bars. The Christmas poinsettias are still banked on the chancel steps, dropping leaves. Up front and to the left, the organ console, and her mother at it with her back to the room.
+
+Joan is playing Bach: a chorale prelude from the *Orgelbüchlein*, "Das alte Jahr vergangen ist," the one for the turning of the year. The tune goes high and slow on top, and underneath it the inner voices step down in half steps, carefully, like people going down a staircase in the dark. She plays it slower than she would on a Sunday, with her head down.
+
+She doesn't know Riley is there.
+
+### Listening
+
+The player can simply listen. There's no timer. When the prelude ends Joan sits for a moment with her hands in her lap, then starts it again from the top.
+
+Three Observe cues come up, one at a time, if the player looks around. This is Riley's notebook, not Ellis's; the button is the same.
+
+> **Observe** (the window light): *Dust in the sun, taking its time, like it knows the building's empty.*
+
+> **Observe** (the hymn board): *The hymn board still has last Sunday on it.*
+
+> **Observe** (under the organ bench): *Her good shoes under the bench, side by side, like two people waiting outside an office.* Joan plays the pedals in her stocking feet. She always has. On Sundays the console hides it, and nobody in the congregation knows.
+
+### The verse
+
+Riley has a folded handout in her coat pocket, the spring syllabus for Landry's Kant seminar, unread. She turns it over and uncaps her pen.
+
+The interaction is Ellis's songwriting interaction turned around: the details the player observed come up as options, and Riley tries them against the melody her mother is playing. The first line she writes is *My mother's hands are older than her shoes.* She looks at it and crosses it out. Then:
+
+> *She plays for the Lord at a quarter to eleven*
+> *and for nobody at all on Saturday.*
+
+That one stays. Whatever the player observed goes in the margin beside it, for later.
+
+Riley has written funny songs before. She sits and looks at this one for a while.
+
+### Before the shoes
+
+Joan reaches the last chord and holds it, the way she holds the last chord on Sunday so the congregation knows to stand. Nobody stands.
+
+When her hands come off the keys she'll turn on the bench and reach for her shoes. Riley has watched her do it since she was six. The player gets a prompt to leave as the chord starts, and Riley is out the side door and down the steps before the chord ends. Her mother never turns around.
+
+### The Datsun
+
+The church lot. The Datsun's heater is taking its time. The syllabus is on Riley's knee.
+
+Three options come up on the dashboard, and the player can try all of them:
+- *Friday rehearsal.* Riley rehearses it to the rearview mirror: "I've got one. It's short. It's about my mother. Dean, if you say one word about organs—" She stops, because she can already hear the word. The option greys out.
+- *Just Ellis.* She gets as far as "It's about my mother," and thinks of the one-word answer she got in Room 12 when she asked about his. The option greys out.
+- *Not yet.*
+
+*Not yet* is the only one that holds. Riley folds the syllabus into her Kant textbook, where it stays.
+
+The heater finally gets warm as she turns into her parents' street.
+
+> **Design note.** Riley's song, Riley's scene. Ellis isn't in it, and the band is only a thing she might tell. The choice at the end has one answer on purpose: Riley keeps things, too. In Chapter VIII the label takes this song from her, and the player should remember writing it in the back pew.
+
+---
+
 ## MISSION 2 — LETTERING
 
 **Playable:** Riley · **Where:** the state capitol, Laurel City → Marlon's lot, Hollow Ridge · **When:** Tuesday Jan 28, 1975 · **Length:** ~20 min
 
 ### The capitol
 
-The Georgia capitol dome in Laurel City, gold leaf in the winter sun. Riley came on a chartered bus with forty women from the Tannersville College caucus, the Laurel City League of Women Voters and a Baptist women's group that surprised everybody by showing up, to sit in the senate gallery while the Equal Rights Amendment comes to a vote.
+The Georgia capitol dome in Laurel City, gold leaf in the winter sun. Riley followed a chartered bus down in her Datsun, so she could make rehearsal after: forty women from the Tannersville College caucus, the Laurel City League of Women Voters and a Baptist women's group that surprised everybody by showing up, come to sit in the senate gallery while the Equal Rights Amendment comes to a vote.
 
 The player sits in the gallery as Riley. Below, men in suits make speeches: one about the family, one about the draft, one about bathrooms, one about God. On the far side of the gallery, a row of women in red STOP ERA buttons knit and do not look at Riley's row.
 
@@ -283,7 +386,7 @@ The women on Riley's side of the gallery sit very still. One of the Baptist wome
 
 ### The van
 
-Riley drives back to Hollow Ridge in her Datsun, furious. She has rehearsal. When she pulls into Marlon's lot the band is standing around the van because Dean has bought a can of cream enamel and a stencil brush.
+Riley drives back up the Gap to Hollow Ridge, furious. She has rehearsal. When she pulls into Marlon's lot the band is standing around the van because Dean has bought a can of cream enamel and a stencil brush.
 
 Riley takes the brush out of his hand.
 
@@ -309,7 +412,7 @@ Dean hears it now.
 
 **DEAN:** I didn't—
 
-**RILEY:** Forty women rode a bus for three hours to sit in a balcony and watch thirty-three men vote on whether I get to be a person in the Constitution, and you want to know what I was *wearing*.
+**RILEY:** Forty women rode a bus for an hour and a half to sit in a balcony and watch thirty-three men vote on whether I get to be a person in the Constitution, and you want to know what I was *wearing*.
 
 **DEAN:** That's not what—
 
@@ -339,7 +442,7 @@ Ellis looks at Cal.
 
 **CAL:** Spelling's correct.
 
-Ellis shakes his head. He doesn't ask them to paint over it. That matters: he hated the name, and now he lets it stay.
+Ellis shakes his head. He doesn't ask them to paint over it. He hated the name, and he lets it stay.
 
 > **Ledger:** *1/28/75 — Maestro Echoplex EP-3, used (Vale) — $150.00 from band fund.* Cal bought it that morning. It sits in the van in its gray case, and from now on "the loud part" can happen live.
 
@@ -363,9 +466,11 @@ Within about forty-seven minutes of leaving Vale's, Cal's beautiful schedule mea
 
 ### Leaving the map
 
-The first time the player drives off the edge of the map, and the game makes it feel like leaving home. The Tanner Valley corridor narrows into a river gorge on the northwest side. A green highway sign: **CHATTANOOGA 58**. A barn roof with SEE ROCK CITY painted on it in giant letters. The radio loses the Tannersville stations one by one.
+This is the player's first drive off the edge of the map, and the game makes it feel like leaving home. The Tanner Valley corridor narrows into a river gorge on the northwest side. A green highway sign: **CHATTANOOGA 58**. A barn roof with SEE ROCK CITY painted on it in giant letters. The radio loses the Tannersville stations one by one.
 
-Then the transition: not a loading screen, a road cut. The van rounds a bend in rain-light and the world beyond is a compact off-map space: a single stretch of Chattanooga's riverfront, a club on a side street, a motel, a diner, a gas station, the river.
+> **Observe** (the barn roof): *Feb 7. SEE ROCK CITY, on a barn that has never been anywhere.*
+
+Then the transition, a road cut with no loading screen: The van rounds a bend in rain-light and the world beyond is a compact off-map space: a single stretch of Chattanooga's riverfront, a club on a side street, a motel, a diner, a gas station, the river.
 
 > **Design note — off-map spaces.** Regional tour towns are dense mission zones: one street, one venue, one motel, one diner, one landmark. The van is the connective tissue. The player can drive the stretches between, which are condensed (a few minutes of highway, a stop or two, conversation) but never skipped entirely. Leaving the map should always feel like leaving; coming back over the map edge onto the Tanner Valley road should always feel like coming home.
 
@@ -449,7 +554,7 @@ Load-out. No Dean.
 
 **CAL:** Where is he?
 
-**ELLIS:** Bathroom?
+**ELLIS:** Reckon he's in the bathroom?
 
 **RILEY:** For twenty minutes?
 
@@ -459,9 +564,9 @@ Cal knows. The player, as Cal, searches the Hi-Fi's backstage: a small explorati
 
 **CAL:** We're leaving.
 
-**DEAN:** Meet Tommy. Tommy opened for Skynyrd.
+**DEAN:** Meet Gary. Gary opened for Skynyrd.
 
-**TOMMY:** Twice.
+**GARY:** Twice.
 
 **DEAN:** Basically family.
 
@@ -519,7 +624,7 @@ Silence.
 
 **CAL:** Whatever you'd be doing anyway.
 
-Dean's face changes. It's the first time Cal has hit the actual nerve instead of the one next to it.
+Dean's face changes. This time Cal has hit the actual nerve instead of the one next to it.
 
 **DEAN:** Fuck you.
 
@@ -533,7 +638,7 @@ Everyone in the van. Nobody talks. Five minutes. Ten.
 
 **DEAN:** Starving.
 
-The conflict dissolves, temporarily. That's how young friendships often survive: not resolution, food. They stop at a Krystal and eat eleven hamburgers between them in the parking lot at 1 a.m.
+The conflict dissolves, for now, into food. They stop at a Krystal and eat eleven hamburgers between them in the parking lot at 1 a.m.
 
 ---
 
@@ -543,7 +648,7 @@ The conflict dissolves, temporarily. That's how young friendships often survive:
 
 ### Dean drives
 
-Chattanooga to Knoxville, a long afternoon on US 11 in rain. The heater only works on the passenger side. Cal fell asleep in the passenger seat after the Krystal and hasn't fully woken up since. Riley is studying in the back with a flashlight. Dean is bored, which is dangerous. He convinces Ellis to let him drive while Cal sleeps.
+Chattanooga to Knoxville, a long afternoon on US 11 in rain. The heater only works on the passenger side. Cal fell asleep in the passenger seat before they cleared Chattanooga. Riley is studying in the back with a flashlight. Dean is bored, which is dangerous. He convinces Ellis to let him drive while Cal sleeps.
 
 Stutter. Dean at the wheel.
 
@@ -593,27 +698,13 @@ Riley is laughing too hard to breathe. The player (still Dean) has to keep the v
 
 Stutter. The camera slides back to Ellis on the wheel well, listening. His own voice, coming through a cheap portable speaker, small, real.
 
-Halfway through the second verse, Ellis hears another voice. Quiet. Buried behind his vocal. A girl's voice. Singing a harmony he doesn't recognize. Not Riley's part. A different line, lower, older, the way you'd harmonize to a record you'd heard a hundred times through a bedroom wall.
+Halfway through the second verse, Ellis hears another voice, quiet, buried behind his vocal: a girl's voice, singing a harmony he doesn't recognize, a different line from Riley's, lower, older, the way you'd harmonize to a record you'd heard a hundred times through a bedroom wall.
 
-Ellis leans forward and turns the radio up.
+Ellis leans forward and turns the radio up. Riley, pleased, thinks he's listening to her.
 
-**RILEY:** What?
+He listens hard. The player hears it too, faintly, and then, as he strains toward it, it's gone. Only Riley's part is there, the one she recorded at WTCR.
 
-**ELLIS:** Do you hear that?
-
-**CAL:** Hear what?
-
-**ELLIS:** The harmony.
-
-**RILEY:** That's me.
-
-**ELLIS:** No.
-
-He listens hard. The player hears it too, faintly, and then, as he strains toward it, it's gone. Only Riley's part is there, the one she recorded at WTCR. Nothing else.
-
-**ELLIS:** Never mind.
-
-Cal watches him in the mirror. Doesn't say anything.
+Ellis sits back against the wheel well and doesn't say anything to anybody.
 
 > **Design note — ideas of reference.** The player hears the phantom harmony because the player is in Ellis's perception. Played back later (the band's own copy of the 45, on a turntable, in Chapter VI) there is only Riley. The game never calls attention to the difference.
 
@@ -639,11 +730,11 @@ Dean laughs all the way down the hall. Cal waits until he's gone and says one mo
 
 ## MISSION 5 — TWO CARS
 
-**Playable:** Ellis ‖ Riley (alternating) · **Where:** Birmingham (off-map) → US 78 → the map edge → the Laurel Gap corridor in rain; in parallel, Riley's Datsun on the same roads · **When:** Wednesday Feb 26, 11 p.m. – Thursday Feb 27, 9 a.m. · **Length:** ~40 min
+**Playable:** Ellis ‖ Riley (alternating) · **Where:** Birmingham (off-map) → US 78 → the map edge → Laurel City's half-built expressway → the Laurel Gap corridor in rain; in parallel, Riley's Datsun on the same roads · **When:** Wednesday Feb 26, 11 p.m. – Thursday Feb 27, 9 a.m. · **Length:** ~40 min
 
 ### The problem
 
-Riley is falling behind at school. Not failing: she's too capable for that. But the compensating is eating her. She studies in the van, in diners, in motel rooms, backstage, during soundchecks, and it isn't enough.
+Riley is falling behind at school. She's too capable to fail, but the compensating is eating her. She studies in the van, in diners, in motel rooms, backstage, during soundchecks, and it isn't enough.
 
 Birmingham, Wednesday. Their show ends around eleven. Riley has a midterm in Tannersville at nine Thursday morning, in Landry's Kant seminar. It's roughly four hours away if nothing goes wrong. She drove her Datsun to Birmingham separately so she could leave the second the set ended.
 
@@ -683,17 +774,31 @@ A strange beat. Nobody knows why it feels strange except Ellis, and the player, 
 
 Behind Riley, in the drizzle under the club's back-door light, Clara is standing with her arms folded.
 
-**CLARA:** Don't.
+**CLARA:** Not in the rain.
 
 Ellis looks at her. His expression changes, very slightly.
 
-**CAL:** Ellis?
+**CAL:** You with us?
 
 **ELLIS:** Yeah.
 
 A pause.
 
 **ELLIS:** I'll drive.
+
+Load-out takes twenty minutes. Ellis gets the van running while the others carry, and for a minute he's alone in the driver's seat with the door open and the wipers off.
+
+Clara is leaning on the open door with her arms folded on top of it.
+
+**CLARA:** Slow down.
+
+**ELLIS:** I'm parked.
+
+**CLARA:** Then you're doing it right. Keep it under forty-five. Hear?
+
+**ELLIS:** Yes ma'am.
+
+Dean climbs in the passenger side, still talking about Evel Knievel. Clara steps back from the door into the drizzle and stays there under the back-door light, arms folded, while the van pulls out of the lot.
 
 ### Two journeys
 
@@ -739,7 +844,7 @@ Riley freezes.
 
 **RILEY:** You don't "just ask" anything.
 
-**CAL:** Fair.
+**CAL:** I know.
 
 A long quiet. The wipers.
 
@@ -757,9 +862,9 @@ She laughs. Then, after a while:
 
 Cal's expression changes slightly.
 
-**CAL:** Define okay.
+**CAL:** Be specific.
 
-**RILEY:** Cal.
+Riley pushes her glasses up with a knuckle and waits him out.
 
 He thinks about it honestly.
 
@@ -781,29 +886,21 @@ Headlights come toward them on the two-lane. Ellis flinches: a small lift of the
 
 **DEAN:** You want me to drive?
 
-**ELLIS:** No.
-
-Clara is between them on the engine cover, sitting on it cross-legged the way nobody could, facing forward.
-
-**CLARA:** Slow down.
+**ELLIS:** No. I'm fine.
 
 Ellis is already under the speed limit. He looks at the speedometer anyway. Forty-two.
 
-**ELLIS:** I'm fine.
+**DEAN:** You're doing forty-two, Grandpa. Mailboxes are passing us.
 
-**DEAN:** I didn't say anything.
+**ELLIS:** They're welcome to.
 
-Ellis realizes.
-
-**ELLIS:** Sorry.
-
-Dean looks at him.
+Dean looks at him, and doesn't push.
 
 ### The rain
 
-East of the state line the drizzle becomes rain. The van comes over the map edge onto the far end of the Laurel Gap corridor, into the mountains, past midnight, on a road with no shoulder that bends every quarter mile.
+East of the state line the drizzle becomes rain. The van comes over the map edge, through Laurel City on its half-built expressway, and onto the Laurel Gap corridor, into the mountains, past midnight, on a road with no shoulder that bends every quarter mile.
 
-The wipers. The road black and shining. Headlights blooming. Ellis's breathing changes, and the gameplay changes subtly with it: steering heavier, the sound of the rain louder than it should be, the radio fading out on its own, headlights from oncoming cars wider and whiter than in any other driving in the game. Not supernatural. Subjective.
+The wipers. The road black and shining. Headlights blooming. Ellis's breathing changes, and the gameplay changes subtly with it: steering heavier, the sound of the rain louder than it should be, the radio fading out on its own, headlights from oncoming cars wider and whiter than in any other driving in the game, all of it subjective.
 
 On a long right-hand curve, a pickup comes around the bend with its high beams on.
 
@@ -819,9 +916,7 @@ Ellis jerks the wheel. The van lurches right; the right front tire drops off the
 
 The player (as Ellis) has control. The van can be brought back onto the road; the game makes it hard but not impossible, and if the player overcorrects the van fishtails once and stops. Either way, it ends at the side of the road in a gravel pull-off, headlights pointing at a guardrail, engine running, wipers going.
 
-Silence.
-
-**DEAN:** Ellis.
+Silence. Dean lets go of the door handle one finger at a time.
 
 Ellis gets out.
 
@@ -883,8 +978,6 @@ Ellis looks at him.
 
 **DEAN:** I'd rather fuck it all up trying.
 
-This explains Dean better than a dozen cocaine scenes. His rebellion isn't only pleasure. It's terror of becoming ordinary.
-
 **ELLIS:** You ever think ordinary might be nice?
 
 **DEAN:** No.
@@ -933,7 +1026,7 @@ Dean laughs.
 
 **DEAN:** Given.
 
-There it is. Dean hates the word.
+Dean hates the word.
 
 **DEAN:** You mean picked.
 
@@ -967,13 +1060,11 @@ Dean has no answer.
 
 He picks up the pen and puts it back down.
 
-**RICHARD:** Sometimes growing up means finding out your life isn't only about what excites you.
-
 **DEAN:** Then I don't want to grow up.
 
 **RICHARD:** I know.
 
-Quiet. That's devastating because nobody shouts it.
+Quiet.
 
 Dean leaves the table.
 
@@ -985,9 +1076,9 @@ He opens the desk drawer. The Sucrets tin. He looks at it. Then at the internshi
 
 The player has no choice here. Dean uses.
 
-Not because he's going out. Not because there's a party. Because he's hurt. The game presents it exactly as before (sharper sound, a quicker Dean) but the room is empty and there's nobody for the quickness to be for.
+There's no party and nowhere to go. He's hurt. The game presents it exactly as before (sharper sound, a quicker Dean) but the room is empty and there's nobody for the quickness to be for.
 
-> **Design note — the crossing.** Recreation has become regulation. The drug is now for feelings. No fanfare. No warning screen. Just behavior.
+> **Design note — the crossing.** Recreation has become regulation. The drug is now for feelings. No fanfare, no warning screen: just behavior.
 
 A knock on the basement door. His mother's voice: *"Dean? Honey?"* He doesn't answer. A pause. Then the sound of a plate being set down on the top step, and her footsteps going away.
 
@@ -1009,7 +1100,7 @@ She holds one up: a Louvin Brothers album, *Tragic Songs of Life*, the one with 
 
 **ELLIS:** You like that record.
 
-**CLARA:** No I don't.
+**CLARA:** No I don't. Look at them. Two men selling burial insurance.
 
 **ELLIS:** You literally told me—
 
@@ -1017,7 +1108,7 @@ He stops. When? He can't remember. He can remember her saying it, the exact tone
 
 **CLARA:** Told you what?
 
-**ELLIS:** Nothing.
+**ELLIS:** Strike that from the record.
 
 She smiles and puts it back. Ellis writes.
 
@@ -1041,7 +1132,7 @@ That's all. Wayne takes his coffee to the truck.
 
 ### The song
 
-The lyric isn't explicitly about Clara, and the player shouldn't be able to tell for sure. It's about someone who shows up when everyone else has gone. Someone who knows what you haven't said. Someone who doesn't change. Someone more real in the dark. Someone you can't introduce to anyone.
+The lyric isn't explicitly about Clara, and the player shouldn't be able to tell for sure. It's about someone who shows up when everyone else has gone, who knows what you haven't said and never changes, who is realer in the dark, and whom you can't introduce to anyone.
 
 And the first verse is their first conversation in Chapter I, almost word for word:
 
@@ -1051,7 +1142,7 @@ And the first verse is their first conversation in Chapter I, almost word for wo
 > *You said I did, by playing it at all.*
 >
 > *Everybody in this town can see my business.*
-> *Nobody here can see you.*
+> *Nobody here knows you.*
 > *And I'm still here.*
 > *And you're still here.*
 
@@ -1059,7 +1150,7 @@ He calls it "Still Here."
 
 The player writes the rest of it with him: a songwriting interaction in which Ellis offers lines (some drawn from Observe entries the player has collected; if they collected the ice-machine line or the Stony Knob line, those images appear) and the player picks the ones that stay. There's no wrong choice. The chorus is fixed.
 
-> **Design note.** Players will recognize the first verse from the alley. They'll think Ellis wrote a song about a friend. After the midpoint they'll understand he wrote a song about a person no one else can see, and that a lot of strangers are about to sing it.
+> **Design note.** Players will recognize the first verse from the alley. They'll think Ellis wrote a song about a friend from somewhere else, which is what "Nobody here knows you" sounds like. After the midpoint they'll understand the line was literally true: nobody but Ellis has ever met her. In Chapter VII sixteen hundred strangers sing it back to a man none of them know.
 
 ### Rehearsal
 
@@ -1109,19 +1200,17 @@ Riley looks between them.
 
 **ELLIS:** Then what are you saying?
 
-Cal realizes he's pushing too hard.
+Cal realizes he's pushing too hard. He looks down at his bass.
 
-**CAL:** Nothing.
+**CAL:** Play me the bridge again.
 
-**ELLIS:** Everybody keeps fucking saying that.
+**ELLIS:** Play it yourself.
 
 He puts Loretta down and walks out the back.
 
 ### Outside (Riley)
 
-Stutter. Riley follows him out to the back steps.
-
-**RILEY:** Ellis.
+Stutter. Riley follows him out to the back steps and sits down beside him, not too close.
 
 **ELLIS:** What.
 
@@ -1167,9 +1256,9 @@ Nothing. The fence, the tracks, the gravel.
 
 **ELLIS:** Nothing.
 
-That's Riley's first anomaly. She'll count it, without meaning to, the way Cal counts.
+It's the first one Riley counts.
 
-> **Design note — perspective.** This beat is played from Riley's side, so the player doesn't see what Ellis sees. It's the first time the game withholds Clara from the player during a moment Ellis perceives her. It's a small preview of the midpoint.
+> **Design note — perspective.** This beat is played from Riley's side, so the player doesn't see what Ellis sees. This is where the game first withholds Clara from the player during a moment Ellis perceives her. It's a small preview of the midpoint.
 
 ---
 
@@ -1179,7 +1268,7 @@ That's Riley's first anomaly. She'll count it, without meaning to, the way Cal c
 
 > The HUD shows **THURSDAY**.
 
-The last of Eddie's six dates: The Blakes headline a Thursday at the Lantern. Eddie didn't think they'd sell it out. They sell it out. Eight hundred people. A line down the loading-dock alley at seven.
+The fifth of Eddie's six dates: The Blakes headline a Thursday at the Lantern. Eddie didn't think they'd sell it out. They sell it out. Eight hundred people. A line down the loading-dock alley at seven.
 
 The Blakes' name is alone on the printed poster this time, in big type. Dean steals three. Eddie gives him a fourth.
 
@@ -1255,7 +1344,7 @@ Everyone touches the kick drum. Carla Vickery's pink letter is still taped to it
 
 Eight hundred people who came to see *them*. The Room is a different animal now: the crowd responds faster, to smaller gestures; Ellis's attention verb, pointed at the crowd, makes a whole section surge forward; Dean's room-read shows a field of motion instead of a few flickers. The player should feel the scale change in their hands.
 
-With the Echoplex live for the first time, "Low Water's" loud part becomes what it was in the studio: the band getting quieter and quieter under Ellis's repeating note until eight hundred people are holding their breath, and then Dean.
+With the Echoplex in a room this size, "Low Water's" loud part becomes what it was in the studio: the band getting quieter and quieter under Ellis's repeating note until eight hundred people are holding their breath, and then Dean.
 
 ### "Still Here" — the premiere
 
@@ -1265,23 +1354,19 @@ Before it, Ellis says, into the microphone, the most he's ever said onstage:
 
 That's all.
 
-It's quiet: Ellis and Loretta, Riley's harmony, Cal holding one note under the chorus, Dean on brushes. The room goes silent, and not politely: listening.
+It's quiet: Ellis and Loretta, Riley's harmony, Cal holding one note under the chorus, Dean on brushes. The room goes silent, the listening kind.
 
-On the second chorus, Ellis looks to the side of the stage. Clara is standing in the wings by the curtain rope.
-
-And for one moment, less than a second, she looks younger. Not dramatically. The hair is different, pulled back. The face is softer, rounder, a girl's face, fourteen, fifteen.
-
-Then it's Clara again.
+On the second chorus, Ellis looks to the side of the stage. Clara is standing in the wings by the curtain rope, mouthing the first verse along with him. It's her half of the conversation.
 
 Ellis misses a chord. The player's hands feel it: the chord change goes dead in the controls. Riley covers, holding the previous chord a beat longer so it sounds like a choice. Cal follows her.
 
-After the show, backstage, Ellis stares at the curtain rope in the wings for a long time.
+After the show, backstage, Ellis winds a cable and doesn't look at the wings.
 
-**CLARA** *(beside him):* What?
+**CLARA** *(beside him):* You missed the change.
 
-**ELLIS:** Nothing.
+**ELLIS:** That's a matter for the courts.
 
-The player may not even be sure what they saw.
+**CLARA:** Eight hundred witnesses, Ellis.
 
 ---
 
@@ -1307,19 +1392,15 @@ Riley touches the glass.
 
 **DEAN:** Foreign country.
 
-Ellis looks at the record in the window. Then at his reflection in the glass.
+Ellis looks at the record in the window for a long time.
 
-Clara is standing beside his reflection, looking at the record too.
+**ELLIS:** I'd like to file a complaint about the stamping.
 
-He turns. Nobody beside him on the sidewalk but Dean and Riley and Cal. He looks back at the glass.
+**DEAN:** It's artisanal.
 
-She's in the reflection. Clara. And then (for one frame, maybe two) not Clara: a girl, fourteen, in the same jacket, too big for her.
+**CAL:** It's crooked.
 
-Ellis steps backward off the curb.
-
-**RILEY:** What?
-
-**ELLIS:** Nothing.
+**DEAN:** Artisanally.
 
 ### The Exit
 
@@ -1331,7 +1412,7 @@ It's their homecoming: the city three of them live in, the city whose music busi
 
 They play it third. The room becomes completely silent.
 
-Ellis sings about the person nobody else can see. Not phrased explicitly enough to spoil it, and yet it's exactly what it's about. Riley harmonizes. Cal's bass carries the melody on the bridge. Dean barely touches the kit until the last third.
+Ellis sings about somebody nobody here knows. The words never say more than that, and on replay they don't need to. Riley harmonizes. Cal's bass carries the melody on the bridge. Dean barely touches the kit until the last third.
 
 Then everything opens.
 
@@ -1355,9 +1436,17 @@ Ellis smiles.
 
 **WOMAN:** It feels like missing somebody who's still standing next to you.
 
-Ellis's face changes. That's exactly what Clara is. The woman walks away.
+Ellis's face changes. The woman walks away.
 
-**CLARA** *(behind him):* She understood.
+**CLARA** *(behind him):* You bowed at her.
+
+**ELLIS:** I nodded.
+
+**CLARA:** Like a headwaiter.
+
+She watches the woman go out the door.
+
+**CLARA:** She understood.
 
 **ELLIS:** Yeah.
 
@@ -1367,13 +1456,19 @@ Ellis turns. That's unusually possessive.
 
 **ELLIS:** She just did.
 
-Clara looks almost hurt. It's the first time.
+Clara looks almost hurt.
 
-> **Design note — Clara changes.** Until now Clara has mostly protected Ellis: comforted, teased, encouraged. Now jealousy appears. Not romantic jealousy. As Ellis forms stronger connections outside himself (Riley's harmony in Grace's place, an audience that understands without being told, success), the thing that's protected him is threatened. If Ellis stops needing Clara, what happens to her? Clara isn't thinking this; she's part of Ellis. It means some part of Ellis is terrified of letting go of the guilt that has held him together. So Clara pulls. Gently.
+> **Design note — Clara changes.** Until now Clara has mostly protected Ellis: comforted, teased, encouraged. Now jealousy appears, and it isn't romantic. As Ellis forms stronger connections outside himself (Riley's harmony in Grace's place, an audience that understands without being told, success), the thing that's protected him is threatened. If Ellis stops needing Clara, what happens to her? Clara isn't thinking this; she's part of Ellis. It means some part of Ellis is terrified of letting go of the guilt that has held him together. So Clara pulls. Gently.
 
 ### Eddie
 
-Eddie Farris finds them in the Exit's back alley, where Dean is taking an SX-70 of the dumpster because it has the club's name on it.
+Eddie Farris finds them in the Exit's back alley, where Dean is taking an SX-70 of the dumpster because it has the club's name on it. Eddie counts the band's money into Cal's hand under the alley light.
+
+**EDDIE:** Three eighty-five at the door, less my fifteen. Three twenty-seven to you.
+
+**DEAN** *(watching his Polaroid develop, not looking up)*: Three twenty-seven twenty-five.
+
+Eddie looks at him. Then he digs in his pocket and puts a quarter on top of the stack.
 
 **EDDIE:** I've got something.
 
@@ -1465,6 +1560,8 @@ In the seventh, a foul ball comes back into the grandstand two rows in front of 
 
 **WAYNE:** You'd have dropped it anyway.
 
+> **Observe** (the scoreboard): *Apr 12. The scoreboard man leans out of his little window to hang a zero, like somebody hanging out wash.*
+
 The Engineers lose, 4–3, on an error in the eighth.
 
 **WAYNE:** Hm.
@@ -1507,7 +1604,7 @@ Wayne comes back in, washes his hands, and goes to bed.
 
 ### The conflict
 
-The Galveston dates run through the last two weeks of the semester. The Jacksonville show is Thursday the 24th. Riley's comprehensive exam for Landry's seminar (a third of her grade) is Thursday the 24th at nine in the morning.
+The Galveston dates run through the last two weeks of April, three weeks before finals. The Jacksonville show is Thursday the 24th. Riley's comprehensive exam for Landry's seminar (a third of her grade) is Thursday the 24th at nine in the morning.
 
 The same week, in her campus mailbox: a thick envelope from the University of Edinburgh. She's been accepted to the summer program in philosophy. Six weeks in Scotland, June through July.
 
@@ -1531,19 +1628,11 @@ His office.
 
 She bristles. He isn't being cruel.
 
-**LANDRY:** Riley, I meant what I said in December. You're allowed more than one ambition.
-
-A pause.
-
-**LANDRY:** But sooner or later they start charging each other rent.
-
-**RILEY:** What does that mean?
-
-**LANDRY:** You know exactly what it means.
+**LANDRY:** Riley, I meant what I said in December.
 
 He can't move it. College policy. He shows her the page in the faculty handbook and she can tell he looked it up hoping it said something else.
 
-She leaves angry. Not at him. At the calendar.
+She leaves angry at the calendar, which can't be argued with, and not at him.
 
 ### Hannah
 
@@ -1565,7 +1654,7 @@ Riley looks at her.
 
 **RILEY:** That's not the same thing.
 
-**HANNAH:** Exactly.
+**HANNAH:** That's my point.
 
 The argument works either way. Riley sits with it.
 
@@ -1575,17 +1664,17 @@ The argument works either way. Riley sits with it.
 
 **HANNAH:** You can't have both that Thursday.
 
-That's Riley's whole arc. It isn't college versus rock and roll. It's what happens when two things you genuinely love both need the same hour.
+That's Riley's whole arc: two things she loves, both needing the same hour.
 
 ### She decides
 
-Riley doesn't tell Ellis. This matters: Ellis doesn't pressure her; she knows what he'd say, or thinks she does, and she makes the decision herself.
+Riley doesn't tell Ellis. Ellis doesn't pressure her; she knows what he'd say, or thinks she does, and she makes the decision herself.
 
 The player controls the moment she decides: Riley sitting on her bed with two objects (the exam schedule and the tour itinerary Cal typed) and a pen. There's no dialogue choice. The player can sit there as long as they like. The only action available is to put the Edinburgh envelope in her desk drawer. When the player does it, Riley packs a bag.
 
 ### The van
 
-Thursday morning, 9:00 a.m., the van is south of Macon on I-75 heading for Florida. Riley is in the passenger seat with her feet on the dash and a crossword.
+Thursday morning, 9:00 a.m., the van is south of Macon on the interstate heading for Florida. Riley is in the passenger seat with her feet on the dash and a crossword.
 
 **ELLIS:** When's your exam?
 
@@ -1597,9 +1686,9 @@ He thinks she's joking.
 
 **RILEY:** Nine o'clock this morning.
 
-Ellis looks at his watch. Nine-oh-four.
+Ellis looks at his watch.
 
-**ELLIS:** Riley.
+**ELLIS:** It's nine-oh-four.
 
 **RILEY:** Don't.
 
@@ -1617,7 +1706,7 @@ Ellis looks at his watch. Nine-oh-four.
 
 He doesn't answer.
 
-**RILEY:** Exactly.
+**RILEY:** That's what I thought.
 
 **ELLIS:** You could've stayed.
 
@@ -1661,17 +1750,13 @@ Eventually:
 
 Four in the afternoon. Soundcheck. No Dean.
 
-Cal finds him asleep in the van in the auditorium's loading lot. Not partying. Crashed, on his back across the bench with his boots on and his mouth open.
+Cal finds him asleep in the van in the auditorium's loading lot, crashed on his back across the bench with his boots on and his mouth open.
 
 Cal knocks on the window. Nothing. Opens the door.
 
 **CAL:** Dean.
 
-Nothing. Cal shakes his shoulder.
-
-**CAL:** Dean.
-
-Nothing. Cal's expression changes.
+Nothing. Cal shakes his shoulder. Nothing. Cal's expression changes.
 
 **CAL:** *Dean.*
 
@@ -1705,7 +1790,7 @@ He sits up.
 
 **DEAN:** I don't know.
 
-**CAL:** Dean.
+**CAL:** Sunday? Saturday?
 
 **DEAN:** What do you want me to say?
 
@@ -1735,7 +1820,7 @@ Dean gets out of the van and steps close.
 
 **CAL:** Then do it.
 
-Silence. Dean shoves him. Not hard enough to hurt. But real. It's the first physical aggression inside the band.
+Silence. Dean shoves him, not hard enough to hurt, but for real. Nobody in the band has ever put hands on anybody.
 
 Cal looks down at his chest, where Dean's hands were. Then up. Dean knows instantly he crossed something. But pride.
 
@@ -1757,7 +1842,7 @@ Dean swings.
 
 ### The fight
 
-This is not heroic combat. It's ugly and sloppy: two friends trying not to seriously hurt each other while angry enough to forget that. The player, as Cal, has limited, clumsy inputs (grab, shove, block) and no way to "win." Cal hits Dean's shoulder. Dean catches Cal's ear. They go down against the van's bumper. Tully comes out of the loading door at a run and doesn't intervene; he just stands close enough to catch somebody's head before it hits the pavement.
+It's ugly and sloppy, nothing heroic: two friends trying not to seriously hurt each other while angry enough to forget that. The player, as Cal, has limited, clumsy inputs (grab, shove, block) and no way to "win." Cal hits Dean's shoulder. Dean catches Cal's ear. They go down against the van's bumper. Tully comes out of the loading door at a run and doesn't intervene; he just stands close enough to catch somebody's head before it hits the pavement.
 
 Ellis pulls Dean off. Riley gets between Cal and them.
 
@@ -1815,7 +1900,7 @@ Dean smiles slightly and winces.
 
 **CAL:** Completely.
 
-Not resolved. The friendship survives. For now.
+Cal sits down on the case next to him. They stay there until the stage manager comes looking for the headliner's drummer and finds the wrong one.
 
 ### The motel (switch to Dean)
 
@@ -1823,13 +1908,13 @@ Past midnight. A motel on the Ogeechee Road outside Savannah, two stories around
 
 Stutter. Dean, coming into the lobby for coffee with the ice bag still on his lip.
 
-On the television, the late news is showing film from Saigon. Helicopters on a rooftop. A line of people on a ladder. A helicopter lifting off with people still reaching for it. On a ship, sailors pushing a helicopter over the side into the sea to make room for the next one. The anchor saying the last Americans are being taken off the embassy roof tonight.
+On the television, the late news from Saigon: a correspondent's voice on a telephone line from the fleet, crackling, over a still photograph of him; a map of South Vietnam with the arrows closing in; the words FINAL EVACUATION across the bottom of the screen. The anchor saying the last Americans are being flown out of Saigon tonight by helicopter.
 
 Tully is standing in front of the television with a coffee in his hand he hasn't drunk. He's been standing there a while.
 
 Dean stops.
 
-Tully watches the helicopter go into the sea. Then he puts the coffee down on the brochure rack, very carefully, and walks out of the lobby into the parking lot.
+Tully watches the map until the anchor moves on to the weather. Then he puts the coffee down on the brochure rack, very carefully, and walks out of the lobby into the parking lot.
 
 Dean looks at the television. At the door. The player, as Dean, can go back to his room. The prompt is there. Or follow.
 
@@ -1837,7 +1922,7 @@ If the player follows: Tully is sitting on the curb at the far end of the lot un
 
 Dean sits down on the curb next to him.
 
-And for the first and only time in the game, Dean doesn't say anything. The player's input is disabled except for one option, **Stay**, and it's already selected. The camera holds on the two of them from behind, across the lot. A truck on the Ogeechee Road. The ice machine. A dog somewhere.
+And for the only time in the game, Dean doesn't say anything. The player's input is disabled except for one option, **Stay**, and it's already selected. The camera holds on the two of them from behind, across the lot. A truck on the Ogeechee Road. The ice machine. A dog somewhere.
 
 After a very long time, Tully says one thing.
 
@@ -1867,11 +1952,9 @@ She thinks about Jacksonville. Three thousand people. "Still Here" going silent 
 
 **RILEY:** Yes.
 
-Landry nods.
+Landry nods, writes something in his grade book, and that's all he says.
 
-**LANDRY:** Then own the cost.
-
-That becomes one of Riley's most important lessons. Not *don't make reckless choices.* Don't pretend choices don't have prices.
+On the stairs down from his office, Riley turns the grade report over, the way she does with anything that has a blank back, and writes three words where the lyrics usually go: *own the cost.* She looks at them. They aren't a lyric. She keeps them anyway.
 
 ### Dean
 
@@ -1895,7 +1978,7 @@ He takes his glasses off.
 
 **RICHARD:** I'm terrified you will.
 
-Dean doesn't know what to say. It's the first time his father has spoken to him out of fear instead of authority.
+Dean doesn't know what to say. His father has never spoken to him out of fear before.
 
 He leaves anyway. It stays with him.
 
@@ -1923,7 +2006,7 @@ Vale smiles.
 
 ### Ellis
 
-Roy's garage. Roy has hired Dale Kimsey (a nineteen-year-old from the Church of God) to cover the days Ellis has been gone. Dale is fine. Dale is slow. Dale does not listen to engines.
+Roy's garage. Roy has put Dale Kimsey (a nineteen-year-old from the Church of God) on full time to cover the days Ellis has been gone. Dale is fine. Dale is slow. Dale does not listen to engines.
 
 **ROY:** This isn't going to work forever.
 
@@ -1931,7 +2014,7 @@ Roy's garage. Roy has hired Dale Kimsey (a nineteen-year-old from the Church of 
 
 **ROY:** Do you?
 
-**ELLIS:** No.
+**ELLIS:** No, sir. I'm fixing to find out.
 
 Roy laughs.
 
@@ -1953,15 +2036,15 @@ Roy genuinely wants him to succeed. That's going to make leaving the garage hurt
 
 ## MISSION 14 — SOUTHERN STAR
 
-**Playable:** rotating · **Where:** Marlon's → Southern Star Records, Laurel City · **When:** Thursday May 1 · **Length:** ~20 min
+**Playable:** rotating · **Where:** Marlon's → Southern Star Records, Laurel City · **When:** Wednesday Apr 30 (the card) → Thursday May 1 · **Length:** ~20 min
 
 ### The card
 
-Eddie Farris walks into Marlon's on Wednesday afternoon while they're rehearsing and puts a business card on the bar. Not another booking.
+Eddie Farris walks into Marlon's on Wednesday afternoon while they're rehearsing and puts a business card on the bar.
 
 > **SOUTHERN STAR RECORDS**
-> Harold Vance, A&R
-> 1142 Juniper Street, Laurel City
+> Harold Vance, President
+> 1142 Linden Street, Laurel City
 
 He heard them at Jacksonville. Galveston's road manager is his cousin. He wants a meeting.
 
@@ -1985,7 +2068,7 @@ Dean collapses laughing.
 
 But Ellis is pale. This is different. A show can disappear. A record lasts.
 
-### Juniper Street
+### Linden Street
 
 Southern Star is a converted Victorian house on a side street off Tenth: a porch with rocking chairs nobody rocks in, a receptionist in the front parlor, two offices upstairs, a gold record on the wall from 1971 by a band nobody's heard of since, cigarette smoke, coffee, a Christmas cactus.
 
@@ -2001,11 +2084,11 @@ He talks for ten minutes about what's wrong with the business: every band sounds
 
 ### The offer
 
-Not a superstar deal. A small album contract: one record, a modest advance, a studio budget, an option on more if sales meet a threshold, regional distribution with a chance at national. The kind of contract that sounds enormous to four people who have never seen one.
+It's a small album contract: one record, a modest advance, a studio budget, an option on more if sales meet a threshold, regional distribution with a chance at national. The kind of contract that sounds enormous to four people who have never seen one.
 
 Cal immediately starts reading every word of the typed draft.
 
-**DEAN:** Cal.
+**DEAN:** Dad. Put the paper down.
 
 **CAL:** What?
 
@@ -2023,21 +2106,13 @@ Vance smiles.
 
 **DEAN:** Everybody says that till about hour three.
 
-### Clara behind Vance
+### Take it home
 
-Ellis isn't listening. Clara is standing behind Vance's chair, looking over his shoulder at the contract on the desk.
+Ellis has been quiet the whole meeting. Vance notices.
 
-**CLARA:** Don't.
+**VANCE:** You're the one who writes the words.
 
-Ellis looks at her. Riley notices.
-
-**RILEY:** Ellis?
-
-**VANCE:** Something wrong?
-
-**ELLIS:** No.
-
-**CLARA:** Don't.
+**ELLIS:** Allegedly.
 
 Vance slides the contract across the desk.
 
@@ -2055,7 +2130,7 @@ Cal looks at him for a long moment.
 
 ### Outside
 
-On the sidewalk on Juniper Street, everybody erupts at once. Dean grabs Riley and spins her; Riley screams. Cal actually laughs. Eddie grabs Ellis by both shoulders.
+On the sidewalk on Linden Street, everybody erupts at once. Dean grabs Riley and spins her; Riley screams. Cal actually laughs. Eddie grabs Ellis by both shoulders.
 
 **EDDIE:** Do you understand what just happened?
 
@@ -2071,7 +2146,7 @@ He looks at her. The fear goes out of him for a moment.
 
 **ELLIS:** We're making a record.
 
-He smiles, hugely. They kiss again. Across the street, on the porch of a boarding house, Clara is watching. Expression unreadable.
+He smiles, hugely. They kiss again. Ellis glances across the street: on the porch of a boarding house, Clara is watching. Expression unreadable.
 
 ---
 
@@ -2113,7 +2188,7 @@ They laugh. Then quiet. Rain on the roof.
 
 **DEAN:** And then become disgustingly rich.
 
-**CAL:** There it is.
+**CAL:** I'll open a column for it.
 
 ### The promise
 
@@ -2129,7 +2204,7 @@ Dean sticks his hand out into the middle of the van, palm down, over the engine 
 
 **DEAN:** Future tense.
 
-**ELLIS:** Define weird.
+**ELLIS:** I'd need that in writing.
 
 **DEAN:** No limousines.
 
@@ -2147,7 +2222,7 @@ Cal puts his hand on hers.
 
 They look at Ellis.
 
-**DEAN:** Ellis.
+**DEAN:** Your turn, Blake.
 
 **ELLIS:** This is stupid.
 
@@ -2169,7 +2244,7 @@ Quiet. That one means something different to Ellis. They don't know that.
 
 Hands separate.
 
-> **The promise.** Four clauses. No limousines. No treating each other like employees. No band decisions alone. Nobody leaves somebody behind. Every one of them will be broken, and not because they stop loving each other. The world will get too complicated for four twenty-year-olds in a van to hold. Ellis's clause is the one he said to his sister in the other direction.
+> **The promise.** Four clauses: no limousines, no treating each other like employees, no band decisions alone, nobody leaves somebody behind. Every one of them will be broken, while they still love each other, because the world will get too complicated for four twenty-year-olds in a van to hold. Ellis's clause is the one he said to his sister in the other direction.
 
 ---
 
@@ -2201,7 +2276,7 @@ Dean raises a glass.
 
 **RILEY:** Unlikely.
 
-**DEAN:** To owning a van built after Kennedy.
+**DEAN:** To owning a van built after the moon landing.
 
 **CAL:** Now we're dreaming.
 
@@ -2227,21 +2302,17 @@ Wayne crosses the room to where Ellis is standing by the stage. People make way.
 
 **WAYNE:** Heard about it.
 
-He looks around the room. His son's band. People he's known forty years slapping his son on the back. For once Wayne sees Ellis through other people's eyes. Not the driver. Not the survivor. A musician. His son.
-
-**WAYNE:** Congratulations.
+He looks around the room. His son's band. People he's known forty years slapping his son on the back. For a minute Wayne sees his son the way the room does.
 
 Ellis waits for the other shoe. It doesn't come.
 
-**ELLIS:** Thanks.
-
-**WAYNE:** Your mother would've—
+**WAYNE:** Your mother used to—
 
 He stops.
 
 **ELLIS:** What?
 
-**WAYNE:** Been loud about it.
+**WAYNE:** Be loud about it.
 
 Ellis laughs. Wayne almost does. Then:
 
@@ -2251,11 +2322,9 @@ Ellis's smile goes, then comes back, smaller.
 
 **ELLIS:** Yeah.
 
-For once, Grace's name isn't a weapon. It's the first time.
-
 Wayne nods to Riley ("Riley."), nods to the others, nods to Marlon, and leaves. He doesn't stay for a drink. The room exhales. Marlon picks the glass back up.
 
-> **Replay layer.** Wayne just walked into the bar his daughter was riding to on the night she died, for the first time since, to congratulate the son he blames. He lasted three minutes.
+> **Replay layer.** Wayne just walked into the bar his son was driving to the night his daughter died. He hasn't set foot in it since. He came to stand next to the son he blames, and he lasted three minutes.
 
 ### The toast
 
@@ -2265,7 +2334,7 @@ Ellis raises his glass. He thinks.
 
 **ELLIS:** To Grace.
 
-Silence. The others know who she is now. Not everything. Enough.
+Silence. Riley told them, in the van in March, while Ellis slept. He knows she did.
 
 Riley raises hers.
 
@@ -2277,9 +2346,7 @@ Riley raises hers.
 
 They drink.
 
-Ellis looks down the bar. Clara is standing at the far end by the cigarette machine.
-
-For the first time in the game, she isn't smiling.
+Ellis looks down the bar. Clara is standing at the far end by the cigarette machine, and she isn't smiling.
 
 ### What's wrong?
 
@@ -2287,17 +2354,13 @@ After closing. Everyone else has gone. Riley went home with Hannah. Marlon's mop
 
 **ELLIS:** What's wrong?
 
-**CLARA:** Nothing.
+**CLARA:** Drink your beer.
 
-Ellis laughs once.
-
-**ELLIS:** Everybody says nothing.
-
-She doesn't smile.
+Ellis laughs once. She doesn't.
 
 **ELLIS:** We got a record.
 
-**CLARA:** I know.
+**CLARA:** I heard. The whole county heard. Dean told the ice machine.
 
 **ELLIS:** That's good.
 
@@ -2305,11 +2368,11 @@ She doesn't smile.
 
 **ELLIS:** Yeah.
 
-**CLARA:** You'll leave.
+**CLARA:** Where do they make records?
 
-**ELLIS:** Leave what?
+**ELLIS:** Laurel City. Tannersville.
 
-**CLARA:** Here.
+**CLARA:** Not here.
 
 **ELLIS:** That's sort of the idea.
 
@@ -2329,7 +2392,7 @@ She looks hurt.
 
 **ELLIS:** What about Riley?
 
-**CLARA:** Nothing.
+**CLARA:** She sings my part.
 
 Ellis stares at her. Clara looks at the dark stage, at the house kit under its cover.
 
@@ -2339,7 +2402,7 @@ He goes still.
 
 **ELLIS:** What?
 
-She looks back at him. And for one instant it isn't Clara across the booth. It's a girl, fourteen, in the same jacket, too big for her, her hair in a ponytail, looking at him exactly the way Clara looks at him.
+She looks back at him. And for one instant the girl across the booth is fourteen, in the same jacket, too big for her, her hair in a ponytail, looking at him exactly the way Clara looks at him.
 
 Then Clara again.
 
@@ -2369,7 +2432,7 @@ He keeps walking.
 
 He stops. Turns. Nobody.
 
-This is the first time her voice has come without her.
+Her voice has never come without her before.
 
 **ELLIS:** Clara?
 
@@ -2387,11 +2450,11 @@ He almost laughs.
 
 **ELLIS:** *I'm* acting weird?
 
-**CLARA:** Yes.
+**CLARA:** You're standing in the middle of Depot Street like a mailbox.
 
 **ELLIS:** Who are you?
 
-Silence. Her expression changes. Not anger. Fear.
+Silence. Her face goes frightened.
 
 **CLARA:** What do you mean?
 
@@ -2401,11 +2464,13 @@ Silence. Her expression changes. Not anger. Fear.
 
 **ELLIS:** Where?
 
-**CLARA:** Tolliver Road.
+**CLARA:** Out back of Marlon's.
 
-It's a plausible answer. The player may not register it at all.
+It's the right answer, as far as the player knows: the alley is where the game first showed her, in Chapter I.
 
 **ELLIS:** When?
+
+Clara opens her mouth. Nothing comes. She looks at him as if he's asked her what year it is and she has never once been told.
 
 **CLARA:** Why are you doing this?
 
@@ -2413,7 +2478,7 @@ It's a plausible answer. The player may not register it at all.
 
 **CLARA:** Of course you do.
 
-**ELLIS:** Then tell me.
+**ELLIS:** Then tell me when.
 
 **CLARA:** El.
 
@@ -2429,7 +2494,7 @@ He freezes.
 
 That phrase. *You know.*
 
-Ellis's breathing changes. The screen doesn't distort; the sound does, just slightly, like a room with the doors closing. Then twelve frames, faster than the first time:
+Ellis's breathing changes. The screen doesn't distort; the sound does, just slightly, like a room with the doors closing. Then twelve frames, faster than on the mountain road:
 
 A windshield, broken into a web, rain coming through it. A girl's laugh, from a car seat, before. A green felt-tip hand. Headlights.
 
@@ -2457,21 +2522,19 @@ She stops.
 
 **CLARA:** No.
 
-**ELLIS:** Then tell me where we met.
+**ELLIS:** Then tell me when.
 
 And Clara starts crying.
 
-This undoes him. Clara has never cried. Not once in five chapters.
+This undoes him. In five chapters Clara has never cried.
 
 **CLARA:** Why are you doing this to me?
 
-And now he feels guilty. Of course he does. It's the most Ellis thing there is.
-
-He softens immediately.
+And now he feels guilty. He softens immediately.
 
 **ELLIS:** I'm sorry.
 
-There it is. The defense protects itself through Ellis's guilt. He steps toward her.
+The defense protects itself through Ellis's guilt. He steps toward her.
 
 **ELLIS:** I'm sorry. I'm sorry.
 
@@ -2479,9 +2542,11 @@ He says it the way people say it who have been saying it for years. The player m
 
 Clara puts her arms around him. From Ellis's side: real. Warm. A person. Her hair against his face, the jacket, the horse patch pressed against his shirt.
 
+A prompt comes up, the same one the game uses for holding a long note: **Hold.** The player holds.
+
 ### The pull-back
 
-The camera begins to move. Slowly. Backward. Away from them.
+While the player holds, the camera begins to move. Slowly. Backward. Away from them.
 
 Across Depot Street. Past the front of Marlon's with its sign dark. Up, a little, the way a camera on a crane would move. Past the depot. Farther.
 
@@ -2491,17 +2556,15 @@ Alone.
 
 His arms wrapped around nothing. His head bowed onto nobody's shoulder. His hand holding the back of a jacket that isn't there.
 
-No character sees this. Only the player.
+No character sees this. Only the player, who is still holding.
 
-Hold.
-
-> **This is the first objective camera shot in the game that shows the truth.** No horror sting. No distortion. No music at all: just a freight horn, very far down the valley, two longs, a short, a long. The player has spent five chapters (twenty-five hours) seeing Clara through Ellis. Now the camera stands across the street, and she isn't there.
+> **This is the first objective camera shot in the game that shows the truth.** No horror sting, no distortion, no music at all: just a freight horn, very far down the valley, two longs, a short, a long. The player has spent five chapters (twenty-five hours) seeing Clara through Ellis. Now the camera stands across the street, and she isn't there.
 
 ### Do not explain it
 
-No text. No diagnosis. No flashback. No voice-over. Nothing.
+No text, no diagnosis, no flashback, no voice-over.
 
-Let the player sit in it. The camera holds on the wide shot until the player moves the stick; there's no timer. When they do, the camera returns to Ellis, close, and Clara is there again, holding him, because the camera is with Ellis again, and the player now knows exactly what that means.
+Let the player sit in it. The wide shot lasts exactly as long as the player keeps holding. There's no timer; the player chooses when to let go. When they release, far off under the streetlight, Ellis's arms open around nothing and come down to his sides. Then the camera returns to Ellis, close, and Clara is there again, stepping back from him and wiping her face with her jacket cuff, because the camera is with Ellis again, and the player now knows exactly what that means.
 
 Fade.
 
@@ -2525,16 +2588,16 @@ Each answer makes a worse question.
 
 Hundreds of earlier moments change meaning at once: Cal wasn't forgetful; Riley didn't miss her; Marlon wasn't distracted; Wayne wasn't paranoid; the empty passenger seats, the photographs, the untouched food, the dog, the deputy. It was all there.
 
-But Clara must not become a monster now. She isn't an evil hallucination manipulating Ellis. She is Ellis: a construction made of love and guilt and memory. Her growing possessiveness is Ellis's fear that moving forward means leaving Grace behind. That's sadder than a ghost.
+But Clara must not become a monster now, or a hallucination working against Ellis. She's made of him: love and guilt and memory. Her growing possessiveness is Ellis's fear that moving forward means leaving Grace behind. That's harder to watch than any villain would be.
 
 ### Ellis and the audience
 This chapter establishes the addictive thing fame gives Ellis, which has nothing to do with money: understanding. He writes something nobody in his life understands, and four hundred strangers are silent for it. For someone this isolated, that's intoxicating. The stage is becoming the one place his inner world produces an outer response that makes sense. Later, that will be dangerous.
 
 ### Riley
-She missed an exam because she chose to. Landry: *own the cost.* She put Edinburgh in a drawer. That preserves her agency: nobody made her. She'll make choices she doesn't regret that cost her dearly, and the game will let both be true.
+Over Christmas, in the back pew of her mother's church, she wrote the first verse of "Sunday Clothes" and told nobody: *not yet*. She missed an exam because she chose to. Landry only asked whether it was worth it; she wrote *own the cost* on the back of the grade report herself. She put Edinburgh in a drawer. That preserves her agency: nobody made her. She'll make choices she doesn't regret that cost her dearly, and the game will let both be true.
 
 ### Dean
-Recreation → regulation. He used alone in a basement after his father said *I know*, and a plate of pot roast appeared on the stairs. He still plays brilliantly. He's still lovable. He also shoved his best friend and got hit for it. Substance problems don't delete the rest of a person, which makes the trajectory worse to watch.
+Recreation → regulation. He used alone in a basement after his father said *I know*, and a plate of pot roast appeared on the stairs. He still plays brilliantly. He's still lovable. He also shoved his best friend and got hit for it. And without looking up from a Polaroid he corrected Eddie's fifteen percent to the quarter, and nobody in the alley but Eddie noticed. Substance problems don't delete the rest of a person, which makes the trajectory worse to watch.
 
 ### Cal
 He's become indispensable, and that's corrosive. Everybody asks him everything, so he believes if he stops paying attention something bad happens, and he's often right: the van, Dean, money, gear, Riley's exhaustion, Ellis drifting. "I know you're my friend," bleeding. He's also on a pay phone on Valentine's Day saying *me too* to somebody who isn't his mother.
@@ -2546,21 +2609,23 @@ The best day he and Ellis have had in two years happened on the anniversary of G
 | Moment | Surface | Truth | Level |
 |---|---|---|---|
 | "He hang it?" | Family friend | Grace asking about her star | subliminal |
-| The phantom harmony on the radio | Ellis mishearing | Auditory perception; ideas of reference | visible |
-| On the engine cover: "Slow down." | Backseat driver | The car | subliminal |
+| "You okay?" / "Fine." / "Liar." | A friend's tease | The word she'll say again in VIII, and Grace's in X | invisible (plant) |
+| The phantom harmony on the radio; Ellis says nothing to anybody | Ellis mishearing | Auditory perception; ideas of reference | subliminal |
+| "Not in the rain." Then, alone at the parked van: "Slow down." / "I'm parked." | A worried friend | The car | subliminal |
 | The green-ink hand on a dashboard | A strange flash | Grace, in the Impala | invisible→visible later |
 | The Louvin record: "You literally told me—" | He forgot when | Grace | subliminal |
-| "Still Here" lyrics quote the alley | A song about a friend | A song about someone nobody sees | visible (post-midpoint) |
+| "Still Here": "Nobody here knows you." | A song about a friend from somewhere else | Nobody but Ellis has ever met her | visible (post-midpoint) |
 | Ellis looks past Riley; nothing there (Riley's POV) | ? | First withheld perception | visible |
-| Younger for a frame in the wings; in a shop window | A trick of light | Grace | visible |
+| Mouthing the first verse in the Lantern wings | A friend who knows the song | It's their conversation; she knows it because he does | subliminal |
 | "Nobody understands." / "She just did." | Possessive friend | The defense threatened | visible |
-| "Don't." behind Vance | Odd | The defense resisting the future | visible |
-| "Tolliver Road." | A place | The crash road | invisible |
-| "El." | A nickname | Only Grace called him El | subliminal |
-| The pull-back | — | She isn't there | **revealed** |
+| "She sings my part." | Jealous of Riley | Grace sang the harmony | subliminal |
+| Fourteen for an instant across the booth | A trick of light | Grace | visible |
+| "Out back of Marlon's." / "When?" She can't say | A true answer, then a blank | She knows where because Ellis does; he has never asked himself when (late April 1974, a year after the crash) | invisible |
+| "El." | A nickname | Only Grace called him El (the snapshot, IV) | subliminal |
+| The pull-back, held by the player | — | She isn't there | **revealed** |
 
 ### Objects introduced
-The paper star (GRACE — 2ND GRADE). The Engineers ticket book. Ada Tolliver's pie and card. Riley's van lettering. The Echoplex. "SPACE DEATH FROM HOLLOW RIDGE." The Edinburgh envelope in a drawer. Landry's B-minus note. The Southern Star contract draft. The four hands.
+The paper star (GRACE — 2ND GRADE). The Engineers ticket book. The first verse of "Sunday Clothes" on the back of a Kant syllabus, folded into a textbook. Ada Tolliver's pie and card. Riley's van lettering. The Echoplex. "SPACE DEATH FROM HOLLOW RIDGE." The Edinburgh envelope in a drawer. Landry's B-minus note. *Own the cost* on the back of a grade report. The Southern Star contract draft. The four hands.
 
 ### Language introduced
-"Space death." "Georgia." "I know you're my friend." "Own the cost." "I'm terrified you will." "Ask me later." "Nobody leaves somebody behind." "El." "You know."
+"Liar." "Pull out all the stops." "Not yet." "Space death." "Georgia." "Nobody here knows you." "I know you're my friend." "Own the cost" (Riley's, in her own hand). "I'm terrified you will." "Ask me later." "Nobody leaves somebody behind." "Out back of Marlon's." "El." "You know."
