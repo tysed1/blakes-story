@@ -387,7 +387,7 @@ Total main story ≈ 57 hours. With side content, 80–110.
 - **5. Cleveland** (Dean → Cal). Sat Jan 24. The ER; Lynette on the phone; Cal in the plastic chair.
 - **6. Hotel Bar** (Ellis). Thu Jan 29, Chicago. "I know who Clara is." The kiss; Dex at the end of the bar.
 - **7. Eleven Times** (Cal). Fri Jan 30, the bus to Milwaukee. The fight; Tully; Cal gets off.
-- **8. No Floor** (Ellis → Cal). Sun Feb 1 – Tue Feb 3. Two shows with a session bassist; the notebook line; Cal comes back; "Theo's mine"; Dean's coffee.
+- **8. No Floor** (Ellis → Cal). Sun Feb 1 – Wed Feb 4. Two shows with a session bassist; the notebook line; Cal comes back; "Theo's mine"; Dean's coffee.
 - **9. Five** (Dean). Fri Feb 20. Bobby's birthday; the toy drum kit; the trailer door.
 - **10. Night Stage** (Ellis). Sat Mar 13, New York. The silence; the second failed catch.
 - **11. Rave** (Riley). Mon Mar 15, New York. Nina's piece and *Rave*'s, on the same rack; Joan on the phone; the party; the farmhouse, again, from outside; she stops.
@@ -411,7 +411,7 @@ Total main story ≈ 57 hours. With side content, 80–110.
 
 **Band state.** Recording the second album at a lodge on Stony Knob with Frank Dalton and a mobile truck. Healing and splitting at once. Dean sober. Riley out of the lodge. Cal and Ellis mended.
 
-**Ellis/Clara.** Gone for five weeks on medication. The switch catches on an empty chair and fails. When he stops the pills she returns on day four, and so do the 3 a.m. waking and the talking to air. At the Tabernacle she's beside him, and he loses a verse. In Grace's hallway she is fourteen: "I couldn't be her." She walks into Grace's room, the only time. He closes the door.
+**Ellis/Clara.** Gone for twelve weeks on medication. The switch catches on an empty chair and fails. When he stops the pills she returns on day four, and so do the 3 a.m. waking and the talking to air. At the Tabernacle she's beside him, and he loses a verse. In Grace's hallway she is fourteen: "I couldn't be her." She walks into Grace's room, the only time. He closes the door.
 **Grace info.**
 - The report: April 12, 1973. The player remembers a pie and a ballgame. A truck over the line; "we were arguing and I looked at her."
 - Wayne knew about the truck the next day.
@@ -462,26 +462,26 @@ Total main story ≈ 57 hours. With side content, 80–110.
 
 **Dates:** Thursday Aug 26 – Saturday Aug 28, 1976. **Runtime:** 4 h. **Playable:** Cal → Dean → Riley → Ellis → Ellis → Ellis → Cal → Ellis → all → Riley → Cal → Dean → Wayne.
 
-**Thesis.** Everything the game taught converges in one song: switching, following, turns, home, *stay with me*, the crowd, the light, the road. Ellis remembers his sister telling him to go, turns toward the living, and a light he doesn't see coming does the rest.
+**Thesis.** Everything the game taught converges in one song: switching, following, turns, home, *stay with me*, the crowd, the light, the road. Ellis remembers his sister telling him to go on, finishes the song, turns toward the living, and a light he doesn't see coming does the rest.
 
-**World state.** The largest crowd of their lives, about 150,000. A concert film crew. Helicopters. Mud from Hurricane Belle two weeks gone. A state permit fight. Carter on buttons.
+**World state.** The largest crowd of their lives, about 150,000. A concert film crew. Helicopters. Mud from a wet August. A state permit fight. Carter on buttons.
 
 **Band state.** At their best and least safe. Dean sober. Riley and Ellis tender and not together. Cal watching everything.
 
-**Ellis/Clara.** At his side on the walk to the stage. At the stage lip during the last song, holding him there. When Roy's ordinary "Go on" opens the memory of Grace's, she has nothing left to hold.
-**Grace info.** Complete: "Stop saying sorry." "Liar." "It's okay." "Go on."
-**Ellis/Wayne.** Wayne came, nine hundred miles, in the F-100 with Roy asleep in the passenger seat. Ellis sees him in the crowd during the set.
-**Riley.** At the riser's stage-right corner for the ending, as always, her hand out.
+**Ellis/Clara.** At his side on the walk to the stage; asked what she is, she tells him to push his hair out of his eyes, and says "Come on." At the stage lip during the last song. When Roy's ordinary "Go on" opens the memory of Grace's, she looks past him at the band, and that's all she does.
+**Grace info.** Complete, in pieces and out of order: his *sorry*; her laugh and a word the rain takes; his clear "Stay with me"; under it, overlapping, "It's okay. Go on."
+**Ellis/Wayne.** Wayne came, nine hundred miles, in the F-100 with Roy and Tater. Two Cokes on a truck bumper in Harrisburg. "Sunday's fine. I'll make biscuits." Ellis sees him in the crowd during the set.
+**Riley.** At the riser's stage-left corner for the ending, as always, her hand out: ahead of him and a little to his left. The swerve takes him away from her.
 **Cal.** Asks what day it is and takes the answer as evidence.
-**Dean.** The man who said yes to everything: "We can cancel."
+**Dean.** The man who said yes to everything says "Stop," and votes no, on the record.
 
 **Gameplay.**
 - Festival crowd traversal.
 - The green-room decision.
-- The longest backstage walk in the game.
+- The backstage walk.
 - The final performance with rapid switching.
-- The withheld "home." While the player holds off, the band keeps following and tires; there's no timer. Holding off is *stay*; pressing is *go on*.
-- The fall.
+- The withheld "home." While the player holds off, the band keeps following and tires; there's no timer. Holding off is *stay*; pressing is *go on*. Pressing ends the song, and the band lands it right.
+- The fall, after the song, from ordinary causes.
 - The failed switch.
 - The first playable Wayne.
 **No drug is taken.** A tab of acid in a fan's letter is held at a motel sink and put back.
@@ -489,7 +489,7 @@ Total main story ≈ 57 hours. With side content, 80–110.
 **Major location.** The Arbor Jam, Glen Arbor Raceway, Schuyler County, New York.
 **Set piece.** The Last Light.
 **Quietest.** Ellis in the field at noon under a hat, unrecognized, writing overheard sentences on his forearm.
-**Funniest.** The green room before it goes wrong: Dean producing the Polaroid ("We look terrible." / "You look terrible."), and the dealership remembered.
+**Funniest.** The green room before it goes wrong: Ellis producing the Polaroid ("We look terrible." / "You look terrible."), and the dealership remembered.
 **Most painful.** The crowd chanting his name while he says, into the mic, that he isn't him.
 **Ending transformation.** The camera tries to find Ellis and can't.
 
@@ -499,26 +499,26 @@ Total main story ≈ 57 hours. With side content, 80–110.
 - **3. Morning** (Ellis). The motel; a fan's letter with a tab in it; the sink; he puts it back.
 - **4. Press Tent** (Ellis). The peanut-stand rankings, which Dex will make into prophecy.
 - **5. The Field** (Ellis). Walking the crowd under a hat; Clara.
-- **6. Weather** (Cal). The squall; the delay; the green room; the Polaroid into Dean's pocket; "We can cancel."; "Your call."; "What day is it?"
+- **6. Weather** (Cal). The squall; the delay; the green room; the Polaroid into Dean's pocket; "What day is it?"; "Stop."; the vote; "Sunday's fine."
 - **7. The Walk** (Ellis). Clara; the stairs; Roy: "Go on, get up there."
-- **8. The Last Light** (all). The set; the kick drum with Carla's letter still on it; the verse; home; the light.
-- **9. The Gap** (Riley → Cal → Dean → Wayne). Tully first down; Kit on the case; 9:52 p.m.
+- **8. The Last Light** (all). The kick drum with Carla's letter on it; the set; the verse; home, and the song lands; the light.
+- **9. The Gap** ((no one) → Riley → Cal → Dean → Wayne). Tully first down; Kit on the case; 9:52 p.m.
 
 ---
 
 ## EPILOGUE — WHAT REMAINS · CODA
 
-**Dates:** Aug 29, 1976 – April 1977, with 1996 frames. Coda: Saturday Nov 9, 1974. **Runtime:** ~1.75 h. **Playable:** Wayne → Riley → Cal → Dean → Riley → Wayne → (1996 interviews, non-interactive) → Ellis.
+**Dates:** Aug 29, 1976 – April 1977, with 1996 frames. Coda: Saturday Nov 9, 1974. **Runtime:** ~1.75 h. **Playable:** Wayne → Riley → Cal → Dean → Riley → (1996 documentary, non-interactive) → Wayne → Ellis.
 
 **Thesis.** The world explains him. The people who knew him refuse to, and then each keeps one ordinary thing.
 
 **Missions**
-- **1. Route 17** (Wayne). The drive home from New York, with Roy asleep in the passenger seat.
+- **1. Route 17** (Wayne). The drive home from Elmira, with Roy asleep in the passenger seat; biscuits at a Virginia counter on Sunday.
 - **2. Pettigrew** (Riley). The funeral; fans in the cemetery; Lorraine at the back; the envelope handed back unopened.
 - **3. The List** (Cal). Ellis's room: *Dean owes me $4 · Dad — Sunday? · finish Who Are You.* The ledger: *Clara?* Behind Cal, on a radio he isn't listening to, *Borrowed Stone* climbs to #1; a lawyer calls about the footage.
-- **4. Pocket** (Dean). The Polaroid. The tab in the green notebook, flushed. Four dollars under a rock on a grave, stolen by Tuesday.
-- **5. M.** (Riley). The notebooks. The poems to "M." in the green one. The train line she will never publish. The registration form, still folded.
-- **6. Tater** (Wayne). Winter; the dog getting thin; the Engineers on the radio. Hollow Ridge Monument & Vault: "I'd like to pay the balance." Opening Day, April 1977: two of the four tickets, Wayne and Roy.
-- **7. 1996** (documentary frame). Dean: "He was funny. Nobody writes that." Cal: "He wasn't so bad." Riley on his maps. Dex: "I sold a lot of magazines." Wesley Tate on Marlon's stage. Wayne's door, closed.
+- **4. Pocket** (Dean). The tab in the green notebook, flushed. Four dollars under a rock on a grave, stolen by Tuesday.
+- **5. M.** (Riley). "Maps," at her mother's piano. The notebooks. The poems to "M." in the green one. The train line she will never publish. The registration form, still folded.
+- **6. 1996** (documentary frame, about four minutes). Dean: "He was funny. Nobody writes that." Cal: "He wasn't so bad." Riley on his maps. Dex: "I sold a lot of magazines." Nina: "He was nineteen." Marlon's framed chalkboard, and Wesley Tate playing "No Name." Wayne's door, closed.
+- **7. Tater** (Wayne). Behind the door the documentary couldn't open: Grace's birthday; Thanksgiving in the seventh chair; the dog getting thin, and fed twice; Hollow Ridge Monument & Vault: "I'd like to pay the balance." Opening Day, April 1977: the last two tickets, Wayne and Roy. "Go on. I'll catch up."
 - **Coda: Saturday** (Ellis, Nov 9, 1974). No objective, and no Clara, and nobody remarks on it. Then: **GO HOME**.
-- **Credits** over rehearsal tapes. **Post-credits:** Grace on a cassette: "Don't get weird."
+- **Credits** over rehearsal tapes. **Post-credits:** Grace on a cassette: "Hi, El. It's me." … "Don't get weird."

@@ -93,7 +93,7 @@ The town is older than it is poor, and poorer than it admits. The railroad used 
 - **Carson's Tire & Recap**: used tires, a pit bull named Deacon.
 - **The Blake house**: on Cold Branch Road north of town, halfway up toward Stony Knob. A four-room 1940s frame house plus a later bedroom addition. Porch that needs work. Single exterior bulb. Wayne's 1967 Ford F-100. A chained yard dog, Tater, who is not chained and never leaves anyway.
 - **Stony Knob** (North highlands): the overlook pull-off at the top of the road, a fire tower, a gravel turnaround. The only place for thirty miles where the Tannersville college station's 10-watt FM signal comes in clearly, because FM is line of sight and Stony Knob can see the Tanner Valley.
-- **Tolliver Road** (South Fork highlands): runs south along the South Fork past the **Tolliver farm** (an old mare named Dolly, dead by 1975) to **Tolliver Bend**, a blind right-hand curve with no shoulder and a white oak whose bark has grown back crooked around a scar. Ellis has not driven this road since April 12, 1973. The game never routes a mission down it until Chapter VIII.
+- **Tolliver Road** (South Fork highlands): runs south along the South Fork past the **Tolliver farm** (an old mare named Dolly, dead by 1975) to **Tolliver Bend**, a blind right-hand curve with no shoulder and a white oak whose bark has grown back crooked around a scar. Past the Bend, Tolliver Road climbs back to the Tanner Valley road east of Roy's: the back way into town, which Wayne told the children to use whenever it rained, because the low-water bridge on the South Fork road floods. The sawhorse across its mouth in Chapter I (ROAD WORK — LOCAL TRAFFIC) is gone by Chapter II; after that the refusal is Ellis's. He has not driven this road since April 12, 1973, and the game never routes a mission down it until Chapter VIII.
 - **The Laurel Gap truck stop**: on US 19 west of town. A Gulf station, a 24-hour diner called the **Starlite** (red vinyl booths, chess pie, a waitress named Lynette), a gravel lot full of pulpwood trucks.
 - **South Fork Speedway** (dirt track, Saturday nights, optional content).
 - **Hollow Ridge High School** (consolidated county school, the Mountaineers).
@@ -177,7 +177,7 @@ Details are threaded into scenes, never delivered as lectures. The canonical pal
 - **1965 — Lorraine leaves.** Ellis is 9, Grace 6. She moves to Dayton, Ohio; remarries (Hubbard) in 1968. Sends cards for two years, then stops. Grace keeps writing to her. Ellis stops.
 - 1968 — Roy Cagle's son Danny killed near Khe Sanh.
 - 1970 — Clara Tate Blake dies. Ellis (13) sings at her funeral.
-- 1970 — Grace (11) gets a cassette recorder for Christmas and starts "WGRC — Grace Radio."
+- 1970 — Grace (12) gets a cassette recorder for Christmas and starts "WGRC — Grace Radio."
 - Summer 1972 — the "Who are you?" tape.
 - Sept 1972 — Ellis, 16, gets his license. Starts at Roy's after school.
 - Winter 1972–73 — Ellis teaches himself "No Name." Grace says she'll name it later.
@@ -528,7 +528,7 @@ She is possibly also what the clinicians of 1976 would call something. The game 
 
 **Lynette Crowe** (22). Night waitress at the Starlite truck stop. Son Bobby, three in 1974 (born February 1971); ex-husband in the Army in Germany and not coming back. Unimpressed by money and charm, which is why Dean can't stay away. Ends it in Chapter VIII when he's high at Bobby's birthday. Takes him back, provisionally, in Chapter IX, sober.
 
-**Patty Holloway** (15 in 1974). Dean's sister. Sarcastic, smart, a better judge of people than anybody in her family. Ellis is unexpectedly gentle with her, and Dean doesn't understand why until much later. Writes Ellis a letter in Chapter VII about a song; he writes back. In the epilogue she's in college and has the letter framed.
+**Patty Holloway** (15 in 1974). Dean's sister. Sarcastic, smart, a better judge of people than anybody in her family. Ellis is unexpectedly gentle with her, and Dean doesn't understand why until much later. Writes Ellis a letter in Chapter VII about a song ("No Name"); he writes back. In the epilogue his reply is in a dime-store frame over her desk in Belle Grove.
 
 **Professor Alan Landry** (52). Philosophy, Tannersville College, "Mind and Self." Pipe, tweed, a sense of humor so dry most students never find it. Takes Riley seriously enough to be disappointed in her. Never tells her to quit the band. Teaches, in Chapter II, a lecture on memory as reconstruction that Ellis happens to sit in on. Sends Riley a short note after the funeral.
 
@@ -544,7 +544,7 @@ She is possibly also what the clinicians of 1976 would call something. The game 
 
 **Ada and Floyd Tolliver.** The farm on Tolliver Road. Their mare Dolly (died 1975). Ada sends Wayne a buttermilk pie every April 12 with a card. Nobody eats it. Tater does.
 
-**Wesley Tate** (11). Hardware-store kid who asks Ellis "You got a band?" at the garage in Chapter I. Watches through Marlon's window. Wears a homemade Blakes shirt in Chapter VII. Is fourteen in the epilogue, playing a secondhand guitar on the Marlon's stage on a Thursday.
+**Wesley Tate** (11). Hardware-store kid who asks Ellis "You got a band?" at the garage in Chapter I. Watches through Marlon's window. Wears a homemade Blakes shirt in Chapter VII. Is thirteen in the epilogue; by 1996 he plays Thursdays on the Marlon's stage.
 
 **Mrs. Odom.** Carnegie librarian who hands Ellis poetry without comment.
 
@@ -622,7 +622,7 @@ Lyrics below are fragments for tone; full lyrics are written in the chapters whe
 - **"No Name"** (Ellis, winter 1972–73). E minor. About a kitchen light left on for somebody who said they'd be back. Written about his mother. The song he was driving to play for the first time the night Grace died. Grace said she'd name it later. Dean names it by accident onstage at Marlon's in Chapter I. *"There's a light in the kitchen that stays on all night / for somebody who swore they'd be back by nine."*
 - **"Low Water"** (all four, Chapter II). Born from Dean tapping on a table. About the low-water bridge on the South Fork: when the creek comes up you can't get across, so you sit on the hood and wait. The first song that belongs to all of them.
 - **"Ice Machine"** (Ellis/Riley, Chapter IV–V). A motel at 3 a.m. *"The only thing awake in Room 12 is the ice machine / and me, and you pretending."*
-- **"Borrowed Stone"** (Ellis, Chapter V). About the coupon book on the kitchen table. The band thinks it's metaphor. *"There's a book in the truck, the pages torn out / one for every month since the rain."*
+- **"Borrowed Stone"** (Ellis, Chapter VI). About the coupon book on the kitchen table. The band thinks it's metaphor. *"There's a book on the table with the pages torn out…"*
 - **"Still Here"** (Ellis, Chapter V). The Clara song. The verses quote their first exchange in Chapter I almost word for word, prettier than it was (Clara points this out in VII). The key line of the first verse: *"Everybody in this town can see my business. / Nobody here knows you."* The public hears a love song. *"You said the second one was better / I said nobody asked / you said I did, by playing it at all."* The song that makes them famous: strangers singing Clara's words back to him.
 - **"Sunday Clothes"** (Riley, Chapter IV–VI). About her mother playing Bach to an empty church on Saturday mornings. *"She plays for the Lord at a quarter to eleven / and for nobody at all on Saturday."* Their 1976 hit single, re-sung by Ellis at the label's insistence; the press credits him.
 - **"Parietal Hours"** (Riley). Funny, fast, about dorm curfews.
@@ -743,7 +743,7 @@ Dialogue is never a nice/neutral/asshole wheel. Choices are about timing (say it
 - *Borrowed Stone*'s cover: the Jazzmaster leaning on a blank granite block in the yard of Hollow Ridge Monument & Vault. Back cover, in Ellis's hand: *for G.* ("Georgia," he says.)
 - The green leather notebook (Riley, Sept 14, 1975). Blank until Chapter IX; the poems to "M." are in it.
 - The gray Dickies work shirt with ELLIS on the patch ("Keep the shirt," Roy). He wears it under the leather jacket at the festival.
-- Wayne's twenty-dollar bill, folded in quarters, slipped into Ellis's jacket at the Lantern (Dec 5, 1975). Spent on the leather jacket if the player kept it; otherwise still in the corduroy jacket, which is in the van in X.
+- Wayne's twenty-dollar bill, folded in quarters, slipped into Ellis's jacket at the Lantern (Dec 5, 1975). Never spent. Moved to the leather jacket's inside pocket in New York (Dec 13), behind Lorraine's letter; returned to Wayne with the personal effects (Ep. M1).
 - Wayne's F-100 has an under-dash FM converter, installed Nov 1974, left on 88.9 (WTCR). Ellis finds it on Oct 21, 1975.
 - Game 6 of the 1975 World Series (Tue Oct 21): "Still Here" breaks on WLRC at 11:47 p.m.; father and son watch the twelfth inning on one couch.
 - The *Rave* article, "WHO THE HELL IS ELLIS BLAKE?" (January 1976 issue, on sale Nov 25, 1975): makes public that Grace died in a car Ellis was driving and that his mother left. Dean's "Blake's a genius" is its first sentence.
@@ -758,9 +758,10 @@ Dialogue is never a nice/neutral/asshole wheel. Choices are about timing (say it
 
 **The finale (as decided in V4; supersedes earlier notes).**
 - Ellis takes no drug on the day he dies. A tab of acid arrives in a fan's letter at the motel; he puts it back. Dean finds it in the green notebook in the epilogue and flushes it.
-- At the foot of the stage stairs Roy says, as he says about everything, "Go on, get up there." In the improvised last verse of "Who Are You?" the phrase opens the memory of the car: "Stop saying sorry." "Liar." "It's okay." "Go on."
-- **Geometry (final; supersedes V4 Part 2).** The stage faces east; the sun sets behind it. During the last song Ellis drifts downstage to the stage-left lip (his left as he faces the crowd), where Clara sits by the stage-left PA wing. Dean's riser is upstage center; Riley stands at its stage-left corner for the ending, as she has on every ending since Chapter II. The film crew (Joel Perlman, Kit Adair, 22, with the sun-gun) works from the stage-right wing and steps onto the upstage-right deck to catch his face as he turns home. When he turns to face Dean, the light hits him from his left, low and white, the side oncoming headlights come from on a two-lane road. His body swerves right, away from it, as on Tolliver Bend and on US 19 in the rain, toward Riley's side. On his right, a yard away, is the edge of the deck and the gap (a yard wide, twelve feet down) between the stage and the stage-left PA wing.
-- While the player withholds "home," the band keeps following and visibly tires. No timer; the music keeps changing. Holding off is *stay*. Pressing is *go on*.
+- At the foot of the stage stairs Roy says, as he says about everything, "Go on, get up there." In the improvised last verse of "Who Are You?" the memory of the car comes back in pieces, out of order, partly lost to rain: his *sorry*, her laugh and a word the rain takes, his own clear "Stay with me," and under it, overlapping, "It's okay. Go on." He sings three image lines the player chooses, and the last line, plain: *go on*. (V7.)
+- **Geometry (final; supersedes V4 Part 2).** The stage faces east; the sun sets behind it. During the last song Ellis drifts downstage to the stage-left lip (his left as he faces the crowd), where Clara sits by the stage-left PA wing. Dean's riser is upstage center; Riley stands at its stage-left corner for the ending, as she has on every ending since Chapter II. The film crew (Joel Perlman, Kit Adair, 22, with the sun-gun) works from the stage-right wing and steps onto the upstage-right deck to catch his face as he turns home. When the player presses *home* he turns to face Dean, and the band lands the song together (V7: the input ends the song, and ends it right). He laughs and steps toward Riley, who is ahead of him and a little to his left at the riser's corner, hand out. The valley roars. Joel steps out onto the upstage-right deck for the reverse; Kit switches on the sun-gun beside him. The light hits Ellis from his left, low and white, from past Riley's shoulder: the side oncoming headlights come from on a two-lane road. His body swerves right, away from the light and away from her, as on Tolliver Bend and on US 19 in the rain. On his right, a yard away, is the edge of the deck and the gap (a yard wide, twelve feet down) between the stage and the stage-left PA wing. For "Shape Note" the band turns in to face each other, so the sun-gun's first flare (switched off at once) also comes from his left.
+- While the player withholds "home," the band keeps following and visibly tires. No timer; the music keeps changing. Holding off is *stay*. Pressing is *go on*. In the story the hold is capped at about three minutes; the footage and Nina's 1996 line round it (under a minute, about two, close to three).
+- The trailer vote (X M6): Dean votes no and it stays on the record. If Cal's tie-break is no, the no stands, and Ellis says "Then I'll play it by myself," and the band follows him.
 - Kit Adair is shown before (Tully shows her where to stand) and after (Tully sits with her on an equipment case).
 - Clara is absent from the coda (Nov 9, 1974), and nobody remarks on it.
 
