@@ -95,7 +95,7 @@ The Tanner Valley, then the map edge, then Virginia. The long valley between the
 
 This is a riding mission. The bus is the social hub from Chapter VIII, but the chapter is different, and the player feels it the moment they walk the aisle as Cal.
 
-- **Dean** in the front lounge, sober nearly seven weeks, playing gin with Earl and losing gracefully, drinking Tab. He has a thirty-day chip in his shirt pocket he keeps touching like it's a pack of cigarettes.
+- **Dean** in the front lounge, sober nearly seven weeks, playing gin with Earl and losing gracefully, drinking Tab. He has a Polaroid in his shirt pocket he keeps touching like it's a pack of cigarettes.
 - **Riley** at the table with a crossword in pen and her glasses on, and Gerald the spider plant in a coffee can on the table because she wasn't going to leave him in a hot apartment.
 - **Theo** asleep in a bunk with the curtain open and a book on his chest.
 - **Tully** asleep. Tully is always asleep.
@@ -589,7 +589,7 @@ Cal watches him. The player, as Cal, watches him. Everybody does.
 
 ### The Polaroid
 
-An hour into the wait, with the rain drumming on the trailer roof, Ellis takes something out of the inside pocket of the leather jacket (he took it out of the frame of his mirror on Sunday night) and puts it face up on the fruit tray.
+An hour into the wait, with the rain drumming on the trailer roof, Dean takes something out of his shirt pocket and puts it face up on the fruit tray. It's been in that pocket since he woke up at Knob House in July and found it on his nightstand.
 
 An SX-70 print from Chapter II. The Starlite, 4 a.m., November 2, 1974. The four of them in a red vinyl booth, wrecked, grinning, half out of the frame, the flash too bright, Dean's thumbprint in ketchup on the white border.
 
@@ -622,7 +622,11 @@ And they're off, the four of them remembering. The player, as Cal, can prompt me
 
 Ellis is laughing so hard he's crying: the unmedicated laugh, on time, loud. For ten minutes, in a trailer in upstate New York, in the rain, it's 1974.
 
-Then Ellis picks the Polaroid up off the fruit tray and looks at it for a while. He reaches over and puts it in Dean's shirt pocket and buttons the flap.
+Then Ellis picks the Polaroid up off the fruit tray and looks at it for a while.
+
+**DEAN:** It's yours. I was keeping it for you.
+
+Ellis reaches over and puts it back in Dean's shirt pocket and buttons the flap.
 
 **ELLIS:** Keep it.
 
@@ -1394,7 +1398,7 @@ It reaches a third time, and there is no one there, and it doesn't land, and the
 ## Chapter X — design summary
 
 ### What happened
-Two old men followed a bus nine hundred miles with a dog between them. A film crew set up on a racetrack. A fan left a square of paper at a motel desk, and Ellis put it back. He talked about peanuts to a tent full of writers, told Dex where Clara was, and walked a field under Tully's hat, writing strangers' sentences on his arm until the rain took them off. The band laughed at a Polaroid in a trailer, and Ellis gave it to Dean. Dean said *stop*, and it went on the record. Wayne said *Sunday's fine. I'll make biscuits.* Clara, asked what she was, told him to push his hair out of his eyes. Roy said *go on, get up there*. The Blakes played at sunset for a hundred and fifty thousand people, and Ellis lost a line of "New Skin," and Cal carried it. In the last verse of the last song the car came back to him in pieces, and he sang *go on*. The player let the song end. He turned to his band, and they landed it, and he laughed and stepped toward Riley, and a light came from the side headlights always come from, and his body swerved. Tully was first down. Cal held the flashlight. Dean held his hand. Wayne rode in the ambulance and was the one holding it at 9:52. The camera tried to find him, and couldn't.
+Two old men followed a bus nine hundred miles with a dog between them. A film crew set up on a racetrack. A fan left a square of paper at a motel desk, and Ellis put it back. He talked about peanuts to a tent full of writers, told Dex where Clara was, and walked a field under Tully's hat, writing strangers' sentences on his arm until the rain took them off. The band laughed at a Polaroid in a trailer, and Ellis told Dean to keep it. Dean said *stop*, and it went on the record. Wayne said *Sunday's fine. I'll make biscuits.* Clara, asked what she was, told him to push his hair out of his eyes. Roy said *go on, get up there*. The Blakes played at sunset for a hundred and fifty thousand people, and Ellis lost a line of "New Skin," and Cal carried it. In the last verse of the last song the car came back to him in pieces, and he sang *go on*. The player let the song end. He turned to his band, and they landed it, and he laughed and stepped toward Riley, and a light came from the side headlights always come from, and his body swerved. Tully was first down. Cal held the flashlight. Dean held his hand. Wayne rode in the ambulance and was the one holding it at 9:52. The camera tried to find him, and couldn't.
 
 ### Everything converges
 Every system the game taught pays off in this chapter, and none of them is new:
@@ -1432,7 +1436,7 @@ Tone rule 9: *The death is not the meaning. Ellis's life mattered before it ende
 | Absent after the fall | She was only ever his |
 
 ### Objects
-The film leader and the slate (R1 T1). Marlon's chalkboard: THURSDAY — THE BLAKES (NEW YORK), and the erased ELLIS BLAKE under it. Roy's new cap. Wesley's E minor. Gerald in a coffee can. Dean's thirty-day chip. The F-100 in Earl's mirror. Two Cokes on a truck bumper. The hayfield: the tarp, the lawn chairs, Tater. Tully's white tape line and Kit's clipboard note. The fan's envelope with the blotter, inside the back cover of the green notebook. The ELLIS shirt; the leather jacket's inside pocket (Lorraine's letter, Wayne's twenty). Two coffees, one spilled. Tully's boonie hat. The ballpoint on his arm, washed off. The almanac: sunset 7:46. The Polaroid, from Ellis's mirror frame into Dean's pocket. Four dollars, put back. The ledger: *D.H.: "Stop." (On the record.)* The list, answered: *Sunday's fine.* Carla's pink letter inside the clear kick drum. Cal's last set list. The sun-gun. Roll forty. The Jazzmaster on the plywood. The yellow rope. Cal's flashlight. The ambulance. Wayne's thumb on the back of a hand.
+The film leader and the slate (R1 T1). Marlon's chalkboard: THURSDAY — THE BLAKES (NEW YORK), and the erased ELLIS BLAKE under it. Roy's new cap. Wesley's E minor. Gerald in a coffee can. The F-100 in Earl's mirror. Two Cokes on a truck bumper. The hayfield: the tarp, the lawn chairs, Tater. Tully's white tape line and Kit's clipboard note. The fan's envelope with the blotter, inside the back cover of the green notebook. The ELLIS shirt; the leather jacket's inside pocket (Lorraine's letter, Wayne's twenty). Two coffees, one spilled. Tully's boonie hat. The ballpoint on his arm, washed off. The almanac: sunset 7:46. The Polaroid, from Ellis's mirror frame to Dean's nightstand in July, and buttoned back into Dean's pocket for good. Four dollars, put back. The ledger: *D.H.: "Stop." (On the record.)* The list, answered: *Sunday's fine.* Carla's pink letter inside the clear kick drum. Cal's last set list. The sun-gun. Roll forty. The Jazzmaster on the plywood. The yellow rope. Cal's flashlight. The ambulance. Wayne's thumb on the back of a hand.
 
 ### Language
 "Behind the line." "Nobody told me anything either." "Define 'girl.'" "Put it back." "I'll take it under advisement." "That's a matter for the courts." "You have to go back and check things." "She's in the room with my sister." "Quit writing on yourself." "I'm fixing to." "Come on, come on." "We look terrible." / "You look terrible." "It fell near Cal." "Keep it." / "I'll lose it." / "You won't." "I like having something on you." "What day is it?" "Stop." "Your call." "Define 'want.'" "Then I want both." "Exactly. That's the problem." "No. I said it." "Then I'll play it by myself." "That's my shirt." / "You said keep it." "Sunday's fine. I'll make biscuits." / "Your biscuits are terrible." / "I know." "It's a good room." "Late, is what." "Come on. They're waiting on you." "Go on. Get up there." "That's not— I'm not him." "Stay with me." "It's okay. Go on." "I owe you four dollars." "That's his daddy." "It wasn't your—" "You done good up there." "Son." "Sir."

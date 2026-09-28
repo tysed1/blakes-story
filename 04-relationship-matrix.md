@@ -42,7 +42,7 @@ Fields: **Start** (starting assumption) · **Friction** · **Bond** (bonding eve
 - **Admires:** Dean admires that Ellis is real in a way nobody in Belle Grove is. Ellis admires that Dean is happy, and that his father is a good man.
 - **Misreads:** Dean thinks Ellis's darkness is authenticity. Ellis thinks Dean's lightness is shallowness.
 - **Late:** Reversed. Seven weeks sober, Dean stands up in the green-room trailer and says "Stop" (X M6). He votes yes anyway: "But I said it. I want that on the record."
-- **Last:** For Dean: the Polaroid, out of Ellis's jacket and buttoned into Dean's pocket: "Keep it." / "I'll lose it." / "You won't." Then "I owe you four dollars" in the gap. Then four dollars under a rock, stolen by Tuesday. A tab of acid he flushes twice so nobody can ever say it. "He was funny. Nobody writes that."
+- **Last:** For Dean: the Polaroid, left on his nightstand at Knob House and buttoned back into his pocket in the trailer: "Keep it." / "I'll lose it." / "You won't." Then "I owe you four dollars" in the gap. Then four dollars under a rock, stolen by Tuesday. A tab of acid he flushes twice so nobody can ever say it. "He was funny. Nobody writes that."
 
 ### Riley ↔ Cal
 - **Start:** She's a hobbyist. / He's a scold.

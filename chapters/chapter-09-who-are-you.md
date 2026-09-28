@@ -26,7 +26,7 @@ This is the chapter of the second album. It's made in a lodge on a mountain abov
 | 3 | Late Hour | Ellis → Riley | a television studio, New York, Thu Jun 10; Knob House, 1 a.m. | 25 min |
 | 4 | The Report | Ellis | the Blake kitchen, Sat Jun 19 | 20 min |
 | 5 | Sylva | Ellis | Sylva, North Carolina; a tailgate, Sat Jun 26 | 30 min |
-| 6 | The Argument | Ellis → Riley | a 1968 Impala, Apr 12, 1973 (memory); the dock, Tue Jun 29, 3 a.m. | 20 min |
+| 6 | The Argument | Ellis (at sixteen) → Ellis → Riley | a 1968 Impala, Apr 12, 1973 (memory); the dock, Tue Jun 29, 3 a.m. | 20 min |
 | 7 | Flush | Ellis | Knob House; the fire tower, Thu Jul 1 – Sun Jul 4 | 25 min |
 | 8 | Bottom | Dean → Cal | the Stony Knob pull-off; Knob House; the Pine Knot trailer court, Sat Jul 10 – Fri Jul 16 | 25 min |
 | 9 | The Tabernacle | all | the Tabernacle, Tannersville, Sat Jul 17 | 45 min |
@@ -35,7 +35,7 @@ This is the chapter of the second album. It's made in a lodge on a mountain abov
 | 12 | Bench | Ellis → Cal | Mercer Radio & TV, Tannersville, Tue Aug 3 | 20 min |
 | 13 | Grace's Room | Ellis (and Ellis at fifteen) | the Blake house, Sat Aug 14; July 1972 (memory) | 40 min |
 | 14 | Hallway | Ellis | the Blake house, same night | 10 min |
-| 15 | Plans | Ellis → Riley | the Blake kitchen; the dock, Sun Aug 22 | 15 min |
+| 15 | Plans | Ellis → Riley → Ellis | the Blake kitchen; the dock, Sun Aug 22 | 15 min |
 
 ---
 
@@ -90,7 +90,7 @@ The player can stand in the doorway of the room with Cal, and look at two bags o
 
 ### The pill
 
-Evening. The kitchen. Dean cooks spaghetti for eleven people in a pot meant for six. Frank and his assistant engineer, Russ Pickett (a quiet boy from Macon who calls Frank "Mr. Dalton"), come in from the truck. Tully, Theo, Riley, Eddie, who's staying one night.
+Evening. The kitchen. Dean cooks spaghetti for eleven people in a pot meant for six. Frank and his assistant engineer, Lamar Pickett (a quiet boy from Macon who calls Frank "Mr. Dalton"), come in from the truck. Tully, Theo, Riley, Eddie, who's staying one night.
 
 At 8:00 p.m. exactly, Ellis goes to the kitchen sink, takes a small blue tablet out of the white bottle, and takes it with water from a jelly glass he brought from home. He doesn't look at anyone. Nobody says anything.
 
@@ -114,7 +114,7 @@ It stutters. Catches. Fails. Snaps back to Cal.
 
 Then, a second later, clean, with the old grammar, it goes to Ellis, and the player is Ellis, sitting at a crowded table, looking down the length of it at an empty chair by a screen door.
 
-> **Design note — the third failure.** Twice in Chapter VIII the switch tried to go to Clara and couldn't. Here it tries to go to the place she would be, and there's nothing there even from Ellis's side. The camera is looking for her too. Some players will find that the most frightening thing in the game; others will find it the saddest. Both are right.
+> **Design note — the third failure.** Twice in Chapter VIII the switch tried to go to Clara and couldn't. Here it tries to go to the place she would be, and there's nothing there even from Ellis's side. The camera is looking for her too.
 
 ---
 
@@ -131,7 +131,7 @@ The body, as in Chapter VIII: slower. A beat of lag in the camera. Two-stage sta
 The world is the same color. The lake is the same green-black. The sound is the same. Clara isn't anywhere, and Observe is quiet, and the lines are short: *Lake. Still.* / *Frank asleep in the truck.* / *Tater in the water to his chest, looking at a frog.*
 
 And there are things the player has never been able to give Ellis before:
-- **He sleeps.** Every night. The game lets the player go to bed at eleven and skip to morning. He wakes up at seven with the light coming across the lake.
+- **He sleeps.** Every night. The player can go to bed at eleven and skip to morning. He wakes up at seven with the light coming across the lake.
 - **He eats.** Dean's pancakes, Riley's pancakes (burnt), Theo's gumbo on a Sunday, which the whole house fights over.
 - **He swims.** The lake is fed by a cold spring and the water is a shock. Riley goes in off the end of the dock every morning at seven. Ellis starts going in with her in the second week. The player can make him jump. Riley surfaces screaming about how cold it is every single morning like it's news.
 - **Tater.** The dog has decided the lodge is his. He sleeps across Ellis's door at night. He goes in the lake to his chest and stands there.
@@ -150,7 +150,7 @@ The player can take part in sessions in the great room: the Room system in a stu
 
 Ellis plays slower. The glide is gentler; he doesn't push the tremolo arm as far. His voice is steadier and has less in it. Cal adjusts first, playing a little more, filling what Ellis leaves. Dean pulls back. Riley's harmonies carry more of the weight. Frank watches all of it from the truck and doesn't say anything, and his takes are shorter.
 
-> **Design note.** The medicated Ellis isn't a worse musician. He's a different one: steadier, simpler, and less able to take the band somewhere nobody planned to go. The player can feel what's missing in the Room (no reach, fewer turns) and what's gained (he finishes things). The game doesn't pick.
+> **Design note.** The medicated Ellis is steadier, simpler, and less able to take the band somewhere nobody planned to go. In the Room he has no *reach* and fewer turns, and he finishes things.
 
 ### Fishing
 
@@ -164,7 +164,7 @@ A morning in late May, 5:40 a.m. The dock. Mist on the lake. Cal is already out 
 
 The player rows. (A rowing control; the johnboat goes in slow circles at first.) Out in the middle of the lake, anchored with a coffee can of concrete on a rope. Two lines in the water. Nothing biting. Mist.
 
-This is the longest conversation Cal and Ellis have had since Kenosha. It's not about Kenosha. The player chooses topics, but mostly the player waits, and Cal talks, which Cal almost never does.
+They haven't talked like this since Kenosha. It's not about Kenosha. The player chooses topics, but mostly the player waits, and Cal talks, which Cal almost never does.
 
 He talks about his grandfather.
 
@@ -186,7 +186,7 @@ The mist is lifting. A fish jumps somewhere behind them.
 
 **CAL:** Put the back on it. Put it on the shelf over the bench. It's still there. Daddy never sold it.
 
-A long pause. The player can hold it as long as they want.
+A long pause. No timer.
 
 **ELLIS:** Why'd you finish it?
 
@@ -202,20 +202,20 @@ The medicated Ellis can't do the thing Ellis used to do, the sudden specific ima
 
 They don't catch anything. They row back at eight. Riley is on the end of the dock in a towel, and says, "Anything?" and Cal says, "No," with great satisfaction.
 
-> **Setup.** The Philco on the shelf over the bench at Mercer Radio & TV has been in the background of every Mercer shop scene since Chapter I. In Mission 12, Ellis sees it, and knows what it is.
+> **Setup.** The Philco sits on the shelf over the bench at Mercer Radio & TV. In Mission 12, Ellis sees it, and knows what it is.
 
 ### New skin
 
-The first week of June. A weekday afternoon. The kitchen table at Knob House, the long pine one, in daylight. Everyone is down at the lake. Ellis has a Western Auto memo book, number 70, and the green notebook, and a pencil.
+The first week of June. A weekday afternoon. The kitchen table at Knob House, the long pine one, in daylight. Everyone is down at the lake. Ellis has a Western Auto memo book, number 70, and a pencil, and the green notebook, still blank, under his elbow.
 
 He's trying to write "New Skin." The first half of it was on a page Dex Lundgren tore out of memo book 68 on a bus in January. He can remember it, more or less. The player can see him write the first lines from memory, and they come out a little different:
 
 > *I gave you a birthday every year you didn't have one.*
 > *I gave you a jacket that already was yours.*
 
-(*didn't get one* has become *didn't have one*; *was already* has become *already was*. Memory, reconstructing. The player who read the bus version may notice.)
+(*didn't get one* has become *didn't have one*; *was already* has become *already was*.)
 
-And then he writes the rest of it, slowly, the way you'd work on an engine with the manual open. The songwriting system is here, the same one as "Still Here" in Chapter V, and the lines Ellis offers are plainer than they've ever been. There are no leaps. Every line is clear and true and simple, and the song, when it's done, is good in a way nothing he's written before is good: it doesn't reach. It just says it.
+And then he writes the rest of it, slowly, the way you'd work on an engine with the manual open. The songwriting system is here, the same one as "Still Here" in Chapter V, and the lines Ellis offers are plain. There are no leaps. The song, when it's done, doesn't reach. It just says it.
 
 > *I gave you a voice for the high part.*
 > *I gave you a road you never had to drive.*
@@ -242,13 +242,13 @@ He plays it for her on the Jazzmaster unplugged at the kitchen table, slowly, an
 
 They cut it that night in the great room in one take, the band in the square, Ellis singing it straight into a microphone with the chimney mic open thirty feet above him, and Frank, in the truck, says on the talkback: "That's the one," and nobody asks for another.
 
-> **Design note.** "New Skin" is finished on the medication, in daylight, in the kitchen. The game won't pretend the pills took Ellis's gift. They took some of it, and left a man who could finish a song about his sister without reaching for anything. Players will argue about whether it's his best song. Riley thinks it is. Ellis, later, won't be able to remember how he wrote it.
+> **Design note.** "New Skin" is finished on the medication, in daylight, in the kitchen. The pills took some of Ellis's gift and left a man who could finish a song about his sister without reaching for anything. Riley thinks it's his best song. Ellis, later, won't be able to remember how he wrote it.
 
 ### Clara?
 
 One evening, the player can take Ellis down to the dock alone at dusk. The lake still. The frogs. The lodge lights coming on behind him.
 
-There's a prompt that has never appeared before in the game: *Call.*
+There's a new prompt: *Call.*
 
 If the player presses it, Ellis says, quietly, to the lake:
 
@@ -276,7 +276,7 @@ They don't get him.
 
 Ellis flew up that morning with Eddie. He took his pill at eight on the plane with a Coke. He's calm. He's polite to the makeup woman, to the page, to the stage manager. He eats a sandwich. The player can walk him around the green room: a coffee urn, a bowl of fruit, a signed photograph of Orson Welles on the wall. Eddie is on the phone to Gil.
 
-The player may notice what isn't happening. No Clara on the counter. No looking at empty doorways. Nobody counting.
+No Clara on the counter. No looking at empty doorways. Nobody counting.
 
 ### The interview
 
@@ -285,7 +285,7 @@ The black set. Two chairs. Russ Mandel lights a cigarette and doesn't say anythi
 This is the chapter's dialogue scene, and it's built on the same grammar the game has used for eight chapters: timing, topic, disclosure, silence. But the medication is in the system now, and the player can feel it in their hands:
 
 - **Every answer option is fluent.** The options the game offers are polite, clear, complete sentences. The mock-formal deflections (*Allegedly.* / *That's a matter for the courts.*) aren't there. Neither are the sudden images.
-- **Silence doesn't hold.** The player can press and hold the silence input, the way they have all game. Ellis holds it for a second, two, and then fills it anyway, pleasantly, with a sentence. The game lets the player try this as often as they like. It never holds.
+- **Silence doesn't hold.** The player can press and hold the silence input, the way they have all game. Ellis holds it for a second, two, and then fills it anyway, pleasantly, with a sentence. No limit on tries. It never holds.
 
 Some of what's said:
 
@@ -309,7 +309,7 @@ The audience laughs. Russ laughs.
 
 **ELLIS:** Fourth place is a crime against God and peanuts. I won't say where. They know who they are.
 
-(It's the peanut-ranking bit the band has heard a hundred times in the van, word for word, and it's funny, and he delivers it perfectly, on time, to the laugh. The player who knows Ellis will notice he's never delivered anything on time to a laugh in his life.)
+(It's the peanut-ranking bit the band has heard a hundred times in the van, word for word, and he delivers it perfectly, on time, to the laugh.)
 
 ---
 
@@ -335,7 +335,7 @@ Russ looks at him through the smoke for a long time. The player, holding silence
 
 **ELLIS:** No sir.
 
-It's true. It's the only true thing he says all night, and nobody knows it.
+It's true, and nobody knows it.
 
 ---
 
@@ -349,7 +349,7 @@ The audience goes quiet. Russ lets it.
 
 **ELLIS:** She'd have liked the record. She'd have told me the drums were too loud. She rode horses. She was bossy.
 
-It's a perfect answer: warm, specific, sad, brief. The audience is moved. Russ is moved. The player, if they've played the game, knows every word of it is true and none of it is what Ellis would ever have said on television, and that the man saying it is a very nice young man they don't recognize.
+It's a perfect answer. The audience is moved. Russ is moved. Every word of it is true, and none of it is anything Ellis would have said on television.
 
 ### The broadcast
 
@@ -373,7 +373,9 @@ Riley can look around the kitchen at their faces in the television light. Cal ha
 
 **RILEY:** That's not him.
 
-Nobody argues.
+**CAL:** He slept eight hours. That's him too.
+
+Nobody says anything after that.
 
 ### After
 
@@ -381,7 +383,7 @@ It's the best thing that ever happened to the franchise, in Gil Tarver's phrase,
 
 Dex Lundgren, in a bar in Detroit, watches the rerun on the bar television and says to nobody, "What did they do to him," and orders another drink, and takes out his notebook, and doesn't write anything.
 
-> **Design note — the medicated interview.** Two televised silences in a row would repeat. So the second television appearance has no silence in it. It has the opposite: a system where the player can't make silence hold. The country loves the medicated Ellis, which says everything about the country and nothing bad about the medication. The band doesn't recognize him, which says something about both.
+> **Design note — the medicated interview.** Two televised silences in a row would repeat, so the second television appearance has no silence in it: the player can't make silence hold. The country loves the medicated Ellis. Riley doesn't recognize him. Cal does.
 
 ---
 
@@ -417,11 +419,11 @@ He takes out his Case pocketknife and opens the blade and holds it out, handle f
 
 The prompt: *Open it.*
 
-The player can wait. When they press it, Ellis slits the envelope with his father's knife.
+No timer. When the player presses it, Ellis slits the envelope with his father's knife.
 
 ### The document
 
-This is a document-reading scene, and the game treats the document as seriously as the player does. The report is a real object: a Georgia State Patrol motor vehicle accident report, carbon-copy form, typed, with a diagram hand-drawn in pencil on the back. The player can read every field, turn it over, go back. Ellis reads with them. Wayne watches Ellis read.
+This is a document-reading scene. The report is a real object: a Georgia State Patrol motor vehicle accident report, carbon-copy form, typed, with a diagram hand-drawn in pencil on the back. The player can read every field, turn it over, go back. Ellis reads with them. Wayne watches Ellis read.
 
 What it says:
 
@@ -447,7 +449,7 @@ And then Pruitt's supplement, in the manila folder: two typed pages and a carbon
 
 ### What he reads
 
-The player can read in any order. Wherever they end, the game makes sure they've read three things, and Ellis has too.
+The player can read in any order. The scene can't end until three things have been read:
 
 *We were arguing and I looked at her.* He doesn't remember arguing. He doesn't remember saying this to anyone.
 
@@ -457,7 +459,7 @@ The player can read in any order. Wherever they end, the game makes sure they've
 
 Ellis puts the pages down on the oilcloth, square, the way his father would.
 
-The medication is in the scene. The player can feel it: the camera slow, Ellis's hands steady on the paper, his face not doing anything. He's reading the most important document of his life, and he's calm, and the player can see that the calm is chemical and that underneath it something is happening very slowly, like weather behind a mountain.
+The medication is in the scene: the camera slow, Ellis's hands steady on the paper, his face not doing anything. Underneath it something is happening very slowly, like weather behind a mountain.
 
 ### Wayne
 
@@ -473,7 +475,7 @@ The medication is in the scene. The player can feel it: the camera slow, Ellis's
 
 **WAYNE:** I said there wasn't any truck.
 
-A long pause. The player can hold it, and here, at home, the silence holds.
+A long pause. Here, at home, the silence input holds.
 
 **ELLIS:** Why?
 
@@ -481,7 +483,7 @@ Wayne looks at the window over the sink. The same window he looked at when Riley
 
 **WAYNE:** I couldn't have it be nobody's.
 
-That's all of it. He doesn't explain further. He doesn't apologize. The player may understand the sentence better than Ellis can right now.
+That's all of it. He doesn't explain further. He doesn't apologize.
 
 The player gets Ellis's options. The medication makes them few and plain:
 
@@ -501,7 +503,7 @@ Wayne folds his knife and puts it in his pocket.
 
 **WAYNE:** I'll drive you.
 
-> **Design note.** Wayne's confession is one sentence, and it's the truest thing he says in the game: he needed a person to blame, because a truck that never stopped and was never found left him nothing to be angry at, and he couldn't live in that. So he made it his son. The game doesn't let him explain it better than that, because he can't.
+> **Design note.** Wayne's confession is one sentence. He needed a person to blame: a truck that never stopped and was never found left him nothing to be angry at, and he couldn't live in that. So he made it his son. He doesn't explain it better than that, because he can't.
 
 
 ---
@@ -516,9 +518,17 @@ Wayne picks Ellis up at the foot of the Knob House lane at six in the morning in
 
 The road north from Stony Knob goes up through the North highlands and off the edge of the map: the fire tower going by, the last Georgia mailbox, a hand-painted sign for a Holiness revival, and then the travel transition, a green sign, NORTH CAROLINA WELCOMES YOU, and the mountains getting bigger and darker and wetter.
 
-It's three and a half hours. They don't talk much. The player can do the passenger things: look out the window, sleep (the medication makes it easy, and if the player lets him, the game skips forty minutes and he wakes up with his head against the window and a crease on his face), tune Wayne's AM radio (a gospel quartet out of Asheville; a swap-shop program where a man is trying to trade a chainsaw for a shotgun; the farm report), or talk.
+It's three and a half hours. They don't talk much. The player can do the passenger things: look out the window, sleep (the medication makes it easy, and if the player lets him, the game skips forty minutes and he wakes up with his head against the window and a crease on his face), tune Wayne's AM radio (a gospel quartet out of Asheville; a swap-shop program where a man is trying to trade a chainsaw for a shotgun; the farm report), open the glovebox, or talk.
 
-If the player talks, Wayne answers with one word. Except once. If the player asks where they are, somewhere past the state line, Wayne says, "Balsam Gap," and then, after a mile, without being asked: "Your granddaddy worked a section up here in the thirties. Before me. Said it was the prettiest track in the South and the worst to keep." That's all. It's the most he's said about his own father in the game.
+- **The converter.** Under the dash, on 88.9. As the fire tower goes by, Wayne turns it on. Static. He listens to it for a mile and turns it off. *(If Ellis left it on 97.1 in Chapter VII, Wayne doesn't turn it on. He looks at it and says, "Somebody moved my radio last fall.")*
+- **The glovebox.** Ellis opens it for a map. There's no map. Every clipping about the band, folded flat, and on top the *Rave* article from January, open to the paragraph about Grace. Ellis closes it. Wayne drives.
+- **Behind the seat** *(if Ellis left a copy on the kitchen table in Chapter VII)*: *Borrowed Stone*, still in its shrink-wrap.
+- **The chickweed** *(if Ellis pulled it in Chapter VII)*. Somewhere past the state line:
+  **WAYNE:** You been up the hill.
+  **ELLIS:** How do you know?
+  **WAYNE:** Somebody did the chickweed.
+
+If the player talks, Wayne answers with one word. Except once. If the player asks where they are, somewhere past the state line, Wayne says, "Cowee Gap," and then, after a mile, without being asked: "Your granddaddy worked a section up here in the thirties. Before me. Said it was the prettiest track in the South and the worst to keep." That's all.
 
 ### Hollis Beam
 
@@ -536,7 +546,7 @@ His wife, **Nell**, brings iced tea out to the porch and sets it down and goes b
 
 Three chairs on a porch facing the mountains. Hollis in one, Wayne in one, Ellis in the middle.
 
-This is a conversation the player drives by topic (*the truck; the car; what you heard; after; the funeral*) and by silence, and Hollis is the most careful witness in the game. He's thought about this every day for three years. He's afraid of saying anything he isn't sure of.
+This is a conversation the player drives by topic (*the truck; the car; what you heard; after; the funeral*) and by silence. Hollis has thought about this every day for three years. He's afraid of saying anything he isn't sure of.
 
 The truck:
 
@@ -560,13 +570,9 @@ He stops. He looks at Ellis to see if he should go on. The player can hold silen
 
 **HOLLIS:** And she said— she told you to stop saying sorry. Just like that. Like a sister. "Stop saying sorry."
 
-It's in the report. The player read it in Mission 4. It's different, hearing a man say it on a porch.
-
 After:
 
-**HOLLIS:** I ran to the nearest house. The Hensley place. Opal Hensley's porch light was the only one on the road. She let me use the phone in the hall. Then she got a blanket and came back down the road with me, in her housecoat, in the rain.
-
-The player may remember a woman at the corner of the bar at Marlon's, every Thursday since the first night of the game, stirring the same Coca-Cola for an hour and saying nothing to anyone.
+**HOLLIS:** I ran to the nearest house. The Hensley place. Theirs was the only porch light on the road. The lady there let me use the phone in the hall. Then she got a blanket and came back down the road with me, in her housecoat, in the rain.
 
 **HOLLIS:** When we got back she was talking. Your sister. Low. To you. I couldn't make it out. I'm sorry. I've thought about it for three years. I can't tell you what she said.
 
@@ -580,13 +586,13 @@ A pause.
 
 Ellis doesn't say anything. The medication is holding his face still. The player can see his hand on the arm of the porch chair.
 
-**HOLLIS:** She passed before Pettigrew got there. I was holding the flashlight. Opal had her hand. That's all I know. That's everything I know.
+**HOLLIS:** She passed before Pettigrew got there. I was holding the flashlight, and the lady from the house, she had her hand. That's all I know. That's everything I know.
 
 The funeral (only if the player asks):
 
 **HOLLIS:** I went. I stood in the back. There was a woman back there too. Dark-headed. Pretty. She left before the dinner.
 
-Wayne makes a sound, very small. The player may know who the woman was. Wayne does.
+Wayne makes a sound, very small. He knows who she was.
 
 ### Wayne and Hollis
 
@@ -622,7 +628,7 @@ On the highway south of Sylva, a gravel pull-off with a view of the Balsams, and
 
 Wayne pulls off without asking and buys two paper sacks, wet through at the bottom. He drops the tailgate. They sit on it, side by side, with the mountains in front of them, and eat boiled peanuts, cracking them with their thumbs, sucking the brine, dropping the shells in the gravel.
 
-They don't say anything for a while. The player can just eat. It's one of the few scenes in the game with nothing to do but be there.
+They don't say anything for a while. The player can just eat.
 
 Then:
 
@@ -654,10 +660,10 @@ After a long time, looking at the mountains, not at his son:
 
 **WAYNE:** I'm sorry.
 
-The player gets Ellis's options, and they're few, and none of them is forgiveness, because that isn't how this works:
+The player gets Ellis's options, and they're few, and none of them is forgiveness:
 
 - **"Okay."**
-- **"Me too."** Wayne looks at him. He doesn't know what Ellis means, yet. The player, after the next mission, will.
+- **"Me too."** Wayne looks at him. He doesn't know what Ellis means, yet.
 - **Silence.** Ellis cracks a peanut. Wayne cracks one.
 
 It doesn't fix anything. Wayne says it anyway.
@@ -668,7 +674,7 @@ Then:
 
 **ELLIS:** That's why they're second.
 
-> **Design note.** The quietest scene in Chapter IX. Wayne apologizes twice today, once to a stranger and once to his son, both times with his eyes on the mountains. Neither apology is accepted, and neither is refused. Then they talk about salt, and it's the best afternoon they've had together since 1972, and it's in North Carolina, and there's a dead girl in every sentence.
+> **Design note.** Wayne apologizes twice today, once to a stranger and once to his son, both times with his eyes on the mountains. Neither apology is accepted, and neither is refused. Then they talk about salt.
 
 ---
 
@@ -700,7 +706,7 @@ The passenger door opens and a girl gets in, fast, wet, laughing at something, w
 
 **GRACE:** Dolly threw a shoe. Mr. Tolliver had to hold her.
 
-The player drives. It's the same road the player drove in Chapter VIII, in the same direction, three years earlier, at dusk in the rain. The speedometer is visible. The player can drive it at whatever speed they want, and the needle, whatever they do, settles near forty-five, the way it would for a careful sixteen-year-old with seven months on his license and somewhere to be.
+The player drives. Rain. The low-water bridge will be under. He turns right out of the farm lane, the back way, the way Daddy always said. It's the same road the player drove in Chapter VIII, in the same direction, three years earlier, at dusk in the rain. The speedometer is visible. The player can drive it at whatever speed they want, and the needle, whatever they do, settles near forty-five, the way it would for a careful sixteen-year-old with seven months on his license and somewhere to be.
 
 The dialogue plays. The player can't choose any of it. This happened. The player can steer, and can look at her.
 
@@ -732,7 +738,7 @@ She laughs. It's Grace's laugh, the one on the tapes (the player hasn't heard th
 
 **ELLIS:** It's accurate.
 
-She laughs again. The wipers. The fields going by. It's a good moment, two kids in a car, and the game gives it its full length.
+She laughs again. The wipers. The fields going by. It's a good moment, two kids in a car, and it runs its full length.
 
 Then she looks out the window, and when she looks back it's turned.
 
@@ -762,7 +768,7 @@ Then she looks out the window, and when she looks back it's turned.
 
 **GRACE:** You're gonna be exactly the same. You're gonna be gone and you won't even call me.
 
-The player may notice the car is on the long straight before the Tolliver Bend curve. The oak isn't visible yet. The player drove this road in March and knows where it is.
+The car is on the long straight before the Bend. The oak isn't visible yet.
 
 **ELLIS:** When I go, I'm not coming back for you. You can stay here with him.
 
@@ -778,7 +784,7 @@ A prompt appears. It's the only input on the screen besides the wheel.
 
 *Look at her.*
 
-The game waits. The road keeps coming, slowly, the curve starting, the car at forty-five. The player can hold off. The car keeps moving. The rain keeps falling. She keeps looking out her window. The curve is coming.
+No timer. The road keeps coming, slowly, the curve starting, the car at forty-five. The player can hold off. The car keeps moving. The rain keeps falling. She keeps looking out her window. The curve is coming.
 
 When the player presses it (and the player has to, eventually, because this happened), the camera turns off the road, to the right, to his sister. Her face is turned away. Her hand is on the door. The horse on her pocket, sewn on crooked.
 
@@ -788,7 +794,7 @@ Cut to black.
 
 Silence.
 
-> **Design note — the look.** The state patrol report, which the player read two missions ago, says: *"We were arguing and I looked at her."* The player just did it. They held the wheel the whole way at forty-five and were given one other input, and it was to look at her. The game makes the player perform the glance the whole crash turns on, so they understand in their hands what Ellis has understood for three years in his body: it was one second, it was ordinary, it was love and anger at once, and a truck he couldn't have known was there came around a bend with its brights on. The memory stops at the white. It doesn't show the oak. It doesn't show after. Chapter X does.
+> **Design note — the look.** The report says *"We were arguing and I looked at her."* Here the player holds the wheel at forty-five and is given one other input: *Look at her.* The memory stops at the white. It doesn't show the oak or after. Chapter X does.
 
 ### The kitchen
 
@@ -806,7 +812,7 @@ The player, as Riley, goes down. She takes a flashlight from the hall table. She
 
 He's at the end of the dock in the rain. She walks out to him. She sits down beside him. She's in a T-shirt and her father's pajama pants and she's soaked in ten seconds.
 
-He doesn't say anything for a long time. The player can wait. Riley can wait.
+He doesn't say anything for a long time. Riley can wait.
 
 **ELLIS:** I told her I wasn't coming back for her.
 
@@ -863,17 +869,17 @@ There's one prompt on the screen, and it isn't *Take it.* It's:
 
 *Palm it.*
 
-The player can wait as long as they like. Nobody's watching; Riley is flipping a pancake. When the player presses it, Ellis closes his hand, turns on the tap, drinks the water, and puts his closed hand in his jeans pocket. It's a mechanic's move, quick and easy, the way you'd pocket a bolt.
+No timer. Nobody's watching; Riley is flipping a pancake. When the player presses it, Ellis closes his hand, turns on the tap, drinks the water, and puts his closed hand in his jeans pocket. It's a mechanic's move, quick and easy, the way you'd pocket a bolt.
 
 Upstairs, in his room, he puts the tablet in an empty Sucrets tin at the back of the dresser drawer.
 
-> **Design note — why.** Ellis stops the medication because he remembered what he said to his sister, and the medicine keeps that at a distance, like weather behind a mountain, and he can't stand it being at a distance. And because Clara is the only Grace he has. He said *I'm not coming back for you* and she looked out the window, and then she was gone, and then Clara was there. He took a pill that sent Clara away too. He can't do it twice. The game doesn't say this is wise. It says it's grief. It lets the player's hand do it with a prompt that names the act exactly (*Palm it*), like *Make her stop* in Chapter VIII: the few times the game makes you do a thing, it tells you plainly what the thing is.
+> **Design note — why.** Ellis stops the medication because he remembered what he said to his sister, and the medicine keeps that at a distance, like weather behind a mountain, and he can't stand it being at a distance. And because Clara is the only Grace he has. He said *I'm not coming back for you* and she looked out the window, and then she was gone, and then Clara was there. He took a pill that sent Clara away too. He can't do it twice. The prompt names the act exactly (*Palm it*), like *Make her stop* in Chapter VIII.
 
 ### Day two
 
 Friday, 3:05 a.m. Awake. The player walks the dark house: the gallery over the great room, the truck's red standby light through the kitchen window, the chimney, the lake through the west windows with the moon on it. Everyone asleep. Tater asleep across Ellis's door; the player has to step over him.
 
-The Observe cue comes back, faint, after two months. The line is still short: *Moon on the lake like a dropped plate.* It's longer than *Lake. Still.*
+The Observe cue comes back, faint, after nearly three months. The line is still short: *Moon on the lake like a dropped plate.* It's longer than *Lake. Still.*
 
 ### Day three
 
@@ -881,7 +887,7 @@ Saturday afternoon. A session in the great room. The band in the square on the r
 
 The Room system is different today, and the player can feel it immediately: the sound has more presence, more air, a little more high end, like somebody took a blanket off the speakers. Ellis's hands are quicker. When the player uses *reach* ("Stay with me"), Ellis leaves the arrangement of "Knob House" and goes somewhere nobody planned, and the band follows him, all three at once, and it's the old thing, the thing that made them. Frank's voice on the talkback, from the truck: "Well, *hello*."
 
-It's thrilling. The player should feel that. Cal looks at Ellis across the square. Riley looks at Ellis across the square. Both of them notice he's brighter. Riley also notices he didn't come down for breakfast because he never went to bed.
+It's thrilling. Cal looks at Ellis across the square. Riley looks at Ellis across the square. Both of them notice he's brighter. Riley also notices he didn't come down for breakfast because he never went to bed.
 
 ### Day four
 
@@ -891,7 +897,7 @@ Evening. The whole house goes down the gravel lane a quarter mile to the Stony K
 
 The overlook. The guardrail. The long view both ways.
 
-At 9:30 p.m. it starts, and it's one of the most beautiful things in the game, and the game lets it be only that for a while:
+At 9:30 p.m. it starts:
 
 - **West**, forty miles off, over the Laurel Gap, on the horizon: Laurel City's fireworks, small, silent, gold and red chrysanthemums opening on the rim of the world.
 - **East**, forty-five miles off, over the Tanner Valley: Tannersville's, the same, a different rhythm, blue and white.
@@ -909,7 +915,7 @@ The Stony Knob fire tower: a steel frame, sixty feet high, with switchback stair
 
 On the first landing, sitting on a step with her boots on the rail, in the jean jacket, lit gold and blue and red by fireworks on two horizons at once, is Clara.
 
-She's brighter than the player has ever seen her. Sharper. More there. The player's first reaction may be relief. The game allows it.
+She's brighter than she's ever been. Sharper. More there.
 
 **CLARA:** Hey.
 
@@ -919,17 +925,17 @@ She's brighter than the player has ever seen her. Sharper. More there. The playe
 
 **ELLIS:** I know.
 
-**CLARA:** Five weeks.
+**CLARA:** Two months.
 
-**ELLIS:** Nine.
+**ELLIS:** Twelve weeks. Since the eighth of April.
 
 **CLARA:** You counted?
 
 **ELLIS:** Cal counts. I just know what day it is.
 
-She almost smiles. It's the old back-and-forth, and the player has missed it, and so has he.
+She almost smiles.
 
-**CLARA:** Don't do it again.
+**CLARA:** Don't do it again. Now sit down. You're blocking Tannersville.
 
 He sits down on the step below her.
 
@@ -946,8 +952,6 @@ She does. She knows now what he knows.
 Clara doesn't answer right away. The fireworks in the west: three gold ones at once.
 
 **CLARA:** Ask me something I know.
-
-It isn't cruel. It's the most honest thing she's ever said to him, and he stopped the medicine to hear an answer she can't give.
 
 A long time. The Hollow Ridge fireworks thumping up the mountain.
 
@@ -993,7 +997,7 @@ Dean has done this four times since February. He drives down the mountain at two
 
 There's a glass vial in his hand. He's been clean for eleven days, and then not, and then clean for four, and then not.
 
-The player has two things to do here and the game lets them do both or neither: watch Lynette, and not go in. The door is right there, forty feet away. The prompt to go in appears, and fades if the player waits, and appears again. If the player gets Dean out of the car, he stands by the fender for a while, and then gets back in. He can't go in like this. Nobody has to tell him.
+The player has two things to do here, both optional: watch Lynette, and not go in. The door is right there, forty feet away. The prompt to go in appears, and fades if the player waits, and appears again. If the player gets Dean out of the car, he stands by the fender for a while, and then gets back in. He can't go in like this. Nobody has to tell him.
 
 He does a bump off the back of his hand. The camera stays on the diner window, on Lynette, not on him.
 
@@ -1017,17 +1021,17 @@ He takes the vial out of his pocket.
 
 The prompt: *Pour it out.*
 
-The player can hold off. Dean holds the vial up in the light from the dash and looks at it. If the player waits long enough (and the game will wait), he pours it out anyway, because this is Dean's bottom, not the player's, and Dean decides. If the player presses the prompt, he pours it out into the gravel through the window.
+The player can hold off. Dean holds the vial up in the light from the dash and looks at it. If the player waits long enough, he pours it out anyway, because this is Dean's bottom, not the player's, and Dean decides. If the player presses the prompt, he pours it out into the gravel through the window.
 
 He turns off the engine. He turns off the radio. He gets out of the car and leaves it in the ditch with the door open and the one headlight on and starts walking up the mountain.
 
 ### The walk
 
-Two miles. The player walks it. It's 3 a.m., then 4, then the sky going gray behind the fire tower. No music. Frogs, then birds. Dean in his satin jacket with his hands in his pockets. The game makes the walk long and doesn't fill it. It's the only time in the game Dean is silent and alone for this long, and the player spends it with him.
+Two miles. The player walks it. It's 3 a.m., then 4, then the sky going gray behind the fire tower. No music. Frogs, then birds. Dean in his satin jacket with his hands in his pockets.
 
 ### The bathroom
 
-Knob House, 5:50 a.m. Everyone asleep. The player takes Dean upstairs, quietly, to his room by the bathroom (the player may now understand why Cal gave him that room).
+Knob House, 5:50 a.m. Everyone asleep. The player takes Dean upstairs, quietly, to his room by the bathroom.
 
 In the closet, on the shelf, a Buster Brown shoebox. (Every family in the South has a Buster Brown shoebox.) Inside: four more vials, a small round mirror, a single-edged razor blade, a cut straw. The same three things his mother laid on his father's desk in November.
 
@@ -1056,7 +1060,7 @@ Cal calls his sister June, the nurse, on the party line at 6:30 a.m. with two ne
 The house arranges itself around it without a meeting:
 - **Tully** drives down with the crew truck and a chain at 8 a.m. and pulls the Corvette out of the ditch, and drives it up to the lodge, and parks it behind the truck where Dean can't see it, and pockets the keys.
 - **Riley** makes pancakes. They're burnt. Dean eats four.
-- **Ellis**, who isn't sleeping either now (the player knows why; Dean doesn't), sits up with Dean in the small hours of the second night on the back porch, two wide-awake men at 3 a.m., not talking much, listening to the frogs. At one point Dean says, "You're up too." Ellis says, "Yeah." Dean says, "Why?" Ellis says, "Couldn't tell you." It's the truth, in a way.
+- **Ellis**, who isn't sleeping either now (the player knows why; Dean doesn't), sits up with Dean in the small hours of the second night on the back porch, two wide-awake men at 3 a.m., not talking much, listening to the frogs. At one point Dean says, "You're up too." Ellis says, "Yeah." Dean says, "Why?" Ellis says, "Couldn't tell you. Reckon it's the frogs."
 - **Frank** stops all sessions for three days without being asked and goes fishing, badly.
 
 ### Le Guin
@@ -1079,7 +1083,7 @@ The player, as Cal, reads. The text scrolls. The player can control the pace, an
 
 **CAL:** That's how everybody sounds.
 
-**DEAN:** Please. I'm dying. Do a voice.
+**DEAN:** Exactly. Please, Dad. I'm dying. Do a voice.
 
 Cal reads another paragraph in exactly the same voice.
 
@@ -1087,11 +1091,11 @@ Theo, in the doorway in his undershirt with a cup of tea, says the next line of 
 
 Cal keeps reading. Same voice. Theo sits down on the floor against the doorframe with his tea and listens.
 
-> **Design note.** The funniest scene in Chapter IX turns into something else in the middle of a sentence, and the book doesn't stop, and the voice doesn't change. It's the same move the band makes onstage: somebody loses it, and the others keep playing so there's something to come back to.
+> **Design note.** The scene turns into something else in the middle of a sentence, and the book doesn't stop, and the voice doesn't change. It's the move the band makes onstage: somebody loses it, and the others keep playing so there's something to come back to.
 
 ### Night three
 
-Dean sleeps. Cal is asleep in the chair with the book open on his chest, glasses crooked. The player can look at them both. Theo takes the glasses off Cal's face and folds them and puts them on the nightstand next to a glass of water, and turns off the lamp.
+Dean sleeps. Cal is asleep in the chair with the book open on his chest, glasses crooked. The player can look at them both. On the nightstand, propped against the lamp, is the Polaroid from the Starlite, Dean's ketchup thumbprint on the border. It had been in the frame of Ellis's mirror since November 1974. Ellis left it there on the second night. Nobody mentions it. Theo takes the glasses off Cal's face and folds them and puts them on the nightstand next to a glass of water, and turns off the lamp.
 
 ### The step
 
@@ -1119,7 +1123,7 @@ After a few minutes she comes back out with a glass of iced tea and hands it to 
 
 He sits on the step with the tea and listens to her son play the drums badly, for forty minutes, until Tully honks once, gently, from the truck.
 
-That's enough. The game lets it be enough.
+That's enough.
 
 
 ---
@@ -1142,7 +1146,7 @@ The player arrives as Cal, at four, with the crew, and gets to walk it empty:
 - The gallery. A plaque on the rail about a benefactor.
 - The acoustics. Cal stands on the stage and says "Check," once, not loud, and the whole building says it back, warm, clear, from every direction, and dies away in exactly the right amount of time. Theo, at a folding table in the center aisle where he'll mix, puts his hands flat on the table and says "Oh," and nothing else for a while.
 
-It's the best room in the game. Frank Dalton has said so for years.
+Frank Dalton has called it the best room in the South for years.
 
 ### The class
 
@@ -1165,7 +1169,7 @@ The doors open at seven. The player can switch freely now among the four as they
 - **Cal** sees his parents, in the third row. Walt Mercer has never been to one of their shows. He's in his church suit. Dot is waving. Walt isn't, and doesn't need to.
 - **Dean** sees his parents and Patty, in the sixth row. Richard Holloway in a blazer, looking at the Tabernacle's ceiling the way he looks at a well-built balance sheet. Dean is seven days sober. He hasn't told them. He'll tell them tomorrow at six o'clock.
 - **Riley** sees her father, next to the aisle, in his tie with the atoms on it, and Professor Landry and his wife, halfway back, Landry looking deeply suspicious of the whole proceeding.
-- **Ellis** sees Clara, in the wings beside him, radiant, the brightest the player has ever seen her. And then, if the player lets him look up at the gallery, he sees, in the second row of the gallery, at the rail, a man in a hat. Wayne came. Roy Cagle is beside him in a sport coat that doesn't fit.
+- **Ellis** sees Clara, in the wings beside him, radiant, watching him pick at the tape on his set list. "Quit that," she says. "You'll have nothing to read." And then, if the player lets him look up at the gallery, he sees, in the second row of the gallery, at the rail, a man in a hat. Wayne came. Roy Cagle is beside him in a sport coat that doesn't fit.
 
 ### "Wondrous Love"
 
@@ -1173,7 +1177,7 @@ It opens with the class, alone.
 
 The house lights go down. The stage lights come up on forty-one people in a hollow square, facing each other, and an eighty-one-year-old man in the middle with his hand raised. There is no band on the stage.
 
-Elmer Tidwell calls the page number in a voice that reaches the back of the gallery without a microphone. They sing the shapes first, *fa sol la mi*, at full voice, and the sound that comes off that stage in that building is the loudest and strangest and most beautiful sound in the game, and two thousand three hundred people who came for a rock band sit absolutely still.
+Elmer Tidwell calls the page number in a voice that reaches the back of the gallery without a microphone. They sing the shapes first, *fa sol la mi*, at full voice, in that building, and two thousand three hundred people who came for a rock band sit absolutely still.
 
 Then the words:
 
@@ -1183,7 +1187,7 @@ The player is Ellis, in the wings, in the dark. He's been hearing this music sin
 
 With *attention*, the player can look up at the gallery during the second verse.
 
-Wayne Blake is standing up at the rail. He's singing. The bass line, from memory, a line his mother taught him fifty years ago in a country church. The player can hear him, faintly, when they look: the mix lets one voice come through out of two thousand three hundred. A big rough bass, half a beat behind, sure of every note. The player has never heard Wayne sing. Nobody in this game has. He's forty-seven, and he sings like somebody who used to be loud and funny and stopped.
+Wayne Blake is standing up at the rail. He's singing. The bass line, from memory, a line his mother taught him forty years ago in a country church. The player can hear him, faintly, when they look: the mix lets one voice come through out of two thousand three hundred. A big rough bass, half a beat behind, sure of every note. He's forty-seven, and he sings like somebody who used to be loud and funny and stopped.
 
 When the player looks back at the wings, Clara is gone.
 
@@ -1201,13 +1205,13 @@ The performance is the richest the Room system gets before Chapter X. The switch
 
 ### The lost verse
 
-"New Skin" was written on the medication, in daylight, at a kitchen table. Ellis has been off the medication for seventeen days. The player is Ellis. The first verse goes fine; everybody knows the first verse, because *Rave* is about to print it.
+"New Skin" was written on the medication, in daylight, at a kitchen table. Ellis has been off the medication for seventeen days. The player is Ellis. The first verse comes; it's the part he wrote before the pills.
 
 The second verse doesn't come.
 
 The player can feel it happen. The camera tightens. The sound narrows (not a switch; the other thing, a room going away). Ellis is at the mic, and the band is going around into the second verse, and he doesn't have it. Not the words. Not the shape of it. The song was written by a man he can't reach from here. He opens his mouth and nothing is in it.
 
-Clara is at his shoulder, suddenly, singing something, but it's the wrong song. It's "Still Here." It's her song.
+Clara is at his shoulder, singing something, but it's the wrong song. It's "Still Here." It's her song.
 
 Switch, on a stutter the player didn't choose: the camera goes to Cal.
 
@@ -1215,7 +1219,7 @@ The player is Cal. Cal has one second to decide, and the game gives the player t
 
 If the player does it, Ellis hears it. He finds the melody under the words, and the words come back behind it, a line late, and he sings the verse a line late with Cal playing it under him like a man walking a horse across a creek.
 
-If the player doesn't, Riley sings the verse from her mic (she's heard him sing it forty times at the lodge), and Ellis comes in on the chorus. It works. It's not as good. The player will know Cal could have done it.
+If the player doesn't, Riley sings the verse from her mic (she's heard him sing it forty times at the lodge), and Ellis comes in on the chorus. It works. It's not as good.
 
 Either way, the crowd thinks it's an arrangement. Nobody in the pews knows. Frank, in the back of the house next to Theo, knows. Joan, in the square, knows. Wayne, in the gallery, knows.
 
@@ -1231,7 +1235,7 @@ Riley, at her mic, turns around and looks at her mother.
 
 Elmer Tidwell steps out of the middle of the square and holds his hand out to Joan, and after a long moment, she stands up, and puts her book down on her chair, and walks into the middle of the hollow square, where the leader stands, and raises her hand.
 
-The player is Riley. The player gets nothing to do but watch. The game gives her no verb. She watches her mother call out a page number in the Tannersville Tabernacle in front of two thousand three hundred people, and beat the time, and bring in forty-one singers and a rock band and, by the second verse, the whole building, on "Holy Manna":
+The player is Riley, with no verb. She watches her mother call out a page number in the Tannersville Tabernacle in front of two thousand three hundred people, and beat the time, and bring in forty-one singers and a rock band and, by the second verse, the whole building, on "Holy Manna":
 
 *Brethren, we have met to worship*
 *and adore the Lord our God…*
@@ -1240,21 +1244,21 @@ It's the hymn from the Linwood living room at Thanksgiving. Joan Riley is leadin
 
 Up in the gallery, Tom Riley is standing on a pew. Landry has his hand over his mouth.
 
-> **Design note.** The set piece of Chapter IX. A building the country-music establishment abandoned, filled with a sound older than country music and louder than rock, led for one hymn by a woman who never got to lead anything. Nobody onstage says what it means. Riley has no line. The game doesn't let her have one.
+> **Design note.** The set piece of Chapter IX: a building the country-music establishment abandoned, a sound older than country music, and one hymn led by a woman who never got to lead anything. Riley has no line.
 
 ### After
 
 The alley behind the Tabernacle, midnight. The class loading their buses. Elmer Tidwell shakes Ellis's hand and says "Your grandmama would've hollered," which is the highest praise in Sacred Harp.
 
 Brief things, each one playable for a moment as whoever is nearest:
-- **Walt Mercer** finds Cal at the stage door, in his church suit, and shakes his hand, which he has never done. Then he shakes Theo's, who is standing beside Cal. He doesn't say anything. He doesn't need to. Dot hugs both of them and talks for four minutes without stopping.
+- **Walt Mercer** finds Cal at the stage door, in his church suit, and shakes his hand, which he has never done. Then he shakes Theo's, who is standing beside Cal. He doesn't say anything. Dot hugs both of them and talks for four minutes without stopping.
 - **Richard Holloway** finds Dean by the buses. Dean is shaking a little; seven days. Richard looks at him for a long time.
   **RICHARD:** Dinner's at six.
   **DEAN:** I know.
   **RICHARD:** Tomorrow.
   **DEAN:** I'll be there.
   Richard nods, once, and goes to find the car. Patty, behind him, punches Dean in the arm, hard, and then hugs him, harder.
-- **Landry** finds Riley. "I hated most of it," he says. "The part with your mother I didn't hate." It's the nicest thing he's ever said to her.
+- **Landry** finds Riley. "I hated most of it," he says. "The part with your mother I didn't hate."
 - **Wayne** doesn't come backstage. The player, as Ellis, can go out front and look for him; the F-100 is already pulling away down Front Street, with Roy's arm out the passenger window, waving at nobody.
 
 ---
@@ -1281,9 +1285,9 @@ Twice a day since the twenty-fourth of June is fifty tablets. There should be te
 
 The player can count them. It's a real count: Riley pours them into her palm and pushes them across the dresser top with one finger, two at a time, and the game counts with her, out loud, in her head. Riley can count faster than the player, and she does it again.
 
-Fifty-two.
+Forty.
 
-She checks the date on the label. She counts again. Fifty-two. He hasn't taken one since July first.
+She checks the date on the label. She counts again. Forty. He hasn't taken one since July first.
 
 The player can search the drawer. The Sucrets tin at the back. Six more inside.
 
@@ -1307,9 +1311,13 @@ He doesn't answer right away. The player, as Riley, can wait him out.
 
 **ELLIS:** Lose her twice.
 
-He says it simply. It's the truest thing he's said to her, and she knows it, and it doesn't help.
+He says it simply. It's true, and she knows it, and it doesn't help.
 
-**ELLIS:** I can hear again, Riley. The songs. I wrote "Who Are You?" on the fire tower. I'm playing like— you heard the Tabernacle.
+**ELLIS:** I can hear again, Riley. I heard a fish jump this morning from my bed, with the window shut. I wrote "Who Are You?" on the fire tower. I'm better.
+
+**RILEY:** Define "better."
+
+**ELLIS:** I'm playing like— you heard the Tabernacle.
 
 **RILEY:** I heard you lose a verse in front of my mother.
 
@@ -1331,13 +1339,13 @@ He doesn't argue. He doesn't agree either.
 
 **ELLIS:** I don't know.
 
-That's honest too. The player can hear it's honest.
+That's honest too.
 
 Riley pushes her glasses up with a knuckle. She stands up.
 
 **RILEY:** I can't watch you choose her.
 
-It's one of the few plain, true, finished sentences anyone says in this game, and the game has saved it for her. She doesn't say anything after it. She goes upstairs.
+She doesn't say anything after it. She goes upstairs.
 
 ### The lane
 
@@ -1359,7 +1367,7 @@ On the last trip, Cal is standing by the Datsun. He's come up from the lake. He 
 
 **RILEY:** I'll tell her.
 
-She gets in the car. The player drives her down the gravel lane, past the chain, past the fire tower, past the overlook, down the switchbacks, past the pull-off (the ditch where the Corvette was still has tire marks in it), out of the North highlands and through the Laurel Gap to Linwood. It's forty-five minutes. The game lets it be forty-five minutes. Riley doesn't cry until the Laurel Gap, and then she does, and drives the rest of the way that way, carefully, at the speed limit.
+She gets in the car. The player drives her down the gravel lane, past the chain, past the fire tower, past the overlook, down the switchbacks, past the pull-off (the ditch where the Corvette was still has tire marks in it), out of the North highlands and through the Laurel Gap to Linwood. It's forty-five minutes. Riley doesn't cry until the Laurel Gap, and then she does, and drives the rest of the way that way, carefully, at the speed limit.
 
 > **Design note — Riley's choice.** The bible said Riley was wrong about three things: that altered perception reveals truth, that understanding someone gives you a say in what happens to them, and that she had special access to Ellis. This chapter takes all three away from her. What's left is the thing she's right about: she can't make him choose, and she won't stand in a kitchen and watch him not. She leaves the house and keeps the band. Nobody makes her.
 
@@ -1387,7 +1395,7 @@ Mrs. Odom takes the Bishop. She doesn't slide anything back. Instead she reaches
 
 The player learns it from Dex's introduction, which is honest about everything except whether it should exist:
 
-> *In January, Monarch Records' publicity department, preparing a press kit, photocopied several of Blake's pocket notebooks, the numbered Western Auto memo books he's kept since he was fourteen, from a tour bus leased by the label. Monarch provided these pages to Rave. One more page came into my possession on that same bus in a way I'm not proud of. I have held it for six months. I'm printing it now because I think it's the best thing any American has written this year and I think he'll never publish it himself.*
+> *In January, Monarch Records' publicity department, preparing a press kit, photocopied several of Blake's pocket notebooks, the numbered Western Auto memo books he's kept since he was fourteen, from the band's van, where he kept the carton. Monarch provided these pages to Rave. One more page came into my possession on the band's tour bus that month, in a way I'm not proud of. I have held it for six months. I'm printing it now because I think it's the best thing any American has written this year and I think he'll never publish it himself.*
 
 The player can read the pages. They're laid out like facsimiles, Ellis's carpenter's-pencil handwriting reproduced on the magazine page, with the lines typed beside it.
 
@@ -1408,11 +1416,9 @@ And, on its own page, set in larger type: the torn page from memo book 68. The f
 > *I gave you a birthday every year you didn't get one.*
 > *I gave you a jacket that was already yours…*
 
-(It's the bus version. *Didn't get one. Was already.* The song on the album, recorded in June, says *didn't have one*, *already was*. Fans will argue for twenty years about which is right.)
+(It's the bus version. *Didn't get one. Was already.* The song on the album, recorded in June, says *didn't have one*, *already was*.)
 
-The player may recognize their own lines. That's the point. The country is about to call the player's attention genius.
-
-> **Design note — the hidden poet.** Since Chapter I, the Observe button has looked like a collectible journal. It was always this. Every time the player stopped Ellis to look at something and let him write it down, they were writing the poems the country would read without his permission. The player helped make the myth, one line at a time, by paying attention to the ordinary. That's also exactly what Ellis did.
+> **Design note — the hidden poet.** Since Chapter I, the Observe button has looked like a collectible journal. It was always this. Every line the player let Ellis write down is a line the country can now read without his permission.
 
 ### Mrs. Pardue
 
@@ -1436,7 +1442,7 @@ The player chooses: *"No ma'am."* / *"Some."* / silence. Whatever he says, she c
 
 **MRS. PARDUE:** They shouldn't have taken it. It's yours.
 
-She goes back to her reading. She's the only person in the game who says that.
+She goes back to her reading.
 
 ### Clara
 
@@ -1448,9 +1454,9 @@ She means the "New Skin" page.
 
 **ELLIS** *(quietly)*: It's about you.
 
-**CLARA:** Same thing.
+**CLARA:** Same thing. Hush. You're in a library.
 
-She said that on the bus, in January, about Dex. She's brighter now than she was then, and more possessive, and the player can hear the difference. She puts her finger on the page, the way she did on the January article.
+She said *same thing* on the bus, in January, about Dex. She points at the page, a finger's width above the paper, the way she pointed at her name in the January article.
 
 **CLARA:** Now everybody's got me.
 
@@ -1462,11 +1468,11 @@ Mrs. Odom lets him use the desk phone. Long distance, collect, to Monarch in New
 
 **ELLIS:** They're mine.
 
-**GIL:** Well, technically, the notebooks were in a vehicle leased by Monarch Records, and our publicist had every reason to—
+**GIL:** Well, technically, the van was on label business that week, and our publicist had every reason to—
 
 The player can hang up. Or Ellis can hold the receiver away from his ear and let Gil talk to the library. Either way the call ends with the receiver back in its cradle and Mrs. Odom not looking up.
 
-Richard Holloway will write Monarch a four-page letter on Monday. Monarch will reply with a paragraph. Nothing will come of it. The pages are in print. Clara is right: everybody's got her now.
+Richard Holloway will write Monarch a four-page letter on Monday. Monarch will reply with a paragraph. Nothing will come of it.
 
 ---
 
@@ -1498,9 +1504,9 @@ He goes and sits in the chair by the front window with the newspaper, where he c
 
 ### Bad at it
 
-This is a repair minigame, and Ellis is bad at it, and the game lets the player be bad at it with him. The iron's too hot or not hot enough. The solder balls up. He uses too much. He burns his finger and says a word Walt pretends not to hear. The joint is ugly.
+This is a repair minigame, and Ellis is bad at it. The iron's too hot or not hot enough. The solder balls up. He uses too much. He burns his finger and says a word Walt pretends not to hear. The joint is ugly.
 
-He's a mechanic. He can hear a bad lifter across a parking lot. He's never done this. The player can feel how different it is: small, precise, patient, Cal's world.
+He's a mechanic. He can hear a bad lifter across a parking lot. He's never done this. It's Cal's world, and everything in it is small.
 
 On the shelf over the bench, the player can see it: an old Philco cathedral radio, 1930s, walnut, in perfect condition, not for sale. The only radio in the shop without a job ticket.
 
@@ -1518,7 +1524,7 @@ The player, as Cal, sees Ellis Blake at his father's bench, hunched over a clock
 
 **CAL:** You're using too much solder.
 
-**ELLIS:** I know.
+**ELLIS:** Allegedly.
 
 Cal comes around the bench. He takes the iron. The player, as Cal, does it right: wicks the old solder, tins the tip, touches the joint, feeds a little, lifts, bright and clean, one second. Then he hands the iron back.
 
@@ -1527,6 +1533,14 @@ Cal comes around the bench. He takes the iron. The player, as Cal, does it right
 The player stays Cal and watches Ellis do the next joint, and it's better, and still not good.
 
 **CAL:** Better.
+
+**ELLIS:** It's fixing to do it again.
+
+**CAL:** Be specific.
+
+**ELLIS:** It balls up. Like it's scared of the wire.
+
+**CAL:** The joint's cold. Heat the wire and feed the solder to it.
 
 They work on it together for a while. Cal says "less" and "hold it there" and "don't blow on it." The shop. Walt's newspaper. A freight in the yard.
 
@@ -1548,7 +1562,7 @@ Cal knows what the one is, or knows enough. He doesn't ask.
 
 The player, as Cal, gets a choice, and it's Cal's: *"I know."* / *"Okay."* / silence.
 
-In Chapter VIII, in a hotel in Minnesota, Cal said "I know," and it meant *don't*. The player may choose it again. If they choose "Okay," it means something different this time. It means it's accepted. If silence, Cal reaches over and moves Ellis's hand a quarter inch on the iron, and that's the answer.
+In Chapter VIII, in a hotel in Minnesota, Cal said "I know," and it meant *don't*. "Okay" means something different: it's accepted. If silence, Cal reaches over and moves Ellis's hand a quarter inch on the iron, and that's the answer.
 
 Then Cal says the thing he's carried for a year.
 
@@ -1595,7 +1609,7 @@ It comes on to whatever station the customer left it on, as a matter of shop pri
 *She plays for the Lord at a quarter to eleven,*
 *and for nobody at all on Saturday…*
 
-It's "Sunday Clothes." A Row singer named Darla Kay Hinson cut it in June with a full string section. It's in the country Top 20. The Row, which looked at four kids from Hollow Ridge and said *that kind of thing*, is playing Riley's song on every country station in the South with violins on it.
+It's "Sunday Clothes." A Row singer named Charlene Hobbs cut it in June with a full string section. It's in the country Top 20. The Row, which looked at four kids from Hollow Ridge and said *that kind of thing*, is playing Riley's song on every country station in the South with violins on it.
 
 Cal and Ellis look at the radio. Then at each other.
 
@@ -1605,7 +1619,7 @@ Then they both start laughing, and can't stop, the kind of laughing that hurts, 
 
 **CAL:** Riley's song.
 
-**WALT:** Hm. She'll be rich.
+**WALT:** Well. She'll be rich.
 
 (She will. Stony Knob Music, BMI, M. Riley, writer's share. Cal made sure.)
 
@@ -1634,9 +1648,9 @@ The player picks it up. It's heavy, and it doesn't slosh.
 
 Ellis looks at it. He takes off the plastic lid.
 
-It isn't coffee. It's money. Folded twenties, a thick layer of them, and on top, a Western Auto envelope in Ellis's handwriting: RENT — 10 WEEKS. Under it, another: RENT — AUG. And another. And under those, loose, the twenty-dollar bills he left on the kitchen table every Friday starting October 25, 1974, when Wayne told him he'd pay rent now, like a grown man.
+Money. Folded twenties, a thick layer of them, and on top, a Western Auto envelope in Ellis's handwriting: RENT — 10 WEEKS. Under it, another: RENT — AUG. And another. And under those, loose, the twenty-dollar bills he left on the kitchen table every Friday starting November 1, 1974, when Wayne told him he'd pay rent now, like a grown man.
 
-Every one. Folded once, facing the same way. The player can count it if they want (the game will let them, bill by bill). It's $1,540.
+Every one. Folded once, facing the same way. The player can count it, bill by bill. It's $1,540.
 
 Wayne never spent a dollar of it.
 
@@ -1660,7 +1674,7 @@ A long pause. Wayne folds the paper.
 
 He gets up and takes the can out of his son's hands, puts the lid back on, and puts it back on the pantry shelf at the end, where it was, and pours himself the last of the coffee.
 
-> **Setup and payoff.** Chapter VI: Ellis left $200 marked RENT — 10 WEEKS on the kitchen table, and the player didn't see what Wayne did with it. Chapter II: Wayne charged his son twenty dollars a week, which the player hated him for. He spent none of it. In the epilogue, the can is how he pays off the balance on a headstone.
+> **Setup and payoff.** Chapter VI: Ellis left $200 marked RENT — 10 WEEKS on the kitchen table, and the player didn't see what Wayne did with it. Chapter II: Wayne charged his son twenty dollars a week. He spent none of it. In the epilogue, the can is how he pays off the balance on a headstone.
 
 ### Go on in
 
@@ -1676,23 +1690,23 @@ Wayne looks at him. He looks down the hall.
 
 He says it the way he says everything, the way Roy says it, the way everybody in Hollow Ridge says it about everything: go on, get out of here, go on in, go on and take it.
 
-The player walks Ellis down the hall. Clara is standing at the end of it, by the front room. She doesn't follow him. She never comes into this room. The player may notice she's standing exactly where the hall meets the door and not one step further, and that she's watching.
+The player walks Ellis down the hall. Clara is standing at the end of it, by the front room. She doesn't follow him. She never comes into this room. She's watching.
 
 The prompt: *Open.*
 
 ### The room
 
-Nobody has touched it in three years and four months. The game makes it the most detailed room it has, every object examinable, and lets the player take as long as they want.
+Nobody has touched it in three years and four months. Every object is examinable. No timer.
 
-- **The windowsill:** horse figurines, eleven of them, plastic and ceramic, one with a broken leg glued back on crooked. (The plastic horse on Ellis's dresser, the one "that isn't his," is the twelfth. The player can now see where it came from.)
+- **The windowsill:** horse figurines, eleven of them, plastic and ceramic, one with a broken leg glued back on crooked. (The plastic horse on Ellis's dresser, the one "that isn't his," is the twelfth.)
 - **The walls:** a Dolly Parton poster. A David Cassidy poster she'd outgrown and hadn't taken down. 4-H ribbons, blue and red, for a heifer she showed at the county fair in 1971 and a jar of peach preserves.
 - **The desk:** school papers with green felt-tip in the margins. A spelling test, 100, with *EXCELLENT* stamped on it and *(obviously)* written after it in green. A Bible with a dogwood blossom pressed flat in Psalms.
 - **The dresser:** a hairbrush with hair still in it. The player can look at it. Ellis doesn't touch it.
-- **A cigar box** (King Edward, a nickel): two birthday cards postmarked Dayton, Ohio, 1966 and 1967, signed *Love, Mama*. And a stack of carbon copies (Grace kept carbons of her own letters; the player may laugh) of letters she wrote to their mother, every month, until March 1973. The last one ends: *Ellis says he's playing at Marlon's next month. I'm going to go even if he says no.*
+- **A cigar box** (King Edward, a nickel): two birthday cards postmarked Dayton, Ohio, 1966 and 1967, signed *Love, Mama*. And a stack of carbon copies (Grace kept carbons of her own letters) of letters she wrote to their mother, every month, until March 1973. The last one ends: *Ellis says he's playing at Marlon's next month. I'm going to go even if he says no.*
 - **The Panasonic cassette recorder**, on the nightstand, with its handle folded down, and a **Buster Brown shoebox** of cassettes labeled in green felt-tip: *WGRC #1* through *WGRC #14*, and one more at the bottom with no label.
 - **The closet:** her clothes. And on a hook on the back of the closet door, a faded jean jacket, a child's size, with a small embroidered horse sewn on the breast pocket, crooked.
 
-The player has seen this jacket in every Clara scene for eight chapters. It's so much smaller than they thought.
+It's the jacket from every Clara scene for eight chapters. It's so much smaller.
 
 ### WGRC
 
@@ -1736,7 +1750,7 @@ And the game goes into it.
 
 No effect. A cut. The player is Ellis at fifteen, on the floor of his own room in July 1972, laughing, with his sister sitting on his back, and the recorder on its side on the rug.
 
-It's a Saturday. Wayne's at work. The house is hot. The whole afternoon is playable, and the rule for it is the one the game made for itself in Chapter I and has tried to keep since: ordinary first. Two chores and a joke for every tear.
+It's a Saturday. Wayne's at work. The house is hot. The whole afternoon is playable. Ordinary first: two chores and a joke for every tear.
 
 **The laundry.** Grace hangs the wash on the line in the side yard, and bosses Ellis into helping, and makes him hang Wayne's boxer shorts because she refuses to. The player hangs laundry. Grace critiques the clothespin placement.
 
@@ -1746,15 +1760,13 @@ It's a Saturday. Wayne's at work. The house is hot. The whole afternoon is playa
 
 In daylight. In summer. Queen Anne's lace in the ditches. Cows. Grace singing a Carpenters song, badly, on purpose, to annoy him.
 
-Two miles past the Tolliver farm, the road bends right, down toward the creek. The player rides around it. On the outside of the curve, a big white oak, its bark whole and gray and even, no scar, nothing. The game doesn't point at it.
-
-The player who drove this road in March will know exactly where they are.
-
 **The farm.** Ada Tolliver gives them lemonade on the porch. Floyd is in the barn. Grace rides Dolly bareback in the paddock, a thirteen-year-old on a twenty-one-year-old mare, the horse at a slow patient trot, the girl yelling encouragement like it's the Kentucky Derby. Ellis sits on the fence rail and watches.
 
 The player can Observe here. It's a fifteen-year-old's notebook, memo book number 9, and the line is: *Grace rides like she's mad at the horse. The horse doesn't mind.*
 
-**Home.** At 5:30 Wayne's F-100 pulls into the yard. And the player sees a Wayne they've never seen: forty-three, sunburned, in his work clothes, with a sack of peaches from a stand, *laughing* at something as he gets out of the truck. He throws a peach to Grace. She catches it.
+Going home the back way, two miles past the Tolliver farm, the road bends right, down toward the creek. The player rides around it. On the outside of the curve, a big white oak, its bark whole and gray and even, no scar, nothing.
+
+**Home.** At 5:30 Wayne's F-100 pulls into the yard. Wayne gets out, forty-three, sunburned, in his work clothes, with a sack of peaches from a stand, *laughing* at something. He throws a peach to Grace. She catches it.
 
 In the front room he puts a Louvin Brothers record on the console, loud, and goes to wash up at the kitchen sink, and sings the bass part along with it at the top of his lungs with his hands in the soap.
 
@@ -1776,8 +1788,6 @@ For three minutes, the song, three Blakes singing in a hot house on Cold Branch 
 
 **GRACE:** Somebody has to.
 
-The player, if they remember a man on a tailgate asking *You rank them?*, may hear Ellis's answer to that in his sister's mouth.
-
 **ELLIS:** She never writes back.
 
 **GRACE:** She did twice.
@@ -1788,7 +1798,7 @@ She keeps writing. Then she turns the paper around and pushes it across the tabl
 
 The player chooses. *Sign it* / *Don't.* If he signs, he writes *and Ellis* under *Love, Grace*, in pencil, small. If he doesn't, Grace says "Fine," and folds the letter, and doesn't sound surprised.
 
-**The porch.** Dusk. Grace and Ellis on the porch steps. Fireflies over the yard. Wayne's radio inside, a ballgame. The player can sit as long as they want.
+**The porch.** Dusk. Grace and Ellis on the porch steps. Fireflies over the yard. Wayne's radio inside, a ballgame.
 
 **GRACE:** Are you gonna be famous?
 
@@ -1810,9 +1820,9 @@ The player chooses. *Sign it* / *Don't.* If he signs, he writes *and Ellis* unde
 
 A firefly lands on her knee. She looks at it.
 
-The memory holds there, on the porch, in 1972, for as long as the player wants it to. There's no prompt. When the player finally moves, it goes.
+The memory holds there, on the porch, in 1972. There's no prompt. When the player moves, it goes.
 
-> **Design note — the afternoon.** The player meets Grace alive exactly once, and she's thirteen and bossy and silly and a little mean, and not at all like Clara. She isn't wise. She doesn't forgive anybody. She wants to ride a horse and name a song and make her brother hang their father's underwear. The whole afternoon has one line that hurts, and it's *later*, and she doesn't know it hurts. The player does.
+> **Design note — the afternoon.** Grace alive, once: thirteen, bossy, a little mean, and not at all like Clara. She isn't wise. She doesn't forgive anybody. She wants to ride a horse and name a song and make her brother hang their father's underwear. The one line that hurts is *later*, and she doesn't know it hurts.
 
 ### The jacket
 
@@ -1840,7 +1850,7 @@ At the other end of the hall, by the front room, there's someone standing.
 
 She's fourteen.
 
-The player has seen Clara at twenty-one for eight chapters. They saw her younger for a frame at a time in Chapter V, and aging in a passenger seat in Chapter VIII. They have never seen her like this: small, in the jean jacket that fits her, a child's size, her hair in a ponytail, standing in the hallway of the Blake house with her hands in the pockets. She has Grace's face now, almost. Not quite. The player can see the difference and couldn't say what it is.
+Small, in the jean jacket that fits her, a child's size, her hair in a ponytail, standing in the hallway of the Blake house with her hands in the pockets. She has Grace's face now, almost. Not quite.
 
 She's still Clara. The voice is Clara's, younger.
 
@@ -1862,6 +1872,8 @@ He doesn't say anything. The player can't make him.
 
 Clara almost laughs. It's the old Clara, for a second, in a fourteen-year-old's face.
 
+**CLARA:** Hush.
+
 She walks down the hall toward him. The player can move Ellis out of the way or not; she goes past him either way, close, not touching (she never touches anything).
 
 She stops at Grace's door, which Ellis left open. The horse sticker, at the height of a six-year-old.
@@ -1870,13 +1882,13 @@ She looks in. She looks back at him.
 
 Then she walks into Grace's room.
 
-The player has known the rule for eight chapters, even if they never put it into words: she never goes in there. She's in there now, standing in the middle of the rug, looking at the horses on the windowsill, and at the Dolly Parton poster, and at the jacket on the back of the closet door. Then she sits down on the edge of Grace's bed with her boots on the rug.
+She never goes in there. She's in there now, standing in the middle of the rug, looking at the horses on the windowsill, and at the Dolly Parton poster, and at the jacket on the back of the closet door. Then she sits down on the edge of Grace's bed with her boots on the rug.
 
 There's one prompt.
 
 *Close the door.*
 
-The player can stand in the hall as long as they want, looking at her through the door. She doesn't look back at him. She's looking at the room.
+No timer. Ellis can stand in the hall looking at her through the door. She doesn't look back at him. She's looking at the room.
 
 When the player presses it, Ellis closes the door, gently, until the latch clicks.
 
@@ -1888,7 +1900,7 @@ At the other end of the hall, Wayne is standing in the kitchen doorway with a di
 
 He goes back into the kitchen.
 
-> **Design note — the rule broken.** Rule 5 of Clara, never stated in the game, observed for eight and a half chapters: she never goes into Grace's room. Here she does, at fourteen, after admitting she couldn't be who he built her to be. Ellis lets her go in and closes the door. He isn't sending her away. He's letting the part of him that tried to keep Grace alive by growing her up stop trying, and go be with Grace, in the room where Grace is kept. She'll be at his side again in Chapter X. But she won't be pretending to be Grace grown up. She'll be what she is.
+> **Design note — the rule broken.** Rule 5 of Clara, never stated in the game, observed for eight and a half chapters: she never goes into Grace's room. Here she does, at fourteen, after admitting she couldn't be who he built her to be. Ellis lets her go in and closes the door. The part of him that tried to keep Grace alive by growing her up stops trying, and goes to be with Grace, in the room where Grace is kept. She'll be at his side again in Chapter X, but not pretending to be Grace grown up.
 
 ---
 
@@ -1898,9 +1910,9 @@ He goes back into the kitchen.
 
 ### The festival
 
-Eddie called on Wednesday. The Arbor Jam, upstate New York, Saturday August 28, a racetrack, a hundred and fifty thousand people, a film crew. A sunset slot, 7:30, before the headliners. It's the biggest crowd any of them has ever imagined. Eddie wouldn't say yes. He said, "It's your call, and it's a vote."
+Eddie called on Wednesday. The Arbor Jam, upstate New York, Saturday August 28, a racetrack, a hundred and fifty thousand people, a film crew. A late-afternoon slot, 4:30, before the headliners. It's the biggest crowd any of them has ever imagined. Eddie wouldn't say yes. He said, "It's your call, and it's a vote."
 
-They voted at the pine table on Thursday. It was unanimous. Cal wrote it in the ledger. It's the first band decision since Kenosha that everyone made together, and the player may notice nobody remarks on it.
+They voted at the pine table on Thursday. It was unanimous. Cal wrote it in the ledger. It's the first band decision since Kenosha that everyone made together.
 
 On Friday, the last session at Knob House, they cut "Who Are You?": the whole song, and then the changes for the last verse, twice, with no vocal on them, because Ellis doesn't have it yet. Frank labeled the reel *WHO ARE YOU? — LAST V. OPEN* and put it in the truck.
 
@@ -1912,15 +1924,13 @@ Cold Branch Road. The kitchen. Wayne at the table. Ellis stops by on his way to 
 
 **WAYNE:** New York.
 
-**ELLIS:** Upstate. It's nine hundred miles.
+**ELLIS:** Upstate. Nine hundred miles, I reckon.
 
 Wayne drinks his coffee. The player can let it sit. The refrigerator runs. Tater, who came down the mountain with Ellis this week and is asleep under the table, snores.
 
 **WAYNE:** You want me there?
 
-It's the first time in the game Wayne has asked his son what he wants.
-
-The prompt is the smallest in the game. It's one word.
+The prompt is one word.
 
 **ELLIS:** Yeah.
 
@@ -1970,7 +1980,9 @@ When it's over, Ellis doesn't say anything for a while.
 
 **ELLIS:** Some of mine.
 
-She laughs. The player may notice it's the second time in the game Ellis has been the reason she laughs out loud, and both times it was something he said without trying.
+She laughs.
+
+**RILEY:** Strong edit.
 
 Then, looking at the lake:
 
@@ -1980,7 +1992,7 @@ Then, looking at the lake:
 
 **ELLIS:** I know. Do it anyway.
 
-> **Setup.** On every song's ending since Chapter II, Riley has drifted back to the stage-left corner of the drum riser, so that when Ellis turns home to face Dean, she's in his eyeline. He's asking her to be where he'll turn.
+> **Setup.** On every song's ending, Riley drifts back to the stage-left corner of the drum riser, so that when Ellis turns home to face Dean, she's in his eyeline. He's asking her to be where he'll turn.
 
 She puts the Martin in its case. They sit on the dock until it's dark, and the frogs start, and the lodge lights come on behind them.
 
@@ -1988,7 +2000,7 @@ She puts the Martin in its case. They sit on the dock until it's dark, and the f
 
 11:30 p.m. Stutter back to Ellis. Cold Branch Road. His room. He drove down to sleep at home, because the bus leaves from Hollow Ridge on Thursday morning and he wants to sleep in his own bed for a few nights. Tater is across the door.
 
-Loretta on the wall. The plastic horse on the dresser, which the player now knows is the twelfth horse from a windowsill down the hall. The green leather notebook on the nightstand, full now, since the fire tower, with poems the player hasn't been allowed to read, each one addressed to *M.* A Western Auto memo book, number 72, open on the dresser.
+Loretta on the wall. The plastic horse on the dresser, the twelfth horse from a windowsill down the hall. The green leather notebook on the nightstand, full now, since the fire tower, with poems the player hasn't been allowed to read, each one addressed to *M.* A Western Auto memo book, number 72, open on the dresser.
 
 He writes on the last page, standing up, in carpenter's pencil. The player can read it over his shoulder:
 
@@ -1998,7 +2010,7 @@ He writes on the last page, standing up, in carpenter's pencil. The player can r
 
 He looks at it. He leaves the book open on the dresser, face up, the way you'd leave a note for yourself to see in the morning.
 
-The player may notice two things. That he wrote *Dad*, not *Daddy*. And the question mark after *Sunday*: dinner, the Sunday after New York, August 29, at the kitchen table on Cold Branch Road, him and his father, if Wayne will. He's going to ask.
+He wrote *Dad*, not *Daddy*. The question mark after *Sunday* is dinner, the first Sunday he's home after New York, at the kitchen table on Cold Branch Road, him and his father, if Wayne will. He's going to ask.
 
 The camera stays on the page. Down the hall, a closed door.
 
@@ -2010,33 +2022,33 @@ The camera stays on the page. Down the hall, a closed door.
 ## Chapter IX — design summary
 
 ### What happened
-The band made a second album in a lodge on a mountain above the house where Ellis grew up. On the medication, Ellis slept and swam and finished a song about his sister in daylight, and charmed the country on television, and his band didn't recognize him. His father opened a report that had been in a box for three years. A seed salesman on a porch in North Carolina said *you weren't pulling away from me*, and *she told you to stop saying sorry*, and *I couldn't make it out*. On a tailgate Wayne apologized, and it didn't fix anything. Ellis remembered the car and looked at his sister, with the player's hands, and a truck came around a bend. He stopped the pills, because he couldn't lose her twice, and on the Fourth of July he found Clara on a fire tower and asked her a question she couldn't answer. Dean put a Corvette in a ditch and poured it out and walked up a mountain and knocked on a door. Joan Riley led a hymn in the Tabernacle. Cal walked Ellis back into a verse on the bass. Riley counted to fifty-two and left the house and kept the band. A magazine printed the lines the player collected, and called them genius. Ellis was terrible at soldering and Cal forgave him. Ellis found every dollar of his rent in a coffee can, and went into Grace's room, and met her alive for one afternoon in 1972, and closed the door on a fourteen-year-old who couldn't be her. He asked his father to come to New York, and his father said *Roy's got a week coming*. He wrote *Dad — Sunday?*
+The band made a second album in a lodge on a mountain above the house where Ellis grew up. On the medication, Ellis slept and swam and finished a song about his sister in daylight, and charmed the country on television, and Riley said *that's not him*, and Cal said *that's him too*. His father opened a report that had been in a box for three years. A seed salesman on a porch in North Carolina said *you weren't pulling away from me*, and *she told you to stop saying sorry*, and *I couldn't make it out*. On a tailgate Wayne apologized, and it didn't fix anything. Ellis remembered the car and looked at his sister, with the player's hands, and a truck came around a bend. He stopped the pills, because he couldn't lose her twice, and on the Fourth of July he found Clara on a fire tower and asked her a question she couldn't answer. Dean put a Corvette in a ditch and poured it out and walked up a mountain and knocked on a door. Joan Riley led a hymn in the Tabernacle. Cal walked Ellis back into a verse on the bass. Riley counted to forty and left the house and kept the band. A magazine printed the lines the player collected, and called them genius. Ellis was terrible at soldering and Cal forgave him. Ellis found every dollar of his rent in a coffee can, and went into Grace's room, and met her alive for one afternoon in 1972, and closed the door on a fourteen-year-old who couldn't be her. He asked his father to come to New York, and his father said *Roy's got a week coming*. He wrote *Dad — Sunday?*
 
 ### The reveals, and what's held back
-- **Revealed:** the report (a truck over the line; *we were arguing and I looked at her*). Wayne knew the next day. Hollis Beam: *you weren't pulling away from me*; *she told you to stop saying sorry*; Opal Hensley's porch light and blanket; *she was talking and I couldn't make it out*; *you had to stay where she could see you*. The argument, in full: *When I go, I'm not coming back for you.* Grace alive: bossy, silly, *later*. WGRC. *You're my brother. Unfortunately.* The coffee can.
+- **Revealed:** the report (a truck over the line; *we were arguing and I looked at her*). Wayne knew the next day. Hollis Beam: *you weren't pulling away from me*; *she told you to stop saying sorry*; the Hensley porch light and the lady with the blanket; *she was talking and I couldn't make it out*; *you had to stay where she could see you*. The argument, in full: *When I go, I'm not coming back for you.* Grace alive: bossy, silly, *later*. WGRC. *You're my brother. Unfortunately.* The coffee can.
 - **Held back, for Chapter X:** what Grace said after the white. "Stop saying sorry" is known; "Liar," "It's okay" and "Go on" are not. The player has everything except the last three things she said.
 
 ### The medication, honestly
-The chapter was built so that nothing good is reserved for being off the pills and nothing bad is blamed on being on them. On: sleep, swimming, the pie (VIII), Riley's laugh, "New Skin" finished, a calm he's never had, and a television appearance so fluent the band didn't know him. Off: Clara, the reach, the Room thrilling again, "Who Are You?" begun, and 3 a.m., talking to air, a lost verse in front of 2,300 people, and Riley leaving the house. The game doesn't say which Ellis was right. It shows why he chose, and it shows what the choice cost the people watching.
+The chapter was built so that nothing good is reserved for being off the pills and nothing bad is blamed on being on them. On: sleep, swimming, the pie (VIII), Riley's laugh, "New Skin" finished, a calm he's never had, and a television appearance so fluent Riley didn't know him. Off: Clara, the reach, the Room thrilling again, "Who Are You?" begun, and 3 a.m., talking to air, a lost verse in front of 2,300 people, and Riley leaving the house. Neither list wins. The chapter shows why he chose, and what the choice cost the people watching.
 
 ### Riley
-She finally had nothing to argue with. She watched her mother lead a hymn in the middle of the loudest music in the South. She counted pills, twice. She said the one plain finished sentence the game saved for her: *I can't watch you choose her.* She left the house and kept the band, and cried in the Laurel Gap at the speed limit. She played him her song on a dock, and it wasn't about him, and he asked her to stand where he'd turn.
+She watched her mother lead a hymn in the middle of the loudest music in the South. She counted pills, twice. She said *I can't watch you choose her.* She left the house and kept the band, and cried in the Laurel Gap at the speed limit. She played him her song on a dock, and it wasn't about him, and he asked her to stand where he'd turn.
 
 ### Cal
-Fished and caught nothing, on purpose now. Told the story of his grandfather and the Philco. Brought Theo up the stairs as himself. Walked Ellis back into a verse with the bass high up the neck. Read Le Guin in one voice for three nights. Taught Ellis to solder. Said *I counted more*, and forgave him with one word, and kept Marlon's name out of it.
+Fished and caught nothing, on purpose now. Told the story of his grandfather and the Philco. Said *He slept eight hours. That's him too.* Brought Theo up the stairs as himself. Walked Ellis back into a verse with the bass high up the neck. Read Le Guin in one voice for three nights. Taught Ellis to solder. Said *I counted more*, and forgave him with one word, and kept Marlon's name out of it.
 
 ### Dean
-Sat in a lot four times watching a woman refill ketchups. Put a Corvette in a ditch at the pull-off where Wayne used to listen. Poured it out. Walked two miles in the dark with nothing in his hands. *I think I need help.* Three nights, one voice for everyone, and Theo doing a Cajun Shevek until the laugh turned into something else. Six days, on a step, with a glass of tea and a five-year-old playing drums. Played "Tomorrow Problem" sober in the Tabernacle with space in it. Said *I'll be there* to his father, and went, at six.
+Sat in a lot four times watching a woman refill ketchups. Put a Corvette in a ditch at the pull-off where Wayne used to listen. Poured it out. Walked two miles in the dark with nothing in his hands. *I think I need help.* Three nights, one voice for everyone, and Theo doing a Cajun Shevek until the laugh turned into something else. Woke up with the Starlite Polaroid on his nightstand. Six days, on a step, with a glass of tea and a five-year-old playing drums. Played "Tomorrow Problem" sober in the Tabernacle with space in it. Said *I'll be there* to his father, and went, at six.
 
 ### Wayne
-Watched his son be nice about Grace on television and called a deputy. Opened the envelope with his own knife and handed his son the knife. *I couldn't have it be nobody's.* Drove to North Carolina. Apologized to a stranger and then to his son, both times to the mountains. Stood up in the gallery of the Tabernacle and sang the bass line his mother taught him. Kept every dollar of the rent. *Go on in.* *You want me there?*
+Watched his son be nice about Grace on television and called a deputy. Opened the envelope with his own knife and handed his son the knife. *I couldn't have it be nobody's.* Drove to North Carolina with every clipping about the band in the glovebox. Apologized to a stranger and then to his son, both times to the mountains. Stood up in the gallery of the Tabernacle and sang the bass line his mother taught him. Kept every dollar of the rent. *Go on in.* *You want me there?*
 
 ### Clara in Chapter IX (clue ledger)
 | Moment | Surface | Truth | Level |
 |---|---|---|---|
 | The switch catches on an empty chair | — | The camera looks for her too | visible |
 | "Clara?" to the lake | He misses her | — | visible |
-| Absent for nine weeks on the medication | — | — | visible |
+| Absent for twelve weeks on the medication | — | — | visible |
 | Returns on the fire tower, brighter | Relief | Grief, not art | visible |
 | "Ask me something I know." | Honesty | Rule 6, spoken | visible |
 | "Who are you?" / "Who are you?" | The song's title | Dean in I; Grace in #9 | subliminal |
@@ -2048,10 +2060,10 @@ Watched his son be nice about Grace on television and called a deputy. Opened th
 | Walks into Grace's room; the door closed | — | Rule 5 broken on purpose | **revealed** |
 
 ### Objects introduced
-Frank's remote truck (DALTON SOUND · REMOTE, over HOLSUM). Knob House: the chimney mic, the pine table, the lake, the johnboat, the party-line rules card. The fiddle-leaf fig with a name. Memo books 70–72. The white bottle; the Sucrets tin (52 and 6). "New Skin" (the album version: *didn't have one*). The *Late Hour* set. Pruitt's supplement folder. The Georgia State Patrol envelope and report, and the diagram with the dotted line. Wayne's Case knife, handle first. Hollis Beam's spigot. Two sacks of boiled peanuts (second place). The chipped water glass on the Knob House table. The Bicentennial fireworks on two horizons. The fire-tower stairs. The Corvette in the ditch at the pull-off. The Buster Brown shoebox (Dean's). *The Dispossessed*, swollen. The Tabernacle's scarred circle of darker wood. Elmer Tidwell's page number. Joan's closed book on her chair. *Rave*, September 1976: THE NOTEBOOKS OF ELLIS BLAKE. A GE clock radio: *No charge. Sorry about the ugly one.* Darla Kay Hinson's "Sunday Clothes," with strings. The Philco on the shelf. The Maxwell House can ($1,540). Grace's room entire: eleven horses, the cigar box, the carbons, the Panasonic, WGRC #1–#14, the unlabeled tape (in Ellis's shirt pocket), the jacket. The 1972 afternoon: the Schwinns, the playing card in the spokes, the unscarred oak, Dolly, the peaches, *and Ellis* (if signed). Frank's reel: WHO ARE YOU? — LAST V. OPEN. Memo book 72, last page: the list.
+Frank's remote truck (DALTON SOUND · REMOTE, over HOLSUM). Knob House: the chimney mic, the pine table, the lake, the johnboat, the party-line rules card. The fiddle-leaf fig with a name. Memo books 70–72. The white bottle; the Sucrets tin (40 and 6). "New Skin" (the album version: *didn't have one*). The *Late Hour* set. Pruitt's supplement folder. The Georgia State Patrol envelope and report, and the diagram with the dotted line. Wayne's Case knife, handle first. The F-100's glovebox of clippings, *Rave* on top; *Borrowed Stone* in its shrink-wrap behind the seat. Hollis Beam's spigot. Two sacks of boiled peanuts (second place). The chipped water glass on the Knob House table. The Bicentennial fireworks on two horizons. The fire-tower stairs. The Corvette in the ditch at the pull-off. The Buster Brown shoebox (Dean's). The Starlite Polaroid on Dean's nightstand. *The Dispossessed*, swollen. The Tabernacle's scarred circle of darker wood. Elmer Tidwell's page number. Joan's closed book on her chair. *Rave*, September 1976: THE NOTEBOOKS OF ELLIS BLAKE. A GE clock radio: *No charge. Sorry about the ugly one.* Charlene Hobbs's "Sunday Clothes," with strings. The Philco on the shelf. The Maxwell House can ($1,540). Grace's room entire: eleven horses, the cigar box, the carbons, the Panasonic, WGRC #1–#14, the unlabeled tape (in Ellis's shirt pocket), the jacket. The 1972 afternoon: the Schwinns, the playing card in the spokes, the unscarred oak, Dolly, the peaches, *and Ellis* (if signed). Frank's reel: WHO ARE YOU? — LAST V. OPEN. Memo book 72, last page: the list.
 
 ### Language introduced
-"There's the elevator shaft." "It has one." "It seemed like the thing to do." "I've watched you." "You'd have hated every word of this." "Clara?" "A crime against God and peanuts." "That's not him." "What did they do to him." "I couldn't have it be nobody's." "I'll drive you." "You got tall." "You weren't pulling away from me." "Stop saying sorry." "I couldn't make it out." "You had to stay where she could see you." "Grace hated these." / "She ate them anyway." "Second." / "Somebody has to." "When I go, I'm not coming back for you. You can stay here with him." "Palm it." "Ask me something I know." "Who are you?" "I think I need help." "Do the voices." "Sit on the step." "Your grandmama would've hollered." "Dinner's at six." / "I'll be there." "I can't watch you choose her." "It doesn't show you anything. It just turns everything up." "They shouldn't have taken it. It's yours." "Now everybody's got me." "I counted more." "You can come back. You're terrible." "Didn't know yet." "Go on in." "Unfortunately." "Later." "I couldn't be her." "She'd have put a frog in your bed." "You want me there?" / "Yeah." "Roy's got a week coming." "Stand by Dean." "Dad — Sunday?"
+"There's the elevator shaft." "It has one." "It seemed like the thing to do." "I've watched you." "You'd have hated every word of this." "Clara?" "A crime against God and peanuts." "That's not him." / "That's him too." "What did they do to him." "I couldn't have it be nobody's." "I'll drive you." "You got tall." "You weren't pulling away from me." "Stop saying sorry." "I couldn't make it out." "You had to stay where she could see you." "Grace hated these." / "She ate them anyway." "Second." / "Somebody has to." "When I go, I'm not coming back for you. You can stay here with him." "Palm it." "Ask me something I know." "Who are you?" "I think I need help." "Do the voices." "Sit on the step." "Your grandmama would've hollered." "Dinner's at six." / "I'll be there." "I can't watch you choose her." "It doesn't show you anything. It just turns everything up." "They shouldn't have taken it. It's yours." "Now everybody's got me." "I counted more." "You can come back. You're terrible." "Didn't know yet." "Go on in." "Unfortunately." "Later." "I couldn't be her." "She'd have put a frog in your bed." "You want me there?" / "Yeah." "Roy's got a week coming." "Stand by Dean." "Dad — Sunday?"
 
 ### Tracked choices this chapter
 Whether Ellis called Clara's name at the lake. How Ellis answered Wayne across the report (*you let me think I killed her* / *you said I was speeding* / silence). "Me too" on the tailgate. What Riley did on the dock in the rain. How long the player waited before *Palm it*. Whether Dean poured the vial out himself. Whether Cal walked Ellis through the verse (or Riley sang it). Riley's argument at the pill count. Mrs. Pardue's question. Cal's answer at the bench. Whether Ellis signed Grace's letter in 1972. Whether he tried on the jacket.

@@ -37,7 +37,7 @@ D's verdict, which the lead accepts: I–VI and most of VII hold up. From VIII o
 | T-6 | Wayne's redemption is too tidy | **Accept, modified.** Thanksgiving stays (the seventh chair is the payoff), but he leaves before the coffee without saying goodbye, and the caption "every year, for the rest of his life" is cut. "Something in his face changes" becomes an action. "He paid rent." and its gloss are cut; "It's paid for." stands alone. His ambulance lines break (E-4). The 1996 door stays closed. |
 | T-7 | The coda without Clara may read as a cure | **Reject.** V4 decision stands. Her absence is unremarked; a trace would be the game winking. |
 | §2.3 | "El" never paid | **Accept.** The post-credits tape opens "Hi, El. It's me." |
-| §2.3 | The Polaroid reaches Dean's pocket without a transfer | **Accept, using Critic C's route.** No IX scene. Ellis takes it out of his mirror frame the Sunday before New York and carries it in the leather jacket; in the X trailer he puts it on the fruit tray, then buttons it into Dean's pocket. Dean's pocket in X M1 holds a thirty-day chip instead. |
+| §2.3 | The Polaroid reaches Dean's pocket without a transfer | **Accept, D's route.** IX M8: on the second night of Dean's withdrawal Ellis leaves it on his nightstand (Agent H). Dean carries it all summer, produces it in the X trailer ("It's yours. I was keeping it for you."), and Ellis buttons it back into his pocket: "Keep it." (C's alternative route was drafted and reverted.) |
 | §2.3 | Wayne's twenty contradicts itself | **Accept.** VII M16 states the branch; X and the epilogue follow it. |
 
 ## Work orders (V6/V7 repair)

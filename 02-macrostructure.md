@@ -489,7 +489,7 @@ Total main story ≈ 57 hours. With side content, 80–110.
 **Major location.** The Arbor Jam, Glen Arbor Raceway, Schuyler County, New York.
 **Set piece.** The Last Light.
 **Quietest.** Ellis in the field at noon under a hat, unrecognized, writing overheard sentences on his forearm.
-**Funniest.** The green room before it goes wrong: Ellis producing the Polaroid ("We look terrible." / "You look terrible."), and the dealership remembered.
+**Funniest.** The green room before it goes wrong: Dean producing the Polaroid ("We look terrible." / "You look terrible."), and the dealership remembered.
 **Most painful.** The crowd chanting his name while he says, into the mic, that he isn't him.
 **Ending transformation.** The camera tries to find Ellis and can't.
 
