@@ -23,11 +23,11 @@ The player should finish this chapter believing they watched the accidental begi
 | 2 | What Things Cost | Ellis | Blake kitchen → Roy's garage → Tanner Valley → Tannersville College, Fri Oct 11 | 45 min |
 | 3 | The Long Way Around | Riley | Tannersville College, Fri Oct 11 | 35 min |
 | 4 | Good Family | Dean | Belle Grove → a Tanner Valley farmhouse → Vale Music, Fri Oct 11 night | 45 min |
-| 5 | Everything Has a Reason | Cal | Vale Music → Mercer Radio & TV → Gaslight Alley, Fri night – Mon Oct 14 | 35 min |
+| 5 | Everything Has a Reason | Cal | Vale Music → Mercer Radio & TV → Gaslight Alley, Sat Oct 12, 12:10 a.m. – Mon Oct 14 | 35 min |
 | 6 | Four Strangers | Cal → Riley → Dean | Marlon's, Fri Oct 18 | 25 min |
 | 7 | Fifteen Minutes | all four | Marlon's back room | 20 min |
 | 8 | One More Song | all four | Marlon's stage and back alley | 35 min |
-| 9 | Home | Ellis | Hollow Ridge at night → Stony Knob → dawn | 35 min |
+| 9 | Home | Ellis | Hollow Ridge at night → Stony Knob → before dawn, Sat Oct 19 | 35 min |
 
 ---
 
@@ -97,7 +97,7 @@ Marlon's is a 1930s brick bar with a 1950s cinderblock addition that never quite
 The overheard conversations overlap and never pause for the player:
 
 - A farmer at the end of the bar on diesel prices: *"Forty-one cents. For diesel. My daddy'd have shot somebody."*
-- Two men on Ali and Foreman, three weeks out: *"Foreman's gonna kill him." / "Ali's too pretty to die." / "Nobody's too pretty to die, Harold."*
+- Two men on Ali and Foreman, three weeks out: *"Foreman's gonna kill him." / "Ali's too pretty to die." / "Nobody's too pretty to die, Virgil."*
 - Someone on the pardon: *"Ford can pardon whoever he wants. I didn't."*
 - Someone saying Tannersville is getting too big and somebody else saying they said that about Tannersville in 1950.
 - An older woman at the corner of the bar, Mrs. Opal Hensley, who has been stirring the same Coca-Cola and bourbon for an hour and who comes every Thursday. She says nothing to anybody. Nobody thinks anything of it.
@@ -193,7 +193,7 @@ Ellis smiles. He also takes a hamburger bun off the pass-through, which Marlon s
 
 The steel door, the brick. Cool night. Insects that should be gone by October. A freight horn somewhere down the valley. The rail line is thirty feet away behind a chain-link fence with a hole in it.
 
-Ellis sets Loretta's case against the wall and lights a Winston, cupping it backward in his palm the way he does at the garage. For the first time since the song, everything is quiet.
+Ellis sets Loretta's case against the wall and lights a Winston, cupping it backward in his palm the way he does at the garage. After the song, everything is quiet.
 
 **CLARA** *(o.s.):* Second one was better.
 
@@ -266,7 +266,7 @@ The player has already learned something about Ellis without being told: part of
 
 The mood changes before anyone speaks.
 
-The Blake house sits halfway up Cold Branch Road toward Stony Knob: a four-room frame house from the forties with a later addition, a porch that needs work, one bulb over the door. It isn't picturesque poverty. It's maintained just enough. Wayne's '67 Ford truck sits in the gravel. Through the front window a television is flickering gray.
+The Blake house sits halfway up Cold Branch Road toward Stony Knob: a four-room frame house from the forties with a later addition, a porch that needs work, one bulb over the door. It's maintained just enough, and no more. Wayne's '67 Ford truck sits in the gravel. Through the front window a television is flickering gray.
 
 A fat, elderly dog heaves himself up off the porch and waddles out to meet the car. This is **Tater**: part beagle, part something long, eleven years old and built like a footstool. Ellis gets out, crouches, and gives him the hamburger bun from Marlon's. The player can pet him. Tater leans his whole weight against Ellis's shins.
 
@@ -340,7 +340,7 @@ A beat. Then, quietly, almost to the television:
 
 Ellis stops.
 
-The player has no context for this. What they have is Ellis's back, gone completely still, and Wayne's face, which shows he knew the second it left his mouth that it was too far. He does not take it back. That is Wayne's whole illness in one refusal.
+The player has no context for this. What they have is Ellis's back, gone completely still, and Wayne's face, which shows he knew the second it left his mouth that it was too far. He does not take it back.
 
 Ellis turns around slowly.
 
@@ -426,7 +426,7 @@ Ellis moves the pile to set down his cup. The booklet ends up on top. He turns i
 
 Wayne slides a piece of paper across the table without looking up from the paper. It's a receipt pad slip from Carson's Tire & Recap in Wayne's square print: *FIRESTONE 6.50-13 USED GOOD TREAD $8 MOUNTED.*
 
-**WAYNE:** Carson's got one that'll fit.
+**WAYNE:** Carson's has one coming that'll fit.
 
 **ELLIS:** I said I'll handle it.
 
@@ -466,6 +466,10 @@ Roy Cagle (late fifties, big, slow-moving, reading glasses pushed up on a bald h
 
 Roy hands him a pair of work gloves.
 
+**ROY:** That Clara girl find you? You said she might come by.
+
+**ELLIS:** She found me.
+
 **ROY:** Buick needs an oil change. Mrs. Pardue's Rambler is making a noise she describes as "a goose."
 
 **ELLIS:** A goose.
@@ -474,7 +478,7 @@ Roy hands him a pair of work gloves.
 
 ### Garage gameplay
 
-This mission establishes physical work: the lift, draining oil, pulling parts off the shelf, pumping gas (full service, 1974: pump, check the oil, wipe the windshield, make change from a coin changer on Ellis's belt), and diagnosing by sound. It is not a simulator. It's tactile, quick and human. The point is that Ellis is good at this. He isn't a useless dreamer. He understands machines. He simply hates that this is supposed to be his whole life.
+This mission establishes physical work: the lift, draining oil, pulling parts off the shelf, pumping gas (full service, 1974: pump, check the oil, wipe the windshield, make change from a coin changer on Ellis's belt), and diagnosing by sound. It's tactile, quick and human, and never a simulator. The point is that Ellis is good at this. He understands machines. He simply hates that this is supposed to be his whole life.
 
 **Mrs. Pardue's goose** is the diagnostic tutorial. Ellis starts the Rambler, listens, walks around it. The player moves the camera toward the sound (the rear, then underneath) and finds a loose heat shield on the exhaust that honks when the engine revs. Ellis fixes it with a hose clamp.
 
@@ -494,7 +498,7 @@ She pays and leaves. Roy looks at Ellis over his glasses and goes back to the Bu
 
 These happen during the loop, in whatever order the player's work brings them:
 
-- **A young mother** with a toddler on her hip and a Ford Falcon that needs a water pump and a timing belt. She can pay for one. Roy, from under the Buick, without coming out: *"Write it up as one hour labor. We didn't do the belt. Did we."* Ellis: *"No sir."* The belt gets done.
+- **A young mother** with a toddler on her hip and a Ford Falcon that needs a water pump and a fan belt. She can pay for one. Roy, from under the Buick, without coming out: *"Write it up as one hour labor. We didn't do the belt. Did we."* Ellis: *"No sir."* The belt gets done.
 - **Wesley Tate**, eleven, from the hardware-store family, buying a Coke from the machine with a sack of pennies. He looks at Ellis a long time. *"You were playing at Marlon's last night." / "Allegedly." / "I heard you from the tracks." / "You're not supposed to be on the tracks." / "You got a band?" / "No." / "Sounded like you should."* Ellis doesn't answer. Wesley leaves with his Coke. The line stays somewhere.
 - **Roy's office.** On a shelf above the parts catalogs: a framed photograph of a nineteen-year-old in Army fatigues squinting into the sun, and next to it a folded flag in a triangular wooden case. The player can look. Ellis looks. Roy, from the doorway: *"Hand me that three-eighths ratchet."* Nothing else. (See Chapter VII.)
 
@@ -508,7 +512,7 @@ With last night's thirty, Ellis has **$106.40** and a list of needs the player c
 
 | Need | Cost |
 |---|---|
-| The tire at Carson's | $8.00 |
+| The tire | Carson's: on order, in Friday (unavailable) |
 | Gas (the Valiant is on a quarter tank) | ~$7.00 to fill |
 | Guitar strings (Black Diamond, a set) | $3.50 |
 | Cigarettes | $0.50 a pack |
@@ -516,7 +520,7 @@ With last night's thirty, Ellis has **$106.40** and a list of needs the player c
 | Money to Wayne (he's never asked; this changes in Ch II) | — |
 | A notebook (Western Auto, 29¢) | $0.29 |
 
-There is no morality meter. The game simply doesn't let you buy everything at once and have it matter. If Ellis buys strings instead of the tire, the tire stays bald longer, and more people in Hollow Ridge will mention it. If he buys the tire, his strings sound dead at Marlon's next week, and Cal will hear it. If he eats at the Starlite, Wayne will smell it on him and say something. The first thing the system teaches is Ellis's foundational reality: **every choice costs another choice.**
+There is no morality meter. The game simply doesn't let you buy everything at once and have it matter. The tire can't be bought this week at any price, so it stays bald, and more people in Hollow Ridge will mention it. The live choice is strings or gas: if Ellis buys strings, the Valiant runs on fumes; if he fills the tank, his strings sound dead at Marlon's next week, and Cal will hear it. If he eats at the Starlite, Wayne will smell it on him and say something. The first thing the system teaches is Ellis's foundational reality: **every choice costs another choice.**
 
 ### The Tannersville delivery
 
@@ -529,6 +533,8 @@ Roy rebuilds alternators for the maintenance shop at Tannersville College, among
 **ROY:** You wouldn't get much.
 
 **ELLIS:** Then we're safe.
+
+Roy throws him the keys anyway.
 
 ### The Tanner Valley corridor
 
@@ -580,7 +586,7 @@ The camera follows Ellis. Then it catches: the faintest frame-stutter, like film
 
 The HUD fades. Control transfers.
 
-> **Design note — the switch.** This is the first time the player sees the switch. Don't label it. Don't show a name. The game has simply decided: this is the person you need to understand now.
+> **Design note — the switch.** This is the player's introduction to the switch. Don't label it. Don't show a name. The game has simply decided: this is the person you need to understand now.
 
 ---
 
@@ -713,7 +719,7 @@ They laugh. Joan asks about classes, meals, sleep, whether she's wearing a coat,
 
 She does know. That's why she sometimes feels guilty for wanting something else, even before she knows what it is.
 
-> **Name note.** This is the first time the player hears "Maggie" and "Margaret." Nobody explains. Riley goes by her last name; everyone she's chosen calls her Riley.
+> **Name note.** The player hears "Maggie" and "Margaret" here. Nobody explains. Riley goes by her last name; everyone she's chosen calls her Riley.
 
 ### Weekend plans
 
@@ -781,7 +787,7 @@ A girl passing by: *"Need help?"*
 
 She keeps walking.
 
-**DEAN:** Fair.
+**DEAN:** Playing hard to get. Respect.
 
 Dean moves fast and loose. His walk has a bounce the controls exaggerate slightly; he's quicker to sprint, slower to stop. He drums on things he passes: a railing, a trash can, a parked car's fender. The player can do this deliberately (a button taps whatever surface he's next to), and it's the first hint of his mechanic: Dean hears everything as something to play.
 
@@ -831,9 +837,7 @@ Carol suppresses a smile. Patty doesn't bother.
 
 **DEAN:** Not everything. Funerals are pretty serious.
 
-Richard sets down his fork.
-
-**CAROL:** Dean.
+Richard sets down his fork. Carol looks at Dean over the rim of her glass.
 
 Dean knows.
 
@@ -877,7 +881,7 @@ He kisses her on the cheek.
 
 **DEAN:** Always.
 
-That isn't true.
+He goes out the back door anyway. At the end of the drive, the Chevelle's tires chirp.
 
 ### The party
 
@@ -892,7 +896,7 @@ Dean comes alive. This section needs to be genuinely fun. Optional activities, e
 - **Escalate or defuse an argument** between two guys over a girl who isn't interested in either of them. Dean can make it funny.
 - **The drums.**
 
-Dean genuinely likes people. He isn't a user of them. He's the guy everyone wants at the party because something happens when he's around.
+Dean genuinely likes people, and he's the guy everyone wants at the party because something happens when he's around.
 
 ### The drums
 
@@ -904,11 +908,9 @@ Dean's mechanic, introduced: **feel** (push or hold the tempo), **fills** (when,
 
 He's smiling. He throws fills that shouldn't work and do. He answers the guitarist's phrases like it's a conversation. He plays too hard, beautifully. Everything reckless about Dean becomes useful behind a drum kit: the chaos turns into rhythm. People crowd in. Someone is standing on the couch.
 
-Dean is exactly where he belongs.
-
 ### The raid
 
-Not a SWAT scene. A neighbor finally calls the county. Blue lights come up the gravel drive. Panic, mostly cheerful.
+A neighbor finally calls the county. Blue lights come up the gravel drive. Panic, mostly cheerful.
 
 **OWNER** *(from the porch):* Everybody out the back! Out the back!
 
@@ -944,8 +946,6 @@ Then Dean starts laughing. The stranger starts laughing: a short, rusty sound, l
 
 **DEAN:** That's a tomorrow problem.
 
-That sentence is Dean's entire philosophy.
-
 **DEAN:** I'm Dean.
 
 **STRANGER:** Tully.
@@ -958,7 +958,7 @@ Dean drops him at a crossroads store on Route 60. Tully gets out, taps the roof 
 
 **DEAN** *(to nobody):* Weird guy.
 
-> **Replay layer.** "Who are you?" is spoken for the first time in the game here, as a joke, by Dean, to a stranger in a getaway car. The answer is "Drive." Tully Voss is a Tanner Valley boy home from Vietnam three years and drifting. He'll be back.
+> **Replay layer.** "Who are you?" is first spoken here, as a joke, by Dean, to a stranger in a getaway car. The answer is "Drive." Tully Voss is a Tanner Valley boy home from Vietnam three years and drifting. He'll be back.
 
 ### The amplifier
 
@@ -1018,7 +1018,7 @@ Control transfers.
 
 ## MISSION 5 — EVERYTHING HAS A REASON
 
-**Playable:** Cal · **Where:** Vale Music → Mercer Radio & TV → Gaslight Alley → Vale Music · **When:** Friday Oct 11, 12:10 a.m. → Monday Oct 14 · **Length:** ~35 min
+**Playable:** Cal · **Where:** Vale Music → Mercer Radio & TV → Gaslight Alley → Vale Music · **When:** Saturday Oct 12, 12:10 a.m. → Monday Oct 14 · **Length:** ~35 min
 
 ### The bench
 
@@ -1104,32 +1104,32 @@ Dot Mercer comes through from the back with a sack of sandwiches, talking before
 
 ### Gaslight Alley
 
-Saturday night. Downtown Tannersville, an alley of lounges and supper clubs with neon script signs, where the tourists who used to come for the Jubilee show still wander in looking for something. The Blue Lantern Supper Club. Cal is sitting in with **Bobby Ray Tolbert & the Starlighters**: the singer is drunk, the guitarist is late, the drummer has not learned the songs.
+Saturday night. Downtown Tannersville, an alley of lounges and supper clubs with neon script signs, where the tourists who used to come for the Jubilee show still wander in looking for something. The Blue Moon Supper Club. Cal is sitting in with **Jimmy Ray Tolbert & the Nightcaps**: the singer is drunk, the guitarist is late, the drummer has not learned the songs.
 
 The player plays bass. Cal's mechanic:
 - **Lock:** sit with the drummer, or sit slightly behind him and drag him back.
 - **Follow:** catch somebody else's deviation (an early entrance, a missed change) and turn it into something that sounds planned.
 - **Floor:** hold one note under everything when everyone else is lost.
 
-When the drummer drifts, Cal anchors him. When Bobby Ray comes in a bar early, Cal moves the whole band under him so it sounds like an arrangement. When the guitarist forgets a turnaround, Cal leaves space so the silence sounds intentional. The group sounds better because Cal is there. The audience barely knows he exists. That is Cal's musical role, and eventually his emotional role in The Blakes.
+When the drummer drifts, Cal anchors him. When Jimmy Ray comes in a bar early, Cal moves the whole band under him so it sounds like an arrangement. When the guitarist forgets a turnaround, Cal leaves space so the silence sounds intentional. The group sounds better because Cal is there. The audience barely knows he exists. That is Cal's musical role, and eventually his emotional role in The Blakes.
 
 At the bar, a man in his late twenties in a good shirt watches Cal through the whole second set. When Cal glances up once, the man nods. Cal nods back. Nothing else happens. Nobody else notices.
 
 ### Pay
 
-After, in the kitchen hallway, Bobby Ray hands Cal a twenty.
+After, in the kitchen hallway, Jimmy Ray hands Cal a twenty.
 
 **CAL:** Thirty-five.
 
-**BOBBY RAY:** Bad crowd.
+**JIMMY RAY:** Bad crowd.
 
 **CAL:** I wasn't paid by the head.
 
-**BOBBY RAY:** Twenty's what I've got.
+**JIMMY RAY:** Twenty's what I've got.
 
 **CAL:** Then find fifteen.
 
-No shouting. No threat. Cal simply stands there. Bobby Ray finds fifteen in the tip jar. That principle (I will not absorb your failure) is going to make Ellis furious one day.
+No shouting. No threat. Cal simply stands there. Jimmy Ray finds fifteen in the tip jar. That principle (I will not absorb your failure) is going to make Ellis furious one day.
 
 ### Monday
 
@@ -1149,7 +1149,7 @@ Cal sighs.
 
 **CAL:** Where's that?
 
-**VALE:** Exactly.
+**VALE:** That's what everybody says. Take the valley road west and keep climbing.
 
 ---
 
@@ -1363,8 +1363,6 @@ Dean stops. Five seconds. Tap. Tap. Cal looks at him. Dean slowly sets both stic
 
 Riley and Ellis answer at the same time. Different keys. Cal closes his eyes.
 
-**DEAN:** Great start.
-
 ### The first jam (as Dean)
 
 They choose something simple: a shuffle in A that everyone knows the shape of. Dean counts it in. The player controls the count, and it's too fast no matter what, because Dean is Dean.
@@ -1387,7 +1385,7 @@ Ellis laughs. Dean points at him.
 
 **CAL:** Nobody gets you.
 
-They try again. This time (the player controlling Dean, easing off the push) it locks. Not beautifully. Enough. All four feel it at once; the controller rumbles once, very gently, the only haptic in the scene.
+They try again. This time (the player controlling Dean, easing off the push) it locks, roughly, well enough. All four feel it at once; the controller rumbles once, very gently, the only haptic in the scene.
 
 Then they stop. A tiny silence.
 
@@ -1447,7 +1445,7 @@ Dean adds rim taps, restrained, the first restraint of his life. Cal is sitting 
 
 Cal looks up, annoyed. Stutter. As **Cal**, the player hears the song's bottom is missing, and the root isn't where you'd expect. Cal plays a single low E and moves it somewhere unexpected on the turn.
 
-And the song changes. Not because Cal plays anything flashy. Because suddenly the bottom exists. The song has weight.
+And the song changes. Cal plays nothing flashy; suddenly the bottom exists, and the song has weight.
 
 Stutter back to **Ellis**. He plays another verse. Riley harmonizes. Dean starts to build. For perhaps twenty seconds nobody jokes, nobody argues, nobody performs a personality. They're listening to each other.
 
@@ -1523,7 +1521,7 @@ Music.
 
 ### Playable switches during the song
 
-The song keeps going, uninterrupted, while control moves between them. This is where the player understands the switch isn't only cinematic. It's musical.
+The song keeps going, uninterrupted, while control moves between them. This is where the player understands the switch is musical as well as cinematic.
 
 **Ellis.** Guitar and vocal phrasing. He starts tight, carrying everything, the way he does alone on Thursdays. Then, around the second chorus, the player feels something new: the song doesn't need him to carry it. There's a floor under him and a voice beside him. The controls reflect it: Ellis's reach gets cheaper when the others are with him.
 
@@ -1540,8 +1538,6 @@ Ellis opens his eyes and looks over. Cal gives him no expression at all. Just ke
 (If the player misses the window, the band recovers the ordinary way, and Cal still looks at Ellis, and the moment is smaller. It's never a fail state.)
 
 **Riley.** Harmony. Switch. As Riley the player hears Ellis's voice from inside the song, not from the audience, and there's something under the roughness he doesn't let out on purpose. She changes her harmony to go under it instead of over. Ellis hears. Turns. For maybe one bar they are completely in sync.
-
-No romance yet. Musical recognition. That's much more important.
 
 ### A turn
 
@@ -1595,9 +1591,9 @@ He counts it in.
 
 ### The moment
 
-"No Name" begins. People are talking. Then they stop. Not all at once. Gradually.
+"No Name" begins. People are talking. Then they stop, gradually, a table at a time.
 
-The player rotates through all four in faster switches now: Ellis, Riley, Cal, Dean, Ellis. The stutters are shorter. It isn't jarring. It's almost like playing a single body. The Room shows it: Mrs. Hensley isn't here on a Friday, but a woman at the end of the bar is holding her glass halfway to her mouth; the pool game has stopped; Tully is leaning against the back wall with his arms folded and his eyes closed.
+The player rotates through all four in faster switches now: Ellis, Riley, Cal, Dean, Ellis. The stutters are shorter. It's almost like playing a single body. The Room shows it: Mrs. Hensley isn't here on a Friday, but a woman at the end of the bar is holding her glass halfway to her mouth; the pool game has stopped; Tully is leaning against the back wall with his arms folded and his eyes closed.
 
 By the last chorus, the room is listening.
 
@@ -1623,7 +1619,7 @@ The back room. Adrenaline. Dean can't stop moving.
 
 Riley laughs. Ellis is still processing, sitting on the case of Pabst.
 
-Marlon comes in with money. He counts out a hundred and twenty dollars on a keg.
+Marlon comes in with money. He counts out forty dollars on a keg.
 
 **MARLON:** Forty, like we said.
 
@@ -1647,7 +1643,7 @@ Dean raises his hand.
 
 **MARLON:** Of course.
 
-He pays a hundred and sixty. Ellis watches Cal the whole time. First seed of respect.
+He pays a hundred and sixty. Ellis watches Cal the whole time.
 
 ### Outside — the first four-way conversation
 
@@ -1719,21 +1715,19 @@ He starts walking to his car. Ellis watches him go. Then:
 
 **ELLIS:** What's wrong with the second verse?
 
-Cal stops. Dean looks at Riley: *there it is.*
+Cal stops. Dean looks at Riley and raises his eyebrows.
 
 Cal walks back and explains exactly what he means: the melody stays on the same three notes for eight bars while the words keep telling you something is happening; the chords don't move; you've given the listener nothing to lean on. It isn't arrogant. It's specific. Ellis disagrees, strongly. But he listens to every word.
-
-Their entire relationship exists here in miniature.
 
 ### The name
 
 The back door opens. Marlon.
 
-**MARLON:** Next Friday.
+**MARLON:** Friday after next.
 
 Everyone turns.
 
-**MARLON:** Fifty each.
+**MARLON:** County Line Boys owe me next Friday, if they make bail. Fifty each.
 
 Cal stops leaving. Dean smiles.
 
@@ -1769,7 +1763,7 @@ Marlon is already walking back down the hall. The player, as Ellis, can follow h
 
 **FRIDAY — THE BLAKES**
 
-**ELLIS:** Marlon.
+Ellis takes a step toward the board.
 
 **MARLON:** Too late.
 
@@ -1837,8 +1831,6 @@ She turns around.
 
 She smiles and goes. Ellis watches a little longer than necessary.
 
-Not love. Interest.
-
 ---
 
 ## MISSION 9 — HOME
@@ -1851,7 +1843,7 @@ The player drives. There's no urgency and no marker. This is deliberate: the gam
 
 ### Optional stops
 
-- **The Starlite**, the 24-hour truck-stop diner on US 19 at Laurel Gap. A man in a feed cap at the counter who was at Marlon's: *"You boys sounded pretty good." / "One of us wasn't a boy." / "You know what I mean." / "Unfortunately."* A waitress with a pencil in her hair (Lynette, twenty-two, the night shift) refills his coffee without asking and charges him for it.
+- **The Starlite**, the 24-hour truck-stop diner on US 19 at Laurel Gap. A man in a feed cap at the counter who was at Marlon's: *"You boys sounded pretty good." / "One of us wasn't a boy." / "You know what I mean. Y'all ought to be on the radio." / "I'll take it under advisement."* A waitress with a pencil in her hair (Lynette, twenty-two, the night shift) refills his coffee without asking and charges him for it.
 - **The rail crossing** on Depot Street: a freight comes through while he waits. Ninety-some cars. The player can count them. Ellis's lips move. He's counting too.
 - **Hollow Creek** under the Main Street bridge, loud from the week's rain up the mountain.
 - **Stony Knob** (he'll come back here later tonight either way).
@@ -1859,7 +1851,7 @@ The player drives. There's no urgency and no marker. This is deliberate: the gam
 
 ### Wayne, awake again
 
-Ellis gets home around one. Wayne is at the kitchen table this time with the overhead light on. Not waiting in the dark. Waiting in the light, which is almost worse.
+Ellis gets home around one. Wayne is at the kitchen table this time with the overhead light on, waiting in the light, which is almost worse.
 
 Ellis puts his money on the counter to count it. Wayne watches.
 
@@ -1921,13 +1913,17 @@ Wayne hears it arrive in the room. Ellis doesn't move. The player doesn't fully 
 
 Wayne looks away. He almost says something. He doesn't.
 
+The player can hold silence here. If they don't, Ellis answers:
+
 **ELLIS:** Go to hell.
 
 **WAYNE:** Ellis—
 
 **ELLIS:** Don't.
 
-For the first time, Wayne looks ashamed. Ellis walks down the hallway.
+If they hold, Ellis says nothing at all. Wayne gets as far as "Ellis—" and it lands on nothing.
+
+Either way, Wayne looks ashamed. Ellis walks down the hallway.
 
 ### The closed door
 
@@ -1943,7 +1939,7 @@ Ellis turns. Wayne's face isn't angry now. It's afraid.
 
 **ELLIS:** Wasn't going to.
 
-He walks on. The player still doesn't know whose room it is. But the house has a ghost now, a long time before the player understands Clara.
+He walks on. The house has a room the player hasn't been let into.
 
 ### Ellis's room
 
@@ -1952,6 +1948,8 @@ Ellis slams the door. Throws his jacket on the bed. Sits. Angry, breathing throu
 Cal's criticism comes back to him (the player hears it, Cal's voice, dry: *"Nothing happens."*). Ellis crosses out a line. Plays the second verse again on Loretta, unplugged, quiet so Wayne won't hear. Stops. Changes the melody on the third line so it climbs instead of sitting. Crosses out another line. Writes a new one.
 
 It's better. The player can hear that it's better.
+
+Down the hall Wayne's door shuts. After a while, through the wall, the slow saw of his snoring.
 
 **ELLIS:** Asshole.
 
@@ -1963,17 +1961,15 @@ Ellis doesn't turn around.
 
 The camera finds Clara sitting on the floor under the window with her back against the wall and her boots up on the Silvertone's case. Completely natural. The player feels relief: someone safe in this house.
 
-That is exactly what Clara is to Ellis.
-
 ### Clara and Ellis
 
 **CLARA:** They good?
 
-**ELLIS:** Maybe.
+**ELLIS:** Reckon so.
 
 **CLARA:** Girl's good.
 
-**ELLIS:** Riley.
+**ELLIS:** Her name's Riley.
 
 **CLARA:** You like her.
 
@@ -2017,17 +2013,19 @@ Clara bursts out laughing.
 
 The laughing fades. She looks at him.
 
-**CLARA:** What'd Wayne say?
+**CLARA:** What'd your daddy say?
 
 He stiffens.
 
-**ELLIS:** Nothing.
+**ELLIS:** That's a matter for the courts.
 
 **CLARA:** Ellis.
 
-**ELLIS:** I said nothing.
+**ELLIS:** I'm fine.
 
-She knows. She doesn't push. She waits a while.
+**CLARA** *(lightly):* Liar.
+
+She doesn't push. She waits a while.
 
 **CLARA:** You don't have to believe everything he says.
 
@@ -2039,17 +2037,17 @@ He clearly does.
 
 **ELLIS:** Yeah.
 
-**CLARA:** You're allowed to have something good.
+**CLARA:** Hush. Eat one of his biscuits.
 
 He can't look at her.
 
-On a first playthrough this sounds like a friend, maybe an older cousin or a family friend who knows the house, saying the thing he needs to hear.
+On a first playthrough this sounds like a friend, maybe an older cousin or a family friend who knows the house, bossing him the way family does.
 
-> **Replay layer.** His dead sister, grown up in his head, tells him he's allowed to live. It's Ellis trying to tell himself, in the only voice he'd believe. Note also: she says "Wayne," never "Daddy." The disguise holds. (She slips once, in Chapter VIII.)
+> **Replay layer.** Grace used to tell Wayne to his face he was being hateful and then eat his biscuits. His dead sister, grown up in his head, tells Ellis to do the same. It's Ellis looking after himself, in the only voice he'd take orders from. "Liar" is the first of three (I, V, VIII). Note also: she says "your daddy," never "Daddy." The disguise holds. (She slips once, in Chapter VIII.)
 
 ### The late drive
 
-He can't sleep. He takes his keys. Clara goes with him. Wayne hears the Valiant start (the camera stays with Wayne for three seconds, in bed, eyes open, listening) and doesn't get up.
+He can't sleep. He takes his keys. Clara goes with him. The Valiant's starter wakes Wayne (the camera stays with Wayne for three seconds, in bed, eyes open, listening), and he doesn't get up.
 
 Ellis drives up Cold Branch Road to the top of **Stony Knob**, the overlook: a gravel pull-off, a guardrail, the fire tower black against stars, and Hollow Ridge below. A dozen streetlights, the depot, the steeple, the dark line of the rail cut, the ridges going blue into more ridges, and, far off east, the glow of Tannersville on the clouds.
 
@@ -2071,9 +2069,9 @@ She waits. He never explains.
 
 **CLARA:** You gonna play Friday?
 
-**ELLIS:** Probably.
+**ELLIS:** Might could.
 
-**CLARA:** Probably.
+**CLARA:** Might could.
 
 **ELLIS:** Yeah.
 
@@ -2095,7 +2093,7 @@ Headlights come up the road. Ellis turns his face away from them, not dramatical
 
 A county sheriff's cruiser pulls into the overlook and stops beside the Valiant. The window rolls down. **Deputy Lyle Pruitt**: forties, a toothpick, a face that has known this boy since he was in diapers.
 
-**PRUITT:** Blake.
+**PRUITT:** Little late for the view, Blake.
 
 **ELLIS:** Sir.
 
@@ -2133,23 +2131,23 @@ Clara looks at him.
 
 **CLARA:** Not everything.
 
-On a first playthrough, a clever line. On a second, the thesis of the whole game.
+She watches the cruiser's taillights to the bottom of the mountain.
+
+**CLARA:** He's gonna write you up for that tire.
 
 > **Replay layer.** Pruitt worked Grace's crash. He's the one who got Ellis out of the car. The whole town watches this boy's tires. The flinch at the headlights is the first one; there will be more, and nobody will ever mention them.
 
-### Dawn
+### Before dawn
 
-Ellis comes home near six. The sky is going gray over the ridge. Tater is asleep on the porch and thumps his tail without getting up.
+Ellis comes home near six. It's still black; the ridge won't gray for an hour and a half (Georgia is on year-round daylight time this year). Tater is asleep on the porch and thumps his tail without getting up.
 
 Inside, Wayne has fallen asleep at the kitchen table, head on his forearm, the overhead light still on. Under his other hand is a snapshot: a girl of about twelve sitting bareback on an old chestnut mare in a pasture, squinting and grinning at whoever's holding the camera. Wayne's hand covers most of her face. The player can see the horse, and her knees, and a green felt-tip date on the white border: *June 1971*.
 
-Ellis stands there and watches his father sleep. What's on his face is hatred, and pity, and love, and something worse than any of the three.
+Ellis stands there and watches his father sleep. He looks at the green date on the border for a long time.
 
 He takes the afghan off the back of the couch. For a moment it seems he'll put it over Wayne's shoulders.
 
 He doesn't. He folds it and sets it on the table beside Wayne's arm, where he'll see it when he wakes up.
-
-That's Ellis.
 
 ### The notebook
 
@@ -2220,26 +2218,29 @@ All four instruments hit together. Cut.
 - The coupon book is for her headstone.
 - Clara never interacts with Wayne, never enters the house while Wayne is awake, never touches an object anyone else could verify, never appears in the objective wide shots and is never looked at by the dog or the deputy.
 - When Ellis talks about leaving, Clara always understands why before he explains.
-- "You're allowed to have something good" is Ellis, speaking to himself in the only voice he'd believe.
+- "Hush. Eat one of his biscuits." is Ellis looking after himself in the only voice he'd take orders from, and it's Grace's old habit with Wayne.
 
 ### Clara in Chapter I (clue ledger)
 | Moment | Surface | Truth | Level |
 |---|---|---|---|
-| "Second one was better" | A friend who came to the show | His sister was on her way to his first show when she died | subliminal |
+| "Second one was better" | A friend who came to the show | His sister was in the car the night of his first show | subliminal |
 | "He come?" | Did his father come | Grace wanted to come; Wayne never has | invisible |
 | Stays in the car at the house | Doesn't like Wayne | Rule 8 | invisible |
+| Roy: "That Clara girl find you?" | Everybody knows she's around | Roy has only heard of her from Ellis | invisible |
+| In the bedroom only after Wayne is snoring | Timing | The I–II rule: never in the house while Wayne is awake | invisible |
 | "Not that way" at Tolliver Road | Directions | The crash road | subliminal |
 | Horse patch on her jacket | A patch | Grace's jacket; the horse on the door, dresser, photos | subliminal (a few will catch it) |
 | Tater doesn't look at her | Nothing | Rule 4 | subliminal |
 | Pruitt doesn't acknowledge her | Natural blocking | She isn't there | invisible |
-| Says "Wayne," not "Daddy" | Family friend | The disguise | subliminal |
+| Says "your daddy," not "Daddy" | A family friend's manners | The disguise | subliminal |
+| "I'm fine." / "Liar." | A friend's tease | The first of three; Chapter X pays it off | invisible |
 | "You ever think about leaving and never coming back?" | Small-town question | What he said to Grace (Ch IX) | subliminal |
 
 ### Wayne in Chapter I
-Two blows ("cars after the fact," "you got to keep yours"), one wordless kindness (the wax-paper lunch), one sign of fear ("Don't," at the door), one sign of shame, and one secret: he looks at the bald tire through the window for a long time. The player should dislike him and not be able to stop thinking about him.
+Two blows ("cars after the fact," "you got to keep yours"), one wordless kindness (the wax-paper lunch), one sign of fear ("Don't," at the door), one sign of shame (and, if the player holds silence, a half-said name that lands on nothing), and one secret: he looks at the bald tire through the window for a long time. The player should dislike him and not be able to stop thinking about him.
 
 ### Objects introduced
 Loretta (with a name inside the lid in green felt-tip); the face-down portrait; the plastic horse; the horse sticker; the headstone coupon book; the Carson's receipt; the wax-paper lunch; notebook number 44; Marlon's chalkboard; the WIN button; Cal's set list on a Pabst coaster; the snapshot of Grace on the mare.
 
 ### Language introduced
-"Stay with me." "A turn." "Again." "That's a tomorrow problem." "Who are you?" / "Drive." "Allegedly." "Hm."
+"Stay with me." "A turn." "Again." "That's a tomorrow problem." "Who are you?" / "Drive." "Allegedly." "Hm." "Liar."
