@@ -15,7 +15,7 @@ This bible is canon. Chapters, maps and audits are written against it. Most of w
 8. Supporting cast
 9. The band as a character
 10. The music
-11. Systems and rules (switching, performance, Clara, objective camera, money, time)
+11. Systems and rules (switching, performance, Clara, objective camera, money, time, Clara's help)
 12. Tone and dialogue rules
 
 ---
@@ -27,6 +27,8 @@ In October 1974, in a railroad town of 2,100 people in the north Georgia mountai
 Over the next twenty-three months the player lives inside these four people as they become The Blakes: bars, a college radio signal you have to drive up a mountain to hear, a 45 pressed on credit, a green van that smells like something died in it, a record contract, a debut album nobody knows how to sell, a single that climbs, a myth that grows faster than the people inside it, and a festival in upstate New York where 150,000 strangers watch Ellis Blake come apart and believe they are watching the greatest performance of the decade.
 
 The rock-band story is the surface. Underneath it: a boy who was driving the night his little sister died, who has been talking to a young woman named Clara since the spring, and who has never once asked himself where she lives.
+
+**What only a game can do with this (the premise, stated as a game).** *A game where the camera decides who you are. For half of it, the camera has been showing you someone who isn't there, and she has been the only help the game ever gave you.* The switch (§11.1) chooses who the player is, is betrayed at the midpoint, fails in the last chapters, and at the very end lands on the father it refused for fifty hours. Clara is the game's only guidance (§11.8): no tutorial, no hint text, just a funny, bossy young woman who is always right about the world and always wrong about the wound. The notebook lines the player collects become, without consent, the "genius" a country sells (§11.5). The player who guesses early that she's "his dead sister's ghost" has guessed the tabloid version; the second half corrects it.
 
 ## 2. Thematic architecture
 
@@ -723,6 +725,17 @@ Major story events are fixed. The player shapes the life remembered:
 - small callbacks: characters in later chapters and in the 1996 interviews refer to specific things the player did.
 
 Dialogue is never a nice/neutral/asshole wheel. Choices are about timing (say it now, or hold), topic (what to ask about) and disclosure (how much Ellis lets out). Silence is always an option: hold the button and he says nothing, and people react to that.
+
+### 11.8 Clara's help (the game's only guidance)
+
+There is no tutorial, hint text or advice anywhere in the game (the HUD shows only the day of the week, a single plain objective when there is one, and input prompts). The only voice that ever tells the player what to look at, where to go, how the harmony goes, what day it is or what they're forgetting is Clara's, in her idiom, when she's present.
+
+- **What she helps with.** Observe targets ("Look at that man's hat."). The Room: before Riley, she hums the high part (Grace's part), and following her hum finds the harmony; when Riley first sings the high part on "No Name" (I M8), Clara stops humming, the first thing anyone takes from her. Directions ("Not that way." "Left at the church."). Money, time and the calendar ("Rent's Friday." "It's Thursday."): Ellis always knows what day it is, and she's how. Social reads ("He's lying about the tubes.").
+- **Her bias.** Always right about the world (Rule 6: it's Ellis's own knowledge) and always biased toward keeping him with her: away from Tolliver Road, away from doctors ("You don't need anybody looking at you."), away from telling Riley about the car, away from home early. A second playthrough shows every place she steered.
+- **Where there is none.** Playing as Riley, Cal or Dean: no help; their verbs and the band's signals are all they have. With Wayne in the room: none. On the medication (VIII M17 – IX M7): none, and the Room has no hum, Observe is muted, and the quiet is a playable cost with no moral attached. From day four of Flush (IX M7) she and the help return, and the player feels the relief the game then makes them pay for. At HOME (X M8) she gives none: the only decision in the game she doesn't help with. The epilogue and the coda have no help at all; GO HOME is an objective nobody says.
+- **Tests.** Before the midpoint, the player can ask her to do something objective (pay, pick something up, hand Riley a pick). She refuses in idiom ("I'm not your mama." "Do it yourself, you've got hands."). The count is tracked (`clara_tests`). If it's three or more at V M16, one line appears in the notebook after the midpoint: *I kept asking her to prove it and she kept not.* Nothing else acknowledges it.
+- **Rules.** The help obeys §11.3 in full, above all Rule 6 (nothing Ellis couldn't know) and Rule 10 (no "go").
+- **Precedent.** *Hellblade: Senua's Sacrifice* gives psychotic voices a hint function. The difference here: the help is warm and funny; the player doesn't know it's a hallucination until halfway; it's biased toward the wound rather than hostile; medication removes it as a playable cost; and the last choice is the one it won't help with.
 
 ## 12. Tone and dialogue rules
 
