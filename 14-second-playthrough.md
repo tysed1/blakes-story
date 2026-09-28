@@ -17,10 +17,10 @@
 - **The 1964 portrait**, face down: Lorraine's gap teeth. The face Clara has.
 - **Clara says "your daddy,"** a family friend's manners, not "Daddy," until VIII.
 - **"I'm fine." / "Liar."** The first of three. Grace's last joke.
-- **"Not that way"** at the Tolliver Road sawhorse. She's keeping him off the road where it happened.
+- **"Not that way"** at the Tolliver Road turnoff. She's keeping him off the road where it happened.
 - **Opal Hensley** at the corner of the bar every Thursday. Her porch light was the only one on (IX M5).
 - **The chalkboard**: THURSDAY — ELLIS BLAKE, erased. It will say THURSDAY again in X, and his name will still be there under it.
-- **Tater** is fat because two men feed him (Ep. M6).
+- **Tater** is fat because two men feed him (Ep. M7).
 - **"Stay with me,"** the band signal, was the first thing he said to Grace in the car after the crash.
 
 ### Chapter II
@@ -90,17 +90,18 @@
 - **The tab, put back.** He dies clean.
 - **"Sunday's fine."** The last thing they say face to face is about biscuits.
 - **"Go on, get up there."** The second step, and the long hold.
-- ***Go, go, go*** in the rain in the field. What Grace said getting into the Impala.
-- **The first flash of the sun-gun.** The flinch the player already knows from VII.
-- **The open verse.** *Stay with me* (his), *Liar* (hers), *Go on* (hers).
-- **The turn.** Riley is on his right, where he swerves.
-- **How long the player held *home*.** It's in the footage, to the second, and Nina says it in 1996.
+- ***Come on, come on*** in the rain in the field. Never *go*. That was Grace's word, getting into the Impala.
+- **The first flash of the sun-gun,** in "Shape Note," switched off as a technical problem. The flinch the player already knows from VII.
+- **The open verse.** His *sorry* under the rain; her laugh and a word the rain takes (the player knows the word); *Stay with me*, clear; *It's okay. Go on.* under it.
+- **The turn.** The song lands first. Riley is ahead of him and to his left, where the light comes from; the swerve takes him away from her.
+- **How long the player held *home*.** It's in the footage, rounded, and Nina says it in 1996.
 
 ### Epilogue
 - **Biscuits at a Virginia counter on a Sunday.**
 - **"She carries."**
 - **Tater getting thin.**
 - **Clara's absence from the coda**, which the second-time player notices immediately.
+- **"Hi, El."** The post-credits tape. The only time the player hears Grace say it.
 
 ## What the second playthrough changes mechanically
 
@@ -123,7 +124,7 @@
 6. The coffee can of rent.
 7. "Nobody here knows you" sung by sixteen hundred, then a hundred and fifty thousand.
 8. The seventh chair (Clara, then Wayne).
-9. "Not that way" at the sawhorse → VIII M14.
+9. "Not that way" at the turnoff → VIII M14.
 10. Opal Hensley's Coca-Cola → her porch light and blanket.
 11. The dome light → the converter on 88.9.
 12. "November" → Grace's birthday → "New Skin."
@@ -133,5 +134,5 @@
 16. "Go on" in every adult's mouth → Grace's.
 17. The chalkboard's erased ELLIS BLAKE → THURSDAY — THE BLAKES (NEW YORK).
 18. Dean's $4 → a rock on a grave.
-19. "El caught it, I held it. G." → WGRC.
+19. "El caught it, I held it. G." → Clara's one "El" → "Hi, El. It's me." after the credits.
 20. "Who are you?" in a getaway car → a thirteen-year-old's answer.

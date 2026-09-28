@@ -27,14 +27,14 @@
 | VII | fame | release; 11:47 on a couch with his father; sixteen hundred singing; *Rave* prints his sister; "Mine cost something" | a letter from his mother in a jacket that becomes a poster |
 | VIII | the loop | the key-man clause; the page stolen; the switch fails on Clara; the cruelest sentence (to Cal); the photographs; Tolliver Bend; "I was driving" | the medication; the pen doesn't move |
 | IX | medicated calm | the report; Hollis; the argument remembered; stopping the pills; Grace's room; the 1972 afternoon; the closed door | "Dad — Sunday?" |
-| X | at his best and least safe | the tab put back; "Sunday's fine"; Roy's "Go on"; the open verse; the memory; home | turns toward the living; the light; the gap; 9:52 p.m. |
+| X | at his best and least safe | the tab put back; "Sunday's fine"; Roy's "Go on"; the open verse; the memory in pieces; home, and the song lands | turns toward the living; steps toward Riley; the light; the gap; 9:52 p.m. |
 | Ep. | — | the world explains him; the people who knew him refuse to | an ordinary Saturday in 1974; GO HOME |
 
 **Turning points.** The Friday turn (I M8). "I was there" (IV). The pull-back (V M16). The glass (VI M18). "Mine cost something" (VII M17). "At least mine isn't somebody I keep in a hotel room" (VIII M7). "I made you." (VIII M14). "When I go, I'm not coming back for you." (IX M6, remembered). *Palm it* (IX M7). *Close the door* (IX M14). *Put it back* (X M3). *HOME* (X M8).
 
 **Voice across the game.** Mountain speech used lightly (*reckon, fixing to, Hm*), mock-formality (*Allegedly. That's a matter for the courts.*), sudden specific images when he forgets to guard them. Funniest at 3 a.m. and when things are going badly. On medication (VIII–IX), fluent and polite and wrong; the images and the silences go. Off it (IX–X), fast, funny, a little too fast.
 
-**Last lines.** To Wayne: "Your biscuits are terrible." To Clara: "In the car." To the crowd: "That's not— I'm not him." To the band: "Stay with me." In the coda, to his father at a kitchen table in 1974: "Hm."
+**Last lines.** To Wayne: "Your biscuits are terrible." To Clara: "What are you?" To the crowd: "That's not— I'm not him." To the band: "Stay with me." In the coda, to his father at a kitchen table in 1974: "Hm."
 
 ---
 
@@ -60,8 +60,8 @@
 | VII | The registration form, filled in and folded; Oberlin, 1949; her song credited to Ellis; "Margaret"; the girl in the band (*Rave*); HARMONY IS NOT DECORATION; the seventh chair; "I love you, hold it still"; "Occasionally Astonishing" begun. |
 | VIII | "Sing it right": she gives her song to his voice, by her own consent; her harmony (or silence) under it; Nina's piece; the trip that loops her own hand; she stops; she drives to Wayne; "Stay there"; "Name one more thing it has to be after." |
 | IX | Swims every morning; her mother leads "Holy Manna" in the Tabernacle; counts the pills; "I can't watch you choose her"; leaves the house, keeps the band; plays him her song on a dock. |
-| X | Talks to Kit ("One of us isn't a boy"); votes yes; stands at the riser's stage-left corner with her hand out. |
-| Ep. | Pallbearer ("She carries."); the green notebook: *M. —*; the train line she won't publish; the book with the player's title; hands in the registration form; *Occasionally Astonishing* (1979); 1996: his maps were always wrong. |
+| X | Talks to Kit ("Define 'girl.'"); "Define 'want.'" / "That's two things."; votes yes; stands at the riser's stage-left corner with her hand out, and he steps toward her. |
+| Ep. | "Maps" at her mother's piano; pallbearer ("I'm carrying him." / "She carries."); Hannah's card; the green notebook: *M. —*; the train line she won't publish; the book with the player's title; hands in the registration form; *Occasionally Astonishing* (1979); 1996: his maps were always wrong. |
 
 **Turning points.** The folded form (VII M3). *Sing it right* (VIII M2). The stairwell on Greene Street (VIII M11). "I can't watch you choose her" (IX M10). *Hand it over* (Ep. M5).
 
@@ -123,7 +123,7 @@
 | X | Coffee to Ellis ("Seven weeks tomorrow"); the Polaroid produced and buttoned into his pocket; the $4 refused; "Stop."; "Yes. But I said it."; holds Ellis's hand in the gap: "I owe you four dollars." |
 | Ep. | Finds the tab and flushes it, and never tells anyone; four dollars under a rock, stolen by Tuesday, and the laugh; Lynette: "You want to come in?"; 1996: "He was funny. Nobody writes that." |
 
-**Last lines.** In the gap: "Don't you dare." At the grave: "Paid in full. You're welcome." In 1996: "I know."
+**Last lines.** In the trailer: "No. I said it. Write it down." In the gap: "Don't you dare." At the grave: "Paid in full. You're welcome." In 1996: "He was funny. Nobody writes that."
 
 ---
 
@@ -139,13 +139,13 @@
 | **Lie** | that blame would make grief bearable; that hardness keeps a boy safe |
 | **Truth** | "I couldn't have it be nobody's." |
 
-**How he loves, chapter by chapter** (always sideways until IX): the wax-paper lunch and the tire (I–II); the dome light on Stony Knob and "Pruitt told me" (III); "You want me to tell her?" (IV); the heater, the star, the tickets, the ballgame, forty miles an hour home (V); "Wanted to see it" and "You tell me" (VI); signs for the box, the converter on 88.9, the twelfth inning on one couch, "Loud" / "I liked it," the collar and the twenty (VII); the box on the table, "Son," five hours with the photographs, a blanket for Riley, eggs, "I'll drive you," two hours in a parking deck, the pie (VIII); the report and his own knife, "Yes," Sylva, two apologies to the mountains, the bass line in the gallery, the coffee can, "Go on in," "You want me there?" (IX); nine hundred miles behind a bus, a Coke on a bumper, the collar again, "Sunday's fine. I'll make biscuits," running a quarter mile through a crowd, the ambulance (X); biscuits on a Sunday, "She carries," the envelope handed back, the extra chair, the dog, both stones paid from the rent, Opening Day, "He could sing," a closed door (Epilogue).
+**How he loves, chapter by chapter** (always sideways until IX): the wax-paper lunch and the tire (I–II); the dome light on Stony Knob and "Pruitt told me" (III); "You want me to tell her?" (IV); the heater, the star, the tickets, the ballgame, forty miles an hour home (V); "Wanted to see it" and "You tell me" (VI); signs for the box, the converter on 88.9, the twelfth inning on one couch, "Loud" / "I liked it," the collar and the twenty (VII); the box on the table, "Son," five hours with the photographs, a blanket for Riley, eggs, "I'll drive you," two hours in a parking deck, the pie (VIII); the report and his own knife, "Yes," Sylva, two apologies to the mountains, the bass line in the gallery, the coffee can, "Go on in," "You want me there?" (IX); nine hundred miles behind a bus, a Coke on a bumper, the collar again, "Sunday's fine. I'll make biscuits," running a quarter mile through a crowd, the ambulance (X); biscuits on a Sunday, "She carries," the envelope handed back, a closed door on a documentary crew, the extra chair and a plate left washed in the drainer before the coffee, the dog, both stones paid from the rent, Opening Day, "He could sing" (Epilogue).
 
 **How he wounds.** Instantly, exactly, with the sentence that will hurt most (I, III). The game shows Ellis inheriting it (VIII M7) and the player recognizes the face.
 
-**Would never say, and says in the ambulance if the player chooses:** "It wasn't your fault." "I'm proud of you." "I'm scared." "Son."
+**Would never say, and tries to in the ambulance if the player chooses:** "It wasn't your—" (he stops). "You done good up there" (for *I'm proud of you*). "Son." (for *I'm scared*, and for itself). Only "Son." comes out whole.
 
-**Last line.** "Hm." (1996, at the door.)
+**Last line.** "He could sing." (Opening Day, 1977.) The world's last look at him is "Hm." at a door in 1996.
 
 ---
 
@@ -163,7 +163,7 @@
 | VII | "November." "You made it prettier." "It was a conversation." "Old?" The first cruel thing: "They don't know you. Neither does Riley." The seventh chair. "Keep going." Vanishes at Lorraine's handwriting. Never in the photograph. |
 | VIII | "He dresses like a sofa." "Liar" (3, the last tease). The switch tries to become her and fails, twice. Louder with no bass. "He's taking me." Gone from the doorway when the photographs come out. Grace in the passenger seat, older at each glance; "Daddy'll kill us both." "I made you." / "Does that make me less real?" "You asked me to." / "Right here." Then the medication, and silence. |
 | IX | The empty chair. "Clara?" to the lake. Back on the fire tower: "Ask me something I know." "Who are you?" / "Who are you?" "That one's mine." "Now everybody's got me." Fourteen in the hallway: "I couldn't be her." / "She'd have put a frog in your bed." Into Grace's room. The door. |
-| X | Back, easier, not pretending. "Your arm looks like a phone book." *Go, go, go* in the rain. "It's a good room." "I'm the part that couldn't leave her there." "Come on. They're waiting on you." On the lip of the stage for the last song. Hears "Liar" in Grace's voice. Looks upstage, at the living. |
+| X | Back, easier, not pretending. "Quit writing on yourself." "Eat something." *Come on, come on* in the rain. "It's a good room." Asked what she is: "Late, is what. Push your hair out of your eyes." "Come on. They're waiting on you." On the lip of the stage for the last song. Her hand over her mouth at the second line. Looks upstage, at the living. |
 | Ep. | Absent. Nobody remarks on it. |
 
 **What she never does.** Affects the world. Speaks to anyone but Ellis. Appears in a photograph or on film. Gets a reaction from Tater. Goes to the cemetery. Stays long with Wayne. Knows anything he doesn't. Says *go on*.
@@ -187,7 +187,7 @@ Never met alive except in memory. Loud, bossy, braver with Wayne than Ellis ever
 | **Roy Cagle** | Lost a son and chose tenderness toward a boy who wasn't his. The Jazzmaster; "Keep the shirt"; Danny, once; "Go on, get up there." | "Buick needs an oil change." (I) | "Go on. I'll catch up." (Ep.) |
 | **Marlon Pettit** | Invited a sixteen-year-old to play on a Thursday; carried it; told only Cal; never erased the board. | the Thursday slot (I) | "I'm not going to erase that." (Ep.) |
 | **Lorraine Hubbard** | Left in 1965; wrote after reading *Rave*; sat by the door at both funerals; took her letter back. | a note on the kitchen table in 1965 (backstory) | an envelope held against a navy dress (Ep. M2) |
-| **Joan Riley** | Gave up Oberlin in 1949; played Bach to an empty church; learned Sacred Harp from a boy at Thanksgiving; led "Holy Manna" in the Tabernacle; sang at his grave; set a chair for Wayne every year. | "Who's got the melody?" (III) | "Come back next year." (Ep. M6) |
+| **Joan Riley** | Gave up Oberlin in 1949; played Bach to an empty church; learned Sacred Harp from a boy at Thanksgiving; led "Holy Manna" in the Tabernacle; sang at his grave; set a place for Wayne at Thanksgiving. | "Who's got the melody?" (III) | "I wanted you to know there's one." (Ep. M7) |
 | **Richard Holloway** | Read the contract; cut his son off; set Sunday dinner at six; grieved technically. | the legal pad (VI) | "Good. That's good." (Ep. M4) |
 | **Lynette Crowe** | Unimpressed; stayed on the phone; closed the door for her son; opened it at nine weeks; married him in 1979. | chess pie (II) | "You want to come in?" (Ep. M4) |
 | **Tully Voss** | A stranger in a getaway car; crew chief; "That's enough"; first down into the gap; sat with Kit. | "Drive." (I) | the sun-gun set down on the other side of him (X M9) |

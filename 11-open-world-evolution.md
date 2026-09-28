@@ -23,7 +23,7 @@
 | VII | Sept–Dec 1975 | fall again (the player notices it's a year later); rain on US 19 (Nov 30); snow in New York |
 | VIII | Jan–Apr 1976 | Midwest winter (off-map); Georgia's early spring; rain on Tolliver Road (Mar 20) |
 | IX | May–Aug 1976 | summer on the mountain; cold lake; the Fourth; the Tabernacle in July heat |
-| X | Aug 1976 (off-map) | Finger Lakes; mud from Hurricane Belle; the 2:38 p.m. squall; sunset 7:46 |
+| X | Aug 1976 (off-map) | Finger Lakes; mud after a wet August; the 2:38 p.m. squall; sunset 7:46 |
 | Ep. | Sept 1976 – Apr 1977 | the funeral in September heat; Thanksgiving; winter; Opening Day in April |
 | Coda | Nov 9, 1974 | back to the first fall |
 
@@ -31,14 +31,14 @@
 
 | Ch | What's different on the street |
 |---|---|
-| I | The town before anything. Marlon's chalkboard: THURSDAY — ELLIS BLAKE. WIN button on Marlon's register. The town-limit sign: POP. 2,100. Tolliver Road blocked by a county sawhorse. People know Ellis as Wayne's boy and the one who was driving. |
+| I | The town before anything. Marlon's chalkboard: THURSDAY — ELLIS BLAKE. WIN button on Marlon's register. The town-limit sign: POP. 2,100. Tolliver Road blocked by a county sawhorse (ROAD WORK — LOCAL TRAFFIC), gone by Chapter II; after that Ellis just won't turn. People know Ellis as Wayne's boy and the one who was driving. |
 | II | FRIDAY — THE BLAKES. Wesley Tate's face at Marlon's window. The Ridge Pharmacy soda counter talks about "that racket on Fridays." |
 | III | Roy's radio in the window tuned to static until the WTCR night. Men at the depot mention hearing "the Blake boy" on the college station. Wayne's truck at the pull-off (only at night). |
 | IV | Christmas lights. A poster for the Lantern in Marlon's window. The first strangers from out of town at Marlon's on a Friday. |
 | V | Riley's lettering, THE BLAKES, on the van's rear doors, parked on Depot Street. Church ladies disapprove of "space death." Easter. Dogwoods. The pie on April 12. |
 | VI | A Southern Star promotional poster in the Western Auto window. The Western Auto starts carrying records (two copies). Ellis working fewer days at Roy's. |
 | VII | HOME OF THE BLAKES painted under the town-limit sign, painted over by the county, repainted, on a cycle the player can track. Wesley's one-E shirt. The Ridge Pharmacy stocks *Rave* (ten copies, then three). Strangers at the pumps asking directions to "the Blake house." The barber, the pharmacist and a man at the feed store talk to Dex. Floyd Tolliver at Roy's pumps. Ellis's gray shirt off the peg at Roy's. |
-| VIII | Bowery posters in the Western Auto. Out-of-state cars on Main on Saturdays. Townspeople tired of being asked. Marlon's chalkboard back to other acts; the Blakes don't play Marlon's anymore. The sawhorse on Tolliver Road is gone (VIII M14). The HENSLEY mailbox visible for the first time. |
+| VIII | Bowery posters in the Western Auto. Out-of-state cars on Main on Saturdays. Townspeople tired of being asked. Marlon's chalkboard back to other acts; the Blakes don't play Marlon's anymore. Ellis drives Tolliver Road (VIII M14). The HENSLEY mailbox is visible past the Bend. |
 | IX | The Bicentennial: bunting on Main, the water tower repainted red-white-and-blue, fireworks from the high school field. The town-limit sign stolen outright. Tourists at the cemetery fence. Knob House lit on the mountain at night, visible from Cold Branch Road. |
 | X | Marlon's lot at dawn: THURSDAY — THE BLAKES (NEW YORK). Opal in the doorway. The town sees the bus off. |
 | Ep. | Main Street closed for the funeral; cars from eleven states; black ribbon on Marlon's door; Roy's CLOSED — FUNERAL sign; fans at the cemetery fence for months (flowers, posters, picks, matchbooks, four dollars under a rock, stolen); a new stone on the east slope by spring. |
@@ -68,7 +68,7 @@
 | VI | Dalton Sound: the Row is curious, not convinced. |
 | VII | Tannersville stations can't get WLRC; "Still Here" arrives on local AOR by November through trade sheets. A Row publisher asks about "Sunday Clothes" (for Ellis). |
 | VIII | The tour bus parked on the Row. Belle Grove's porch light on every night. |
-| IX | The Tabernacle benefit sells out in fifty-five minutes. Darla Kay Hinson's "Sunday Clothes" with strings on every country station: the Row has taken Riley's song, and pays her for it. |
+| IX | The Tabernacle benefit sells out in fifty-five minutes. Charlene Hobbs's "Sunday Clothes" with strings on every country station: the Row has taken Riley's song, and pays her for it. |
 | Ep. | Mercer Sound (by 1996) in Walt's old shop; Holloway Drum Studio. |
 
 ## The radio as a world system
@@ -78,7 +78,7 @@ The in-game radio is the open world's memory. It changes with the story:
 - **III:** WTCR's broadcast carries the camera from radio to radio (a relay).
 - **VII M6 onward:** "Still Here" in WLRC rotation. The player can hear it from taxis, apartment windows, the Starlite kitchen.
 - **VIII:** "Sunday Clothes" (Ellis's single; Riley's harmony per the player's choice); "Convoy"; Frampton.
-- **IX:** Darla Kay Hinson's countrypolitan "Sunday Clothes"; the Bicentennial.
+- **IX:** Charlene Hobbs's countrypolitan "Sunday Clothes"; the Bicentennial.
 - **X:** "Don't Go Breaking My Heart" everywhere; the festival live on WLRC.
 - **Ep.:** every station playing the Blakes, including a bootleg of the last verse, which Cal turns off; talk radio arguing about drugs; the chart climbing to #1.
 
@@ -96,4 +96,4 @@ The world keeps moving without him, and the game lets the player watch it:
 - The radio never stops playing the Blakes, and the player can't find a station that isn't.
 - The fans come to Hollow Ridge, and the town is kind to them and tired of them.
 - The switch has no one to go to. From the epilogue on, missions start where they start, with no carry.
-- **The coda restores the first world entirely**: the town-limit sign clean, the chalkboard saying FRIDAY — THE BLAKES, Tolliver Road blocked, Tater enormous, no fame, no Clara, and one objective at dusk.
+- **The coda restores the first world entirely**: the town-limit sign clean, the chalkboard saying FRIDAY — THE BLAKES, Ellis turning around at the Tolliver Road turnoff, Tater enormous, no fame, no Clara, and one objective at dusk.

@@ -7,8 +7,8 @@
 | Setup | Where | Payoff | Where | Distance |
 |---|---|---|---|---|
 | A car, a girl, Wayne blames Ellis, a closed door | I | the report, the truck, "I couldn't have it be nobody's" | IX M4 | 8 ch. |
-| "Not that way" at the Tolliver Road sawhorse | I | the first drive down Tolliver Road | VIII M14 | 7 ch. |
-| He flinches at "sorry" | II | "Stop saying sorry" (Hollis; then Grace) | IX M5; X M8 | 7–8 ch. |
+| "Not that way" at the Tolliver Road turnoff | I | the first drive down Tolliver Road | VIII M14 | 7 ch. |
+| He flinches at "sorry" | II | "Stop saying sorry" (the report; Hollis); his own *sorry* under the rain | IX M4–M5; X M8 | 7–8 ch. |
 | "I already buried one child" | III | the east slope stones | VII M9 | 4 ch. |
 | Wayne's dome light; "Pruitt told me" | III | the FM converter on 88.9 | VII M6 | 4 ch. |
 | "Grace died in a car wreck. I was there." | IV | "I was driving." | VIII M15 | 4 ch. |
@@ -38,7 +38,7 @@
 | The switch never catches on her | I–VII (rule) | it catches and fails (bus; *Night Stage*); an empty chair; then Ellis himself | VIII; IX M1; X M9 |
 | The horse patch sewn crooked | I | the child's jacket on the closet hook | IX M13 |
 | Clara never enters Grace's room | I–IX (rule) | she walks in at fourteen; the door closed | IX M14 |
-| "Stay with me" (band signal) | I | Clara is "Stay with me" given a body; "I'm the part that couldn't leave her there" | X M7–M8 |
+| "Stay with me" (band signal) | I | the one line of the car that comes through clear, with "It's okay. Go on." under it | X M8 |
 
 ## Spine 3 — Wayne and Ellis
 
@@ -46,7 +46,7 @@
 |---|---|---|---|
 | Rent: $20 every Friday | II | the Maxwell House can, unspent | IX M13 |
 | The RENT — 10 WEEKS envelope | VI | same | IX M13 |
-| The coupon book, face down | I | PAID IN FULL; Ellis's stone bought outright with his rent | Ep. M6 |
+| The coupon book, face down | I | PAID IN FULL; Ellis's stone bought outright with his rent | Ep. M7 |
 | Georgia football in separate rooms | I–II | Game 6 on one couch | VII M6 |
 | "Go on" in Wayne's mouth | I– | "Go on in" to Grace's room | IX M13 |
 | Wayne "could sing bass" (bible) | — | the gallery at the Tabernacle; the ambulance option | IX M9; X M9 |
@@ -55,7 +55,7 @@
 | "Dad — Sunday?" | IX M15 | "Sunday's fine. I'll make biscuits."; biscuits at a Virginia truck stop | X M6; Ep. M1 |
 | Wayne would never say "It wasn't your fault" | bible | the ambulance options | X M9 |
 | "You want me to tell her?" (IV) → "You want me there?" | IV; IX M15 | the F-100 in Earl's mirror for nine hundred miles | X M1 |
-| Tater fat because both feed him | I (bible) | the vet; *Feed Tater* twice | Ep. M6 |
+| Tater fat because both feed him | I (bible) | the vet; *Feed Tater* twice | Ep. M7 |
 
 ## Spine 4 — The band
 
@@ -90,7 +90,7 @@
 | The peanut rankings | I– | "You have to go back and check things" becomes prophecy | X M4; Ep. 1996 |
 | Dex takes a page | VIII M4 | the "New Skin" page printed | IX M11 |
 | The *Night Stage* silence | VIII M10 | *Late Hour* can't hold silence | IX M3 |
-| How long the player held *home* | X M8 | in the footage, to the second; Nina says it | X M9; Ep. 1996 |
+| How long the player held *home* | X M8 | in the footage, rounded; Nina says it | X M9; Ep. M6 (1996) |
 
 ## Spine 6 — Riley
 
@@ -115,7 +115,7 @@
 | Patty: Mama leaves the porch light on | VII M18 | the porch light he can't walk up to | VIII M9 |
 | Bobby's drawings | IV; VI | the drum kit that says BOBBY; "Leave the drums"; Bobby, session drummer | VIII M9; Ep. 1996 |
 | The pull-off where Wayne listened | III | the Corvette in the ditch there | IX M8 |
-| The tab in the green notebook | X M3 | Dean flushes it; "I know." | Ep. M4; 1996 |
+| The tab in the green notebook | X M3 | Dean flushes it and never tells anyone | Ep. M4 |
 
 ## Deliberate open threads (not orphans)
 

@@ -18,7 +18,7 @@ Fields: **Start** (starting assumption) · **Friction** · **Bond** (bonding eve
 - **Admires:** He admires that she chose her own name and her own life. She admires that he *sees*, specifically, the thing nobody else noticed.
 - **Misreads:** She thinks she has special access to him; she has the access he permits. He thinks she'd leave if she knew about the car. She leaves over the pills (IX, "I can't watch you choose her"), not the car.
 - **Late:** Not together, and not apart. On the dock (IX M15): "Play me your song." She plays "Occasionally Astonishing." "It's good." "I know." Then "Stand by Dean." / "I always do." / "I know. Do it anyway."
-- **Last:** For him: she's at the riser's stage-left corner, and he turns toward her. For her: the green notebook, a first page that says *M. —* and nothing else, a line about a train she'll never publish, and a song called "Maps."
+- **Last:** For him: the song lands, and she's at the riser's stage-left corner with her hand out, and he laughs and steps toward her. For her: the green notebook, a first page that says *M. —* and nothing else, a line about a train she'll never publish, and a song called "Maps."
 
 ### Ellis ↔ Cal
 - **Start:** "Friendly." / "Working." Each thinks the other is exactly what he looks like.
@@ -42,7 +42,7 @@ Fields: **Start** (starting assumption) · **Friction** · **Bond** (bonding eve
 - **Admires:** Dean admires that Ellis is real in a way nobody in Belle Grove is. Ellis admires that Dean is happy, and that his father is a good man.
 - **Misreads:** Dean thinks Ellis's darkness is authenticity. Ellis thinks Dean's lightness is shallowness.
 - **Late:** Reversed. Seven weeks sober, Dean stands up in the green-room trailer and says "Stop" (X M6). He votes yes anyway: "But I said it. I want that on the record."
-- **Last:** For Dean: "I owe you four dollars" in the gap. Then four dollars under a rock, stolen by Tuesday. A tab of acid he flushes twice so nobody can ever say it. A Polaroid in his shirt pocket for twenty years. "He was funny. Nobody writes that."
+- **Last:** For Dean: the Polaroid, out of Ellis's jacket and buttoned into Dean's pocket: "Keep it." / "I'll lose it." / "You won't." Then "I owe you four dollars" in the gap. Then four dollars under a rock, stolen by Tuesday. A tab of acid he flushes twice so nobody can ever say it. "He was funny. Nobody writes that."
 
 ### Riley ↔ Cal
 - **Start:** She's a hobbyist. / He's a scold.
@@ -94,7 +94,7 @@ Fields: **Start** (starting assumption) · **Friction** · **Bond** (bonding eve
 - **Admires:** Wayne admires Ellis's work (the studio, VI; the FM converter on 88.9, VII). Ellis admires that Wayne kept going to work every single day.
 - **Misreads:** Each thinks the other blames him. Both are right, and both are wrong.
 - **Late:** "You want me there?" / "Yeah." (IX M15). Then the trailer doorway at Glen Arbor (X M6): "Sunday's fine. I'll make biscuits."
-- **Last:** For Wayne: the ambulance on Route 14, where the player chooses what he finally says to a son who can't hear it. Then biscuits at a Virginia counter on Sunday, the dog fed twice, the coupon book stamped PAID IN FULL, the stone, and the door he closes on a documentary crew in 1996.
+- **Last:** For Wayne: the ambulance on Route 14, where the player chooses what he means and he can't finish it: "It wasn't your—" "You done good up there." "Son." Then biscuits at a Virginia counter on Sunday, the dog fed twice, the coupon book stamped PAID IN FULL, the stone, and the door he closes on a documentary crew in 1996.
 
 ### Ellis ↔ Clara
 - **Start:** Old friends. She's "from before."
@@ -106,7 +106,7 @@ Fields: **Start** (starting assumption) · **Friction** · **Bond** (bonding eve
 - **Admires:** He admires everything about her, because he made her out of what he loved.
 - **Misreads:** He thinks she's someone he knows. She is.
 - **Late:** In the hallway (IX M14), at fourteen: "I couldn't be her." He closes Grace's door.
-- **Last:** On the walk to the stage (X M7): "I'm the part that couldn't leave her there." Then, not *go on*: "Come on. They're waiting on you." She isn't in the coda.
+- **Last:** On the walk to the stage (X M7) he asks "What are you?" and she doesn't answer. "Late, is what. Push your hair out of your eyes." Then, not *go on*: "Come on. They're waiting on you." She isn't in the coda.
 
 ### Ellis ↔ Grace
 - **Start:** Brother and sister, two years apart, their mother gone.
@@ -126,8 +126,8 @@ Fields: **Start** (starting assumption) · **Friction** · **Bond** (bonding eve
 ### Wayne ↔ Riley
 - **Start:** "That the college girl?" / "Her name's Riley." / "Fine. Riley."
 - **Bond:** The kitchen on Cold Branch Road (VIII): she drives up alone to ask him about his son. He tells her about Raymond, Milledgeville and Grace singing harmony, things he has never told Ellis. He's known since August that something was wrong. "Does she have a name?" "Clara." "That was my mama's name." Then: "There's a box."
-- **Late:** At the church steps (Ep. M2), when the funeral director says it's customary for the gentlemen: "She carries."
-- **Last:** Wayne drives the memo books to Linwood himself. "He'd want you to have them." / "You don't know that." / "No. But I want you to." (Ep. M5.) After that, the chair by the sideboard every Thanksgiving; she looks at him across the table and doesn't look away.
+- **Late:** At the church steps (Ep. M2), when the funeral director says it's customary for the gentlemen, Riley says "I'm carrying him," and Wayne backs her: "She carries."
+- **Last:** Wayne drives the memo books to Linwood himself. "He'd want you to have them." / "You don't know that." / "No. But I want you to." (Ep. M5.) At Thanksgiving he sits in the chair by the sideboard; she looks at him across the table and doesn't look away. He's gone before the coffee.
 
 ### Wayne ↔ Cal
 - **Start:** Wayne thinks the bass player is the one with sense. Cal thinks Wayne is the reason for most of it.
@@ -156,7 +156,7 @@ Fields: **Start** (starting assumption) · **Friction** · **Bond** (bonding eve
 ### Ellis ↔ Patty Holloway
 - **Start:** A fifteen-year-old in a Christmas crowd who isn't impressed.
 - **Bond:** He talks to her like a coworker, gentler than Dean has ever seen him with anyone. She sends him a violet envelope by way of Dean (VII) about "No Name"; he writes back.
-- **Last:** The letter framed in her college dorm.
+- **Last:** His reply, in a dime-store frame over her desk in Belle Grove (Ep. M4).
 
 ### Ellis ↔ Tully
 - **Bond:** Two men who don't talk about what happened to them, carrying amplifiers.
@@ -173,7 +173,7 @@ Fields: **Start** (starting assumption) · **Friction** · **Bond** (bonding eve
 - **Start:** "Gig tomorrow?" / "Supposed to." / "Pays?" / "Then it's work."
 - **Bond:** Talking while facing an engine or a chassis, never each other.
 - **Late:** After the Tabernacle (IX), Walt shakes his son's hand, which he has never done, and then Theo's. At the bench (IX M12), he lowers his newspaper an inch when Ellis laughs, and raises it again.
-- **Last:** Walt died in 1989 and left Cal the shop. By 1996 it's MERCER SOUND, with the Philco on the shelf over the console.
+- **Last:** By 1996 Walt's shop is MERCER SOUND, with the Philco on the shelf over the console.
 
 ### Cal ↔ Theo
 - **Start:** The Lantern (IV). "You ever want work in Laurel City, call."
@@ -213,7 +213,7 @@ Fields: **Start** (starting assumption) · **Friction** · **Bond** (bonding eve
 ### Dean ↔ Lynette
 - **Start:** "Coffee?" "Whatever keeps me up." "Everything keeps you up, honey."
 - **Late:** On the phone to Cal from the ER in Akron: "Keep him alive till Tuesday. I'll yell at him Tuesday." (VIII) Bobby's fifth birthday and a drum kit: "Leave the drums." (VIII)
-- **Last:** "You want to come in?" She hasn't asked since February (Ep. M4). In 1979, the courthouse, Bobby holding the rings on a drum-shaped pillow.
+- **Last:** "You want to come in?" She hasn't asked since February (Ep. M4). Bobby yells *DEAN* and hits the crash cymbal.
 
 ### Dean ↔ Tully
 - **Bond:** Saigon night (V): Dean follows him out to the curb of a Savannah motel lot and sits beside him for an hour, and says nothing, the only time in the game Dean is silent.
@@ -224,7 +224,7 @@ Fields: **Start** (starting assumption) · **Friction** · **Bond** (bonding eve
 
 ### Tully ↔ Kit Adair
 - **Bond:** At Glen Arbor (X) he dries her sun-gun's connector with the film crew's hair dryer, and he's the one who shows her where to stand in the wing.
-- **Last:** After the gap (X M9), with Ellis's blood on his knees, he sits down beside her on an equipment case outside the film truck and takes the light out of her lap so she doesn't have to hold it. He doesn't say anything. In 1996, *Kit Adair declined to be interviewed.*
+- **Last:** After the gap (X M9), with Ellis's blood on his knees, he sits down beside her on an equipment case outside the film truck and takes the light out of her lap so she doesn't have to hold it. He doesn't say anything. The game never names her again.
 
 ### Wayne ↔ Lorraine
 - **Last:** At the cemetery gate, an envelope handed back unopened. The game never tells the player what he says.

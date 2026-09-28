@@ -17,7 +17,7 @@
 | a New York major label | **Monarch Records**, 1650 Broadway | 1650 Broadway is a real music-business address; Monarch isn't real |
 | a regional indie | **Southern Star Records** (Laurel City) | |
 | CBGB | an unnamed Bowery bar | the 1975 Bowery scene is real; the bar and the bass player are fictional |
-| Opryland-era Row country | **Darla Kay Hinson**'s countrypolitan cover | fictional singer |
+| Opryland-era Row country | **Charlene Hobbs**'s countrypolitan cover | fictional singer |
 | Central State Hospital, Milledgeville | **named as itself** | its meaning to Georgians ("They'll send you to Milledgeville") is the point |
 
 ## 2. Period facts used, verified (research notes §§1–42)
@@ -51,13 +51,13 @@
 | Eagle coaches converted for touring acts | VIII M4 | accurate for the period |
 | The Bicentennial, July 4, 1976; fireworks visible across forty miles from a mountaintop at night | IX M7 | the fireworks are real; the sight lines are the game's geography |
 | "Don't Go Breaking My Heart," #1 August 1976 | X M1 | verified |
-| **Hurricane Belle**, Aug 9–10, 1976, landfall on Long Island; heavy rain across New York | X | verified; mud at a Finger Lakes festival two weeks later is plausible |
+| A wet August in the Finger Lakes | X | plausible; Hurricane Belle (Aug 9–10, 1976) came ashore on Long Island and went up through New England, so it isn't named |
 | Sunset at about 7:46 p.m. EDT, Schuyler County NY, Aug 28 | X M6 | correct to within a couple of minutes |
-| Battery "sun-gun" lights for 16mm documentary crews | X | accurate (Frezzolini, Cine 60 belts) |
+| Battery "sun-gun" lights for 16mm documentary crews | X | accurate (Frezzolini, Cine 60 belts; about 30 V, 250–650 W; the game uses 650 W) |
 | A rural county rescue-squad ambulance on a Ford chassis | X M9 | accurate for 1976 |
-| Montour Falls hospital | X M9, Ep. M1 | real town with a hospital; used without detail |
+| The hospital in Elmira, about forty minutes by ambulance down Route 14; home by Route 17 east to Binghamton and I-81 south | X M9, Ep. M1 | real towns and roads; used without detail |
 | Toxicology in 1976 ("He was clean") | Ep. M4 | basic post-mortem toxicology was routine in accidental deaths |
-| Engineers Park Opening Day, April 1977 | Ep. M6 | fictional team; Double-A seasons opened mid-April |
+| Engineers Park Opening Day, April 1977 | Ep. M7 | fictional team; Double-A seasons opened mid-April |
 
 ## 4. License taken, deliberately
 
@@ -72,6 +72,6 @@
 
 - The Sacred Harp page numbers for "Wondrous Love" and "Holy Manna" in the 1971 Denson edition (the chapters avoid stating them).
 - Whether Richfield Coliseum's 1976 capacity for concerts was about 18,000 (it's stated as "eighteen thousand seats").
-- Whether a network news program on Sunday Aug 29, 1976 would have film from a festival fall the night before. Local affiliates in Syracuse or Elmira would; network is a stretch. The epilogue could make it "the news" without naming network.
+- Whether a Sunday-night newscast on Aug 29, 1976 would have film from a festival fall the night before. The epilogue now says only "the news" (a Virginia station picking up a feed).
 - The Laurel City Double-A team as a real farm affiliate (kept fictional; don't name a parent club).
 - Any real musician named on screen (Porter Wagoner, Conway Twitty, the Louvin Brothers, Jamerson, etc.): the game references them as history, never as characters.

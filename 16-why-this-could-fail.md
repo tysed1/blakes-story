@@ -23,20 +23,20 @@
 - The truth arrives through a song and a phrase Roy has said every chapter, not through a drug.
 - The death has four ordinary causes: a gap at a stage edge, a film crew needing light after sunset, a three-year-old trauma reflex, and no sleep.
 - Nina's column says one true thing: "He was nineteen."
-- The last things he does are laugh with his band, say "Sunday's fine" about biscuits, and turn toward the living.
+- The last things he does are laugh with his band, say "Sunday's fine" about biscuits, finish a song, and step toward Riley.
 
 **Watch.** Music and lighting in the fall. If the score swells, or the light goes gold, or there's slow motion, it becomes the myth the game is arguing against. The fall has to be fast, ugly and specific.
 
 ## 3. The withheld *home* reads as "the game made me kill him"
 
-**The risk.** The player presses the band's oldest signal and the character dies. Some players will feel tricked; some will refuse to press it and feel punished for that too.
+**The risk.** The player presses the band's oldest signal and the character dies. Some players will feel tricked; some will refuse to press it and feel punished for that too. (The V5 draft had exactly this problem: the press was the frame he fell in.)
 
 **What the design does.**
 - No timer; the band varies the music so the screen never goes still.
 - The player chooses *when*, not *whether*.
-- The light is a separate event the player doesn't cause.
-- The design notes frame pressing as *go on* and holding as *stay*, and the game lets holding last an hour if the player needs it.
-- The number of seconds the player held is honored: it's in the footage and in Nina's 1996 line.
+- **Pressing ends the song, and ends it right** (V7). The band lands the last chord together; there's a second of silence; he laughs and steps toward Riley. Only then does the crowd roar, the film crew step out for the bow, and the light come on.
+- The gap and the light aren't pointed at beforehand. The flare in "Shape Note" reads as a technical problem.
+- In the story the hold is capped at about three minutes, and the footage and Nina's 1996 line round it (under a minute, about two, close to three). Nobody is scored to the second.
 
 **Watch.** Playtesting will show what happens when a player walks away from the controller for twenty minutes. The music has to still be alive when they come back. And the prompt must never pulse, blink, or nag.
 
@@ -162,9 +162,9 @@
 
 **The risk.** The gap, the ambulance, Route 17, the funeral, the list, the pocket, M., Tater, 1996, the coda, the credits, and the post-credits.
 
-**What the design does.** The epilogue is short, playable, and each mission is one person keeping one thing. The 1996 frame is ten minutes, non-interactive. The coda is open-ended and ends when the player drives home.
+**What the design does.** The epilogue is short and playable, and each mission is one person keeping one thing. The 1996 frame was cut to four minutes and moved before the Tater mission (V7), so the documentary closes a door and the last mission goes behind it. The epilogue then ends on "Wayne goes on." The coda is open-ended and ends when the player drives home.
 
-**Watch.** If the team has to cut, cut the 1996 frame to Dean, Riley, Marlon's, and the door, and keep everything else.
+**Watch.** If the team has to cut more, cut the 1996 frame to Dean, Riley and the door, and keep everything else.
 
 ## The one-sentence version
 

@@ -90,7 +90,7 @@ Each is a short, self-contained story with a person at its center. None of them 
 ## What side content must never do
 
 - Give the player Clara outside Ellis's perception.
-- Let the player drive Tolliver Road before VIII M14 (the sawhorse is always there).
+- Let the player drive Tolliver Road before VIII M14 (in I a sawhorse blocks it; after that Ellis brakes at the turnoff and turns around).
 - Let the player open Grace's door before IX M13.
 - Let the player enter the cemetery with Clara.
 - Offer drugs as a performance buff. Use has effects on the character and the scene, never a stat.
