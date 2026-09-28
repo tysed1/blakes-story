@@ -126,9 +126,9 @@
 - **The truck.** Never identified.
 - **The coda without Clara.** Unremarked.
 
-## Known orphans (to be resolved in V7 or accepted)
+## Known orphans (resolved or accepted)
 
 - **Carla Vickery** herself never reappears after IV. Her letter does. Accepted: the letter is the payoff.
-- **Hannah Greer** drifts after VI; the bible promises her in the epilogue. Resolution: one line in Ep. M5 is acceptable (Hannah, a fourth-grade teacher, sends a card). *(Flagged for V7.)*
+- **Hannah Greer** drifts after VI; the bible promises her in the epilogue. **Resolved (V7):** Ep. M5, a card from Macon ("Call me when you want to. Not before."); Riley calls in December.
 - **Mrs. Odom's last book** (Bishop) is returned in IX M11 and nothing is slid back. Accepted.
-- **Landry's note after the funeral** (bible §8). Resolution: fold into Ep. M5's late-registration beat as the reason he's unsurprised to see her. *(Flagged for V7.)*
+- **Landry's note after the funeral** (bible §8). **Resolved (V7):** Ep. M5, three typed lines on letterhead ("There is a chair."), the reason he isn't surprised to see her in January.
