@@ -487,7 +487,7 @@ Across the six dates, touring becomes a loop rather than a series of cutscenes:
 - **The van hub:** change the radio (Tully's portable FM, when he's along; the van's AM when he isn't); talk; practice; write; sleep; play cards on an amp case; read; argue about the map.
 - **Stops:** diners, boiled-peanut stands (Ellis ranks them in a list that becomes an in-game collectible), roadside attractions (Rock City, a snake farm, a Stuckey's with pecan logs), record stores in each town (the band checks for their 45; it's there in two of six).
 - **Gig day:** load-in, soundcheck, the show, load-out.
-- **Motels:** who rooms with whom (the player can influence it; it's remembered).
+- **Motels:** who rooms with whom (the player can influence it; it plays out that night and at breakfast).
 - **Small unscripted events:** a hitchhiker, a flat, a speeding ticket, a waitress who wants an autograph for her nephew, a church choir practicing through a motel wall.
 
 ### Chattanooga

@@ -635,7 +635,7 @@ A haggling mechanic: Otis wants $550. Cal supplies defects. Ellis turns defects 
 
 **ELLIS:** Any of 'em.
 
-The player can push too hard (Otis gets offended and the price goes up) or not hard enough. The best result is $400. Every price between $400 and $475 is achievable and remembered in the ledger (Dean covers any overage; the ledger re-cuts the shares).
+The player can push too hard (Otis gets offended and the price goes up) or not hard enough. The best result is $400. Every price between $400 and $475 is achievable and remembered in the ledger. Dean covers any overage out of his own pocket, and Cal enters it as *D.H., the difference. Not a share.* The shares don't move. If the haggle never closes, Otis takes $475 and the dog walks them to the gate.
 
 > **Observe** (Otis's porch): *Dec 11. Otis Crump says "little" the way a preacher says "amen."*
 
@@ -796,6 +796,8 @@ Midnight. The rain slowing. Nothing for miles in any direction but a barbed-wire
 **DEAN:** I thought you inspected it.
 
 **CAL:** I inspected a van sold to me by a man named Otis in a hollow for four hundred dollars.
+
+(Cal says the price the ledger holds: "four hundred dollars," "four hundred and twenty dollars," up to "four hundred and seventy-five dollars." The more it cost, the slower he says it.)
 
 **DEAN:** So what you're saying is—
 

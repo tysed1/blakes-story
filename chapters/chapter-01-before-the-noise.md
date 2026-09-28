@@ -1395,6 +1395,14 @@ Ellis laughs. Dean points at him.
 
 **CAL:** Nobody gets you.
 
+If Ellis filled the tank in M2 instead of buying strings, Cal hears it now, in the four bars before the stop:
+
+**CAL:** Your strings are dead.
+
+**ELLIS:** They're resting.
+
+**CAL:** Buy strings.
+
 They try again. This time (the player controlling Dean, easing off the push) it locks, roughly, well enough. All four feel it at once; the controller rumbles once, very gently, the only haptic in the scene.
 
 Then they stop. A tiny silence.
@@ -1851,7 +1859,7 @@ She smiles and goes. Ellis watches a little longer than necessary.
 
 Everyone leaves. Ellis loads Loretta into the back seat. The excitement drains into quiet.
 
-The player drives. There's no urgency and no marker. This is deliberate: the game gives the player room after the performance. The radio is low. Ellis taps the new rhythm on the steering wheel, and if the player listens, the song in his head isn't the song he walked in with. Riley's harmony is part of it now. So is Cal's bass. So is Dean. Something inside Ellis has been answered by other people. He doesn't know yet how much that matters.
+The player drives. If Ellis bought strings in M2 instead of gas, the needle has been on the peg all week, and his first stop is the all-night pumps at the Starlite for a dollar's worth out of tonight's money. There's no urgency and no marker. This is deliberate: the game gives the player room after the performance. The radio is low. Ellis taps the new rhythm on the steering wheel, and if the player listens, the song in his head isn't the song he walked in with. Riley's harmony is part of it now. So is Cal's bass. So is Dean. Something inside Ellis has been answered by other people. He doesn't know yet how much that matters.
 
 ### Optional stops
 
@@ -1866,6 +1874,12 @@ The player drives. There's no urgency and no marker. This is deliberate: the gam
 Ellis gets home around one. Wayne is at the kitchen table this time with the overhead light on, waiting in the light, which is almost worse.
 
 Ellis puts his money on the counter to count it. Wayne watches.
+
+If Ellis stopped at the Starlite on the way, Wayne smells it on him first:
+
+**WAYNE:** Starlite.
+
+It isn't a question. Then:
 
 **WAYNE:** Another fortune?
 

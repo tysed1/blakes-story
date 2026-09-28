@@ -30,7 +30,7 @@
 - `bend_stop` (`road` | `clay`).
 - `oak_touch` (`player` | `rising`): how Ellis's hand reached the scar. Always set by the end of M14. Read by M15 (the bench: "Did you touch it?" / "Yeah.").
 - `obs_tolliver_oak` (bool): the Observe line was written.
-- `tolliver_road_driven` (bool, world state): set true on the turn.
+- `tolliver_road_driven` (bool, world state): set true on the turn. From VIII M18 on, it lifts the turnoff rule: Ellis can take Tolliver Road in free roam, and nothing happens on it. If Clara is in the car, she says nothing on it. The coda ignores the flag: it's 1974, and Ellis turns around ("Other way's quicker").
 
 **Entry state (from M13, 6:40 p.m.)**
 - Ellis has taken the Valiant keys off the hook and gone down the porch steps into the dark. Wayne's last line, from the kitchen door: "It's gonna rain." It isn't.
@@ -300,7 +300,7 @@ Every time the player looks at the passenger seat, she's older. The player can't
 
 | ID | Speaker | Line | Delivery |
 |---|---|---|---|
-| VIII14_NB_040 | NOTEBOOK | *The bark grew back over it like a hand over a mouth.* | On screen, in his pencil hand. Not voiced. It joins the notebook pool that Chapter IX's leaked pages are built from (bible §11.5). |
+| VIII14_NB_040 | NOTEBOOK | *The bark grew back over it like a hand over a mouth.* | On screen, in his pencil hand. Not voiced. It goes in a memo book after 67, which Monarch never copied, so it can't reach *Rave* (IX M11 prints from books 1–67). It can reach Riley's reading and her book (Ep. M5). |
 
 **Node N14.5b · getting up** (timing only, no timer; may set `oak_touch = rising`)
 - When the player gets up (any movement input), Ellis gets up. There's no prompt.

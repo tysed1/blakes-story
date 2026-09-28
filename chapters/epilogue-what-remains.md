@@ -208,7 +208,7 @@ The game never shows what's in the letter.
 
 The last of the town goes down the hill. The band stays. The grave diggers wait.
 
-The player, as Riley, can stay at the graveside. There's one thing she can do: a prompt, *Kneel*, and if she kneels she puts her hand flat on the fresh-turned red clay at the head of the grave, the way you'd put your hand on the glass at Dalton Sound, next to somebody else's.
+The player, as Riley, can stay at the graveside. There's one thing she can do: a prompt, *Kneel*, and if she kneels she puts her hand flat on the fresh-turned red clay at the head of the grave. If she walked to the glass at Dalton Sound in VI and put her hand beside his, it's the same gesture, and the camera frames it the same way.
 
 Then Cal says, "Riley," and she gets up, and they go down the hill.
 
@@ -230,7 +230,7 @@ The player has only ever been in this room as Ellis. Cal sees it the way Cal see
 - **Loretta**, the 1964 Silvertone with the amp in the case, on the wall. Inside the lid, in green felt-tip, in a nine-year-old's handwriting: LORETTA.
 - **The Jazzmaster** is in its case in the corner, with a cracked headstock from the fall. The festival's crew packed it and Tully brought it home.
 - **The plastic horse** on the dresser.
-- **The face-down photograph**, the 1964 Olan Mills portrait, face down on the dresser where it's been since Chapter I. Cal doesn't turn it over. The player can.
+- **The face-down photograph**, the 1964 Olan Mills portrait, face down on the dresser where it's been since Chapter I. The player can lift it and look, as Ellis could in I M1. Cal sets it back face down, where it was. It isn't his to turn.
 - **A box of memo books**, Western Auto, numbered in carpenter's pencil on the covers, 1 through 70, in order, in a Winston carton. Number 73 came back in the paper sack from the hospital.
 - **Memo book 71 and the green leather notebook** aren't here. They were in his bag in New York. Dean has the bag.
 
@@ -271,7 +271,7 @@ In the background of everything Cal does in September and October, there's a rad
 It's on in the Blake kitchen (Wayne's AM, the Engineers' last homestand, and then between innings, the news). It's on in the van. It's on at Vale's, at Walt's bench, in Theo's kitchen. The player can't get away from it:
 
 - *Borrowed Stone* re-enters the national album chart the week after the festival at #34. The week after that, #9. On October 9, #1. The player hears a DJ say it, cheerful, on the Vale's radio, while Cal is restringing a customer's guitar.
-- "Still Here" is back on the singles chart. So is "Sunday Clothes," both versions.
+- "Still Here" is back on the singles chart. So is "Sunday Clothes," both versions: Riley's from the album, and the New York single with Ellis's lead and, under it, the harmony the player gave Riley in VIII (below him, above him, in unison, or, if she sang nothing, Lenny doubling Ellis). The DJs play the single.
 - The film company that shot the Arbor Jam announces a concert movie for the spring, *Last Light at Glen Arbor*, "featuring the final performance of Ellis Blake." Monarch announces it owns the audio rights to the Blakes' set under the rider and will release it as a live album. The band's lawyer (Richard Holloway found him) files an injunction. The player hears about it on the radio. They hear the phrase *the final performance* nine times.
 - A DJ on a Laurel City station plays thirty seconds of audio from the festival, from somewhere (a bootleg, a crew tape, nobody knows): a voice singing the end of a verse nobody had heard before, *go on*, over a band going around and around. Cal is in the van when it comes on. The player can turn it off. The prompt is right there. If the player doesn't, Cal does it himself, after a few seconds.
 
@@ -351,7 +351,7 @@ Sunday. Six o'clock. Dinner at the Holloways'. Dean is eight weeks sober. He's b
 
 The player, as Dean, sits at his parents' dining table: Richard, Carol, Patty, Mrs. Bea bringing the roast. Nobody talks about New York. Richard asks about the injunction, technically, and Dean answers technically, and Richard nods, and says, "Good. That's good," and passes the rolls, and that's how Richard grieves for somebody else's son.
 
-After dinner, upstairs. Patty's door is open on the way past; over her desk, in a dime-store frame, there's a letter in Ellis's handwriting on Western Auto memo paper. Dean's old bedroom, where he's been sleeping on Sundays. On the floor by the bed: Ellis's canvas duffel from New York. Wayne asked Dean to take it on the bus, and Dean said he would give it to Riley, and hasn't, because it's the last thing and he can't.
+After dinner, upstairs. Patty's door is open on the way past; over her desk, in a dime-store frame, there's a letter in Ellis's handwriting on Western Auto memo paper. The player can read it from the door: it's the one he sent, *It's about my mother* or *I never finished figuring that out*, and under either one, *The left flipper sticks.* Dean's old bedroom, where he's been sleeping on Sundays. On the floor by the bed: Ellis's canvas duffel from New York. Wayne asked Dean to take it on the bus, and Dean said he would give it to Riley, and hasn't, because it's the last thing and he can't.
 
 The player unzips it. Clothes. A toothbrush. The brown corduroy jacket from Chapter I, the one from before New York. A Western Auto memo book, number 71, the fire-tower book. And the green leather notebook from Riley, bound, heavy, smelling like a shoe store, full.
 
@@ -544,7 +544,7 @@ In Riley's bag, in the shoebox with the notebooks, the other form (fall 1975, fo
 
 On the way out, she passes the philosophy building. Landry's door is open. He's on the phone. He sees her go by, and raises one finger (*one minute*), and she doesn't wait, and he doesn't mind, and she'll be in his seminar on Tuesday. He isn't surprised to see her. In September he sent her three lines on department letterhead, typed, which she kept in the shoebox with the forms: *Mind and Self II meets Tuesdays and Thursdays at ten. There is a chair. I was sorry to read about your friend. — A. Landry*
 
-> **Setup.** Riley's first solo record, *Occasionally Astonishing*, comes out in 1979. It opens with the song she wrote at her kitchen table on Cutler Street in December 1975 and played for Ellis on a dock in August 1976. The last track is "Maps," finished that winter, about how his were always wrong. It's the only song about him she ever records.
+> **Setup.** Riley's first solo record, *Occasionally Astonishing*, comes out in 1979. It opens with the song she wrote at her kitchen table on Cutler Street in December 1975 and played for Ellis on a dock in August 1976. The last track is "Maps," finished that winter, about how his were always wrong. It's the only song about him she ever records. Her first interview about it is Nina's, in *Metro*, and it isn't about him. Its first line depends on what Riley said at Glen Arbor (`riley_nina_interview`): *She said Monday. It took three years of Mondays.* / *She told me after the record was done, and she meant it.* / *She asked me why her. This is why.*
 
 ---
 
@@ -690,7 +690,7 @@ When the player gets out, the front door opens before he reaches it. Tom Riley, 
 
 The dining room. The leaf in the table. The good china with the gold rubbed off. Tom, Joan, Riley, Tommy (home on leave), Aunt Frances, Mr. Halvorsen. And at the corner by the sideboard, a seventh place: plate, napkin, glass, an empty chair.
 
-Wayne sits in it.
+Wayne sits in it. If Riley pulled Grace's chair out from his table in March, he pulls this one all the way out before he sits, and she sees him do it.
 
 It's a long, warm, ordinary dinner, and Wayne says almost nothing through all of it, and nobody asks him to. Tom makes his pun (*"Mr. Blake, do you know why the turkey joined the band?"*) and Wayne looks at him for a long moment and says, "Drumsticks," flatly, and Tom is so delighted he has to put down the carving knife. Mr. Halvorsen tells Wayne about riding the train through Hollow Ridge in 1922, when the depot had a lunchroom and you could get a whole chicken for a quarter, and Wayne says, "My daddy ate there. He was a section man," and Mr. Halvorsen says, "Then he probably built the track I rode on," and Wayne says, "Probably did," and takes a second roll without being asked.
 
@@ -802,7 +802,7 @@ The buttermilk pie.
 
 The player, as Wayne, carries it in. There's a prompt the player saw once, a year ago, as Ellis: *Cut a piece.*
 
-Wayne cuts two. One for himself. One for the dog.
+Wayne cuts two. One for himself. One for the dog. If Ellis cut a piece a year ago, Wayne doesn't get a plate down. He eats his out of the dish with a fork, standing, the way the two of them did.
 
 ### Opening Day
 

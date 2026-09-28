@@ -1756,7 +1756,7 @@ That's if the player had her give the joke answer. If she talked about voice-lea
 
 > *…a college girl whose mother plays the organ in a Presbyterian church, which may explain the choirboy harmonies she lays down under Blake's voice.*
 
-Two minutes about counterpoint became a clause about her mother. If she said *I'm the one who can read music*, it's there word for word, followed by: *Blake can't, which tells you something about what matters.* "Sunday Clothes" is mentioned once: *the one Riley sings.*
+Two minutes about counterpoint became a clause about her mother. If she said *I'm the one who can read music*, it's there word for word, followed by: *Blake can't, which tells you something about what matters.* If she said nothing: *…a college girl in wire-rims with a twelve-string, who, when I asked what it was like to be the girl in the band, looked at me until I asked about something else.* "Sunday Clothes" is mentioned once: *the one Riley sings.*
 
 She reads it all the way through, including the part about Grace. Then she gets the scissors and the scrapbook of reviews from under the bed and pastes in all six pages. If the player makes her stop, she puts the scissors down, and picks them up again five seconds later.
 
@@ -1764,7 +1764,9 @@ She reads it all the way through, including the part about Grace. Then she gets 
 
 Vale Music, lunch break, the magazine flat on the glass case. Mr. Vale reads over his shoulder, which he's never done in four years.
 
-> *"It's ours," says bassist Cal Mercer, with the patience of a man who has said it before. He's wrong, and he knows it. This is Ellis Blake's band the way the weather is God's.*
+> *"It's ours," says bassist Cal Mercer, with the patience of a man who has said it before. He's wrong, and he knows it. This is Ellis Blake's band the way the weather is God's. At soundcheck in Laurel City the singer was nowhere. "Getting strings," Mercer told me. He was not getting strings.*
+
+(The quote is whichever lie Cal told at the Civic: *"Getting strings"*, *"Parking"* or *"He'll be here."* The last sentence changes to match: *He was not parking.* / *He was, eventually.*)
 
 Cal's pen taps twice on the glass, the thing he does before he speaks. He doesn't speak.
 
@@ -2256,7 +2258,7 @@ He gets in the truck and drives off down the alley.
 
 Later, in the van, Ellis reaches in his jacket pocket for his cigarettes and finds a twenty-dollar bill folded in quarters that wasn't there before. He made $378 in one night in November. Wayne makes about $280 a week. Ellis puts it back. He doesn't spend it. (It's still on him in Chapter X.)
 
-> **Design note.** Wayne leaves money where it can be found: the heater, the half a tire, the Engineers tickets. Tonight he does it with his hands, disguised as fixing a collar.
+> **Design note.** Wayne leaves money where it can be found: the heater, the half a tire. Tonight he does it with his hands, disguised as fixing a collar.
 
 ---
 
@@ -2924,6 +2926,7 @@ Older lines ("Eyes on the road," "Eat your eggs") work the same way; the sharpes
 
 ### Tracked choices
 - **Tracked choices this chapter:** the record on the kitchen table; the FM converter dial; the chickweed; Riley's answer on the phone; whether "Borrowed Stone" was played with Wayne in the room; what Ellis told Patty about "No Name"; the film canister behind the Band-Aids; the trucker's white crosses; the photograph.
+- **Read later:** the record (IX M5), the dial and the chickweed (IX M5), Riley's answer (the M. poem), what Ellis told Patty (the framed letter, Ep. M4), the photograph (everywhere it's printed). **In-scene** (the choice pays off where it's made, and nothing later changes): "Borrowed Stone" with Wayne in the room; the white crosses.
 
 ### The four, and Wayne
 - **Riley.** Her chapter as much as anyone's. She wanted Counterpoint and walked out of the line anyway, learned about Oberlin, had her song credited to Ellis and corrected to "Margaret," was reduced to a comeback in a magazine, heard "I love you" with a flashlight in her hand, took a new ending for "Sunday Clothes" to New York, and started a song that's about neither Ellis nor her mother. She took a promise ("After New York") she knows is hollow.

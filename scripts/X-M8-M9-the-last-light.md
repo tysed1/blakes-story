@@ -23,8 +23,7 @@
 - **Clara** (CLA) is recorded and mixed like any person in the room. No processing.
 
 **Flags read here:**
-- `arm_lines` (X M5): whether a rain line exists for verse option C.
-- the notebook's Observe lines (all chapters): also for option C.
+- `observe_lines` (all chapters): whether the notebooks hold a rain line for verse option C. The X M5 arm lines never feed it; they reach no one (X M5).
 
 **Flags set here:**
 - `lifted_hand`
@@ -126,7 +125,7 @@ Verses 2 and 3 are the Knob House lyrics (see the Music team's lyric sheet, "Who
 |---|---|
 | A (default) | *Rain on the roof like somebody counting.* |
 | B | *The engine ticking like it had somewhere to be.* |
-| C | a rain line from the player's notebooks, if `arm_lines` or any rain Observe exists; hidden otherwise |
+| C | the player's most recent Observe line with rain in it, from the memo books; hidden if there isn't one |
 
 **Node N8.5b — the second line** (sets `verse_line_2`)
 | Option | Sung |

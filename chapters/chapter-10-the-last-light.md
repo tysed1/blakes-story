@@ -395,7 +395,7 @@ A white tent at the edge of the compound with folding tables, bad coffee, a hund
 
 Monarch wants Ellis to do it. Gil Tarver is here in person, in a white linen jacket in the mud, glowing. "The franchise," he says to someone, and then sees Cal and changes the word to "Ellis" without missing a beat.
 
-The player sits Ellis at the table. Thirty writers in folding chairs. Dex Lundgren in the second row with his sunglasses on. Nina Sorensen at the back, standing.
+The player sits Ellis at the table. Thirty writers in folding chairs. Dex Lundgren in the second row with his sunglasses on. Nina Sorensen at the back, standing. On the table in front of Ellis somebody has left a festival program folded open to the Saturday bill, and the Blakes' square is the Bowery photograph, the player's version, printed small and a little off-register. He turns it face down.
 
 ### The questions
 
@@ -747,6 +747,8 @@ It's the band's rule, and ties go to the ledger, which means Cal. The player, as
 - **Dean:** "No. I said it." He doesn't look at Ellis when he says it. He looks at Cal. "Write it down."
 - **Cal.** The player chooses, and the player has the evidence: Ellis knows the day, the time and the sunset, and hasn't slept in two days. A yes makes it three to one, and they play. A no makes it two to two, and Cal breaks the tie, and the game makes the player look at Ellis while they decide.
 
+If the tie-break is *yes*, Cal says "Play," and writes it down before anybody can look at him. Dean looks at him anyway. They play.
+
 If the tie-break is *no*, the no stands. Nobody argues with the ledger. Eddie picks up the phone to production and gets put on hold. Ellis says "Okay," quietly, and goes back to his corner of the couch, and for fifteen minutes the trailer is the worst room in New York.
 
 At 7:05 the stage manager bangs on the door ("Blakes, twenty-five minutes"), because production still hasn't heard. Ellis stands up and picks up the Jazzmaster.
@@ -762,6 +764,10 @@ Cal's entry depends on the vote. The player can see it:
 or
 
 > *8/28/76 — Arbor Jam — vote not to play, 2–2, C.M. breaking. D.H.: "Stop." (On the record.) Played.*
+
+or, if Cal voted no and broke the tie to play:
+
+> *8/28/76 — Arbor Jam — vote 2–2, C.M. breaking: play. D.H. no: "Stop." (On the record.) C.M. no, then yes.*
 
 ### Twenty-five minutes
 
@@ -1445,3 +1451,5 @@ The film leader and the slate (R1 T1). Marlon's chalkboard: THURSDAY — THE BLA
 
 ### Tracked choices this chapter
 Riley's answer to Kit. Riley's answer to Nina (`riley_nina_interview`). Whether Ellis talked to Dex. What Ellis wrote on his arm, and how far up it went. Cal's vote, and the tie-break, which can stand. Whether Ellis lifted his hand to Wayne. The phrasings of the open verse. How long the player held *home* (the footage and the epilogue round it: under a minute, about two, or close to three). What Wayne meant in the ambulance, and whether he sang. How long the player held the hand.
+
+**Read later:** Riley's answer to Nina (Ep. M5), Cal's vote and the tie-break (the ledger, Ep. M3), how long *home* was held (the footage, Ep. 1996). **In-scene** (the choice pays off where it's made, and nothing later changes): Riley's answer to Kit, Dex, the arm, the lifted hand, the verse, what Wayne meant and whether he sang, the hand.

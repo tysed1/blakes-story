@@ -6,7 +6,7 @@
 
 1. **Ordinary first.** The bible's tone rule: for every scene about grief, two about food, money, weather, gear, or nothing. Side content is where most of the "nothing" lives. It's the life the player will miss.
 2. **Side content never contradicts or pre-empts the main story.** No side mission reveals a Clara or crash clue ahead of its chapter. Side content may *echo* a clue already given.
-3. **Side content leaves marks.** Wherever possible, what the player does optionally is remembered later: matchbooks on the van ceiling, Observe lines in *Rave*, peanut rankings in the press tent, a chickweed-free grave, whether Riley sat in Grace's chair.
+3. **Side content leaves marks.** Wherever possible, what the player does optionally is remembered later: Observe lines in *Rave*, a chickweed-free grave, Kevin in the Tabernacle gallery, whether Riley sat in Grace's chair (Wayne pulls out a chair the same way at Thanksgiving). What isn't remembered is labeled as in-scene in `17-tracked-state-registry.md`, and nothing here promises otherwise.
 4. **No morality meter.** No reputation bars. Choices are about timing, topic and disclosure.
 5. **Each principal has their own side verbs**, so that switching characters changes what the world offers.
 6. **Clara appears in side content only under her rules** (bible §11.3), and only as Ellis.
@@ -16,7 +16,7 @@
 
 ### Ellis
 - **Roy's garage** (I–VII): diagnostic jobs (listen, smell, look), from Mrs. Pardue's goose to pulpwood clutches. Pays; teaches the diagnostic grammar reused on Riley's Datsun (VII M15).
-- **The peanut rankings** (all chapters): every stand on the map, ranked in a list in the notebook. Tracked. Surfaces in VII (Cal's search list), IX M5 (Sylva), X M4 (the press tent), 1996.
+- **The peanut rankings** (all chapters): two lists. The band's ranking is fixed, argued in the van since I M2 (Mrs. Tharpe first, the Spur second, fourth place a crime against God and peanuts). It's Ellis's bit, and it's what VII (Cal's search list), IX M3 (*Late Hour*), IX M5 (Sylva), X M4 (the press tent) and 1996 quote. The player's own list, every stand on the map ranked in the notebook, is theirs and is allowed to disagree; nothing quotes it.
 - **Pinball** at Marlon's (the Bally *Fireball*): he's good; high scores persist; Patty beats him once (VII M1).
 - **Pool**: he's terrible and argues about it forever.
 - **Observe** anywhere: the hidden-poet system. Lines feed *Rave* (IX M11) and Riley's book (Ep. M5).
@@ -24,7 +24,7 @@
 - **Night drives** (not in rain): Stony Knob, the Gap, the Tanner Valley.
 - **Gunsmoke reruns** on Wayne's television; Georgia football on the radio in separate rooms (I–II); later on one couch.
 - **Fried bologna sandwiches**: the one thing he cooks; the coda's last input before GO HOME.
-- **Maps**: he draws them for the band, and they're always wrong. A side system: the player can draw a route on a napkin; it's always wrong in a new way. Riley's 1996 answer depends on it.
+- **Maps**: he draws them for the band, and they're always wrong. A side system: the player can draw a route on a napkin; it's always wrong in a new way. Riley's 1996 answer and her song "Maps" (Ep. M5) are about them whether or not the player drew one.
 - **The library**: Mrs. Odom's books (Whitman, Dickinson, Hopkins, Agee, Bishop).
 
 ### Riley
@@ -44,9 +44,9 @@
 - **Session work** on the Row (I–V): read a chart, play it right, get paid, go home.
 
 ### Dean
-- **Matchbooks and SX-70s**: collect one of each from every venue, sign, diner and motel. The van ceiling fills with them (tracked; the ceiling Cal looks at in Ep. M3 is the player's collection).
+- **Matchbooks and SX-70s**: Dean's ritual from III M5: one of each from every venue, sign, diner and motel, stuck to the van ceiling. It's Dean's, not the player's, and it isn't tracked; the ceiling Cal looks at in Ep. M3 is Dean's two years, whole.
 - **Talk to strangers**: Dean has the most stranger dialogue in the game.
-- **Bets**: small, stupid, tracked, sometimes lost to Earl at gin.
+- **Bets**: small and stupid, settled on the spot, sometimes lost to Earl at gin. Not tracked.
 - **The Honda CB750** (I–VI), the **Chevelle** (to VII), the **Corvette** (VIII–X): driving too fast.
 - **The Starlite**: Lynette, chess pie, Bobby's drawings (from IV).
 - **Frisbee**, **Evel Knievel** on television, **George Carlin** records.
@@ -78,7 +78,7 @@ Each is a short, self-contained story with a person at its center. None of them 
 
 - **The Goose** (I, Ellis): Mrs. Pardue's Rambler. Recurs in VII.
 - **The Sign** (VII–IX, any): the HOME OF THE BLAKES paint cycle; the county man and the kid with the paint can; the theft in IX.
-- **Kevin's Sound** (VII, Ellis): answer the fifteen-year-old's letter about getting "that sound" from a Sears guitar; if answered, Kevin appears at the Tabernacle in IX.
+- **Kevin's Sound** (VII, Ellis): the fifteen-year-old's letter about getting "that sound" from a Sears guitar reaches Ellis in VII M7, by way of a peanut stand. From then until the end of VII it can be answered at the kitchen table on Cold Branch Road (a page from the notebook, a diagram of where to put the tape on the pickup, and one line about his father that the player picks or leaves out). If answered (`kevin_letter_answered`), Kevin is in the Tabernacle gallery in IX M9 with his Silvertone case.
 - **Sherry's Tape** (VII, any): the girl who taped "Still Here" twice; she's in the Civic crowd, and at Glen Arbor with her cardboard poster.
 - **The Canoe** (X, any): the boy selling sandwiches out of a canoe at the festival.
 - **Mr. Halvorsen's Lunchroom** (VII, Riley): find the old Hollow Ridge depot lunchroom menu for the widower next door (it's in the Carnegie library's vertical file).
@@ -90,7 +90,7 @@ Each is a short, self-contained story with a person at its center. None of them 
 ## What side content must never do
 
 - Give the player Clara outside Ellis's perception.
-- Let the player drive Tolliver Road before VIII M14 (in I a sawhorse blocks it; after that Ellis brakes at the turnoff and turns around).
+- Let the player drive Tolliver Road before VIII M14 (in I a sawhorse blocks it; after that Ellis brakes at the turnoff and turns around). After M14 the road is open in free roam (`tolliver_road_driven`), and nothing on it is content: no stranger mission, no collectible, no Observe cue. The coda closes it again.
 - Let the player open Grace's door before IX M13.
 - Let the player enter the cemetery with Clara.
 - Offer drugs as a performance buff. Use has effects on the character and the scene, never a stat.

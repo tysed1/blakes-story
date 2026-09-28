@@ -1621,6 +1621,8 @@ She's carried it since Christmas, folded into a Kant textbook. It has three vers
 > *She plays for the Lord at a quarter to eleven*
 > *and for nobody at all on Saturday.*
 
+The second verse is built from whatever she wrote in the margin at Linwood Presbyterian in V: the window light on the hymn board, the numbers for a Sunday that hasn't come, the good shoes under the bench. If she wrote nothing in the margin, the verse is about the hymnals, squared in their racks.
+
 Then she arranges it, and the player arranges it with her. Riley gets a new verb here, labeled on first use: **drone**. Hold an open chord on the twelve-string and let it ring; the paired strings beat against each other until the chord sounds like a room full of bells, or an organ with one stop pulled. She builds the verses on it.
 
 Cal has written a bass line. It's good, and he's proud of it. It walks.
@@ -1828,7 +1830,7 @@ In the parlor the green ledger is open on the console where he left it. He picks
 
 Ellis comes home late. Wayne's truck is in the yard. Wayne's bedroom door is shut and there's no light under it.
 
-The kitchen. The bills pile by the salt shaker. On top of it, the stapled booklet, and the player may remember it. If they look:
+The kitchen. The bills pile by the salt shaker. On top of it, the stapled booklet from Chapter I. If they look:
 
 > HOLLOW RIDGE MONUMENT & VAULT CO.
 > Coupon 29 of 48 · Amount due $11.50 · Due Aug 15, 1975
@@ -1849,6 +1851,8 @@ If they wait, Ellis sits down at the kitchen table, takes out his notebook, and 
 > *Nineteen more and it's ours.*
 
 He crosses out the last line. Writes it again. Leaves it.
+
+If he turns it over, he goes down the hall to bed, and the mission doesn't end. At twenty to one he's back in the dark kitchen in his sock feet. The doorway is empty. He turns the booklet face up, sits down, and writes the same four lines. Her help buys an hour and no more.
 
 That's the song "Borrowed Stone." They cut it at Dalton Sound the following Monday in two takes.
 
@@ -1872,7 +1876,7 @@ Marlon takes the envelope. Takes out the interest and pushes it back across the 
 
 Cal doesn't argue, which surprises both of them. They drink the Cokes. The jukebox is dark. A freight goes by.
 
-From here the player's only input is timing: hold silence, or speak. Marlon talks into silence, and each time the player holds, he goes on. Cal has exactly two things he can say, *Grace* and *Was he driving?*, and the scene waits for each of them. Speak before Marlon has finished a thought and he stops, says "Drink your Coke," and the scene ends with less; a player who talks too soon never hears the last four lines.
+From here the player's only input is timing: hold silence, or speak. Marlon talks into silence, and each time the player holds, he goes on. Cal has exactly two things he can say, *Grace* and *Was he driving?*, and the scene waits for each of them. Speak before Marlon has finished a thought and he stops, says "Drink your Coke," and skips to the part he came to say. A player who talks too soon loses the color: the wall at Roy's, the kitchen-light song, why Thursdays. The facts and the promise play for everyone: the sister, the driving, "Don't you tell him I told you," "I won't."
 
 Then Marlon says, looking at the stage:
 
@@ -2202,7 +2206,7 @@ The player knows now that she isn't there, and the help is still good: still Ell
 | M1 | "It's half past nine." / "And tell her that blinker's been going since Cold Branch." | the time; the road | no |
 | M6 | "Turn around. Face it." / "Not that close. There." | the Room: the feedback verb | no |
 | M11 | "Coffee's on. Get you a cup before Dean wakes up and drinks the pot." | his body | no |
-| M15 | "Turn that over. It's late." | the coupon | **yes**: away from the stone, and from the song he writes if he doesn't |
+| M15 | "Turn that over. It's late." | the coupon | **yes**: away from the stone and the song. If he takes it, he's back at the table at 12:40 and writes the song anyway |
 
 Her older steers work the same way: "Sit down a minute" and "Not in front of her" (M1, away from Riley's car and from telling her), and "Don't." behind Vance's chair (M3).
 

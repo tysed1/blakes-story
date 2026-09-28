@@ -274,7 +274,7 @@ He doesn't say it again.
 
 *Late Hour* airs at one in the morning on a network, four nights a week: one guest, one host, a black set, two chairs, an ashtray on a table between them, and long silences nobody's allowed to cut. **Russ Mandel**, forty-eight, gray-haired, heavy-lidded, genuinely curious, smokes through the whole hour and asks the second question nobody else thinks to ask. People go on *Late Hour* to be understood. Sometimes they go on to be taken apart.
 
-Monarch booked it the week after the *Night Stage* rerun, because Gil Tarver can read a Nielsen number: the silent boy from Georgia was the most talked-about forty seconds of television all spring. *Late Hour* wants the silent boy.
+Monarch booked it the week after the *Night Stage* rerun, because Gil Tarver can read a Nielsen number: the silent boy from Georgia was the most talked-about silence on television all spring. *Late Hour* wants the silent boy.
 
 They don't get him.
 
@@ -320,6 +320,8 @@ The audience laughs. Russ laughs.
 ---
 
 **RUSS:** On *Night Stage* this spring, in the middle of your song, you stopped. For almost a minute. What happened?
+
+(Russ has the tape timed on his card: "For forty seconds" if the player pressed **Continue** inside fifty seconds, "For almost a minute" up to seventy-five, "For over a minute" after that, and "For a minute and a half" if Riley had to sing the line.)
 
 **ELLIS:** I lost the line. It happens. My band covered for me. They're very good.
 
@@ -671,7 +673,7 @@ After a long time, looking at the mountains, not at his son:
 The player gets Ellis's options, and they're few, and none of them is forgiveness:
 
 - **"Okay."**
-- **"Me too."** Wayne looks at him. He doesn't know what Ellis means, yet.
+- **"Me too."** Wayne looks at him. He doesn't know what Ellis means, and he doesn't ask.
 - **Silence.** Ellis cracks a peanut. Wayne cracks one.
 
 It doesn't fix anything. Wayne says it anyway.
@@ -1191,7 +1193,7 @@ The doors open at seven. The player can switch freely now among the four as they
 - **Cal** sees his parents, in the third row. Walt Mercer has never been to one of their shows. He's in his church suit. Dot is waving. Walt isn't, and doesn't need to.
 - **Dean** sees his parents and Patty, in the sixth row. Richard Holloway in a blazer, looking at the Tabernacle's ceiling the way he looks at a well-built balance sheet. Dean is seven days sober. He hasn't told them. He'll tell them tomorrow at six o'clock.
 - **Riley** sees her father, next to the aisle, in his tie with the atoms on it, and Professor Landry and his wife, halfway back, Landry looking deeply suspicious of the whole proceeding.
-- **Ellis** sees Clara, in the wings beside him, radiant, watching him pick at the tape on his set list. "Quit that," she says. "You'll have nothing to read." And then, if the player lets him look up at the gallery, he sees, in the second row of the gallery, at the rail, a man in a hat. Wayne came. Roy Cagle is beside him in a sport coat that doesn't fit.
+- **Ellis** sees Clara, in the wings beside him, radiant, watching him pick at the tape on his set list. "Quit that," she says. "You'll have nothing to read." And then, if the player lets him look up at the gallery, he sees, in the second row of the gallery, at the rail, a man in a hat. Wayne came. Roy Cagle is beside him in a sport coat that doesn't fit. If Ellis answered Kevin's letter in VII (the stranger mission *Kevin's Sound*), a boy is at the front of the gallery, three seats down from Roy, with a Sears Silvertone case between his knees. He doesn't wave, because he's fifteen.
 
 ### "Wondrous Love"
 
@@ -2125,3 +2127,5 @@ Frank's remote truck (DALTON SOUND · REMOTE, over HOLSUM). Knob House: the chim
 
 ### Tracked choices this chapter
 Whether Ellis called Clara's name at the lake. How Ellis answered Wayne across the report (*you let me think I killed her* / *you said I was speeding* / silence). "Me too" on the tailgate. What Riley did on the dock in the rain. How long the player waited before *Palm it*. Whether Dean poured the vial out himself. Whether Cal walked Ellis through the verse (or Riley sang it). Riley's argument at the pill count. Mrs. Pardue's question. Cal's answer at the bench. Whether Ellis signed Grace's letter in 1972. Whether he tried on the jacket.
+
+All of these are **in-scene**: each pays off in the scene where it's made, and nothing later changes. That's deliberate for this chapter. Under the medication and after it, the choices are small and immediate, and they stay where they're made. (The *Late Hour* silence in M3 reads VIII's.)

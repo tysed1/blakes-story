@@ -56,7 +56,7 @@
 - **"Before Clara."**
 - **Raymond** "heard people." Wayne drove him to Milledgeville singing every verse.
 - **Marlon tells Cal.** Every Cal scene afterward is a man keeping a promise.
-- **The glass.** Riley's hand beside his.
+- **The glass.** Riley's hand beside his, if she walked to it. At the grave in the epilogue she kneels with the same hand, framed the same way.
 
 ### Chapter VII
 - **"November."**
@@ -114,7 +114,7 @@
   - In I M9, holding silence at Wayne's line lasts one beat longer.
   - In II, Clara's "your daddy" is followed by a half-second pause that wasn't there before.
   - In VII M1, when Ellis says "November," Clara's reply ("November's fine") is a fraction slower.
-  - In X M7, Roy's "Go on" gets the second-step hold whether or not the player remembers why.
+  - In X M7, the hold on the second step after Roy's "Go on" runs one beat longer.
   These are timing changes only. No new information is added on replay. The player brings that.
 - **The photograph** (VII M19) can be retaken on replay; the first playthrough's version remains the "canonical" one used in the player's save's 1996 documentary unless they choose otherwise.
 
