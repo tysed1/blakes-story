@@ -30,6 +30,14 @@ Main story: about 57.5 hours. With side content: 80–110.
 
 **If you only have an hour:** the bible's first three sections, then Chapter I's Mission 9, Chapter V's Mission 16, Chapter VIII's Mission 14 (Tolliver Road), Chapter X's Mission 8, and the epilogue's coda.
 
+## Reading paths by role
+
+- **Writers:** the bible (§1, §2, §6, §11.3, §11.8, §12), `00-process/V3-character-audit.md` (the voice sheet), then the chapters in order.
+- **Designers:** the bible §11 (every system, including §11.8 Clara's help), `02-macrostructure.md`, `17-tracked-state-registry.md`, `12-side-content-framework.md`, `11-open-world-evolution.md`, and the scripts in `scripts/`.
+- **Producers:** `02-macrostructure.md` (runtimes), `16-why-this-could-fail.md`, `19-playtest-plan.md`, and the protect list in `18-performance-and-direction.md` §8.
+- **Actors and directors:** `18-performance-and-direction.md`, `03-character-arcs.md`, `04-relationship-matrix.md`, and the scripts.
+- **Marketing:** `18-performance-and-direction.md` §9 (guardrails) and §11 (content notes). Read nothing past Chapter IV until you've read the guardrails.
+
 ## The eighteen deliverables
 
 | # | Deliverable | File |
@@ -53,6 +61,15 @@ Main story: about 57.5 hours. With side content: 80–110.
 | 17 | Continuity audit | `15-continuity-audit.md` |
 | 18 | Why this story could fail | `16-why-this-could-fail.md` |
 
+## Production supplements (V8)
+
+| File | What it's for |
+|---|---|
+| `17-tracked-state-registry.md` | every tracked flag: where it's set, its values, where it's read, its default |
+| `18-performance-and-direction.md` | casting, delivery, audio, camera, music, marketing and level-design guardrails; content notes |
+| `19-playtest-plan.md` | a test, metric, pass line and ready fallback for every risk |
+| `scripts/` | production scripts with dialogue trees for V M16 (the midpoint), VIII M14 (Tolliver Road) and X M8–M9 (the last song, the fall, the ambulance) |
+
 ## Process (`00-process/`)
 
 How the story was rebuilt, in the order it happened:
@@ -64,6 +81,7 @@ How the story was rebuilt, in the order it happened:
 - `V4-red-team.md`: the two red teams' findings and the decisions taken, with work orders R1 and R2.
 - `repair-log-R1.md`, `repair-log-R2.md`: what changed in Chapters I–VI.
 - `V6-V7-audits.md`: the decisions on Critics C, D and E, the work orders, and the phase 16 quality gate.
+- `V8-plan.md`: the V8 pass that brought every rating to 8 or better (Clara's help, the cuts, the Riley pass, the production supplements), and the cold read.
 - `WORKLOG.md`: the running canon log.
 
 ## Version history
