@@ -37,7 +37,7 @@
 | Jun 19, 1976 | Sat | The report | IX M4 |
 | Jun 26, 1976 | Sat | Sylva; Hollis Beam | IX M5 |
 | Jul 1–4, 1976 | Thu–Sun | Flush; the fire tower on the Bicentennial | IX M7 |
-| Jul 11, 1976 | Sun | Dean's day one | IX M8 |
+| Jul 10, 1976 | Sat | Dean's sobriety date (last use about 2 a.m.): six days on Jul 16, seven weeks on the day of the festival | IX M8; X |
 | Jul 17, 1976 | Sat | The Tabernacle | IX M9 |
 | Aug 22, 1976 | Sun | Plans; the list; the dock | IX M15 |
 | Aug 26, 1976 | Thu | North; Harrisburg | X M1 |

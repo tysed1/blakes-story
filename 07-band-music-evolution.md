@@ -365,3 +365,12 @@ The performance system: no rhythm game; the song plays and the player shapes it 
 9. **Recording dates.** Bible §10.4 has *Borrowed Stone* "recorded May–Aug 1975" and the second album "recorded June–Aug 1976." The album credit reads "Recorded at Dalton Sound, Tannersville, June–August 1975" (VI M17; sessions begin Mon Jun 2, VI M6), and the second album's sessions begin at Knob House on Mon May 10, 1976 (IX M1).
 
 *Note on versions.* Chapters VII–X and the epilogue were revised while this file was being compiled. The entries above follow the committed V6/V7 text (through commit 2431ed7): the cover of "Sunday Clothes" is by Charlene Hobbs (IX M12; earlier drafts, Darla Kay Hinson); Knob House's assistant engineer is Lamar Pickett; the ticket book, the hot dogs, the bootleg lyric and the route home from Elmira are fixed in the epilogue; and Wayne's twenty is never spent (VII M16, VII M19, X M3, Epi M1 and bible §13 now agree).
+
+*Resolved in V7.*
+1. The ledger's page one opens with *10/26/74 — Motor Sales*. The first gig, *10/18/74 — Marlon's — $160.00*, is squeezed in above it, back-entered the day Cal bought the book (VII M11, Epi M3).
+2. The bible now gives the 45's cost as $412: $112 of their own and $300 Marlon lent them.
+3–5. The bible now dates "Stony Knob" to IV and "New Skin" to the January bus, and the Echoplex arrives in January 1975.
+6. The bible's gear table now matches the chapters.
+7. Eddie becomes manager in VI.
+8. The #61 peak is background only; the epilogue's "re-enters" implies it.
+9. The bible now dates *Borrowed Stone* to June–August 1975, matching the credit, and the second album to May–August 1976.

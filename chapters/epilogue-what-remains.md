@@ -602,7 +602,7 @@ On the shelf behind her, a small gray book: his notebook lines, with the title t
 
 ### Dex
 
-Dex Lundgren, fifty-one, in a leather armchair in Detroit with a lot of books. Reading glasses instead of sunglasses. His book, *Who the Hell Was Ellis Blake?*, 1977, on the table beside him.
+Dex Lundgren, fifty-one, in a leather armchair in Detroit with a lot of books. Sober. Reading glasses instead of sunglasses. His book, *Who the Hell Was Ellis Blake?*, 1977, on the table beside him.
 
 **INTERVIEWER:** Did you make him up?
 

@@ -3216,7 +3216,7 @@ The record came out, and for a while nobody bought it, and then a nurse did. A D
   - The flashlight (M15): *She held the light so still I could hear the rain hit it.*
   - Fourteenth Street (M19): *Nobody here looks at anybody, and everybody's dressed for it.*
   - I-81 at 3 a.m. (M19): *Everybody I've got, asleep behind me at fifty-five.*
-- **Tracked choices this chapter:** the record on the kitchen table; the FM converter dial; the chickweed; Riley's answer on the phone; whether "Borrowed Stone" was played with Wayne in the room; what Ellis told Patty about "No Name"; the film canister behind the Band-Aids; the photograph.
+- **Tracked choices this chapter:** the record on the kitchen table; the FM converter dial; the chickweed; Riley's answer on the phone; whether "Borrowed Stone" was played with Wayne in the room; what Ellis told Patty about "No Name"; the film canister behind the Band-Aids; the trucker's white crosses; the photograph.
 
 ### Riley
 Her chapter as much as anyone's. She walked out of a registration line, learned about Oberlin, sang an alto line in a hymn with a boy from Hollow Ridge and her mother, had her song credited to Ellis and corrected to "Margaret," was reduced to a comeback in a magazine, heard "I love you" with a flashlight in her hand, and started writing a song that isn't about either of the people she's spent the year writing about. She knows about Clara and got a promise ("After New York") she knows is hollow.

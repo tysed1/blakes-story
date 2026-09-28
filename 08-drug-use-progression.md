@@ -181,3 +181,11 @@ How the chapters apply it:
 4. **"Seven weeks tomorrow."** Dean's last use is a bump at about 2 a.m. on Sat Jul 10 (IX M8); "I'm six days" on Fri Jul 16 and "seven days sober" on Sat Jul 17 (IX M9) count from Jul 10. By that count he is seven weeks sober on Sat Aug 28 itself, but X M3, M6 and M8 say "seven weeks tomorrow" on Aug 28 (and X's opening says "nearly seven weeks" on Aug 26).
 5. **Dex in 1996.** Bible §8 has Dex "sober and older" in 1996; the epilogue's 1996 frame (Epi M6) no longer says he's sober.
 6. **Wayne's Early Times.** Bible §6.4 gives Wayne "Early Times, two or three a night." No chapter shows him drinking.
+
+*Resolved in V7.*
+1. The VII M10 note no longer claims an earlier choice.
+2. The bible marks the truck-stop pills as the player's choice. The trucker's white crosses are restored to VII's tracked choices.
+3. The supplier and the Quaaludes are marked as background.
+4. Dean's sobriety date is July 10, so X now says "Seven weeks today."
+5. Dex is "Sober." again in 1996.
+6. The bible notes that Wayne's Early Times is off screen.

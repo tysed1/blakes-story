@@ -439,3 +439,11 @@ Clara never says it. Her substitutes: "Keep going" (I M1 at the LAUREL CITY 38 s
 8. **Rules 11, 12 and 13 as written vs. as played.** See the "strained" column above: V M7 (a third-party view before the midpoint), VI M1 (the rearview mirror), and the look-away disappearances that fall outside Rule 13's "exactly two situations."
 
 *Resolved during compilation.* Items flagged in the first draft of this file and since fixed in the chapters by the V6/V7 repairs (commits c541f21 through 2431ed7): where the first two "Liars" are recalled (VIII M4 now says the floor under the window and the windowsill), Grace's age at the WGRC recorder (bible now 12), the bootleg lyric in Epi M3, Nina's figure for the held *home*, Dolly's years in the paddock (now twenty), and the three hot dogs (Grace's again in Epi M7). Clara's "go, go, go" in the X M5 squall is now "come on, come on," so the Rule 10 strain is gone.
+
+*Resolved in V7 (after this list was compiled).*
+1. The bible now matches the page: she says "don't," "take me with you" and "keep going," and VIII M15's replay note now calls "stay" the band's word.
+2. "No Name" was written in the winter of 1971–72. WGRC #14 now says "since last winter."
+3. The bible now says Hollis heard two lines.
+4. The bible now allows two daylight appearances in II.
+5–7. The macro is corrected: no mirror in II, no flicker in "Sold Out," and "Daddy" happens on Tolliver Road.
+8. Rules 11 and 13 are reworded to how she is played: V M7 is the one sanctioned exception to Rule 11, and Rule 13 covers look-away exits and Lorraine's photograph. VI M1 no longer uses the rearview mirror.

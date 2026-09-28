@@ -365,9 +365,9 @@ They drink coffee standing in the doorway of room 17 looking at the lake.
 
 **ELLIS:** Saturday. August twenty-eighth.
 
-**DEAN:** Seven weeks tomorrow.
+**DEAN:** Seven weeks today.
 
-**ELLIS:** Seven weeks tomorrow.
+**ELLIS:** Seven weeks today.
 
 Dean nods, satisfied, like he's checked something. He drinks his coffee.
 
@@ -638,7 +638,7 @@ Dean puts his hand flat over the pocket.
 
 ### Four dollars
 
-A little later, Dean, seven weeks sober tomorrow, takes four one-dollar bills out of his wallet and holds them out.
+A little later, Dean, seven weeks sober today, takes four one-dollar bills out of his wallet and holds them out.
 
 **DEAN:** I'm doing amends. It's a thing you do. Starlite, November second, nineteen seventy-four. Chess pie, two coffees, a patty melt. Four dollars.
 
@@ -878,7 +878,7 @@ Inside the bass drum, taped to the inner wall of the clear shell where Dean move
 
 The ritual from Chapter II, when they mocked it and did it anyway. The player is each of them in turn, a stutter apiece, one hand each on the front head:
 
-- **Dean**, both palms flat, grinning, seven weeks sober tomorrow.
+- **Dean**, both palms flat, grinning, seven weeks sober today.
 - **Cal**, one hand, two taps, like checking a tire.
 - **Riley**, her palm, and then her forehead against the rim for a second.
 - **Ellis**, last. His hand on the head, over the pink letter on the other side. Clara is standing beside him in the wing. She doesn't touch the drum. She never touches anything. She looks at the pink through the clear shell.
@@ -958,7 +958,7 @@ The valley sings along, and it knows the words because of Ellis's single, and it
 
 ### "Tomorrow Problem" (Dean)
 
-The player is Dean. Sober, seven weeks tomorrow, with a Polaroid buttoned in his shirt pocket, playing the joke song that isn't a joke for a hundred and fifty thousand people. When the chorus comes around, the valley shouts it:
+The player is Dean. Sober seven weeks today, with a Polaroid buttoned in his shirt pocket, playing the joke song that isn't a joke for a hundred and fifty thousand people. When the chorus comes around, the valley shouts it:
 
 *THAT'S A TOMORROW PROBLEM.*
 

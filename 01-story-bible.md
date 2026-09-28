@@ -292,7 +292,7 @@ Looks older when he's quiet and younger when he laughs. Laughs more than his rep
 
 **Sex.** One high-school girlfriend (Donna Kay Sisk, now married to a Carson, works the register at the Piggly Wiggly). Shy, not cold. Fame will offer him more than he wants. He mostly refuses, partly for Riley and partly because being close to someone terrifies him. (One exception, Chapter VIII, a kiss in a hotel bar, reported in a magazine before he can tell Riley himself.)
 
-**Drugs.** Winstons, beer, occasional weed before the game begins. Marijuana with Riley (II). Psilocybin mushrooms (III, VI). Truck-stop amphetamines to drive at night (VII). Cocaine on the national tour (VIII). Prescribed trifluoperazine (VIII–IX), stopped in secret (IX). On the morning of the festival a fan's letter holds a tab of acid; he holds it at a motel sink and puts it back (X). He dies clean. He is never an addict in Dean's sense; his use is about reaching and escaping states, and increasingly about Clara.
+**Drugs.** Winstons, beer, occasional weed before the game begins. Marijuana with Riley (II). Psilocybin mushrooms (III, VI). Truck-stop amphetamines to drive at night (VII, the player's choice). Cocaine on the national tour (VIII). Prescribed trifluoperazine (VIII–IX), stopped in secret (IX). On the morning of the festival a fan's letter holds a tab of acid; he holds it at a motel sink and puts it back (X). He dies clean. He is never an addict in Dean's sense; his use is about reaching and escaping states, and increasingly about Clara.
 
 **Death.** Thinks about it the way people in pain do: passively, not as a plan. "If a train came through right now that'd be all right." One notebook line in Chapter VIII makes it visible to the player. He is not trying to die. That distinction matters to the ending.
 
@@ -342,7 +342,7 @@ She is possibly also what the clinicians of 1976 would call something. The game 
 
 | Chapter | Clara |
 |---|---|
-| I–II | Friend and confidant. Appears mostly at night, when Ellis is alone, after shows (one unremarked daylight slip in II). Never in the house while Wayne is awake. |
+| I–II | Friend and confidant. Appears mostly at night, when Ellis is alone, after shows (two unremarked daylight appearances in II: a Sunday-morning booth and the quad). Never in the house while Wayne is awake. |
 | III | More vivid on mushrooms, farther away, in a field. "I wish you'd come around more." / "You sure?" |
 | IV | Appears in daylight, sober, behind Marlon's; in the van; backstage at the Lantern. "Take me with you." / "Promise." |
 | V | Possessive of Ellis's attention as strangers start singing his words. Flickers younger for a frame, once. Says "El." Can say where they met ("out back of Marlon's") but not when. Cries. The midpoint: the camera pulls back and she isn't there. |
@@ -354,7 +354,7 @@ She is possibly also what the clinicians of 1976 would call something. The game 
 
 ### 6.4 WAYNE BLAKE
 
-**Surface.** Forty-five. Six-one, heavy hands, a railroad man's burned neck. Khakis, a Case pocketknife, reading glasses he hides in the truck. Camels, no filter. Early Times, two or three a night, never falling-down. A 1967 Ford F-100 with a cracked dash.
+**Surface.** Forty-five. Six-one, heavy hands, a railroad man's burned neck. Khakis, a Case pocketknife, reading glasses he hides in the truck. Camels, no filter. Early Times, two or three a night (off screen; the bottle is in the cabinet over the refrigerator), never falling-down. A 1967 Ford F-100 with a cracked dash.
 
 **Wants:** his daughter back. His son safe. Not to be the last Blake. To be forgiven without having to ask.
 **Fears:** losing Ellis. Milledgeville. Being alone in that house.
@@ -486,7 +486,7 @@ She is possibly also what the clinicians of 1976 would call something. The game 
 
 **Money.** Spends like water, generous to a fault, cut off by his father in Chapter VII, borrows from Cal (ledger), owes Ellis four dollars from the Starlite in Chapter II and never pays it.
 
-**Drugs.** Cocaine from a Tannersville College supplier starting in 1974; speed occasionally; alcohol; weed; Quaaludes at parties. Progression: fun (I–III) → functional, for playing and staying up (IV–VI) → medicinal, for hurt (V onward) → dependence (VII–VIII) → an ER scare with an irregular heartbeat in Cleveland (VIII) → bottom and sobriety, with Cal sitting up with him (IX) → terrified, sober witness (X) → recovery (epilogue).
+**Drugs.** Cocaine from a Tannersville College supplier starting in 1974 (background; the supplier is never on screen); speed occasionally; alcohol; weed; Quaaludes at parties (background). Progression: fun (I–III) → functional, for playing and staying up (IV–VI) → medicinal, for hurt (V onward) → dependence (VII–VIII) → an ER scare with an irregular heartbeat in Cleveland (VIII) → bottom and sobriety, with Cal sitting up with him (IX) → terrified, sober witness (X) → recovery (epilogue).
 
 **Music.** Explosive, inventive, dynamic; the best room-reader in the band; learns restraint from Cal and discovers it makes the chaos bigger. Writes one song, "Tomorrow Problem," a raucous joke that becomes a crowd singalong.
 
@@ -636,7 +636,7 @@ Lyrics below are fragments for tone; full lyrics are written in the chapters whe
 ### 10.4 Records
 
 - **Private 45** (Ch IV): "No Name" b/w "Low Water." 500 copies from a custom plant on the Row, $412 ($112 of their own and $300 Marlon lent them). Hand-stamped paper sleeves.
-- ***Borrowed Stone*** (recorded May–Aug 1975 at Dalton Sound; released Sept 15, 1975, Southern Star). Side A: No Name · Low Water · Ice Machine · Sunday Clothes · Borrowed Stone. Side B: Still Here · Linwood · Shape Note · Stony Knob. Then ten seconds of Dean shouting "That's ten!" (Ellis wanted nine songs, Dean wanted ten.) Peaks at #61 in spring 1976; #1 in October 1976, after.
+- ***Borrowed Stone*** (recorded June–Aug 1975 at Dalton Sound; released Sept 15, 1975, Southern Star). Side A: No Name · Low Water · Ice Machine · Sunday Clothes · Borrowed Stone. Side B: Still Here · Linwood · Shape Note · Stony Knob. Then ten seconds of Dean shouting "That's ten!" (Ellis wanted nine songs, Dean wanted ten.) Peaks at #61 in spring 1976; #1 in October 1976, after.
 - **Singles:** "Still Here" (Nov 1975, #38 Jan 1976); "Sunday Clothes" (single version, Ellis lead, Feb 1976, #14 Apr 1976).
 - **The second album** (recorded May–Aug 1976 at the Stony Knob lodge with a mobile truck; unfinished). Released by the label in 1977, against the band's wishes, as ***Last Light***, with a still from the festival footage on the cover. Released by Riley, Cal and Dean as they meant it, as ***Who Are You?***, in 1996, with the last verse left empty.
 
