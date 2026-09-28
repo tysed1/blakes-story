@@ -77,7 +77,7 @@ Each session is recorded (screen, controller input, face camera with consent). T
 
 ### T10. Length and sag (risk 9)
 - **Measure.** Time per chapter, quit points and replay intention.
-- **Pass.** VII and VIII play within 10% of their design lengths (about 8.25 and 7 hours, the sums of their mission lengths), and fewer than 15% of players quit between VII M1 and VIII M8. VII is the longest chapter by design; if it runs long, its first cuts are M19 after the Lincoln Tunnel checkpoint and the Riley pair M3–M4, not the protected missions.
+- **Pass.** VII and VIII play within 10% of their design lengths (about 8.25 and 7 hours, the sums of their mission lengths), and fewer than 15% of players quit between VII M1 and VIII M8. VII is the longest chapter by design; if it runs long, its first cuts are in M19 after the Lincoln Tunnel checkpoint, and then compressing Riley's M3–M4 into one sitting (keeping the registration form and "Occasionally Astonishing"). The protected missions don't move.
 - **Fallback.** Use the cut lists in `16-why-this-could-fail.md` §9. Protected missions stay.
 
 ### T11. The coda without Clara (risk 13)
