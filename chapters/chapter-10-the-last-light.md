@@ -224,7 +224,7 @@ She writes it on her clipboard. The player can see the note: *BLAKES — stay be
 
 Stutter, from the stage-right wing, out over the rail, across the infield: the switch rides a camera pan the player doesn't control, over a hundred thousand heads, to a hayfield on a county road two miles off, where it finds Riley, walking.
 
-The player is Riley. She walked out from the compound to find Wayne and Roy, because somebody had to tell them where to park and how to get in, and she volunteered, and she wanted the walk.
+The player is Riley. She walked out from the compound to find Wayne and Roy, because somebody had to tell them where to park and how to get in, and she volunteered, and she wanted the walk. She has a bridge in her head that won't finish, for a song nobody has heard but Ellis, and two miles of hayfield is the first quiet she's had in a week. The player can hum it as she walks; the line doesn't land. She'll get it in the winter.
 
 The hayfield: somebody's farm, a man at the gate taking five dollars a car. Rows of cars in the stubble. The F-100 at the end of one row with the tailgate down and the tarp rigged from the cab to two poles for shade, and two lawn chairs under it, and a cooler, and Tater lying in the shade under the truck. Roy Cagle in his new cap, delighted by everything. Wayne in his hat, looking at a hundred thousand strangers like each one of them owes him money.
 
@@ -262,6 +262,8 @@ Back at the compound at dusk, the player (still Riley) can find two people.
 
 **Nina Sorensen**, in the press area, in the same man's suit jacket, with a press pass and a notebook. They haven't seen each other since the stairwell on Greene Street. Nina hugs her. "Are you all right?" / "I'm all right." / "Is he?" / Riley doesn't answer. Nina doesn't make her.
 
+Then Nina asks for something nobody has asked Riley for: an interview, just her, about her songs. "Monday, in the city. Not about him." The player chooses. *"Monday."* / *"After the record's done."* / *"Why me?"* (Nina: "Because you wrote the one they all sing.") Whatever Riley says, Nina writes MONDAY — RILEY in her notebook and underlines it. (Tracked: `riley_nina_interview`. It never happens that Monday. It happens in 1979, when the first record comes out.)
+
 And **Kit Adair**, sitting on an equipment case outside the film truck, eating a hot dog, with the sun-gun on the case beside her, charging off a cable.
 
 The player can sit down next to her. Riley does, with a Coke. Two young women in their twenties at a festival where almost everyone backstage is a man.
@@ -295,7 +297,7 @@ The HUD shows the date, because someone will say it out loud today: SATURDAY · 
 
 5:40 a.m. A two-story motel on Route 14 above the lake, a mile from the raceway, every room booked by bands and crews. Room 17. Ellis on the bed in his clothes, on top of the covers. He didn't sleep. The player can feel it in his body: the camera very slightly too quick, the edges of things a little too sharp.
 
-Clara isn't in the room. She hasn't been with him since the Harrisburg motel.
+Clara isn't in the room. She hasn't been with him since the Harrisburg motel. Nobody tells him what to look at, or what day it is, or what to do.
 
 He gets up. The player can do anything in the room: look out the window at the lake going pink, turn on the television (farm report; a test pattern on the other channel), sit at the little desk with memo book 73.
 
@@ -529,7 +531,7 @@ She looks at his left arm, close, the way you'd hold it up to the light, and rea
 
 Clara laughs, the old laugh.
 
-The player can walk with her. She comments on the crowd like a big sister at a county fair: the man with the lemonade (*"That's lake water"*), the Hare Krishnas (*"Dean would join"*), the grandmother with the peach (*"That's the smartest woman here"*).
+The player can walk with her, and she's back to helping: *"Look at that man's hat."* *"Write that down, you'll want it."* *"Stage-left gate's closest, if you need it."* She comments on the crowd like a big sister at a county fair: the man with the lemonade (*"That's lake water"*), the Hare Krishnas (*"Dean would join"*), the grandmother with the peach (*"That's the smartest woman here"*).
 
 **CLARA:** Eat something.
 
@@ -539,7 +541,7 @@ The player can walk with her. She comments on the crowd like a big sister at a c
 
 She doesn't say anything about tonight. Neither does he.
 
-Once, the player can have Ellis look for Wayne. There's no way to find one man in a hat in a hundred and fifty thousand people. He looks anyway.
+Once, the player can have Ellis look for Wayne. There's no way to find one man in a hat in a hundred and fifty thousand people. Clara, who has helped with everything else all afternoon, doesn't help with this. *"You'll never find him in this. Look at the lemonade man."* He looks anyway.
 
 ### The squall
 
@@ -1108,11 +1110,13 @@ While the player holds off, the band keeps following him, the way it always has.
 - **Dean** looks up from the kit at the back of Ellis's head and mouths something. It might be *Blake.* He doesn't stop.
 - **Riley's** voice, holding the high part, the part Grace sang, cracks on the top note the twelfth time around, and comes back.
 - The **crowd** sways. Lighters. The stars coming out over the hills.
-- **Clara**, at the lip, doesn't move.
+- **Clara**, at the lip, doesn't move, and doesn't tell him anything.
 
 The band varies the changes to keep them alive. Cal moves the root, Dean shifts the pulse, Riley finds a new voicing, so the screen never goes still. In play, it lasts as long as the player holds. In the story it lasts a few minutes at most: the world counts no further than about three minutes, whatever the player does, and the footage and everyone who talks about it afterward round it the way people do. Holding off is *stay*.
 
 Pressing it is *go on*.
+
+> **Spec — HOME (binding for UX).** The prompt is the same size and type as every HOME since Chapter II. It never pulses, blinks, grows, rumbles or repeats; there is no idle reminder and no hint. Clara gives no help here: every other time the player has needed to know something with her present, she has told them (bible §11.8), and this is the one decision she leaves to them. The vamp loops indefinitely with authored variation (at least twelve variations per player, band-driven). The band's fatigue animations escalate to a plateau at about three minutes and hold there. If the player puts the controller down, nothing happens, and the music is alive when they come back.
 
 ### The turn
 
@@ -1153,6 +1157,8 @@ At the mix tower eighty yards out, Theo Marchand pulls the guitar channel down t
 Silence.
 
 > **Design note — the song ends first.** The player's last input as Ellis finishes the song, and the song finishes right: the band lands it together, and he laughs, and steps toward Riley. What happens after has four ordinary causes: a gap at the edge of a festival stage, a film crew that needed light after sunset, a reflex three years old, and no sleep.
+
+> **Spec — the fall (binding for audio, lighting and camera).** Real time from the switch-on to black: about two and a half seconds. No slow motion, no freeze, no score. The only sounds are the crowd, the band's last chord ringing out, his boot on the deck, the rope, and then the Jazzmaster's feedback, which Theo pulls down at a real fader's speed (about a second). The light is the sun-gun's cold white: no gold, no bloom, no lens flare that looks beautiful. The camera stays in Ellis's eyes, handheld height, and never cuts to a wide or to the crowd. The frames listed above are the only frames. Nobody screams on the soundtrack. The crowd is still cheering when the picture goes black.
 
 
 ---
@@ -1406,6 +1412,16 @@ Tone rule 9: *The death is not the meaning. Ellis's life mattered before it ende
 - The memory came from a song and from a man who loves him saying something ordinary.
 - The last things he did were laugh with his band, say *Sunday's fine* about biscuits with his father, finish a song, and step toward Riley.
 
+### Clara's help
+| Mission | Help | Biased? |
+|---|---|---|
+| M3 | None: she's gone since Harrisburg, and he puts the tab back with nobody telling him anything | — |
+| M5 | "Look at that man's hat." "Write that down, you'll want it." "Stage-left gate's closest, if you need it." "Eat something." | no |
+| M5 | Won't help him find Wayne: "You'll never find him in this. Look at the lemonade man." | yes |
+| M7 | "Push your hair out of your eyes." "Come on. They're waiting on you." | no |
+| M8, HOME | None. The only decision in the game she doesn't help with | — |
+| M9 on | None, ever again | — |
+
 ### Clara in Chapter X (clue ledger, final)
 | Moment | What it is |
 |---|---|
@@ -1428,4 +1444,4 @@ The film leader and the slate (R1 T1). Marlon's chalkboard: THURSDAY — THE BLA
 "Behind the line." "Nobody told me anything either." "Define 'girl.'" "Put it back." "I'll take it under advisement." "That's a matter for the courts." "You have to go back and check things." "She's in the room with my sister." "Quit writing on yourself." "I'm fixing to." "Come on, come on." "We look terrible." / "You look terrible." "It fell near Cal." "Keep it." / "I'll lose it." / "You won't." "I like having something on you." "What day is it?" "Stop." "Your call." "Define 'want.'" "Then I want both." "Exactly. That's the problem." "No. I said it." "Then I'll play it by myself." "That's my shirt." / "You said keep it." "Sunday's fine. I'll make biscuits." / "Your biscuits are terrible." / "I know." "It's a good room." "Late, is what." "Come on. They're waiting on you." "Go on. Get up there." "That's not— I'm not him." "Stay with me." "It's okay. Go on." "I owe you four dollars." "That's his daddy." "It wasn't your—" "You done good up there." "Son." "Sir."
 
 ### Tracked choices this chapter
-Riley's answer to Kit. Whether Ellis talked to Dex. What Ellis wrote on his arm, and how far up it went. Cal's vote, and the tie-break, which can stand. Whether Ellis lifted his hand to Wayne. The phrasings of the open verse. How long the player held *home* (the footage and the epilogue round it: under a minute, about two, or close to three). What Wayne meant in the ambulance, and whether he sang. How long the player held the hand.
+Riley's answer to Kit. Riley's answer to Nina (`riley_nina_interview`). Whether Ellis talked to Dex. What Ellis wrote on his arm, and how far up it went. Cal's vote, and the tie-break, which can stand. Whether Ellis lifted his hand to Wayne. The phrasings of the open verse. How long the player held *home* (the footage and the epilogue round it: under a minute, about two, or close to three). What Wayne meant in the ambulance, and whether he sang. How long the player held the hand.

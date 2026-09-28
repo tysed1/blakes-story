@@ -959,7 +959,7 @@ The people who knew him refused to explain him, and each of them kept one ordina
 - **Lorraine:** an envelope she wrote, handed back unopened. The game never says what she did with it.
 
 ### Clara
-She is absent from the whole epilogue and from the coda. Nobody remarks on it. She never went to the cemetery. The coda is an ordinary Saturday in November 1974, when, by the game's own timeline, she already existed in his head; the game shows the day without her and doesn't say why. The player can decide what that means.
+She is absent from the whole epilogue and from the coda. Nobody remarks on it. She never went to the cemetery. The coda is an ordinary Saturday in November 1974, when, by the game's own timeline, she already existed in his head; the game shows the day without her and doesn't say why. The player can decide what that means. There is no help in the epilogue or the coda either: no voice tells Wayne, Riley, Cal or Dean what to look at or where to go. The last objective in the game, GO HOME, is the only instruction left, and nobody says it.
 
 ### Tracked choices, surfacing
 The photograph (the documentary's poster). The harmony on "Sunday Clothes." How long the player held *home* (Nina says it, rounded). Whether Cal carried the lost verse at the Tabernacle (Cal mentions it). What Riley said on the phone in the rain (the M. poem). The title and contents of Riley's book of his lines (the Observe lines the player collected). The stone's inscription. Which way Wayne left the 1964 portrait. What Wayne meant in the ambulance (never repeated; he keeps it).
