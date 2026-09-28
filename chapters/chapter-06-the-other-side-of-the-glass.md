@@ -329,7 +329,7 @@ Dean stops.
 
 Dean doesn't know what to say. He says nothing. He goes out to the van and gets into the back and sits on his bench, and Riley looks at him, and he says, "What," and she says, "Nothing," and smiles.
 
-> **Replay layer.** Richard Holloway soundproofed his son's basement in 1967 and never mentioned it. He protected his son's songs in 1975 and mentioned it once. Chapter X will send him north in a car.
+> **Replay layer.** Richard Holloway soundproofed his son's basement in 1967 and never mentioned it. He protected his son's songs in 1975 and mentioned it once.
 
 ---
 
@@ -1416,7 +1416,7 @@ A pause.
 
 A longer pause.
 
-**WAYNE:** He sang the whole way. Every hymn in the book. Every verse. Four hours. He knew every verse.
+**WAYNE:** He sang the whole way. Every hymn in the book. "Wondrous Love," twice. Every verse. Four hours. He knew every verse.
 
 Ellis doesn't move.
 

@@ -1936,6 +1936,8 @@ Wayne sees the terror in it. He lowers his voice, because he's seen what he did 
 
 Ellis grabs Loretta and the bag and goes. Tater follows him to the van and gets a pat. Ellis climbs into the back.
 
+From the porch, as the van door slides shut, Wayne says it to nobody in particular: "It's gonna rain." The sky is clear and cold. Nobody in the van hears him.
+
 **RILEY** *(turning in the passenger seat):* You okay?
 
 **ELLIS:** Drive.

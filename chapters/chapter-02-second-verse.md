@@ -1870,6 +1870,8 @@ Ellis puts four ones on the table.
 
 **DEAN:** That's a tomorrow problem.
 
+Cal writes it down.
+
 > **Running joke — the four dollars.** Ellis will bring this up for two years. Dean will never pay it. It's on a list in Ellis's handwriting at the end of the game.
 
 ### A smaller conversation

@@ -1930,7 +1930,7 @@ After a very long time, Tully says one thing.
 
 That's all. Dean doesn't ask what that means. He stays until Tully gets up.
 
-> **Design note.** This scene is for Dean and Tully, not for the war. Dean, who can't stand silence, sits in it for an hour because somebody needs him to. Players who choose to go back to the room will get Tully at breakfast saying nothing, and a single line from Dean in Chapter VII: *"I should've gone out there, that night."*
+> **Design note.** This scene is for Dean and Tully, not for the war. Dean, who can't stand silence, sits in it for an hour because somebody needs him to. Players who choose to go back to the room will get Tully at breakfast saying nothing.
 
 ---
 

@@ -446,6 +446,10 @@ Ellis gets his keys from the hook by the door. Next to them, on the counter, is 
 
 Ellis takes the sandwich. Neither of them says anything.
 
+**WAYNE** *(to the newspaper)*: It's gonna rain.
+
+There isn't a cloud over Stony Knob.
+
 Outside, Tater's bowl is already full. The player can pour more in anyway. Ellis does, out of habit.
 
 > **Running detail — Tater.** Both men feed the dog every morning and every night, and neither knows the other does it. That is why Tater is shaped like a footstool. The game never explains this. Characters will comment on the dog's weight in later chapters, and the player will eventually work it out.
