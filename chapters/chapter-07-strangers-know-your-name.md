@@ -776,7 +776,7 @@ Ellis's hand is on the nozzle.
 
 **ELLIS:** I heard.
 
-**FLOYD:** She was thirty. That's old for a horse.
+**FLOYD:** She was twenty-four. That's old for a horse that worked.
 
 **ELLIS:** Yes sir.
 
