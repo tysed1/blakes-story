@@ -47,11 +47,11 @@
 | Sep 14, 1976 | Tue | What would have been his twentieth birthday; the four dollars gone | Ep. M4 |
 | Oct 2, 1976 | Sat | "Maps"; the sack on the step | Ep. M5 |
 | Oct 15, 1976 | Fri | Cal and Marlon, 2 a.m.; the van | Ep. M3 |
-| Nov 2, 1976 | Tue | Grace would have been 18 | Ep. M7 |
-| Nov 25, 1976 | Thu | Thanksgiving; the seventh chair | Ep. M7 |
+| Nov 2, 1976 | Tue | Grace would have been 18 | Ep. M6 |
+| Nov 25, 1976 | Thu | Thanksgiving; the seventh chair | Ep. M6 |
 | Jan 7, 1977 | Fri | Late registration | Ep. M5 |
-| Mar 14, 1977 | Mon | The balance paid; the stone ordered | Ep. M7 |
-| Apr 14, 1977 | Thu | Opening Day | Ep. M7 |
+| Mar 14, 1977 | Mon | The balance paid; the stone ordered | Ep. M6 |
+| Apr 14, 1977 | Thu | Opening Day | Ep. M6 |
 
 **Ages.**
 - Wayne: born 1929; 47 in 1976; 67 in 1996.

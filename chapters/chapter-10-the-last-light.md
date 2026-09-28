@@ -1424,7 +1424,7 @@ Tone rule 9: *The death is not the meaning. Ellis's life mattered before it ende
 | M5 | "Look at that man's hat." "Write that down, you'll want it." "Stage-left gate's closest, if you need it." "Eat something." | no |
 | M5 | Won't help him find Wayne: "You'll never find him in this. Look at the lemonade man." | yes |
 | M7 | "Push your hair out of your eyes." "Come on. They're waiting on you." | no |
-| M8, HOME | None. The only decision in the game she doesn't help with | — |
+| M8, HOME | None. The last decision she leaves to him; the first was the hallway door (IX M14) | — |
 | M9 on | None, ever again | — |
 
 ### Clara in Chapter X (clue ledger, final)

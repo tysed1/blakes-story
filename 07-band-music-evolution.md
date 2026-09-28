@@ -41,7 +41,7 @@
 | VIII | Same, except Cal leaves the bus at Kenosha (Jan 30) and Phil Treadway, a session bassist, plays Milwaukee and Madison (VIII M7–M8) | Monarch takes distribution (VIII M1). Earl drives the 1974 Eagle coach; Theo rides the crew truck (VIII M4). Lenny Sayre engineers the single (VIII M2). Tully crew chief with 18 feet of stage at Cobo (VIII M3) | |
 | IX | Same, living at Knob House; Riley moves out of the house on Jul 19 but stays in the band (IX M10) | Frank and assistant engineer Lamar Pickett in the remote truck (IX M1). Elmer Tidwell and the Sacred Harp class at the Tabernacle (IX M9) | Unanimous vote to play Arbor Jam: "the first band decision since Kenosha that everyone made together" (IX M15) |
 | X | Same | Earl and the bus; Tully, Theo, Eddie. The festival's film crew (Joel Perlman, Kit Adair) share the stage-right wing (X M2) | Vote in the trailer: Dean no, on the record (X M6) |
-| Epi | Riley, Cal, Dean | Richard finds the lawyer for the injunction (Epi M3) | 1996: Dean runs HOLLOWAY DRUM STUDIO; Cal runs MERCER SOUND with Theo; Riley teaches at Tannersville College (Epi M6) |
+| Epi | Riley, Cal, Dean | Richard finds the lawyer for the injunction (Epi M3) | 1996: Dean runs HOLLOWAY DRUM STUDIO; Cal runs MERCER SOUND with Theo; Riley teaches at Tannersville College (Epi M7) |
 
 ---
 
@@ -53,8 +53,8 @@
 |---|---|---|---|---|
 | **Ellis** | **Loretta**, the 1964 Silvertone with the amp in the case; LORETTA inside the lid in green felt-tip (I M1, I M6). "Who named it?" / "Somebody." (I M6) | Roy's **1962 Fender Jazzmaster**, three-tone sunburst, left for a transmission by Dwight Cantrell (VI M4). Through a **Fender Twin Reverb** at Dalton (VI M6). Loretta goes on his bedroom wall (VI M4) | Jazzmaster (VII–X) | Jazzmaster in a case in his room with a cracked headstock from the fall; Loretta on the wall (Epi M3) |
 | **Riley** | Her mother's **1968 Martin D-18**, initials scratched inside (I M3) | Used **Rickenbacker 360/12**, $400 from the advance (VI M3) | Twelve-string (VII–X); the Martin too (IX M10) | — |
-| **Cal** | Bass (model not named in the chapters) through the **Ampeg** (IV M1); talks B-15s with Theo (IV M8) | Same | Same; "tip the Ampeg on its side" after the squall (X M6) | 1996: a console at MERCER SOUND (Epi M6) |
-| **Dean** | **Ludwig**, black oyster pearl, ride cracked (I M4). Marlon's house kit is mismatched **Slingerland** with a cracked ride (I M6) | Clear acrylic **Ludwig Vistalite**, "the one Bonham plays," from the advance (VI M3) | Vistalite; Carla Vickery's pink letter moved from the kick's resonant head to inside the clear shell (VI, per X M8) | Buys Bobby a **Ludwig junior kit, blue sparkle**, from Vale (VIII M9); 1996: HOLLOWAY DRUM STUDIO (Epi M6) |
+| **Cal** | Bass (model not named in the chapters) through the **Ampeg** (IV M1); talks B-15s with Theo (IV M8) | Same | Same; "tip the Ampeg on its side" after the squall (X M6) | 1996: a console at MERCER SOUND (Epi M7) |
+| **Dean** | **Ludwig**, black oyster pearl, ride cracked (I M4). Marlon's house kit is mismatched **Slingerland** with a cracked ride (I M6) | Clear acrylic **Ludwig Vistalite**, "the one Bonham plays," from the advance (VI M3) | Vistalite; Carla Vickery's pink letter moved from the kick's resonant head to inside the clear shell (VI, per X M8) | Buys Bobby a **Ludwig junior kit, blue sparkle**, from Vale (VIII M9); 1996: HOLLOWAY DRUM STUDIO (Epi M7) |
 
 ### Shared gear, vehicles and effects
 
@@ -141,13 +141,13 @@
 | **"New Skin"** | Ellis | What he gave Clara: "I gave you a birthday every year you didn't get one. / I gave you a jacket that was already yours." | Begun on the bus, Jan 19–20, 1976; Dex tears out the page (VIII M4). Finished first week of June 1976 at the Knob House kitchen table; last line "You'd have hated every word of this." (IX M2) | Tabernacle, Jul 17, 1976: he loses the second verse; Cal plays it high on the bass or Riley sings it (IX M9) | Cut the night it was finished, one take (IX M2). Bus version printed in *Rave*, Sept 1976 (IX M11). Arbor Jam: loses a line, Cal carries it (X M8) |
 | **"Knob House"** | Band | Instrumental around the chimney's echo | May–June 1976 (IX M2) | — | Second album |
 | **"The Bend"** | Riley | "A road she's driven once, at night, in the rain" | May–June 1976 (IX M2) | — | Second album |
-| **"Who Are You?"** | Ellis | "Who are you, in the jacket that was hers, / on the stairs at the top of the world?" | Begun Jul 4, 1976, on the fire tower, memo book 71 (IX M7); verses 2–3 at Knob House in August (X M8) | Arbor Jam, Aug 28, 1976, its only performance; last verse improvised, last line "go on" (X M8) | Cut Aug 20, 1976, reel labeled *WHO ARE YOU? — LAST V. OPEN* (IX M15). 1996 album's last track: the band playing the open verse's changes with no vocal, 3:40, over Ellis's guitar from the reel (Epi M6) |
+| **"Who Are You?"** | Ellis | "Who are you, in the jacket that was hers, / on the stairs at the top of the world?" | Begun Jul 4, 1976, on the fire tower, memo book 71 (IX M7); verses 2–3 at Knob House in August (X M8) | Arbor Jam, Aug 28, 1976, its only performance; last verse improvised, last line "go on" (X M8) | Cut Aug 20, 1976, reel labeled *WHO ARE YOU? — LAST V. OPEN* (IX M15). 1996 album's last track: the band playing the open verse's changes with no vocal, 3:40, over Ellis's guitar from the reel (Epi M7) |
 | **"Maps"** | Riley | "About how his were always wrong" | Begun Oct 2, 1976, at her mother's piano; finished that winter (Epi M5) | — | Last track of *Occasionally Astonishing* (1979); "the only song about him she ever records" (Epi M5) |
 
 ### Covers and hymns
 
 - **First band set** (I M7): "six covers everybody half-knows" and "No Name" at the bottom, on a Pabst coaster in Cal's Parker Jotter.
-- **"Wondrous Love"** (Sacred Harp): the basis of "Shape Note"; sung by the class at the Tabernacle with Wayne on bass at the gallery rail (IX M9); sung at the graveside (Epi M2); one of the headstone inscriptions offered (Epi M7). Raymond sang it twice on the way to Milledgeville (VI M12).
+- **"Wondrous Love"** (Sacred Harp): the basis of "Shape Note"; sung by the class at the Tabernacle with Wayne on bass at the gallery rail (IX M9); sung at the graveside (Epi M2); one of the headstone inscriptions offered (Epi M6). Raymond sang it twice on the way to Milledgeville (VI M12).
 - **"Holy Manna"** ("Brethren, we have met to worship"): at the Rileys' piano (VII M14); the Tabernacle encore, led by Joan (IX M9).
 - **The Louvin Brothers**: Wayne's *Tragic Songs of Life* (V M7); Ellis and Grace singing harmony to them (IX M13, WGRC #7); "When I Stop Dreaming," the high part, hummed at Grace's stone (VII M9 option).
 
@@ -206,8 +206,8 @@
 ### The second album
 
 - Recorded at Knob House, May–August 1976, with Frank's remote truck (IX M1–M15). Known contents: "New Skin," "Knob House," "Parietal Hours" (re-cut), "The Bend," "Who Are You?" with the last verse open (IX M2, IX M15).
-- **1977, *Last Light***: released by the label against the band's wishes, "with a still of him at the edge of the stage on the cover" (Epi M6; Epi design summary).
-- **1996, *Who Are You?***: released by Riley, Cal and Dean "as they meant it," with a documentary, *WHO ARE YOU? THE BLAKES, 1974–1976*; the last track is the open verse's changes with no vocal, 3:40, ending on Dean's two stick clicks (Epi M6). In 1996, fighting Monarch for the right to release it, their lawyer puts Cal's SIGNED UNDER PROTEST page in front of a judge; "It still has no legal effect. The judge reads it twice." (VIII M1 object note).
+- **1977, *Last Light***: released by the label against the band's wishes, "with a still of him at the edge of the stage on the cover" (Epi M7; Epi design summary).
+- **1996, *Who Are You?***: released by Riley, Cal and Dean "as they meant it," with a documentary, *WHO ARE YOU? THE BLAKES, 1974–1976*; the last track is the open verse's changes with no vocal, 3:40, ending on Dean's two stick clicks (Epi M7). In 1996, fighting Monarch for the right to release it, their lawyer puts Cal's SIGNED UNDER PROTEST page in front of a judge; "It still has no legal effect. The judge reads it twice." (VIII M1 object note).
 
 ### Live recordings and film
 
@@ -251,7 +251,7 @@
 | **"A turn"** | I M8: Cal names it after Ellis plays C for Am and Cal follows | A mistake the band follows into something new | The Room system's core (all chapters) |
 | **"Again."** | I M7 (Riley's harmony); III M2 (Riley in the WTCR room) | One more time | Clara raises a finger, "Again" (VI CO); Dean's takes at Dalton (VI M7); on the credits tape (Epi) |
 | **Home** | II M4: Cal defines it because Marlon's has no monitors: turn around, face Dean. Dean: "Like coming home." | End the song | First in front of a crowd Nov 1, 1974 (II M8). The last input as Ellis (X M8) |
-| **Dean's two stick clicks** | Band signals (bible §9) | Hold | End of the final song (X M8); end of the 1996 album (Epi M6) |
+| **Dean's two stick clicks** | Band signals (bible §9) | Hold | End of the final song (X M8); end of the 1996 album (Epi M7) |
 | **Kick drum** | II M8, Dean: "Hand. On the drum." / "Now we're a band." | All four touch the kick before a show | Civic: "It means we touched the drum." (VII M8). Last time: Riley puts her forehead to the rim (X M8) |
 | **The rules** | II M4, taped inside Dean's trap case | 1. Show up. 2. Know the songs. 3. Riley's: "I'm not dropping out of school because you three can't use a calendar." 4. Ellis: don't rewrite songs halfway through (bible §9) | |
 | **Signs and matchbooks** | III M5 | Dean takes an SX-70 of every venue sign and keeps every matchbook | The van ceiling (Epi M3) |
@@ -328,7 +328,7 @@ Cal's green clothbound accounts book from the Western Auto. Rule: 20% of every g
 | Aug 28, 1976 | Dean tries to pay the $4 ("amends"); Ellis: "Not that one. … I like having something on you." | X M6 |
 | Sept 8–14, 1976 | Dean leaves $4 under a rock on the grave; gone in six days | Epi M4 |
 | Oct 15, 1976 | Cal brings Marlon the interest; Marlon pushes it back: "Not to me." | Epi M3 |
-| Mar 14, 1977 | The rent in the coffee can pays Grace's six remaining coupons ($69) and Ellis's stone outright | Epi M7 |
+| Mar 14, 1977 | The rent in the coffee can pays Grace's six remaining coupons ($69) and Ellis's stone outright | Epi M6 |
 
 ---
 

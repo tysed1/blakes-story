@@ -20,7 +20,7 @@
 - **"Not that way"** at the Tolliver Road turnoff. She's keeping him off the road where it happened.
 - **Opal Hensley** at the corner of the bar every Thursday. Her porch light was the only one on (IX M5).
 - **The chalkboard**: THURSDAY — ELLIS BLAKE, erased. It will say THURSDAY again in X, and his name will still be there under it.
-- **Tater** is fat because two men feed him (Ep. M7).
+- **Tater** is fat because two men feed him (Ep. M6).
 - **"Stay with me,"** the band signal, was the first thing he said to Grace in the car after the crash.
 
 ### Chapter II
@@ -105,7 +105,7 @@
 
 ### Across the game: Clara's help
 - **Every hint she gave.** On a second playthrough the player knows the only help the game ever offered was his grief. Every "Look at that man's hat," "Rent's Friday," and "Not that way" reads twice: right about the world, and steering him away from the car, the doctor, the plot and home.
-- **The first thing anyone takes from her.** Her hum on the high part stops the moment Riley sings it (I M8).
+- **The first thing anyone takes from her.** Her hum on the high part stops the moment Riley sings it on stage (I M8).
 
 ## What the second playthrough changes mechanically
 

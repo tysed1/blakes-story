@@ -281,9 +281,9 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | Sept 2 | Epi M2 | Clara absent from the funeral and the east slope | — | Rule 7; she was only ever his | visible† |
 | Sat Sept 11 | Epi M3 | LORETTA "in a nine-year-old's handwriting"; the ledger's *Clara?* | — | Grace named the guitar | **revealed**† |
 | Sept–Oct | Epi M3 | A bootleg on the radio: "a voice singing the end of a verse nobody had heard before, *go on*" | — | — | visible† |
-| Tue Nov 2, 1976 | Epi M7 | Grace's birthday (she'd be eighteen); Wayne in her room; "Nobody else is in the room" | — | — | visible† |
-| Mar 14, 1977 | Epi M7 | Grace's coupon book stamped PAID IN FULL; Ellis's stone; one inscription option is "Later." | — | — | visible† |
-| 1996 | Epi M6 | Nina: "In the film you can see him stand at the edge of the stage for" (under a minute / about two minutes / almost three, from the player's hold) "before he turns around. Nobody knows what he was looking at." (Dex writes "She's in the room with my sister" down later, from memory, X M4.) | — | Only the player knows | **revealed** (to the player only)† |
+| Tue Nov 2, 1976 | Epi M6 | Grace's birthday (she'd be eighteen); Wayne in her room; "Nobody else is in the room" | — | — | visible† |
+| Mar 14, 1977 | Epi M6 | Grace's coupon book stamped PAID IN FULL; Ellis's stone; one inscription option is "Later." | — | — | visible† |
+| 1996 | Epi M7 | Nina: "In the film you can see him stand at the edge of the stage for" (under a minute / about two minutes / almost three, from the player's hold) "before he turns around. Nobody knows what he was looking at." (Dex writes "She's in the room with my sister" down later, from memory, X M4.) | — | Only the player knows | **revealed** (to the player only)† |
 | Sat Nov 9, 1974 | Coda | No Clara anywhere on an ordinary Saturday when, by the timeline, she already existed; at Tolliver Road, no sawhorse: Ellis brakes at the turnoff and turns around ("Other way's quicker."); Grace's door stays shut; coupon 20 of 48 | — | The game shows the day without her and says nothing | visible (absence) |
 | Spring 1973 | Post-credits | The unlabeled tape: "This is a special message for Ellis Blake. For when he's famous." / "Hi, El. It's me. You're probably famous now." / "Don't get weird." | — | Grace's own voice, last word | **revealed**† |
 
@@ -335,7 +335,7 @@ What the player knows about the crash and Grace at the end of each chapter.
 | 2 | Only Ellis speaks with her; others' lines plausibly address Ellis | I M9 (Pruitt); II M4 (Riley's "What?"; the soda gun); II M8 (Junior); IV M6 (Marlon: "Who're you talking to?"); VII M8 (Sherry asks while Clara says "Tell her"); VIII M4 (Dean: "What?"); VIII M6 (Elaine sees him watch the end of the bar) | Never broken |
 | 3 | Never in an objective shot, photograph or recording | I M1 (wide shot, passenger side in shadow); VI M17 (the 45 has only Riley on the harmony, after V M4); VII CO/M19 (across the street, never in the photograph); VIII M10 (network cameras on an empty floor); X M9 (roll forty: an empty corner) | The authored breaks (V M16 pull-back, VI M9 switch, X M9 footage) show her absence rather than her |
 | 4 | Tater never reacts to her | I M1 (doesn't look at the car); II M3 (asleep facing the yard); VIII M12 (he barks at and leans on Riley, a real person) | Never broken |
-| 5 | Never enters Grace's room until the end of IX | IX M13 (stays at the end of the hall; "She never comes into this room") | **Broken on purpose, IX M14:** at fourteen she walks in and he closes the door. Epi M7: the room is empty |
+| 5 | Never enters Grace's room until the end of IX | IX M13 (stays at the end of the hall; "She never comes into this room") | **Broken on purpose, IX M14:** at fourteen she walks in and he closes the door. Epi M6: the room is empty |
 | 6 | Never knows anything Ellis couldn't | IV M6 ("You and Riley kissed," read off his face); V M16 (where, not when); VII M7 (her correction of the lyric is Ellis's own memory); VIII M13 (can't answer "Is that you?"); IX M7 ("I remembered the car." / "I know."; then "Ask me something I know"); X M7 ("What are you?" gets no answer) | Never broken |
 | 7 | Never goes to the cemetery | I M1 (looks away at the church); VII M9 (stops at the foot of the hill and turns back); Epi M2 (absent from the funeral) | Never broken |
 | 8 | Never stays long in a room with Wayne | I M1 (stays in the car); I M9, II M10 (appears after Wayne snores); II M3 (gone when he flips the porch light); IV M9 (gone when his door stops swinging); VII M16 (gone from the wing once Wayne is in the room); VIII M13 (stops at the kitchen door, then vanishes); VIII M16–M17 (never in the kitchen with him); IX M9 (gone when he sings in the gallery) | Strained only in IX M13–M14, where she stands at the end of the hall while Wayne is in the kitchen (same house, not the same room) |
@@ -419,7 +419,7 @@ Throughout, *reach* ("Stay with me") is also a player verb used many times in th
 | 8 | Grace | X M8, memory of Apr 12, 1973 | "It's okay. Go on." (the two overlapping, low, under his "Stay with me") |
 | 9 | Ellis (sung) | X M8 | "go on." (the verse's last line; one phrasing, no choice) |
 | 10 | a bootleg on the radio | Epi M3, Sept–Oct 1976 | "the end of a verse nobody had heard before, *go on*" |
-| 11 | Roy | Epi M7, Thu Apr 14, 1977 | "Go on. I'll catch up." (and "Wayne goes on") |
+| 11 | Roy | Epi M6, Thu Apr 14, 1977 | "Go on. I'll catch up." |
 | 12–13 | Roy | Coda, Sat Nov 9, 1974 | "Go on, get in there, Mrs. Pardue's goose is back." / "Go on, get out of here, it's Saturday." |
 
 Clara never says it. Her substitutes: "Keep going" (I M1 at the LAUREL CITY 38 sign; VII M19 on I-81), "come on, come on" (X M5) and "Come on. They're waiting on you." (X M7).
@@ -437,7 +437,7 @@ Clara never says it. Her substitutes: "Keep going" (I M1 at the LAUREL CITY 38 s
 7. **"Daddy" location (macro only).** The macrostructure says "'Daddy,' once, at Tolliver Bend"; the chapter has her say it on Tolliver Road between the farm and the bend.
 8. **Rules 11, 12 and 13 as written vs. as played.** See the "strained" column above: V M7 (a third-party view before the midpoint), VI M1 (the rearview mirror), and the look-away disappearances that fall outside Rule 13's "exactly two situations."
 
-*Resolved during compilation.* Items flagged in the first draft of this file and since fixed in the chapters by the V6/V7 repairs (commits c541f21 through 2431ed7): where the first two "Liars" are recalled (VIII M4 now says the floor under the window and the windowsill), Grace's age at the WGRC recorder (bible now 12), the bootleg lyric in Epi M3, Nina's figure for the held *home*, Dolly's years in the paddock (now twenty), and the three hot dogs (Grace's again in Epi M7). Clara's "go, go, go" in the X M5 squall is now "come on, come on," so the Rule 10 strain is gone.
+*Resolved during compilation.* Items flagged in the first draft of this file and since fixed in the chapters by the V6/V7 repairs (commits c541f21 through 2431ed7): where the first two "Liars" are recalled (VIII M4 now says the floor under the window and the windowsill), Grace's age at the WGRC recorder (bible now 12), the bootleg lyric in Epi M3, Nina's figure for the held *home*, Dolly's years in the paddock (now twenty), and the three hot dogs (Grace's again in Epi M6). Clara's "go, go, go" in the X M5 squall is now "come on, come on," so the Rule 10 strain is gone.
 
 *Resolved in V7 (after this list was compiled).*
 1. The bible now matches the page: she says "don't," "take me with you" and "keep going," and VIII M15's replay note now calls "stay" the band's word.

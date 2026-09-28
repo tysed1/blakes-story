@@ -111,7 +111,7 @@ How the chapters apply it:
 | IX M9 (Sat Jul 17, 1976) | Sober, seven days | The Tabernacle; "Tomorrow Problem" "slower, with space in it" | — | His parents and Patty in the sixth row | Richard: "Dinner's at six." / "I'll be there." |
 | X (Aug 26–28, 1976) | Sober "nearly seven weeks"; drinking Tab | The bus; Arbor Jam | — | Everyone | "Stop." / "We can cancel." He votes no, on the record (X M6). "Seven weeks tomorrow." (X M3) |
 | Epi M4 (Sept 5–15, 1976) | Sober eight weeks, then nine | Sunday dinners at Belle Grove since the Tabernacle | — | — | Finds and flushes Ellis's blotter. Lynette: "You want to come in?" |
-| Epi M6 (1996) | — | HOLLOWAY DRUM STUDIO | — | — | "A coin on a string around his neck that he touches when he talks" (the documentary doesn't say what it is) |
+| Epi M7 (1996) | — | HOLLOWAY DRUM STUDIO | — | — | "A coin on a string around his neck that he touches when he talks" (the documentary doesn't say what it is) |
 
 ---
 
@@ -142,7 +142,7 @@ How the chapters apply it:
 | **Tully** | A beer at the end of Marlon's bar, in a field jacket (I M6) | |
 | **Opal Hensley** | The same Coca-Cola and bourbon every Thursday for an hour (I M1) | |
 | **Marlon** | Free drinks for the band the night of the Southern Star card (V M16) | |
-| **Dex Lundgren** | A film canister of "vitamins" (VII M7); on the bus four days (VIII M4). Bible §8: "running on speed and adjectives." By 1996, reading glasses instead of sunglasses (Epi M6) | |
+| **Dex Lundgren** | A film canister of "vitamins" (VII M7); on the bus four days (VIII M4). Bible §8: "running on speed and adjectives." By 1996, reading glasses instead of sunglasses (Epi M7) | |
 | **Rusty Kowalczyk** (Sawtooth) | The vial on a chain (VIII M3) | |
 | **Gary** (Chattanooga headliner) | The dressing-room party (V M3) | |
 | **Pete** (sculptor) | The line upstairs at the farmhouse (III M6) | |
@@ -150,7 +150,7 @@ How the chapters apply it:
 | **"A friend from Ithaca"** | The blotter in the envelope at the Seneca Motor Inn (X M3) | |
 | **Carol Holloway** | Finds the mirror, razor and straw; flushes the canister if Dean leaves it (VII M10) | |
 | **June Mercer** (nurse) | Talks Cal through Dean's withdrawal on the party line (IX M8) | |
-| **Dr. Harriet Lusk** | Prescribes trifluoperazine and "this other one" (VIII M17); writes to Wayne after (Epi M7) | |
+| **Dr. Harriet Lusk** | Prescribes trifluoperazine and "this other one" (VIII M17); writes to Wayne after (Epi M6) | |
 
 ---
 
@@ -179,7 +179,7 @@ How the chapters apply it:
 2. **Ellis's "truck-stop amphetamines" (bible §6.1).** The bible lists "Truck-stop amphetamines to drive at night (VII)" as part of his history. In VII M19 the white crosses are optional; if the player leaves them he never takes any.
 3. **Dean's supplier and the Quaaludes (bible §6.7).** The bible names "a Tannersville College supplier" and "Quaaludes at parties." Neither appears in the chapters.
 4. **"Seven weeks tomorrow."** Dean's last use is a bump at about 2 a.m. on Sat Jul 10 (IX M8); "I'm six days" on Fri Jul 16 and "seven days sober" on Sat Jul 17 (IX M9) count from Jul 10. By that count he is seven weeks sober on Sat Aug 28 itself, but X M3, M6 and M8 say "seven weeks tomorrow" on Aug 28 (and X's opening says "nearly seven weeks" on Aug 26).
-5. **Dex in 1996.** Bible §8 has Dex "sober and older" in 1996; the epilogue's 1996 frame (Epi M6) no longer says he's sober.
+5. **Dex in 1996.** Bible §8 has Dex "sober and older" in 1996; the epilogue's 1996 frame (Epi M7) no longer says he's sober.
 6. **Wayne's Early Times.** Bible §6.4 gives Wayne "Early Times, two or three a night." No chapter shows him drinking.
 
 *Resolved in V7.*

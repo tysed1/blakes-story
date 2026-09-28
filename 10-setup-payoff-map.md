@@ -33,11 +33,11 @@
 | "El," once | V (planted in green felt-tip, IV M9) | only Grace called him El | IX M13 tapes |
 | Clara never at the cemetery | I–VI (rule) | the east slope, alone | VII M9 |
 | "When's yours?" / "November." | VII M1 | Grace born Nov 2; "New Skin": *a birthday every year you didn't have one* | IX M2 |
-| Clara hums the high part | I (until Riley sings it, I M8) | Grace sang the high part (Wayne to Riley) | VIII M12 |
+| Clara hums the high part | I (until Riley sings it on stage, I M8) | Grace sang the high part (Wayne to Riley) | VIII M12 |
 | Clara is the game's only help (no tutorial, no hint text) | I–V | the empty seat at the midpoint recasts every hint the player took | V M16 |
 | Her help steers away from the wound ("Not that way," doctors, the plot, home) | I–VII | "Not that way," the biggest of her help he refuses: he turns onto Tolliver Road | VIII M14 |
 | No help on the medication | VIII M17 (from the first pill) – IX M6 | she and the help come back at the fire tower, and the player feels relief | IX M7 |
-| She helps with everything | I–X | she gives no help at HOME, the one decision she leaves to the player | X M8 |
+| She helps with everything | I–X | she gives no help at the hallway door and at HOME, the first and last decisions she leaves to him | IX M14; X M8 |
 | The player tests her (`clara_tests`) | I–V | "I kept asking her to prove it and she kept not." (if 3+) | V M16 |
 | Vanishes when Wayne comes in | I–VIII | vanishes at Lorraine's handwriting; at the photographs | VII M19; VIII M13 |
 | The switch never catches on her | I–VII (rule) | it catches and fails (bus; *Night Stage*); an empty chair; then Ellis himself | VIII; IX M1; X M9 |
@@ -51,7 +51,7 @@
 |---|---|---|---|
 | Rent: $20 every Friday | II | the Maxwell House can, unspent | IX M13 |
 | The RENT — 10 WEEKS envelope | VI | same | IX M13 |
-| The coupon book, face down | I | PAID IN FULL; Ellis's stone bought outright with his rent | Ep. M7 |
+| The coupon book, face down | I | PAID IN FULL; Ellis's stone bought outright with his rent | Ep. M6 |
 | Georgia football in separate rooms | I–II | Game 6 on one couch | VII M6 |
 | "Go on" in Wayne's mouth | I– | "Go on in" to Grace's room | IX M13 |
 | Wayne "could sing bass" (bible) | — | the gallery at the Tabernacle; the ambulance option | IX M9; X M9 |
@@ -60,10 +60,9 @@
 | "Dad — Sunday?" | IX M15 | "Sunday's fine. I'll make biscuits."; biscuits at a Virginia truck stop | X M6; Ep. M1 |
 | Wayne would never say "It wasn't your fault" | bible | the ambulance options | X M9 |
 | "You want me to tell her?" (IV) → "You want me there?" | IV; IX M15 | the F-100 in Earl's mirror for nine hundred miles | X M1 |
-| Tater fat because both feed him | I (bible) | the vet; *Feed Tater* twice | Ep. M7 |
+| Tater fat because both feed him | I (bible) | the vet; *Feed Tater* twice | Ep. M6 |
 | Strings or gas; the Starlite (the money screen) | I M2 | Cal: "Buy strings."; the needle on the peg; Wayne: "Starlite." | I M7; I M9 |
-| Riley pulls out Grace's chair (`riley_kitchen_chair`) | VIII M16 | Wayne pulls the seventh chair all the way out | Ep. M7 (Thanksgiving) |
-| *Cut a piece* (`april12_pie_cut`) | VIII M18 | Wayne eats his out of the dish, standing | Ep. M7 (April 12) |
+| Riley pulls out Grace's chair (`riley_kitchen_chair`) | VIII M16 | Wayne pulls the seventh chair all the way out | Ep. M6 (Thanksgiving) |
 
 ## Spine 4 — The band
 
@@ -98,7 +97,7 @@
 | The peanut rankings | I– | "You have to go back and check things" becomes prophecy | X M4; Ep. 1996 |
 | Dex takes a page | VIII M4 | the "New Skin" page printed | IX M11 |
 | The *Night Stage* silence | VIII M10 | *Late Hour* can't hold silence | IX M3 |
-| How long the player held *home* | X M8 | in the footage, rounded; Nina says it | X M9; Ep. M6 (1996) |
+| How long the player held *home* | X M8 | in the footage, rounded; Nina says it | X M9; Ep. M7 (1996) |
 
 ## Spine 6 — Riley
 
@@ -114,7 +113,7 @@
 | The green notebook, "too nice" | VII M1 | *M. —* | Ep. M5 |
 | Ellis learns her name is Margaret | IV | M. | Ep. M5 |
 | The third verse of "Occasionally Astonishing" won't come | IX M6 | finished at her mother's piano | IX M15 |
-| A bridge she can't finish, in the hayfield | X M2 | "Maps," at her mother's piano | Ep. M5 |
+| A bridge she can't finish, in the hayfield | X M2 | the bridge, at her mother's piano, in a song that isn't about him; "Maps" begins after the notebooks | Ep. M5 |
 | Nina asks for an interview about her songs (`riley_nina_interview`) | X M2 | it happens in 1979, with her first record; its first line is Riley's answer | Ep. M5 (setup note) |
 | Riley's margin at Linwood Presbyterian (`observe_lines_riley`) | V M1b | the second verse of "Sunday Clothes" | VI M13 |
 | Riley's answer to Dex, or her silence | VII M8 | her paragraph in *Rave*, four ways | VII M13 |

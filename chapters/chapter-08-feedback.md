@@ -2362,4 +2362,4 @@ Playing as Cal, Riley or Dean there is none, and none with Wayne in the room.
 ### Tracked choices this chapter
 Cal's vote on the rider. Riley's harmony on the single (above, below, unison, silence), which changes Nina's paragraph and what America hears on the radio all spring. Whether Ellis asked Dex about the page. How long the *Night Stage* silence lasted, and whether Riley sang the line. What Riley did with *Rave* at the rack. Which chair Riley sat in. Whether Ellis cut a piece of the pie.
 
-**Read later:** the harmony (Nina's paragraph, the radio, the epilogue), the silence (*Late Hour*, IX M3), the chair (Thanksgiving, Ep. M7), the pie (April 12, Ep. M7). **In-scene** (the choice pays off where it's made, and nothing later changes): Cal's rider vote, asking Dex about the page, whether Riley sang the line, the rack.
+**Read later:** the harmony (Nina's paragraph, the radio, the epilogue), the silence (*Late Hour*, IX M3), the chair (Thanksgiving, Ep. M6). **In-scene** (the choice pays off where it's made, and nothing later changes): the pie, Cal's rider vote, asking Dex about the page, whether Riley sang the line, the rack.

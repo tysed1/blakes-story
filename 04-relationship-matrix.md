@@ -26,7 +26,7 @@ Fields: **Start** (starting assumption) · **Friction** · **Bond** (bonding eve
 - **Bond:** Cal follows Ellis's wrong chord in the first set (I), and Ellis sees it. Cal rearranges the money so Ellis can pay later (II), and Ellis sees that too.
 - **Joke:** "Think in E minor." / "That's just his face." / "It was a turn." Also "Be specific."
 - **Betrayal:** Ellis breaks Cal's van clause first, booking the Sawtooth dates alone (VII). The real one is in VIII: Cal says "She isn't real, Ellis," and Ellis answers with "At least mine isn't somebody I keep in a hotel room," in front of Dean and Tully.
-- **Disagreement:** Structure against chaos, and whether pain makes art important ("Pain doesn't automatically make everything you do important," VII).
+- **Disagreement:** Structure against chaos, and whether pain makes art important ("Pain doesn't make everything you do important," VII).
 - **Admires:** Cal admires Ellis's nerve. Ellis admires Cal's certainty and, secretly, Cal's father.
 - **Misreads:** Cal thinks Ellis wants to be excused. Ellis thinks Cal wants to be in charge.
 - **Late:** Cal comes back on his own terms ("Theo's mine. That's real. You don't get to use it," VIII) and refuses the apology in that room. The real apology happens at Walt's bench (IX M12), where Ellis is bad at soldering and Cal is the expert: "I counted more." At the Tabernacle (IX), Cal plays the lost verse high on the bass until Ellis finds it.
