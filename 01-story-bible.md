@@ -723,10 +723,10 @@ Major story events are fixed. The player shapes the life remembered:
 - how characters arrive emotionally at fixed events (what was said the night before, who you spent time with);
 - optional conversations and optional revelations (what Ellis tells, and to whom);
 - performance style and the band's shared vocabulary;
-- side activities that leave marks (Dean's matchbooks and Polaroids, Ellis's peanut rankings, Cal's ledger entries, notebook lines);
+- side activities that leave marks (notebook lines, Kevin's letter, Cal's ledger entries, the harmony on the single). Dean's matchbooks and the band's peanut ranking are fixed; the player's own peanut list is a collectible. `17-tracked-state-registry.md` says which choices are read later and which are in-scene;
 - small callbacks: characters in later chapters and in the 1996 interviews refer to specific things the player did.
 
-Dialogue is never a nice/neutral/asshole wheel. Choices are about timing (say it now, or hold), topic (what to ask about) and disclosure (how much Ellis lets out). Silence is always an option: hold the button and he says nothing, and people react to that.
+Dialogue is never a nice/neutral/asshole wheel. Choices are about timing (say it now, or hold), topic (what to ask about) and disclosure (how much Ellis lets out). Silence is always an option: hold the button and he says nothing, and people react to that. There's one authored exception. In III M7 the hold gives out after two seconds and Ellis says the cruel thing anyway: the Wayne inheritance, made playable. It happens once, and nowhere else.
 
 ### 11.8 Clara's help (the game's only guidance)
 
