@@ -43,7 +43,7 @@ This is the chapter of the second album. It's made in a lodge on a mountain abov
 
 Monday, May 10, 6:40 a.m. Fog on the Stony Knob road, the switchbacks above Cold Branch Falls.
 
-A truck is coming up the mountain in low gear: a 1964 Divco bread truck painted flat gray, with DALTON SOUND · REMOTE stenciled on the side in white, over the ghost of the old lettering (HOLSUM), and a cable reel bolted to the back bumper. Frank Dalton bought it from a gospel radio program in Alabama that went off the air.
+A truck is coming up the mountain in low gear: a 1964 Divco bread truck painted flat gray, with DALTON SOUND · REMOTE stenciled on the side in white, over the old lettering bleeding through (HOLSUM), and a cable reel bolted to the back bumper. Frank Dalton bought it from a gospel radio program in Alabama that went off the air.
 
 Frank is walking backward in front of it with a flashlight in the fog, guiding it around the hairpins with small calm gestures, the way he rides a fader. Tully is on the running board. The camera belongs to nobody. It watches the truck come around the switchback where, in November 1974, a pickup sat at a gravel pull-off with its engine off and its dome light on.
 

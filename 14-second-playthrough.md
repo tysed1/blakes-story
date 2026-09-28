@@ -19,7 +19,7 @@
 - **"I'm fine." / "Liar."** The first of three. Grace's last joke.
 - **"Not that way"** at the Tolliver Road sawhorse. She's keeping him off the road where it happened.
 - **Opal Hensley** at the corner of the bar every Thursday. Her porch light was the only one on (IX M5).
-- **The chalkboard**: THURSDAY — ELLIS BLAKE, erased. It will say THURSDAY again in X, and the ghost will still be there.
+- **The chalkboard**: THURSDAY — ELLIS BLAKE, erased. It will say THURSDAY again in X, and his name will still be there under it.
 - **Tater** is fat because two men feed him (Ep. M6).
 - **"Stay with me,"** the band signal, was the first thing he said to Grace in the car after the crash.
 

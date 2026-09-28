@@ -524,7 +524,7 @@ Ellis wasn't expecting the question.
 
 **WAYNE:** Hm.
 
-That's all. Ellis waits for the mockery. It doesn't come. Somehow that's more unsettling.
+That's all. Ellis waits for the mockery. It doesn't come. That's worse.
 
 ### The mountain
 

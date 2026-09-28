@@ -1657,7 +1657,7 @@ Not Clara. A girl of fourteen, in a jean jacket that fits her, a child's size, w
 
 Grace.
 
-She's looking out the window at the pastures. She doesn't look like a ghost or a memory. She looks like a fourteen-year-old who's been riding all afternoon and is annoyed about something.
+She's looking out the window at the pastures. She doesn't look like a memory. She looks like a fourteen-year-old who's been riding all afternoon and is annoyed about something.
 
 **GRACE:** You drive like an old man.
 

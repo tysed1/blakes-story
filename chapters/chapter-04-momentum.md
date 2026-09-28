@@ -1348,7 +1348,7 @@ Cal pauses.
 
 **VALE:** Then good weekend.
 
-Cal thinks about this and realizes it's somehow correct.
+Cal thinks about this and realizes it's correct.
 
 ### Switch — Ellis
 

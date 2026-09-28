@@ -158,7 +158,7 @@ The walk from the church to the cemetery on the hill: the pallbearers carrying, 
 
 Up the hill, to the east slope, to the cedar. To the Blake plot.
 
-The player carries. It's a slow walk up a grass slope with five other people, and the game makes the player feel the weight of it in the controller and the camera, one step at a time, the way it made the player feel the backboard in the gap. Nobody slips.
+The player carries. It's a slow walk up a grass slope with five other people, and the game puts the load in the controller and the camera, one step at a time, the way it made the player feel the backboard in the gap. Nobody slips.
 
 The two stones under the cedar: CLARA TATE BLAKE, 1901–1970. GRACE CLARA BLAKE, NOV. 2, 1958 – APR. 12, 1973. The grass around them trimmed close by hand.
 
@@ -294,7 +294,7 @@ The chalkboard by the back door still says, in Marlon's capitals:
 
 > THURSDAY — THE BLAKES (NEW YORK)
 
-Six weeks. Nobody has touched it. Under the THURSDAY, if the player looks closely, the older ghost: *ELLIS BLAKE*.
+Six weeks. Nobody has touched it. Under the THURSDAY, if the player looks closely, the older word: *ELLIS BLAKE*.
 
 Marlon takes the envelope. He takes the interest out and pushes it back across the bar, the way he did in Chapter VI.
 
@@ -897,7 +897,7 @@ A title card, white on black:
 
 > *Wayne Blake declined to be interviewed.*
 
-And then, over black, the documentary's last cut: the final track on the 1996 album. It's the band (Riley, Cal and Dean, and Frank Dalton's reel from Knob House) playing the changes of the last verse of "Who Are You?", the verse Ellis never wrote, the one on the reel labeled *LAST V. OPEN*. There's no vocal on it. It's the three of them and a ghost of a guitar part going around and around, waiting for someone, for three minutes and forty seconds, and then Dean's two stick clicks, *hold*, and it ends.
+And then, over black, the documentary's last cut: the final track on the 1996 album. It's the band (Riley, Cal and Dean, and Frank Dalton's reel from Knob House) playing the changes of the last verse of "Who Are You?", the verse Ellis never wrote, the one on the reel labeled *LAST V. OPEN*. There's no vocal on it. It's the three of them and, faint underneath, Ellis's guitar from the Knob House reel, going around and around, waiting for someone, for three minutes and forty seconds, and then Dean's two stick clicks, *hold*, and it ends.
 
 > **RILEY** *(voice-over, over the black)*: We left it open. It's his.
 
