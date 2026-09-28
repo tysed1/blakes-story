@@ -348,7 +348,7 @@ She is possibly also what the clinicians of 1976 would call something. The game 
 | III | More vivid on mushrooms, farther away, in a field. "I wish you'd come around more." / "You sure?" |
 | IV | Appears in daylight, sober, behind Marlon's; in the van; backstage at the Lantern. "Take me with you." / "Promise." |
 | V | Possessive of Ellis's attention as strangers start singing his words. Flickers younger for a frame, once. Says "El." Can say where they met ("out back of Marlon's") but not when. Cries. The midpoint: the camera pulls back and she isn't there. |
-| VI | Argues for her own reality ("You can see me." "That's not an answer." "It's the only answer that matters."). Seen through Riley's eyes as absent. |
+| VI | Argues for her own reality ("You can see me." "That's not an answer." "It's the one you're getting. Eat something."). Seen through Riley's eyes as absent. |
 | VII | Appears in public spaces, crowds, hotel halls. Jealous of the audience ("It was a conversation"). Says the first cruel thing: "They don't know you. Neither does Riley." Sits in the extra chair at the Rileys' Thanksgiving. Vanishes when Lorraine's letter appears. |
 | VIII | Intrusive. Walks onto a television soundstage. The switch camera stutters on her and fails. After the photographs, she is seen for what she's built from. "Does that make me less real?" Then medication, and silence. |
 | IX | Gone for weeks. Returns when he stops the pills, fiercer and brighter. Then, in Grace's hallway, fourteen years old for the first time: "I couldn't be her." She walks into Grace's room. |

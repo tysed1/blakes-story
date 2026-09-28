@@ -1071,6 +1071,8 @@ He doesn't answer.
 
 Clara looks at him. She understands. Of course she does.
 
+**CLARA:** Listen at that thing. Twenty to four in the morning and it's running like a sawmill.
+
 > **Observe** (at the ice machine): *Dec 14. 3:40 a.m. The only thing awake in the Tanner Valley Motor Court is the ice machine and me and the girl in Room 12 pretending she's asleep.*
 > (This line becomes the first verse of "Ice Machine." If the player doesn't collect it, Ellis writes it anyway in the notebook between missions.)
 
@@ -1606,6 +1608,10 @@ Clara smiles.
 
 He shakes his head. On a first playthrough: she knows him well. On replay: Ellis knows himself.
 
+**CLARA:** Don't you tell her everything, now. Let her like you a while.
+
+He eats a fry and doesn't answer.
+
 ### Marlon
 
 The back door opens. Marlon, in his shirtsleeves, with a case of empties.
@@ -2010,7 +2016,7 @@ Eddie smiles.
 
 **EDDIE:** Good. Means you'll remember it.
 
-**ELLIS:** Hm.
+**ELLIS:** Reckon so.
 
 His advice, delivered walking backward down the hallway:
 
@@ -2110,6 +2116,10 @@ She looks at his shirt.
 
 He tucks it in.
 
+**CLARA:** And your G's flat.
+
+He checks it. It is.
+
 Cal comes up the hallway on the way to the stage and doesn't slow down.
 
 **CAL:** Blake. Now.
@@ -2182,7 +2192,7 @@ Riley is laughing. Cal:
 
 **DEAN:** I'd never.
 
-**CAL:** That's exactly why I'm worried.
+**CAL:** That's why I'm worried.
 
 Dean puts Ellis down. Everybody talking at once.
 
@@ -2214,7 +2224,7 @@ Everyone looks at everyone. Cal is doing logistics in his head. Riley is thinkin
 
 **DEAN:** Why?
 
-**RILEY:** Because some of us think before we permanently change our lives.
+**RILEY:** Because I'd like to think about it longer than you did.
 
 **DEAN:** Sounds exhausting.
 
@@ -2401,9 +2411,17 @@ The diner lot is empty except for the Econoline under a streetlight. Ellis start
 
 He sits on the bumper. The whole van shivers a little with the idle.
 
-**CLARA:** She's good for you.
+**CLARA:** Hang on to that one.
 
 **ELLIS:** I know.
+
+His bag is on the amp case beside her, the notebook sticking out of the top. The player can have him ask her for it. *(Optional test; it counts toward `clara_tests`.)*
+
+**ELLIS:** Hand me that notebook.
+
+**CLARA:** Do it yourself. You've got hands.
+
+He leans in past her and gets it himself.
 
 A bread truck goes by on the cross street, the first thing moving in an hour.
 
@@ -2483,7 +2501,7 @@ She comes in. She looks at the wall: at the poster, the 45, and the paper Eddie 
 
 **ELLIS:** It's printed.
 
-**CLARA:** Chattanooga.
+**CLARA:** Chattanooga. February the seventh. That's a Friday.
 
 **ELLIS:** Yeah.
 
@@ -2762,6 +2780,19 @@ The Blakes are no longer only a Hollow Ridge bar band. They have a recording, a 
 | "Take me with you." / "Promise." | Odd | The argument in the car | invisible |
 | In his room sober, in daylight; she leaves when Wayne's boots hit the porch; Wayne: "You on something?" | A friend dodging a hard father; Wayne is paranoid | She never stays in a room with Wayne; Wayne is right to worry | invisible (camouflaged) |
 | The back of the crawdad snapshot: *El caught it, I held it. G.* | A kid's caption | The name only Grace used (Clara says it in V) | invisible (plant) |
+
+### Clara's help
+When she's with Ellis she's the only guidance the game gives, always right about the world and leaning toward keeping him with her. There's none in Cal's, Riley's or Dean's segments, none with Wayne in the room (M5, the door in M8, M9 after the boots), and none on the drive home from the practice room (M10), where she isn't in the car.
+
+| Mission | Line | Helps with | Biased? |
+|---|---|---|---|
+| M4 | "Listen at that thing. Twenty to four in the morning and it's running like a sawmill." | Observe (the ice-machine line); the time | no |
+| M6 | "Don't you tell her everything, now. Let her like you a while." | a read on Riley | **yes**: away from telling Riley about the car, four days before "I was there" |
+| M8, the EXIT sign | "Tuck that in." / "And your G's flat." | the stage; tuning | no |
+| M8, the lot | "Hang on to that one." / "Dean's gonna make a rule about y'all." | reads on Riley and Dean | no |
+| M9 | "Chattanooga. February the seventh. That's a Friday." | the calendar | no |
+
+**Test.** M8, the lot: "Hand me that notebook." / "Do it yourself. You've got hands." Optional; it counts toward `clara_tests` (bible §11.8).
 
 ### Objects introduced
 The Mockingbird master (the quarter-inch mono mixdown) and the one-inch multitrack. The 45 (500 copies; "Low Water" credited to all four). The rubber stamp. The van (with ownership in eighths). The possum. The Lantern poster (two stolen). Carla Vickery's dollar in the back of notebook 44 (her record went out "Paid in full"). Bobby's crayon drawing of the band on the van roof (Lynette's refrigerator). Theo's matchbook in Cal's shirt pocket. The wall (player-arranged). Grace with the crawdad, face down in the drawer, and the green felt-tip on the back. *Clara?* in the ledger margin.

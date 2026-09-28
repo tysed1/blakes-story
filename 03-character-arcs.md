@@ -159,7 +159,7 @@
 | III | Farther, on mushrooms, in a field. "I wish you'd come around more." |
 | IV | Daylight; "Take me with you." / "Promise." |
 | V | Possessive; flickers younger once; "Liar" (2); "El"; can say where they met, not when; the midpoint: she isn't there. |
-| VI | Argues for her reality ("It's the only answer that matters"); absent from Riley's view. |
+| VI | Brushes off the question of her reality ("You can see me." / "It's the one you're getting. Eat something."); absent from Riley's view. |
 | VII | "November." "You made it prettier." "It was a conversation." "Old?" The first cruel thing: "They don't know you. Neither does Riley." The seventh chair. "Keep going." Vanishes at Lorraine's handwriting. Never in the photograph. |
 | VIII | "He dresses like a sofa." "Liar" (3, the last tease). The switch tries to become her and fails, twice. Louder with no bass. "He's taking me." Gone from the doorway when the photographs come out. Grace in the passenger seat, older at each glance; "Daddy'll kill us both." "I made you." / "Does that make me less real?" "You asked me to." / "Right here." Then the medication, and silence. |
 | IX | The empty chair. "Clara?" to the lake. Back on the fire tower: "Ask me something I know." "Who are you?" / "Who are you?" "That one's mine." "Now everybody's got me." Fourteen in the hallway: "I couldn't be her." / "She'd have put a frog in your bed." Into Grace's room. The door. |

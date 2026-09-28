@@ -107,7 +107,7 @@ Clara is sitting on the floor under the window, knees up, exactly where she alwa
 
 He looks at her differently. She knows it. He knows something is wrong. Neither says it.
 
-**CLARA:** Morning. You slept in your boots like a drunk preacher.
+**CLARA:** Morning. It's half past nine. You slept in your boots like a drunk preacher.
 
 **ELLIS:** Morning.
 
@@ -133,7 +133,7 @@ She looks at him.
 
 **ELLIS:** I'm not scared.
 
-**CLARA:** Then why are you asking questions you know the answers to?
+**CLARA:** Then quit asking me things you know.
 
 He doesn't answer.
 
@@ -145,7 +145,7 @@ He doesn't answer.
 
 **ELLIS:** Why?
 
-**CLARA:** They won't understand.
+**CLARA:** They'll look at you funny.
 
 **ELLIS:** Cal already—
 
@@ -654,7 +654,7 @@ Before they play a note, Frank has them lay out every song they have on the chap
 
 **ELLIS:** Because you want ten.
 
-**CAL:** That's spite, not a reason.
+**CAL:** That's spite.
 
 Then Ellis says the thing he's been trying to say for weeks.
 
@@ -732,7 +732,13 @@ Frank puts Ellis's Jazzmaster through a Fender Twin Reverb in the middle of the 
 
 Ellis plays the glide. The chord leans and comes back and the chapel takes it and holds it and gives it back a second later from the ceiling.
 
+Clara is sitting on one of the pews against the wall with her boots up on the pew end.
+
+**CLARA:** Turn around. Face it.
+
 Then he turns toward the Twin with the chord still ringing, and the player gets another new verb: **feedback**. Face the amp and hold, and a note grows out of the chord and sustains on its own; turn a shoulder away and it dies. Too close and it screams. At the right distance it sings, and Ellis can ride it from one note to the next by moving his feet.
+
+**CLARA:** Not that close. There.
 
 In the control room it fills the speakers. Ellis's face changes. He's never heard himself sound this big.
 
@@ -804,7 +810,7 @@ Cal comes out and stands beside him.
 
 **CAL:** What's my face saying?
 
-**DEAN:** "Dean, I'm disappointed in your lifestyle choices."
+**DEAN:** "Dean, your mother and I are very concerned."
 
 **CAL:** My face doesn't talk like that.
 
@@ -1043,6 +1049,8 @@ Clara is not there.
 Ellis is standing alone by the screen door, talking quietly to nobody. The screen door is still. There's no one on the porch behind it but fireflies.
 
 > **This is the game's second objective reveal, and it's delivered by the core mechanic.** The player has trusted the switch for six chapters: it moves you between real people in a shared, real world. Now it moves you three yards across a room and removes a person from it. Nothing about the room changes except her. It's more disturbing than any visual effect could be.
+
+From Riley's side there's no help, because Riley has never had any. Nobody tells her where to look.
 
 The player, as Riley, can walk toward him. Nobody else at the party has noticed; somebody's changed the record. Up close, Ellis's voice, gentle, pitched low, the way you'd talk to a child at a crowded table:
 
@@ -1312,7 +1320,7 @@ Clara is sitting on the arm of the chair Riley's asleep in. Adult again. Twenty-
 
 **ELLIS:** She does not.
 
-**CLARA:** Like a johnboat motor. All night.
+**CLARA:** Like a johnboat motor. All night. Coffee's on. Get you a cup before Dean wakes up and drinks the pot.
 
 Then, not teasing:
 
@@ -1342,9 +1350,9 @@ Clara looks genuinely wounded.
 
 **ELLIS:** That's not an answer.
 
-**CLARA:** It's the only answer that matters.
+**CLARA:** It's the one you're getting. Eat something.
 
-It hooks into him, because emotionally it makes sense: if Clara feels real, what does real even mean?
+It hooks into him anyway.
 
 Riley stirs in the chair. Clara doesn't move. Riley's elbow is two inches from Clara's knee. Ellis watches it not touch her.
 
@@ -1656,7 +1664,7 @@ The player hears it from Cal's side: his structure holding up the whole first ha
 
 **CAL:** That's never happened to me.
 
-**FRANK:** It'll keep happening.
+**FRANK:** Get some sleep.
 
 ---
 
@@ -1827,7 +1835,11 @@ The kitchen. The bills pile by the salt shaker. On top of it, the stapled bookle
 
 In Chapter I Ellis turned it face down. The player can let him do that again: the prompt is there, and he will.
 
-Or the player can just leave him standing there looking at it.
+Clara is in the doorway to the hall, keeping her voice down for the shut door.
+
+**CLARA:** Turn that over. It's late.
+
+Or the player can just leave him standing there looking at it. When he looks up from it, the doorway is empty.
 
 If they wait, Ellis sits down at the kitchen table, takes out his notebook, and writes. The player can read it as he writes:
 
@@ -2176,10 +2188,23 @@ He came to watch his son work ("Wanted to see it," and nothing after it), and he
 | Younger: "Your hair." | Changing | Grace's age | visible |
 | "I know you." | — | Recognition surfacing | visible |
 | "Before Clara." | — | Grace | visible (to many) |
-| "It's the only answer that matters." | Clara arguing | Ellis arguing | visible |
+| "It's the one you're getting. Eat something." | Clara brushing him off | Ellis refusing the question | visible |
 | Riley's elbow two inches from her knee | — | Rule 1 | visible |
 | The description, built from what the player looked at: gray eyes, gap teeth, horse patch | A friend | Grace + Lorraine; Grace's jacket | **strongly suggested** |
 | Alone in the chapel beyond the glass (Riley's view: empty) | — | — | visible |
+
+### Clara's help
+The player knows now that she isn't there, and the help is still good: still Ellis's own knowledge, still leaning toward keeping him with her. The player uses it knowing. From Riley's side at the screen door (M9) and at the glass (M18) there's none, because Riley has none. None in Dean's or Cal's segments, and none with Wayne (M12, M14).
+
+| Mission | Line | Helps with | Biased? |
+|---|---|---|---|
+| Cold open | A finger raised through the glass: *Again.* | the Room | no |
+| M1 | "It's half past nine." / "And tell her that blinker's been going since Cold Branch." | the time; the road | no |
+| M6 | "Turn around. Face it." / "Not that close. There." | the Room: the feedback verb | no |
+| M11 | "Coffee's on. Get you a cup before Dean wakes up and drinks the pot." | his body | no |
+| M15 | "Turn that over. It's late." | the coupon | **yes**: away from the stone, and from the song he writes if he doesn't |
+
+Her older steers work the same way: "Sit down a minute" and "Not in front of her" (M1, away from Riley's car and from telling her), and "Don't." behind Vance's chair (M3).
 
 ### Objects introduced
 Richard Holloway's legal pad. Stony Knob Music (BMI). The Southern Star contract. The Jazzmaster (and Loretta retired to the wall). The RENT envelope. The Rickenbacker 12. The Vistalite, and Bobby's drawing of it in Dean's shirt pocket. Cal's fresh copy of *What's Going On*. The Edinburgh letter (sent) and the cable. Theo's Teac and a part number on a matchbook. Cal's bass chart with TACET over the verses of "Sunday Clothes." Cal's three-item list for the pay phone. The coupon (29 of 48). The master reel. *Borrowed Stone*.

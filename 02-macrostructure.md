@@ -302,7 +302,7 @@ Total main story ≈ 57.5 hours. With side content, 80–110.
 - **8. Sunday Morning** (Cal). Theo's apartment. That night Riley sees them together at a club and smiles at her drink.
 - **9. Pasture** (Riley → Ellis → Riley). The farmhouse; mushrooms; the door; the switch.
 - **10. The Field** (Ellis). "I see her." "Does she tell you to hurt yourself?" "No doctors."
-- **11. Afterimage** (Ellis). Sober morning; "It's the only answer that matters."
+- **11. Afterimage** (Ellis). Sober morning; "It's the one you're getting."
 - **12. Bloodline** (Ellis). Raymond.
 - **13. Side B** (Ellis → Cal). Frank and the room; "Shape Note" in the dark; "Do both."
 - **14. Visitor** (Ellis). Wayne at Dalton Sound.

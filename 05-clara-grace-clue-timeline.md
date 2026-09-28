@@ -174,7 +174,7 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | Sun Jul 20 | VI M10 | Raymond, Milledgeville: "heard people... Saw them, too." (second family clue) | Family history | A possible vulnerability; the game never decides | visible† |
 | Jul 20 | VI M10 | "I see Clara... All the time... Last spring. A year. More." | Riley learns | Clara predates the drugs | visible† |
 | Jul 20 | VI M10 | "I think I've seen her before... Before Clara." | — | Grace | visible (to many) |
-| Jul 20, morning | VI M11 | "You can see me." / "That's not an answer." / "It's the only answer that matters." Riley's elbow two inches from her knee | Clara arguing | Ellis arguing; Rule 1 | visible |
+| Jul 20, morning | VI M11 | "You can see me." / "That's not an answer." / "It's the one you're getting. Eat something." Riley's elbow two inches from her knee | Clara arguing | Ellis arguing; Rule 1 | visible |
 | Thu Jul 24 | VI M12 | Wayne tells the Raymond story; "Are you hearing something?" / "Seeing something?" | Wayne afraid | Wayne already fears it | visible† |
 | Wed Aug 6 | VI M14 | Ellis describes her from what the player has looked at: gray Blake eyes, a gap in her teeth, the jacket with the crooked horse. Wayne goes white: "Who is she?" / "You tell me." | A father recognizes something | Grace's eyes and jacket, Lorraine's teeth | **strongly suggested** |
 | Aug 6, 11:30 p.m. | VI M15 | Coupon 29 of 48; "There's a book on the table with the pages torn out... Daddy pays on a stone" | The band hears a metaphor | Grace's headstone, nineteen payments left | visible† |

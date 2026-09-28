@@ -156,7 +156,7 @@ They go out to the driveway, Richard in his cardigan, Ellis in the too-short spo
 
 Richard is delighted: really, childishly delighted, in a way the player has never seen him.
 
-**RICHARD:** You could work anywhere, son.
+**RICHARD:** You could work anywhere, young man.
 
 **ELLIS:** I work for Roy.
 
@@ -262,7 +262,13 @@ Ellis's room. Lamp off. Clear, cold night; the window's frosted at the corners. 
 
 **CLARA:** Good.
 
-She watches him work his boots off.
+She watches him work his boots off. The left one sticks. The player can have him stick it out at her. *(Optional test; it counts toward `clara_tests`.)*
+
+**ELLIS:** Pull.
+
+**CLARA:** I'm not your mama.
+
+He gets it off himself.
 
 **CLARA:** You okay?
 
@@ -616,7 +622,7 @@ Dean laughs.
 
 **DEAN:** You finally get into a rock band and you're trying to turn it into a savings and loan.
 
-**CAL:** And you're trying to turn it into an excuse.
+**CAL:** Better than an excuse.
 
 Silence.
 
@@ -797,6 +803,8 @@ Clara is leaning on the open door with her arms folded on top of it.
 **CLARA:** Then you're doing it right. Keep it under forty-five. Hear?
 
 **ELLIS:** Yes ma'am.
+
+**CLARA:** Seventy-eight to the state line. And don't let Dean read the map.
 
 Dean climbs in the passenger side, still talking about Evel Knievel. Clara steps back from the door into the drizzle and stays there under the back-door light, arms folded, while the van pulls out of the lot.
 
@@ -1110,7 +1118,11 @@ He stops. When? He can't remember. He can remember her saying it, the exact tone
 
 **ELLIS:** Strike that from the record.
 
-She smiles and puts it back. Ellis writes.
+She smiles and puts it back. Ellis picks up his notebook.
+
+**CLARA:** Put the alley in it.
+
+He writes.
 
 > **Replay layer.** Grace sang harmony with him on this record through a bedroom wall and swore she hated it.
 
@@ -1129,6 +1141,12 @@ Ellis, at the sink rinsing a cup, goes very still.
 **ELLIS:** Okay.
 
 That's all. Wayne takes his coffee to the truck.
+
+The truck pulls out of the yard. Clara is leaning on the refrigerator beside the ticket book, reading it.
+
+**CLARA:** Pick another Saturday. That book's good for any game in April. Says so right on it.
+
+Ellis puts the cup in the drainer.
 
 ### The song
 
@@ -1367,6 +1385,12 @@ After the show, backstage, Ellis winds a cable and doesn't look at the wings.
 **ELLIS:** That's a matter for the courts.
 
 **CLARA:** Eight hundred witnesses, Ellis.
+
+He keeps winding.
+
+**CLARA:** Riley held that chord for you. Wind hers too.
+
+He does.
 
 ---
 
@@ -2002,7 +2026,7 @@ Cal thinks.
 
 Vale smiles.
 
-**VALE:** That's usually how you know.
+**VALE:** Ice that eye.
 
 ### Ellis
 
@@ -2182,7 +2206,7 @@ They laugh. Then quiet. Rain on the roof.
 
 **DEAN:** Why are you like this?
 
-**CAL:** But we'll make the best one we're capable of making.
+**CAL:** But it'll be the best one we can make.
 
 **RILEY:** And then a better one.
 
@@ -2558,7 +2582,7 @@ His arms wrapped around nothing. His head bowed onto nobody's shoulder. His hand
 
 No character sees this. Only the player, who is still holding.
 
-> **This is the first objective camera shot in the game that shows the truth.** No horror sting, no distortion, no music at all: just a freight horn, very far down the valley, two longs, a short, a long. The player has spent five chapters (twenty-five hours) seeing Clara through Ellis. Now the camera stands across the street, and she isn't there.
+> **This is the first objective camera shot in the game that shows the truth.** No horror sting, no distortion, no music at all: just a freight horn, very far down the valley, two longs, a short, a long. The player has spent five chapters (twenty-five hours) seeing Clara through Ellis. Now the camera stands across the street, and she isn't there. Every piece of help the player took from her in I–V (the hum, the directions, the day of the week, the reads on people) is recast by the empty seat in the booth and the empty street; and the player who guessed early guessed the tabloid version ("his dead sister's ghost"), which VIII–IX correct: Grace was fourteen, and Clara is twenty-one, with their mother's face and their grandmother's name.
 
 ### Do not explain it
 
@@ -2567,6 +2591,10 @@ No text, no diagnosis, no flashback, no voice-over.
 Let the player sit in it. The wide shot lasts exactly as long as the player keeps holding. There's no timer; the player chooses when to let go. When they release, far off under the streetlight, Ellis's arms open around nothing and come down to his sides. Then the camera returns to Ellis, close, and Clara is there again, stepping back from him and wiping her face with her jacket cuff, because the camera is with Ellis again, and the player now knows exactly what that means.
 
 Fade.
+
+> **Notebook (conditional).** If `clara_tests` is three or more (bible §11.8), the next time the player opens the notebook there's one line under the last entry, in Ellis's hand, that no Observe cue produced:
+> *I kept asking her to prove it and she kept not.*
+> No cue marks it, and nothing ever refers to it. Below three, the page is as the player left it.
 
 **CHAPTER V COMPLETE**
 **VELOCITY**
@@ -2623,6 +2651,18 @@ The best day he and Ellis have had in two years happened on the anniversary of G
 | "Out back of Marlon's." / "When?" She can't say | A true answer, then a blank | She knows where because Ellis does; he has never asked himself when (late April 1974, a year after the crash) | invisible |
 | "El." | A nickname | Only Grace called him El (the snapshot, IV) | subliminal |
 | The pull-back, held by the player | — | She isn't there | **revealed** |
+
+### Clara's help
+Until M16 the player trusts it. After the pull-back, every piece of it (in I–V) is recast by the empty seat. There's none in Dean's, Riley's or Cal's segments, and none with Wayne in the room (M1's kitchen, all of April 12, his walk-in at M16).
+
+| Mission | Line | Helps with | Biased? |
+|---|---|---|---|
+| M5 | "Seventy-eight to the state line. And don't let Dean read the map." | directions | no (her older "Not in the rain" and "Keep it under forty-five" lean away from the wheel) |
+| M7, late | "Put the alley in it." | writing "Still Here" | mildly: toward her |
+| M7, the kitchen | "Pick another Saturday. That book's good for any game in April." | the calendar; the ticket book | **yes**: away from April 12. Ellis doesn't take it |
+| M8 | "Riley held that chord for you. Wind hers too." | a read on Riley; load-out | no |
+
+**Test.** M1, midnight: "Pull." / "I'm not your mama." Optional; it counts toward `clara_tests`. At M16, three or more tests across I–V put one line in the notebook after the fade: *I kept asking her to prove it and she kept not.*
 
 ### Objects introduced
 The paper star (GRACE — 2ND GRADE). The Engineers ticket book. The first verse of "Sunday Clothes" on the back of a Kant syllabus, folded into a textbook. Ada Tolliver's pie and card. Riley's van lettering. The Echoplex. "SPACE DEATH FROM HOLLOW RIDGE." The Edinburgh envelope in a drawer. Landry's B-minus note. *Own the cost* on the back of a grade report. The Southern Star contract draft. The four hands.
