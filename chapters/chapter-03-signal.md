@@ -1798,7 +1798,7 @@ Ellis looks at the stage and says, without any defense in it:
 
 ### The show
 
-Gameplay rotates between all four. They're better. More confident. And new dynamics are visible in the Room: Dean pushes too hard sometimes and Cal corrects him (the player may do this as Cal, or watch the AI do it); Riley is writing more (she has a new song, "Linwood," that she sings lead on, a little too fast, and the room likes it anyway); Ellis is getting comfortable being the center, and the player can feel his attention verb loosen: he looks at the crowd more.
+Gameplay rotates between all four. They're better. More confident. And new dynamics are visible in the Room: Dean pushes too hard sometimes and Cal corrects him (the player can do this as Cal, or watch the AI do it); Riley is writing more (she has a new song, "Linwood," that she sings lead on, a little too fast, and the room likes it anyway); Ellis is getting comfortable being the center, and the player can feel his attention verb loosen: he looks at the crowd more.
 
 During "Low Water," Ellis looks toward the back of the room. Clara is there, leaning on the wall by the cigarette machine, watching.
 

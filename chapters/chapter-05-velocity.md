@@ -706,7 +706,7 @@ Ellis sits back against the wheel well and doesn't say anything to anybody.
 
 ### Knoxville
 
-A college bar by the University of Tennessee campus, Valentine's night. The show is packed with students because the campus station has played the 45 every day for a week. People sing the chorus of "No Name" and, to everyone's astonishment, the first verse.
+A college bar by the university in Knoxville, Valentine's night. The show is packed with students because the campus station has played the 45 every day for a week. People sing the chorus of "No Name" and, to everyone's astonishment, the first verse.
 
 Before the show, the player (as Ellis) can see Cal at the pay phone in the bar's back hallway, turned toward the wall, the receiver cupped close. Only fragments carry: *"...Sunday. Late. ...I will. ...Me too."* Dean passes on his way to the bathroom.
 

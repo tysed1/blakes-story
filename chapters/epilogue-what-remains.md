@@ -532,7 +532,7 @@ And the first page of the green notebook, the one that says only *M. —*. That 
 
 Friday, January 7, 1977. Tannersville College. The gymnasium. Spring registration. Tables by alphabet under hand-lettered signs. A student worker with a bullhorn who doesn't need one.
 
-The player, as Riley, has the form. She filled it out in the car, the way she did in September 1975. The player fills it out with her again: PHIL 412, Mind and Self II, Landry, TTh 10:00. MUS 302, Counterpoint. And one the player may choose that wasn't offered before: MUS 350, Composition (Independent Study).
+The player, as Riley, has the form. She filled it out in the car, the way she did in September 1975. The player fills it out with her again: PHIL 412, Mind and Self II, Landry, TTh 10:00. MUS 302, Counterpoint. And one the player can choose that wasn't offered before: MUS 350, Composition (Independent Study).
 
 The line: P through S. The woman with reading glasses on a chain. She holds out her hand.
 

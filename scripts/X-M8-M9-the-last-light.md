@@ -299,7 +299,7 @@ On the press:
 
 ### 9.6 · KIT — THE CASE
 - `CAM (Dean):` Passing the film truck: Kit on an equipment case, the sun-gun in her lap and ticking as it cools, her hands shaking. Joel holds the camera, not rolling.
-- Dean doesn't stop. The player may look.
+- Dean doesn't stop. The player can look.
 - `CAM:` Later: Tully sits beside her and moves the sun-gun off her lap to his other side. No dialogue.
 
 ### 9.7 · THE GATE
