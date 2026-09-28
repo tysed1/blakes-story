@@ -33,7 +33,12 @@
 | "El," once | V (planted in green felt-tip, IV M9) | only Grace called him El | IX M13 tapes |
 | Clara never at the cemetery | I–VI (rule) | the east slope, alone | VII M9 |
 | "When's yours?" / "November." | VII M1 | Grace born Nov 2; "New Skin": *a birthday every year you didn't have one* | IX M2 |
-| Clara hums the high part | III–VII | Grace sang the high part (Wayne to Riley) | VIII M12 |
+| Clara hums the high part | I (until Riley sings it, I M8) | Grace sang the high part (Wayne to Riley) | VIII M12 |
+| Clara is the game's only help (no tutorial, no hint text) | I–V | the empty seat at the midpoint recasts every hint the player took | V M16 |
+| Her help steers away from the wound ("Not that way," doctors, the plot, home) | I–VII | "Not that way" fails for the first time: he turns onto Tolliver Road | VIII M14 |
+| No help on the medication | VIII M17 – IX M6 | she and the help come back at the fire tower, and the player feels relief | IX M7 |
+| She helps with everything | I–X | she gives no help at HOME, the one decision she leaves to the player | X M8 |
+| The player tests her (`clara_tests`) | I–V | "I kept asking her to prove it and she kept not." (if 3+) | V M16 |
 | Vanishes when Wayne comes in | I–VIII | vanishes at Lorraine's handwriting; at the photographs | VII M19; VIII M13 |
 | The switch never catches on her | I–VII (rule) | it catches and fails (bus; *Night Stage*); an empty chair; then Ellis himself | VIII; IX M1; X M9 |
 | The horse patch sewn crooked | I | the child's jacket on the closet hook | IX M13 |
@@ -105,6 +110,9 @@
 | "It doesn't put things in your head…" (her belief) | VI | "It doesn't show you anything. It just turns everything up." | IX M10 |
 | The green notebook, "too nice" | VII M1 | *M. —* | Ep. M5 |
 | Ellis learns her name is Margaret | IV | M. | Ep. M5 |
+| The third verse of "Occasionally Astonishing" won't come | IX M6 | finished at her mother's piano | IX M15 |
+| A bridge she can't finish, in the hayfield | X M2 | "Maps," at her mother's piano | Ep. M5 |
+| Nina asks for an interview about her songs (`riley_nina_interview`) | X M2 | it happens in 1979, with her first record | Ep. M5 (setup note) |
 
 ## Spine 7 — Dean
 

@@ -103,6 +103,10 @@
 - **Clara's absence from the coda**, which the second-time player notices immediately.
 - **"Hi, El."** The post-credits tape. The only time the player hears Grace say it.
 
+### Across the game: Clara's help
+- **Every hint she gave.** On a second playthrough the player knows the only help the game ever offered was his grief. Every "Look at that man's hat," "Rent's Friday," and "Not that way" reads twice: right about the world, and steering him away from the car, the doctor, the plot and home.
+- **The first thing anyone takes from her.** Her hum on the high part stops the moment Riley sings it (I M8).
+
 ## What the second playthrough changes mechanically
 
 - **New Game Plus** (optional): the notebook carries over. Observe lines from the first run appear dimmed in the margins, so the player can see what they noticed last time and what they didn't.

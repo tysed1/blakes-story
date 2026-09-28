@@ -60,7 +60,7 @@
 | VII | The registration form, filled in and folded; Oberlin, 1949; her song credited to Ellis; "Margaret"; the girl in the band (*Rave*); HARMONY IS NOT DECORATION; the seventh chair; "I love you, hold it still"; "Occasionally Astonishing" begun. |
 | VIII | "Sing it right": she gives her song to his voice, by her own consent; her harmony (or silence) under it; Nina's piece; the trip that loops her own hand; she stops; she drives to Wayne; "Stay there"; "Name one more thing it has to be after." |
 | IX | Swims every morning; her mother leads "Holy Manna" in the Tabernacle; counts the pills; "I can't watch you choose her"; leaves the house, keeps the band; plays him her song on a dock. |
-| X | Talks to Kit ("Define 'girl.'"); "Define 'want.'" / "That's two things."; votes yes; stands at the riser's stage-left corner with her hand out, and he steps toward her. |
+| X | A bridge she can't finish on the walk through the hayfield; Nina asks to interview her, alone, about her songs; talks to Kit ("Define 'girl.'"); "Define 'want.'" / "That's two things."; votes yes; stands at the riser's stage-left corner with her hand out, and he steps toward her. |
 | Ep. | "Maps" at her mother's piano; pallbearer ("I'm carrying him." / "She carries."); Hannah's card; the green notebook: *M. —*; the train line she won't publish; the book with the player's title; hands in the registration form; *Occasionally Astonishing* (1979); 1996: his maps were always wrong. |
 
 **Turning points.** The folded form (VII M3). *Sing it right* (VIII M2). The stairwell on Greene Street (VIII M11). "I can't watch you choose her" (IX M10). *Hand it over* (Ep. M5).
@@ -165,6 +165,8 @@
 | IX | The empty chair. "Clara?" to the lake. Back on the fire tower: "Ask me something I know." "Who are you?" / "Who are you?" "That one's mine." "Now everybody's got me." Fourteen in the hallway: "I couldn't be her." / "She'd have put a frog in your bed." Into Grace's room. The door. |
 | X | Back, easier, not pretending. "Quit writing on yourself." "Eat something." *Come on, come on* in the rain. "It's a good room." Asked what she is: "Late, is what. Push your hair out of your eyes." "Come on. They're waiting on you." On the lip of the stage for the last song. Her hand over her mouth at the last line. Looks at him and says nothing. |
 | Ep. | Absent. Nobody remarks on it. |
+
+**How she helps.** She is the game's only guidance (bible §11.8): what to look at, the high part before Riley sings it, the way, the day, the rent, who's lying. Always right about the world; always steering him away from the wound (Tolliver Road, doctors, the Blake plot, telling Riley, going home). Absent on the medication, back at the fire tower, and silent at HOME.
 
 **What she never does.** Affects the world. Speaks to anyone but Ellis. Appears in a photograph or on film. Gets a reaction from Tater. Goes to the cemetery. Stays long with Wayne. Knows anything he doesn't. Says *go on*.
 
