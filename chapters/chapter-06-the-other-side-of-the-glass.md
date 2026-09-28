@@ -197,7 +197,7 @@ At a stop sign, Ellis turns toward her.
 
 **RILEY:** Yeah?
 
-In the back seat, from Ellis's view, Clara is sitting behind Riley with her arms folded, looking at him in the rearview mirror.
+In the back seat, from Ellis's view, Clara is sitting behind Riley with her arms folded, looking at the back of his head.
 
 **CLARA:** Not in front of her.
 

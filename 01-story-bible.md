@@ -180,7 +180,7 @@ Details are threaded into scenes, never delivered as lectures. The canonical pal
 - 1970 — Grace (12) gets a cassette recorder for Christmas and starts "WGRC — Grace Radio."
 - Summer 1972 — the "Who are you?" tape.
 - Sept 1972 — Ellis, 16, gets his license. Starts at Roy's after school.
-- Winter 1972–73 — Ellis teaches himself "No Name." Grace says she'll name it later.
+- Winter 1971–72 — Ellis writes "No Name." That July, Grace says she'll name it later.
 - **Thursday April 12, 1973 — the crash on Tolliver Bend.** Grace dies at the scene. Ellis: broken left arm, concussion, eleven stitches. (See §5.)
 - April 1973 — Grace's funeral. Lorraine stands at the back and leaves before the dinner. Wayne buys a headstone on 48 payments of $11.50.
 - Summer 1973 — Ellis drops out of summer school, finishes his senior year in 1974 by the skin of his teeth.
@@ -233,7 +233,7 @@ A seed salesman named **Hollis Beam**, driving the same direction about 150 yard
 > GRACE: It's okay.
 > GRACE: Go on.
 
-**Who heard what.** Hollis heard the first three lines before he ran to the Hensleys'. When he came back, Grace was saying something low that he couldn't make out, and he has never pretended otherwise. Only Ellis heard "Liar," "It's okay" and "Go on," and he does not remember them until the last song of his life (Chapter X).
+**Who heard what.** Hollis heard the first two lines (the boy's *sorry* and the girl's "Stop saying sorry") before he ran to the Hensleys'. When he came back, Grace was saying something low that he couldn't make out, and he has never pretended otherwise. Only Ellis heard the rest, and he does not remember it until the last song of his life (Chapter X), and then only in pieces: his own "Stay with me" clearly, her laugh and a word the rain takes, and "It's okay. Go on." low and together.
 
 Hollis tries to pull Ellis out through the driver's window to get him away from the car (gasoline smell). Ellis fights him: he has to stay where she can see him. Grace dies before the Pettigrew combination car arrives at 8:05. Deputy Lyle Pruitt arrives at 8:09.
 
@@ -334,7 +334,7 @@ She is possibly also what the clinicians of 1976 would call something. The game 
 
 **Personality.** Dry, teasing, fond, perceptive, protective; bossy like a big sister; loyal; occasionally cutting; later possessive, then frightened, then tender. She must be likable. Players should look forward to her scenes for four chapters.
 
-**What she says and never says.** She says "stay," "come back," "don't," "take me with you," "keep going" (always about the car, never about leaving her). She never says "go on," or "go," or anything that sends him away from her. She says "Liar" exactly three times across the game (I, V, VIII), always as a tease when Ellis claims to be fine. Only Grace ever calls him "El" (the player sees it first in green felt-tip on the back of a snapshot, IV); Clara slips and says it once (V). She calls Wayne "your daddy"; in VIII she slips once and says "Daddy," the way Grace did.
+**What she says and never says.** She says "don't," "take me with you," and "keep going" (always about a car, never about leaving her). She never says "go on," or "go," or anything that sends him away from her. She says "Liar" exactly three times across the game (I, V, VIII), always as a tease when Ellis claims to be fine. Only Grace ever calls him "El" (the player sees it first in green felt-tip on the back of a snapshot, IV); Clara slips and says it once (V). She calls Wayne "your daddy"; in VIII she slips once and says "Daddy," the way Grace did.
 
 **Relationships.** Likes Riley at first ("Girl's good."), then feels displaced as Riley takes the harmony part. Thinks Cal doesn't like her ("He doesn't like me." / "He doesn't know you." / "Exactly."). Is fond of Dean ("Dean looks insane."). Avoids Wayne.
 
@@ -548,7 +548,7 @@ She is possibly also what the clinicians of 1976 would call something. The game 
 
 **Mrs. Odom.** Carnegie librarian who hands Ellis poetry without comment.
 
-**Eddie Farris** (36). Laurel City promoter who books the Lantern, then the band's manager from Chapter V. Practical, mostly honest, fifteen percent, loves them in a professional way that becomes a personal way. Not a villain. On the last night, when Cal says they aren't going on, Eddie says, "Your call," and means it.
+**Eddie Farris** (36). Laurel City promoter who books the Lantern, then the band's manager from Chapter VI (the handshake). Practical, mostly honest, fifteen percent, loves them in a professional way that becomes a personal way. Not a villain. On the last night, when Cal says they aren't going on, Eddie says, "Your call," and means it.
 
 **Harold Vance** (43). Runs Southern Star Records in Laurel City. Loves strange records, has one gold album from 1971 and a boss who bought the label as a tax shelter. Gambles on them. Loses control of them in Chapter VIII when the major-label distribution deal arrives.
 
@@ -610,16 +610,16 @@ What critics decades later will call proto-shoegaze, space rock, alternative met
 
 | | Ch I–IV | Ch V–VI | Ch VII–X |
 |---|---|---|---|
-| Ellis | 1964 Silvertone with amp-in-case ("Loretta") | Roy's 1962 Fender Jazzmaster (from VI) | Jazzmaster; Fender Twin; Echoplex; a fuzz box |
-| Riley | Mother's Martin D-18 | Used Rickenbacker 360/12 (bought with the advance) | 12-string, Vox AC30, phaser |
-| Cal | '66 Precision, rebuilt Ampeg B-15 | same | same, plus an Ampeg SVT on big stages |
-| Dean | Ludwig kit, cracked ride | new heads | Ludwig Vistalite, bought with the advance, clear acrylic |
+| Ellis | 1964 Silvertone with amp-in-case ("Loretta") | the band's Echoplex (Jan 1975); Roy's 1962 Fender Jazzmaster (from VI) | Jazzmaster; Fender Twin; Echoplex |
+| Riley | Mother's Martin D-18 | Used Rickenbacker 360/12 (bought with the advance) | 12-string; the Martin for her own songs |
+| Cal | '66 Precision, rebuilt Ampeg B-15 | same | same |
+| Dean | Ludwig kit, cracked ride | same | Ludwig Vistalite, bought with the advance, clear acrylic |
 
 ### 10.3 Song catalogue
 
 Lyrics below are fragments for tone; full lyrics are written in the chapters where the songs are made.
 
-- **"No Name"** (Ellis, winter 1972–73). E minor. About a kitchen light left on for somebody who said they'd be back. Written about his mother. The song he was driving to play for the first time the night Grace died. Grace said she'd name it later. Dean names it by accident onstage at Marlon's in Chapter I. *"There's a light in the kitchen that stays on all night / for somebody who swore they'd be back by nine."*
+- **"No Name"** (Ellis, winter 1971–72). E minor. About a kitchen light left on for somebody who said they'd be back. Written about his mother. The song he was driving to play for the first time the night Grace died. Grace said she'd name it later. Dean names it by accident onstage at Marlon's in Chapter I. *"There's a light in the kitchen that stays on all night / for somebody who swore they'd be back by nine."*
 - **"Low Water"** (all four, Chapter II). Born from Dean tapping on a table. About the low-water bridge on the South Fork: when the creek comes up you can't get across, so you sit on the hood and wait. The first song that belongs to all of them.
 - **"Ice Machine"** (Ellis/Riley, Chapter IV–V). A motel at 3 a.m. *"The only thing awake in Room 12 is the ice machine / and me, and you pretending."*
 - **"Borrowed Stone"** (Ellis, Chapter VI). About the coupon book on the kitchen table. The band thinks it's metaphor. *"There's a book on the table with the pages torn out…"*
@@ -628,17 +628,17 @@ Lyrics below are fragments for tone; full lyrics are written in the chapters whe
 - **"Parietal Hours"** (Riley). Funny, fast, about dorm curfews.
 - **"Linwood"** (Riley). The suburb.
 - **"Shape Note"** (instrumental, Chapter VI). Nine minutes of drone built on a Sacred Harp tune Ellis's grandmother sang. Frank records it in the dark.
-- **"Stony Knob"** (Ellis, Chapter VI). The overlook; the radio signal.
+- **"Stony Knob"** (Ellis, Chapter IV). The overlook; the radio signal.
 - **"Tomorrow Problem"** (Dean). Raucous joke song; crowds shout the title back. Never on a studio album.
-- **"New Skin"** (Ellis, Chapter VIII–IX). After the photographs. About giving someone birthdays she never had. *"I gave you a birthday every year you didn't get one / I gave you a jacket that was already yours."*
+- **"New Skin"** (Ellis, Chapters VIII–IX). Begun on the tour bus in January 1976; finished on the medication at Knob House. About giving someone birthdays she never had. *"I gave you a birthday every year you didn't get one / I gave you a jacket that was already yours."*
 - **"Who Are You?"** (Ellis, Chapter IX). The last song. The final verse is never written; in the finale he improvises it, and that improvisation is what 150,000 people hear.
 
 ### 10.4 Records
 
-- **Private 45** (Ch IV): "No Name" b/w "Low Water." 500 copies from a custom plant on the Row, $412 on credit. Hand-stamped paper sleeves.
+- **Private 45** (Ch IV): "No Name" b/w "Low Water." 500 copies from a custom plant on the Row, $412 ($112 of their own and $300 Marlon lent them). Hand-stamped paper sleeves.
 - ***Borrowed Stone*** (recorded May–Aug 1975 at Dalton Sound; released Sept 15, 1975, Southern Star). Side A: No Name · Low Water · Ice Machine · Sunday Clothes · Borrowed Stone. Side B: Still Here · Linwood · Shape Note · Stony Knob. Then ten seconds of Dean shouting "That's ten!" (Ellis wanted nine songs, Dean wanted ten.) Peaks at #61 in spring 1976; #1 in October 1976, after.
 - **Singles:** "Still Here" (Nov 1975, #38 Jan 1976); "Sunday Clothes" (single version, Ellis lead, Feb 1976, #14 Apr 1976).
-- **The second album** (recorded June–Aug 1976 at the Stony Knob lodge with a mobile truck; unfinished). Released by the label in 1977, against the band's wishes, as ***Last Light***, with a still from the festival footage on the cover. Released by Riley, Cal and Dean as they meant it, as ***Who Are You?***, in 1996, with the last verse left empty.
+- **The second album** (recorded May–Aug 1976 at the Stony Knob lodge with a mobile truck; unfinished). Released by the label in 1977, against the band's wishes, as ***Last Light***, with a still from the festival footage on the cover. Released by Riley, Cal and Dean as they meant it, as ***Who Are You?***, in 1996, with the last verse left empty.
 
 ## 11. Systems and rules
 
@@ -688,10 +688,10 @@ Music is never a rhythm game. The player is not pressing colored buttons on time
 7. She never goes to the cemetery.
 8. She never stays long in a room with Wayne.
 9. The switch never catches on her until Chapter VIII, and then it fails.
-10. She never says "go on," or anything that sends him away from her.
-11. Until the midpoint (V M16) she never shares a vehicle with a band member, and no third party's point of view ever frames the place where she is.
+10. She never says "go on," or "go," or anything that sends him away from her. ("Keep going" is hers, and always about a car.)
+11. Until the midpoint (V M16) she never shares a vehicle with a band member, and no third party's point of view frames the place where she is, with one sanctioned exception: V M7, where Riley turns to an empty fence and doesn't know what he looked at.
 12. No horror grammar: she is never revealed in a mirror, a window or a reflection, and she never gets closer between cuts.
-13. She vanishes, rather than leaving, in exactly two situations: when Wayne comes in, and when Lorraine's handwriting appears (VII).
+13. She vanishes on screen, rather than leaving, in exactly two situations: when Wayne comes in, and when Lorraine appears (her handwriting in VII, her photograph in VIII). Otherwise she leaves the way a person leaves, or is simply gone when the camera comes back from looking somewhere else (a cut, a headlight, a turn of the head).
 
 ### 11.4 The objective camera
 

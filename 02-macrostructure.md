@@ -97,7 +97,7 @@ Total main story ≈ 57.5 hours. With side content, 80–110.
 
 **Band state.** A rehearsal schedule, four rules, stage signals ("home" is defined), the first song they wrote together ("Low Water"), a roadie who wandered in (Tully), a PA bought on credit.
 
-**Ellis/Clara.** Appears after he smokes marijuana for the first time with Riley (nothing more, nothing less). Sits in a booth during rehearsal and says the new song is better. Visible in his mirror at 4:30 a.m.
+**Ellis/Clara.** Appears after he smokes marijuana for the first time with Riley (nothing more, nothing less). Sits in a booth during rehearsal and says the new song is better. At the foot of his bed at 4:30 a.m., when he wakes.
 **Grace info.** "Had a sister." "Grace." "You didn't do anything." The door open three inches; Wayne on her bed.
 **Ellis/Wayne.** Half a tire. Twenty dollars a week rent. A Thursday night watching *The Waltons* in silence. "Night."
 **Riley.** Realizes the band is changing how she writes; brings Ellis into her world; learns Grace's name.
@@ -123,7 +123,7 @@ Total main story ≈ 57.5 hours. With side content, 80–110.
 - **7. The Long Way Home** (Riley → Ellis). Ellis on campus early; Landry's lecture on memory (Ellis in the back row); the quad; weed; "I don't want to die where I was born"; Grace; Clara in the grass.
 - **8. Second Friday** (all). THE BLAKES on the sign; sixty people; "Low Water"; a napkin autograph; Martin Keller's card.
 - **9. Four in the Morning** (all). The Starlite; Lynette; the four dollars; dreams; the Polaroid; "Don't lose us."
-- **10. The Hallway** (Ellis). Grace's door open; Wayne; the mirror; Clara.
+- **10. The Hallway** (Ellis). Grace's door open; Wayne on her bed; Clara.
 
 ---
 
@@ -252,7 +252,7 @@ Total main story ≈ 57.5 hours. With side content, 80–110.
 - **7. The Kitchen Table** (Dean). "I don't want your life." / "Then I don't want to grow up." / "I know."
 - **8. Still Here** (Ellis). Writing it; Clara flipping records; "Can I meet her?"; Riley's first anomaly.
 - **9. Opening Day** (Ellis). April 12. The pie. The ballgame. The drive home.
-- **10. Sold Out** (all). The Lantern; the first interview; "Still Here" premieres; Clara younger for a frame.
+- **10. Sold Out** (all). The Lantern; the first interview; "Still Here" premieres.
 - **11. Choosing** (Riley). The Jacksonville support date against a Friday exam; she chooses.
 - **12. Saigon** (Cal → Dean). A missed soundcheck; a punch; a show with a split lip; the motel television; Tully in the parking lot; the ice pack.
 - **13. The Exit** (all). The Tannersville homecoming; the record store window; the silence during "Still Here"; "It feels like missing somebody who's still standing next to you."
@@ -354,7 +354,7 @@ Total main story ≈ 57.5 hours. With side content, 80–110.
 
 **Band state.** National. A Monarch-paid bus. Separate hotel rooms. A product manager who calls Ellis "the franchise." Theo on the tour as front-of-house engineer. Cal leaves for two shows.
 
-**Ellis/Clara.** Intrusive: on the bus, in a hotel bar, on a soundstage. The switch camera **catches on her, stutters and fails** twice (the bus; *Night Stage*). The third and last teasing "Liar" (on the bus, before it all turns). "Daddy," once, at Tolliver Bend, in Grace's voice. After the photographs: Grace at fourteen in the passenger seat, aging into Clara; "I made you." / "Does that make me less real?" Then trifluoperazine, and she thins to nothing over ten days.
+**Ellis/Clara.** Intrusive: on the bus, in a hotel bar, on a soundstage. The switch camera **catches on her, stutters and fails** twice (the bus; *Night Stage*). The third and last teasing "Liar" (on the bus, before it all turns). "Daddy," once, on Tolliver Road between the farm and the Bend, in Grace's voice. After the photographs: Grace at fourteen in the passenger seat, aging into Clara; "I made you." / "Does that make me less real?" Then trifluoperazine, and she thins to nothing over ten days.
 **Grace info.** Wayne tells Riley what he has known since August: Clara was his mother's name and Grace's middle name, and Grace sang the high part. The photographs: Grace at thirteen (school picture, 1972), Lorraine at nineteen (wedding, 1953), Clara between them. Tolliver Bend itself.
 **Ellis/Wayne.** Wayne brings the box to the kitchen table himself. "There is no Clara." / "She's in the doorway." Wayne drives Ellis to Dr. Lusk and waits two hours in the truck with the Engineers' opener on the radio. On April 12 they eat Ada Tolliver's pie, both of them, for the first time in three years.
 **Riley.** "Sunday Clothes" re-sung by Ellis for the single, and Riley on harmony under her own song. Joan hears it on the radio. Nina Sorensen writes the first serious piece about her, in the same week *Rave* prints the kiss. A trip at a New York party turns on her, and she watches herself hand Ellis the mushrooms at the farmhouse (her silent VI guilt, surfacing). She stops. She drives to Wayne.

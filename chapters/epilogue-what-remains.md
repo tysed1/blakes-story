@@ -252,7 +252,7 @@ Theo, in the doorway, sees his face, and puts the boxes down, and goes out to th
 
 Cal sits down on the edge of Ellis's bed. He takes the green ledger out of the canvas bag he carries it in.
 
-He opens it, and he goes back, all the way, to the first page. *10/18/74 — Marlon's — Friday — $40.00.* The first gig. Four shares of ten dollars.
+He opens it, and he goes back, all the way, to the first page. *10/26/74 — Motor Sales — $80.00. PA down payment.* And above it, squeezed in smaller the day he bought the book: *10/18/74 — Marlon's — Friday — $160.00.* The first gig. Four shares of forty.
 
 He turns the pages. The player can turn them with him. Two years of the band in Cal's neat print: gigs, gas, strings, the van (ownership in eighths), the 45 (500 copies, $412), the Echoplex, the advance, the Civic, the ER in Akron (*not to be paid back*), Dean's initials correcting Cal's arithmetic, the vote at Knob House, *D.H.: "Stop." (On the record.)*, and the last money entry, in pencil, from the bus on August 26: *Arbor Jam — guarantee $15,000 — Eddie 15% — crew — shares to follow.*
 

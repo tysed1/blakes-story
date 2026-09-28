@@ -1660,7 +1660,7 @@ She goes and gets him a piece of chess pie and sits down across from him for her
 
 At one point the player gets a prompt: *Wash up.* The Starlite bathroom. Dean at the sink, cold water on his face. Then the film canister comes out, if he took it, or a folded paper packet from his wallet if he didn't; there's always a spare. The player can't stop it. The camera stays on the mirror, on his face, not on what he's doing. He comes back out wiping his nose, and sits down, and Lynette looks at him, and knows, and doesn't say anything, and that's worse.
 
-> **Design note — dependence.** Earlier chapters let the player choose whether Dean uses at a party. This one doesn't. By November 1975 it isn't a choice Dean is making, so it isn't one the player gets. No music, no slow motion, no cutaway. A man in a truck-stop bathroom, and then back to his pie.
+> **Design note — dependence.** Until now Dean's using has happened at parties, as part of the party. This is a truck-stop bathroom at four in the afternoon. By November 1975 it isn't a choice Dean is making, so it isn't one the player gets. No music, no slow motion, no cutaway. A man in a truck-stop bathroom, and then back to his pie.
 
 ### Cal's door
 
@@ -1710,7 +1710,7 @@ Then, once the player has found that one, Dean keeps going on his own, faster th
 
 He makes each correction properly: one line through the wrong figure, the right figure written above, his initials beside it. *D.H.* The way his father does it.
 
-Then he turns back through the book. October 1974. The first Friday: *10/18/74 — Marlon's — Friday — $40.00.* Pages of it. And his own name, again and again: *Dean — owes fund $20.00. Dean — owes fund $15.00. Dean — adv. against share $30.00.* He adds them up without meaning to. $340.
+Then he turns back through the book. October 1974. The first Friday, squeezed in above the first line of page one: *10/18/74 — Marlon's — Friday — $160.00.* Pages of it. And his own name, again and again: *Dean — owes fund $20.00. Dean — owes fund $15.00. Dean — adv. against share $30.00.* He adds them up without meaning to. $340.
 
 He has eleven dollars.
 

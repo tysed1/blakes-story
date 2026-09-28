@@ -1321,9 +1321,9 @@ He says it simply. It's true, and she knows it, and it doesn't help.
 
 **RILEY:** I heard you lose a verse in front of my mother.
 
-**ELLIS:** Cal got me.
+**ELLIS:** Cal got me. *(If Riley sang the verse: "You got me.")*
 
-**RILEY:** Cal got you.
+**RILEY:** Cal got you. *(Or: "I got you.")*
 
 The player chooses how Riley says the thing she's learned this year. Every option says it; the choice is how hard.
 

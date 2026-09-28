@@ -2023,7 +2023,7 @@ In December 1974 he told her *I was there*.
 
 She hangs up and gets her keys.
 
-> **Replay layer.** "Stay" is Clara's word. Riley says it without knowing that.
+> **Replay layer.** "Stay" is the band's word, and it was his in the car. Riley says it without knowing that.
 
 ### The drive
 

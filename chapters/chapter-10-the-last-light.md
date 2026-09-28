@@ -970,7 +970,7 @@ The player is Ellis. The song he wrote on the medication, at a kitchen table, in
 
 He loses it again. Second verse, second line: the words aren't there. The player feels it as a dead spot in the controls, the way the chord change went dead at the Lantern in Chapter V.
 
-Cal is already up the neck. He plays the melody of the missing line high on the bass, the way he did in July, and Ellis hears it and finds the words on the next bar, a beat late, and laughs into the microphone, and the valley thinks the laugh is part of the song.
+Cal is already up the neck. He plays the melody of the missing line high on the bass, and Ellis hears it and finds the words on the next bar, a beat late, and laughs into the microphone, and the valley thinks the laugh is part of the song.
 
 The last line:
 
