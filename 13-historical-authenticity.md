@@ -57,7 +57,7 @@
 | A rural county rescue-squad ambulance on a Ford chassis | X M9 | accurate for 1976 |
 | The hospital in Elmira, about forty minutes by ambulance down Route 14; home by Route 17 east to Binghamton and I-81 south | X M9, Ep. M1 | real towns and roads; used without detail |
 | Toxicology in 1976 ("He was clean") | Ep. M4 | basic post-mortem toxicology was routine in accidental deaths |
-| Engineers Park Opening Day, April 1977 | Ep. M7 | fictional team; Double-A seasons opened mid-April |
+| Engineers Park Opening Day, April 1977 | Ep. M6 | fictional team; Double-A seasons opened mid-April |
 
 ## 4. License taken, deliberately
 

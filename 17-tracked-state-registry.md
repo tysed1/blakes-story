@@ -47,7 +47,7 @@
 | `observe_lines_riley` *(named here)* | set ⊆ {window_light, hymn_board, shoes_under_bench}. **Global (intended)** | V M1b, Riley's three Observe cues in Linwood Presbyterian ("Riley's notebook, not Ellis's") | empty | V M1b (the observed details come up as options while she writes the verse). VI M13: the second verse of "Sunday Clothes" is built from the margin; empty → the hymnals squared in their racks (resolved in V8, §4.2 item 2) | Keep it out of `observe_lines`: *Rave* and Riley's book print Ellis's lines. |
 | `clara_tests` | int counter, 0–5. **Global (I–V)** | +1 for each optional prompt taken, each a one-time prompt: I M1 the Gulf station (*"You buying?"* / *"I'm company."*); II M10 bed (*"Get the lamp?"* / *"You've got hands."*); III M3 his room (*"Cut that off?"* / *"I'm not your mama."*); IV M8 the diner lot (*"Hand me that notebook."* / *"Do it yourself. You've got hands."*); V M1 midnight (*"Pull."* / *"I'm not your mama."*) | 0 | V M16, after the fade. If ≥ 3, the next time the notebook opens there's one line under the last entry, in Ellis's hand, that no Observe cue produced: *I kept asking her to prove it and she kept not.* Below 3 the page is unchanged. Nothing else reads it | Bible §11.8. No tests exist after the midpoint. `19-playtest-plan.md` logs the count as telemetry; the player never sees it. |
 | `clara_details_seen` *(named here)* | set ⊆ {hair, eyes, gap_teeth, jacket, horse_patch}. **Global (I–VI)** | I–VI, whenever the camera lingers on a detail of Clara ("the camera has kept count") | empty | VI M14: Ellis's description of Clara to Wayne is built from these phrases, in whatever order the player picks. Details the player never looked at, he adds at the end on his own | A gaze metric, not a prompt. The description comes out close to the same sentence either way. |
-| `ellis_cash` *(named here)* | int, cents. **Global (I–IV; the UI fades from VIII)** | Pay and purchases (bible §11.6): I M1 Marlon's $30; I M2 Roy's $76.40, strings $3.50, gas ~$7, cigarettes 50¢, the Starlite; II M3 $4 owed to Carson's; gig shares | authored sums (I M2: $106.40 after pay) | Money screen on the notebook's back page (I M2, II M3); IV M3 (his $50 van share is "everything he has," so no strings that week, shown and not changeable) | Rent isn't a choice: $20 goes on the kitchen table every Friday from Nov 1, 1974 (II M3), and every bill is in the coffee can (IX M13, $1,540; Ep. M7). The spending flags are in 2.1. |
+| `ellis_cash` *(named here)* | int, cents. **Global (I–IV; the UI fades from VIII)** | Pay and purchases (bible §11.6): I M1 Marlon's $30; I M2 Roy's $76.40, strings $3.50, gas ~$7, cigarettes 50¢, the Starlite; II M3 $4 owed to Carson's; gig shares | authored sums (I M2: $106.40 after pay) | Money screen on the notebook's back page (I M2, II M3); IV M3 (his $50 van share is "everything he has," so no strings that week, shown and not changeable) | Rent isn't a choice: $20 goes on the kitchen table every Friday from Nov 1, 1974 (II M3), and every bill is in the coffee can (IX M13, $1,540; Ep. M6). The spending flags are in 2.1. |
 | `peanut_rankings` *(named here)* | ordered list of stand IDs, each with a rank. **Global** | Every boiled-peanut stand Ellis stops at and rates: I M2 (the Tanner Valley corridor stand, the first); V M3 (the tour loop's "list that becomes an in-game collectible"); any chapter (12: "every stand on the map … Tracked") | empty | none. The callbacks (VII M7; IX M3; IX M5; X M4; Ep. 1996) quote the band's fixed ranking, which is Ellis's bit and not the player's list; 12 now says so | Resolved in V8 (§4.1 item 9): the player's list is a collectible and is in-scene |
 | `dean_matchbooks` *(named here)* | set of venue IDs. **Global** | III M5 onward, one per venue (III M5: "keeps a matchbook from every venue in his trap case"); IV M4 (the Blind Tiger, headlining); per 12, "collect one of each from every venue, sign, diner and motel" | automatic: Dean's ritual (12 now agrees) | VII M10 (the cigar box he packs; if the player forgets it, Patty brings it: in-scene); Ep. M3, the van ceiling (Dean's two years, whole; fixed) | Resolved in V8 (§4.1 item 10): fixed, not a player collection. Cal keeps two single matchbooks, both fixed: IV M8 (Theo's number) and VII M6 (*11:47*). |
 | `dean_sx70s` *(named here)* | set of subject IDs (signs, pools, a cow). **Global** | III M5 (the Blind Tiger's chalk sign, the first); IV M4; V M9 (the Exit's dumpster); X M2 (a famous band, from behind); per 12 as above | as `dean_matchbooks` | Ep. M3, the van ceiling ("SX-70 prints of club signs and motel pools and a cow looking in the windshield in a pasture outside Macon") | The Macon cow is authored: Ep. M5 ("Maps"), Ep. 1996 (Riley: "Dean took a picture of the cow"). |
@@ -74,7 +74,7 @@
 |---|---|---|---|---|---|
 | `clara_tests` | +1 | II M10, bed: *"Get the lamp?"* / *"You've got hands."* | | V M16 | 2.0 |
 | `observe_lines` | + | II M6 (the boy in the John Deere cap); II M7 (the lecture; "a rare case of an Observe line collected from outside Ellis's own control") | | 2.0 | |
-| `ellis_cash` | − rent | II M3: Wayne sets rent at $20 a week, starting Friday | | IX M13; Ep. M7 | Fixed, not a choice. II M8's "That's rent. Put it back." is in-scene. |
+| `ellis_cash` | − rent | II M3: Wayne sets rent at $20 a week, starting Friday | | IX M13; Ep. M6 | Fixed, not a choice. II M8's "That's rent. Put it back." is in-scene. |
 
 The four dollars (II M9) and the Polaroid are fixed. See §3.15 and §3.16.
 
@@ -93,7 +93,7 @@ The four dollars (II M9) and the Polaroid are fixed. See §3.15 and §3.16.
 | `clara_tests` | +1 | IV M8, the diner lot: *"Hand me that notebook."* / *"Do it yourself. You've got hands."* (optional) | | V M16 | 2.0 |
 | `observe_lines` | + | IV M3 (Otis's porch); IV M4 (the ice machine: the forced fallback, and the first verse of "Ice Machine"); IV M8 (the Christmas window); IV M9 (the gutter) | | 2.0 | |
 | `van_price` *(named here)* | int dollars, 400–475. **Global** | IV M3, haggling with Otis Crump as Ellis: pushing too hard raises it; "The best result is $400" | 475 (the haggle never closes: Otis takes $475) | IV M3 (the ledger: *D.H., the difference. Not a share.*; the shares don't move); IV M4 (Cal says the ledger's price, slower the higher it is). Ep. M3's ½, ¼, ⅛, ⅛ holds for every price | Resolved in V8 (§4.1 item 5) |
-| `bedroom_wall_layout` *(named here)* | map of item → position; items {Lantern poster, the 45, Blind Tiger SX-70, Marlon's handbill, WTCR card, Eddie's typed six dates}. **Global** | IV M9, tacking them over the card-table desk ("The player chooses where each goes") | unspecified | Every later render of Ellis's room, "exactly as the player arranged it": VII M1, VII M18, IX M15, Ep. M3, Ep. M7 | The Starlite Polaroid can't go on the wall (Ellis puts it back in the mirror frame); Grace's crawdad snapshot goes back in the drawer face down. The coda (Nov 9, 1974) comes before the wall existed. |
+| `bedroom_wall_layout` *(named here)* | map of item → position; items {Lantern poster, the 45, Blind Tiger SX-70, Marlon's handbill, WTCR card, Eddie's typed six dates}. **Global** | IV M9, tacking them over the card-table desk ("The player chooses where each goes") | unspecified | Every later render of Ellis's room, "exactly as the player arranged it": VII M1, VII M18, IX M15, Ep. M3, Ep. M6 | The Starlite Polaroid can't go on the wall (Ellis puts it back in the mirror frame); Grace's crawdad snapshot goes back in the drawer face down. The coda (Nov 9, 1974) comes before the wall existed. |
 
 IV M10 (Riley asks, or waits) is in-scene: asking shrinks the scene to "I was there," and VIII M15's "In December 1974 he told her *I was there*" holds either way.
 
@@ -173,8 +173,8 @@ The RENT — 10 WEEKS envelope (VI M3) is fixed. See the rent note in 2.0.
 | `bend_stop` | enum {road, clay}. **Global per script** | VIII M14, node N14.4a: brake in the road or half onto the clay | road (no brake by the end of the stop zone, and Ellis stops in the road on his own) | none (the headlights stay on the oak either way) | §4.3 |
 | `oak_touch` | enum {player, rising}. **Global** | VIII M14: node N14.4b *Touch* at the trunk (player); otherwise node N14.5b, getting up, when his hand lands on the scar (rising) | rising (it's always set by the end of M14) | VIII M15, the bench, if Riley asks about the road: "Did you touch it?" / "Yeah." / "What was it like?" / "Like a knuckle." The flag makes "Yeah." true on every playthrough | The script's exit state into M15 is binding. |
 | `obs_tolliver_oak` | bool. **Global** | VIII M14, node N14.5a: the one Observe cue, 10 s after "Button your jacket." (*The bark grew back over it like a hand over a mouth.*) | false | Adds the line to `observe_lines` (2.0): Ep. M5 (Riley's reading, and the pool for her book) and Ep. 1996 | §4.6. The script says the line reaches IX M11's leaked pages, but *Rave* prints only from memo books 1–67, copied in January. |
-| `riley_kitchen_chair` † *(named here)* | enum {newspaper_chair (Lorraine's; the cardigan), fourth_chair (Grace's), stand}. **Global per list** | VIII M16, breakfast | stand (no input: Wayne says "Sit down" and points at the newspaper chair) | VIII M16 only (Wayne sees the cardigan moved; or stops at the fourth chair; or says "Sit down" and points at the newspaper chair). Ep. M7, Thanksgiving: fourth_chair → Wayne pulls the seventh chair all the way out before he sits, and Riley sees him do it | Resolved in V8 (§4.2 item 6) |
-| `april12_pie_cut` † *(named here)* | bool. **Global per list** | VIII M18, April 12: *Cut a piece.* | false (the pie goes to Tater; Wayne washes the dish) | VIII M18 only (true: father and son eat out of the dish). Ep. M7's April 12: true → Wayne eats his out of the dish with a fork, standing, the way the two of them did (read added in V8); IX's design summary counts "the pie (VIII)" among what the medication gave | |
+| `riley_kitchen_chair` † *(named here)* | enum {newspaper_chair (Lorraine's; the cardigan), fourth_chair (Grace's), stand}. **Global per list** | VIII M16, breakfast | stand (no input: Wayne says "Sit down" and points at the newspaper chair) | VIII M16 only (Wayne sees the cardigan moved; or stops at the fourth chair; or says "Sit down" and points at the newspaper chair). Ep. M6, Thanksgiving: fourth_chair → Wayne pulls the seventh chair all the way out before he sits, and Riley sees him do it | Resolved in V8 (§4.2 item 6) |
+| `april12_pie_cut` † *(named here)* | bool. **Global per list** | VIII M18, April 12: *Cut a piece.* | false (the pie goes to Tater; Wayne washes the dish) | VIII M18 only (true: father and son eat out of the dish). IX's design summary counts "the pie (VIII)" among what the medication gave | In-scene. The epilogue's April 12 was cut in V8 (Critic G: one ending too many), so nothing later reads it |
 
 ### 2.9 Chapter IX
 
@@ -221,10 +221,10 @@ Script node IDs are from `scripts/X-M8-M9-the-last-light.md`.
 |---|---|---|---|---|---|
 | `riley_book_title` † *(named here)* | enum {western_auto, memo, lines, allegedly}. **Global** | Ep. M5, "What she publishes" | unspecified | Ep. 1996 (the small gray book on Riley's office shelf, with the title the player chose) | Published 1978; sells a tenth of what Dex's sells. §3.12 |
 | `riley_book_contents` † *(named here)* | string list: selected `observe_lines` that reached paper, plus any of the poems to M. **Global** | Ep. M5 | unspecified (may be empty: "or none of them") | Ep. 1996 (an insert shows one page, made of the Observe lines the player collected) | Not selectable: memo 68's train line (the cursor dims it) and the green notebook's first page (*M. —*). The August M. poem carries `riley_phone_answer`'s variant. |
-| `stone_inscription` † *(named here)* | enum {name_and_dates ("No. That's him."), beloved_son, wondrous_love, later} | Ep. M7, Hollow Ridge Monument & Vault, Monday March 14, 1977 | unspecified | none | §4.4. Paid for outright from the coffee can. §3.10 |
-| `portrait_1964_final` † *(named here)* | enum {face_up, face_down} | Ep. M7, Tuesday Nov 2, 1976 (as Wayne): turn it over, then set it face up or put it back face down | face_down | none | §4.4, §4.6. §3.11 |
+| `stone_inscription` † *(named here)* | enum {name_and_dates ("No. That's him."), beloved_son, wondrous_love, later} | Ep. M6, Hollow Ridge Monument & Vault, Monday March 14, 1977 | unspecified | none | §4.4. Paid for outright from the coffee can. §3.10 |
+| `portrait_1964_final` † *(named here)* | enum {face_up, face_down} | Ep. M6, Tuesday Nov 2, 1976 (as Wayne): turn it over, then set it face up or put it back face down | face_down | none | §4.4, §4.6. §3.11 |
 
-In-scene in the epilogue, not registered: what Wayne orders in Ep. M1 (Biscuits pulses) and the radio; the girl on the curb, Dex and *Kneel* in Ep. M2; turning off the bootleg in Ep. M3; Dean's words at the grave in Ep. M4; MUS 350 in Ep. M5; opening Grace's door in Ep. M7.
+In-scene in the epilogue, not registered: what Wayne orders in Ep. M1 (Biscuits is at the top of the list) and the radio; the girl on the curb, Dex and *Kneel* in Ep. M2; turning off the bootleg in Ep. M3; Dean's words at the grave in Ep. M4; MUS 350 in Ep. M5; opening Grace's door in Ep. M6.
 
 ### 2.12 Coda
 
@@ -370,7 +370,7 @@ Flags: `wayne_ambulance_meant`, `wayne_sang`, `hand_held_seconds`.
 3. **IX M5.** Wayne says "I'm sorry" twice, both times to the mountains. (Fixed.)
 4. **IX M9.** Wayne stands at the gallery rail and sings the bass line. Clara is gone when the player looks back. (Fixed.)
 5. **X M9.** The first playable Wayne. *Hold his hand*, and node N9.9: what he means, and whether he sings. The EMT looks out the window whenever he speaks.
-6. **Never read.** Ep. M1 (he says nothing on the drive); Ep. M7 ("He could sing." — fixed); the 1996 door ("Hm."). 10 lists it among the deliberate open threads, and the epilogue's summary says "he keeps it."
+6. **Never read.** Ep. M1 (he says nothing on the drive); Ep. M6 ("He could sing." — fixed); the 1996 door ("Hm."). 10 lists it among the deliberate open threads, and the epilogue's summary says "he keeps it."
 
 ### 3.10 The stone inscription
 Flag: `stone_inscription`. Related: `vi_m15_coupon_turned`.
@@ -381,7 +381,7 @@ Flag: `stone_inscription`. Related: `vi_m15_coupon_turned`.
 5. **VII M16.** Coupon 33. "Nineteen more and it's ours" is already out of date. **VIII M12**: Coupon 36. **IX M4**: Coupon 39. (Fixed.)
 6. **IX M13.** The Maxwell House can: $1,540 of rent, unspent. (Fixed.)
 7. **Ep. M2.** The burial in the space that was measured out for Wayne. **Ep. M4**: "No stone yet." (Fixed.)
-8. **Ep. M7.** The last six coupons, $69, are paid from the can and stamped PAID IN FULL. The new stone matches Grace's. The inscription is set: his name and dates only, "Beloved son," "Wondrous love," or "Later." It's paid outright.
+8. **Ep. M6.** The last six coupons, $69, are paid from the can and stamped PAID IN FULL. The new stone matches Grace's. The inscription is set: his name and dates only, "Beloved son," "Wondrous love," or "Later." It's paid outright.
 9. **After.** Nothing reads it; nothing after shows the grave.
 
 ### 3.11 Which way the 1964 portrait was left
@@ -390,7 +390,7 @@ Flag: `portrait_1964_final`.
 2. **VI M14.** Wayne recognizes "the gap in the mother's teeth from the Chapter I portrait" in Ellis's description. (Design note.)
 3. **VIII M13.** The two photographs: "The player has seen this face before, younger: at five in the 1964 portrait."
 4. **Ep. M3.** Cal's inventory: "Cal doesn't turn it over. The player can." (§4.6.)
-5. **Ep. M7.** Tuesday Nov 2, 1976, as Wayne: turn it over, then set it face up or put it back.
+5. **Ep. M6.** Tuesday Nov 2, 1976, as Wayne: turn it over, then set it face up or put it back.
 6. **Coda.** November 1974: "A photograph face down." (Fixed.)
 
 ### 3.12 Riley's book: title and contents
@@ -417,7 +417,7 @@ No flag.
 4. **V M10.** April 12, 1975. Two tickets are used. "Your mother could sing that." Grace's three hot dogs. Forty miles an hour home.
 5. **VII M7.** Cal finds Ellis in the Engineers Park grandstand ("it's in the ledger").
 6. **VIII M18, Ep. M3.** The Engineers on Wayne's kitchen radio.
-7. **Ep. M7.** April 14, 1977: the last two tickets, for Wayne and Roy. Three hot dogs, one eaten. "He could sing." / "He could."
+7. **Ep. M6.** April 14, 1977: the last two tickets, for Wayne and Roy. Three hot dogs, one eaten. "He could sing." / "He could."
 
 Conflict: see §4.6 on VII M16's design note.
 
@@ -509,7 +509,7 @@ The lead's bug list. Every item gives the exact mission references. Every item i
 3. **`tour_rooming`.** V M3: "it's remembered." Nothing reads it. **Resolved (V8):** in-scene ("it plays out that night and at breakfast").
 4. **`vii_m7_dex_answer`.** VII M7: "Whichever Cal says ends up in the magazine." VII M13 has no Cal quote about soundcheck. **Resolved (V8):** VII M13 prints Cal's lie and Dex's correction.
 5. **`tailgate_answer` = me_too.** IX M5: "He doesn't know what Ellis means, yet." No later scene resolves it. **Resolved (V8):** in-scene ("and he doesn't ask").
-6. **`riley_kitchen_chair`.** 12 lists "whether Riley sat in Grace's chair" among the marks remembered later. Nothing after VIII M16 reads it. **Resolved (V8):** read at Ep. M7's Thanksgiving.
+6. **`riley_kitchen_chair`.** 12 lists "whether Riley sat in Grace's chair" among the marks remembered later. Nothing after VIII M16 reads it. **Resolved (V8):** read at Ep. M6's Thanksgiving.
 7. **`riley_nina_interview`.** X M2 calls it tracked, and 10 gives its payoff as "Ep. M5 (setup note)." That note doesn't mention Nina, and Nina writes MONDAY — RILEY whatever Riley says. **Resolved (V8):** Ep. M5's setup note gives the first line of Nina's 1979 piece, one per answer.
 8. **`bowery_photo`.** VII M19 promises "the festival program in Chapter X." X has no program moment. **Resolved (V8):** X M4, the program on the press table (he turns it face down); X M5's cardboard poster.
 9. **`sunday_clothes_harmony`.** The epilogue's design summary lists it as surfacing. Only Ep. M3's radio ("both versions") can carry it, and that isn't specified to use the flag. **Resolved (V8):** Ep. M3's radio names both versions and plays the single with the player's harmony.
@@ -517,9 +517,9 @@ The lead's bug list. Every item gives the exact mission references. Every item i
 11. **`dean_bets`.** 12 calls them tracked; VIII's Snow Day says "Nothing here is tracked." Nothing reads them. **Resolved (V8):** not tracked; 12 agrees with VIII.
 
 ### 4.3 Set, never read (the chapter calls it tracked; nothing downstream consults it)
-For each one, the lead should either add a read or drop "tracked" and treat it as in-scene. **Resolved (V8):** reads added for `patty_letter_truth` (Ep. M4, the framed letter) and `april12_pie_cut` (Ep. M7, April 12). Every other flag below is now labeled **in-scene** in its chapter's design summary ("the choice pays off where it's made, and nothing later changes"). The VIII M14 script flags are in-scene by design: the mission is one continuous take with nothing to carry forward except the touch.
+For each one, the lead should either add a read or drop "tracked" and treat it as in-scene. **Resolved (V8):** a read added for `patty_letter_truth` (Ep. M4, the framed letter). (A read for `april12_pie_cut` was added and then cut with the epilogue's April 12 beat.) Every other flag below is now labeled **in-scene** in its chapter's design summary ("the choice pays off where it's made, and nothing later changes"). The VIII M14 script flags are in-scene by design: the mission is one continuous take with nothing to carry forward except the touch.
 - **VII:** `borrowed_stone_for_wayne` (M16); `patty_letter_truth` (M18; Ep. M4 shows the framed letter without variant text); `white_crosses_taken` (M19; it affects that drive only).
-- **VIII:** `cal_rider_vote` (M1); `asked_dex_about_page` (M4; X M4's "I owe you a page" is fixed); `riley_sang_night_stage_line` (M10); `riley_rave_rack` (M11); `april12_pie_cut` (M18; Ep. M7's April 12 is fixed).
+- **VIII:** `cal_rider_vote` (M1); `asked_dex_about_page` (M4; X M4's "I owe you a page" is fixed); `riley_sang_night_stage_line` (M10); `riley_rave_rack` (M11); `april12_pie_cut` (M18).
 - **VIII M14 script:** `tolliver_passes` (N14.1a), `tolliver_grace_reply` (N14.2a), `tolliver_looks` and `tolliver_ages_seen` (N14.3a), `bend_stop` (N14.4a). The script itself says "Flags read here: none," and no later mission reads them. `tolliver_road_driven` has no stated read either (§4.6). Of the script's flags, only `oak_touch` (VIII M15) and `obs_tolliver_oak` (the notebook) are read.
 - **IX:** `called_clara_at_lake` (M2); `report_answer` (M4); `riley_dock_response` (M6); `palm_it_wait_seconds` (M7); `dean_poured_vial_self` (M8); `riley_pillcount_argument` (M10); `mrs_pardue_answer` (M11); `cal_bench_answer` (M12); `grace_letter_signed` (M13; only IX's objects list mentions it); `tried_on_jacket` (M13).
 - **X:** `riley_kit_answer` (M2); `talked_to_dex` (M4); the extent of `arm_lines` (M5, "how far up it went"); `lifted_hand` (M8; only Wayne's response in the same scene).
@@ -529,7 +529,7 @@ For each one, the lead should either add a read or drop "tracked" and treat it a
 - `wayne_ambulance_meant`, `wayne_sang` (X M9). "He never repeats it"; 10 lists it as a deliberate open thread.
 - `hand_held_seconds` (X M9). It only ends the scene.
 - `verse_line_1`–`verse_line_3` (X M8). Sung once, and seen once in X M9's footage. The Ep. M3 bootleg carries only *Go on*, and the 1996 track has no vocal.
-- `stone_inscription`, `portrait_1964_final` (Ep. M7). Each is the last choice in its chain, and nothing after shows the grave or the room.
+- `stone_inscription`, `portrait_1964_final` (Ep. M6). Each is the last choice in its chain, and nothing after shows the grave or the room.
 
 ### 4.5 Defaults the sources don't give
 `bowery_photo` (the frame if the player never moves the gaze); `van_price` (if the haggle fails, or never happens); `bedroom_wall_layout`; `tour_rooming`; `v_m12_sat_with_tully`; `vii_m7_dex_answer`; `vii_m7_grandstand_answer`; `vii_m8_dean_sound`; `patty_letter_truth`; `cal_rider_vote`; `riley_rave_rack`; `riley_kitchen_chair`; `riley_pillcount_argument`; `riley_kit_answer`; `riley_nina_interview`; `x_m6_vote`; `riley_book_title`; `riley_book_contents`; `stone_inscription`. Some of these may be forced choices (the scene can't go on without input), which is fine. The lead should mark which ones.
@@ -537,8 +537,8 @@ For each one, the lead should either add a read or drop "tracked" and treat it a
 **Resolved (V8).** Forced (the scene waits for input): `vii_m7_dex_answer`, `vii_m7_grandstand_answer`, `x_m6_vote`, `riley_nina_interview`, `riley_book_title`, `riley_book_contents`, `stone_inscription`, `patty_letter_truth`, `cal_rider_vote`, `riley_kit_answer`, `riley_pillcount_argument`. Defaults on no input: `bowery_photo` = the_stare (the lens); `van_price` = 475; `bedroom_wall_layout` = as the art team dresses it for I M1; `tour_rooming` = Ellis with Dean, Cal alone, Riley alone; `v_m12_sat_with_tully` = false (he goes back to the room); `vii_m8_dean_sound` = the first option offered; `riley_rave_rack` = metro_only; `riley_kitchen_chair` = stand.
 
 ### 4.6 Other state conflicts found while registering
-1. **The Engineers tickets.** VII M16's design note says "Wayne leaves money where it can be found: the heater, the half a tire, the Engineers tickets." V M1 and Ep. M7 have Ellis giving Wayne the ticket book on Christmas Eve 1974. **Resolved (V8):** VII M16's design note no longer lists the tickets.
-2. **The 1964 portrait.** Ep. M3 lets the player, as Cal, turn it over. Ep. M7 finds it face down. Say whether Cal's turn is look-only, as it is in I M1. **Resolved (V8):** Cal's turn is look-only; he sets it back face down (Ep. M3).
+1. **The Engineers tickets.** VII M16's design note says "Wayne leaves money where it can be found: the heater, the half a tire, the Engineers tickets." V M1 and Ep. M6 have Ellis giving Wayne the ticket book on Christmas Eve 1974. **Resolved (V8):** VII M16's design note no longer lists the tickets.
+2. **The 1964 portrait.** Ep. M3 lets the player, as Cal, turn it over. Ep. M6 finds it face down. Say whether Cal's turn is look-only, as it is in I M1. **Resolved (V8):** Cal's turn is look-only; he sets it back face down (Ep. M3).
 3. **The V M16 test line.** It's written in a memo book in May 1975, inside the range Monarch copies for *Rave* (memo books 1–67, IX M11) and in the books Riley reads and selects from (Ep. M5). "Nothing ever refers to it" needs a rule: tag it as not an Observe line, so neither pool can select it. **Resolved (V8):** the V M16 script tags it not an Observe line (N16.9).
 4. **The X M7 replay flag.** 14's replay flag gives Roy's "Go on" the second-step hold on replay. X M7 already holds on the second step on the first playthrough. **Resolved (V8):** on replay the hold runs one beat longer (14).
 5. **`obs_tolliver_oak`.** The VIII M14 script (node N14.5a) says the oak line "joins the notebook pool that Chapter IX's leaked pages are built from." IX M11 prints only from memo books 1–67, which Monarch copied in January 1976; memo 68 was in his jacket, and the oak line is written on March 20. The line can reach Riley's reading and her book (Ep. M5), but not *Rave*. Fix the script note, or IX M11's rule. **Resolved (V8):** the script note now says it reaches Riley's reading and her book, not *Rave*.

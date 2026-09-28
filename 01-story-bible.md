@@ -652,6 +652,12 @@ During story missions the narrative chooses who you play. There is no character 
 
 **The failed switch (VIII onward), identical every time.** The full cue (narrowing, stutter, the soft double rumble); then six frames of the target in focus (for Clara, from Ellis's eyes, so Rule 3 holds); then a second stutter; then the snap-back to Ellis with one hard pulse. It first happens at walking speed in a quiet moment (VIII M4). Because it's identical every time it fires (VIII M4, VIII M10, IX, X M9), it reads as grammar, not a glitch.
 
+**Binding execution.**
+- Input stays live through the whole failed switch, and the character keeps walking.
+- The camera keeps following. The catch is a focus pull inside the frame the player already has, and the camera never decouples.
+- The six frames are 200 ms (six frames at the 30 fps cinematic timebase), whatever the render rate.
+- The snap-back returns focus to whoever the camera was holding: Ellis in VIII, Cal in IX M1. After the fall in X M9, the failed tries on Ellis land first on a machine (Joel's footage), then on Riley.
+
 **Evolution.**
 - Ch I: proximity switches between strangers (Ellis passes Riley; Riley passes Dean; a damaged amplifier is carried to Cal's bench).
 - Ch II–III: switches along the band's new connections; in Chapter III the song itself carries the camera from radio to radio.
@@ -660,8 +666,8 @@ During story missions the narrative chooses who you play. There is no character 
 - Ch VI: **the switch as revelation**: Ellis → Riley in the same room; Clara vanishes.
 - Ch III–VI relays: every switch across distance rides a **carrier**: a sound both people hear, an object handed on, a vehicle crossing the frame, a phone line.
 - Ch VII: the Four Rooms: the first switch across distance with no carrier, only a **rhyme** (a train whistle heard separately in four places on one rail line), the band apart.
-- Ch VIII–IX: the camera begins to *catch* on Clara, stutters, and fails, snapping back to Ellis. A violation of the grammar the player has learned.
-- Ch X: rapid switching through the final song, "different organs of one body"; then the last switch into Ellis; then, after the fall, the camera tries to find Ellis, stutters, fails, stutters, fails, and lands on Riley. Later it lands, for the first time in the game, on **Wayne**.
+- Ch VIII–IX: the camera begins to *catch* on Clara, stutters, and fails, snapping back to whoever it was holding (Ellis in VIII; Cal at the empty chair in IX M1). A violation of the grammar the player has learned.
+- Ch X: rapid switching through the final song, "different organs of one body"; then the last switch into Ellis; then, after the fall, the camera tries to find Ellis, stutters, fails, stutters, fails, and lands on a machine (the footage), then on Riley. Later it lands, for the first time in the game, on **Wayne**.
 
 ### 11.2 The Room (performance system)
 
@@ -694,7 +700,7 @@ Music is never a rhythm game. The player is not pressing colored buttons on time
 9. The switch never catches on her until Chapter VIII, and then it fails.
 10. She never says "go on," or "go," or anything that sends him away from her. ("Keep going" is hers, and always about a car.)
 11. Until the midpoint (V M16) she never shares a vehicle with a band member, and no third party's point of view frames the place where she is, with one sanctioned exception: V M7, where Riley turns to an empty fence and doesn't know what he looked at.
-12. No horror grammar: she is never revealed in a mirror, a window or a reflection, and she never gets closer between cuts.
+12. No horror grammar: she is never revealed by a mirror, a window or a reflection as a scare (she can be seen through studio glass the way anyone can), and she never gets closer between cuts.
 13. She vanishes on screen, rather than leaving, in exactly two situations: when Wayne comes in, and when Lorraine appears (her handwriting in VII, her photograph in VIII). Otherwise she leaves the way a person leaves, or is simply gone when the camera comes back from looking somewhere else (a cut, a headlight, a turn of the head).
 
 ### 11.4 The objective camera

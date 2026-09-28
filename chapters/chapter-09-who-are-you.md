@@ -22,7 +22,7 @@ This is the chapter of the second album. It's made in a lodge on a mountain abov
 |---|---|---|---|---|
 | — | Cold Open: The Truck | (none) → Cal | the Stony Knob road, Mon May 10, 6:40 a.m. | 2 min |
 | 1 | The Lodge | Cal | Knob House, Stony Knob, Mon May 10 | 25 min |
-| 2 | Under Glass | Ellis | Knob House; the dock, May 11 – Jun 5 | 35 min |
+| 2 | Under Glass | Ellis | Knob House; the dock, May 11 – Jun 5 | 25 min |
 | 3 | Late Hour | Ellis → Riley | a television studio, New York, Thu Jun 10; Knob House, 1 a.m. | 25 min |
 | 4 | The Report | Ellis | the Blake kitchen, Sat Jun 19 | 20 min |
 | 5 | Sylva | Ellis | Sylva, North Carolina; a tailgate, Sat Jun 26 | 30 min |
@@ -120,7 +120,7 @@ Then, a second later, clean, with the old grammar, it goes to Ellis, and the pla
 
 ## MISSION 2 — UNDER GLASS
 
-**Playable:** Ellis · **Where:** Knob House; the great room; the dock; the kitchen table · **When:** Tuesday May 11 – Saturday June 5 · **Length:** ~35 min
+**Playable:** Ellis · **Where:** Knob House; the great room; the dock; the kitchen table · **When:** Tuesday May 11 – Saturday June 5 · **Length:** ~25 min
 
 ### The medicated free-roam
 
@@ -150,11 +150,20 @@ The player can take part in sessions in the great room: the Room system in a stu
 - **"The Bend."** Riley's. A song about a road she's driven once, at night, in the rain. She doesn't tell anyone what it's about. Ellis knows.
 - **"Who Are You?"** Not yet. That comes in July.
 
-Ellis plays slower. The glide is gentler; he doesn't push the tremolo arm as far. His voice is steadier and has less in it. Cal adjusts first, playing a little more, filling what Ellis leaves. Dean pulls back. Riley's harmonies carry more of the weight. Frank watches all of it from the truck and doesn't say anything, and his takes are shorter.
+Ellis plays slower. The glide is gentler; he doesn't push the tremolo arm as far. His voice is steadier, and it doesn't break. Cal adjusts first, playing a little more, filling what Ellis leaves. Dean pulls back. Riley's harmonies carry more of the weight. Frank watches all of it from the truck and doesn't say anything, and his takes are shorter.
 
 Nobody hums the high part in his ear anymore. When a song needs its harmony found, the player finds it by ear, or leans on Riley's part and lets it carry him there, a little late.
 
 > **Design note.** The medicated Ellis is steadier, simpler, and less able to take the band somewhere nobody planned to go. In the Room he has no *reach* and fewer turns, and he finishes things.
+
+**What the Room gives him on the pills.** It isn't only a loss, and the verbs say so:
+- *home* always lands clean on the first press;
+- the band never tires under him, however long a take runs;
+- Frank keeps first takes, which he has never done for anyone.
+
+The player feels steadiness as a thing they can do. They also feel the missing *reach* as a thing they can't.
+
+**The sessions and the exit.** The HUD carries the session list as its objective, one song at a time: NEW SKIN, KNOB HOUSE, PARIETAL HOURS, THE BEND. Finishing "New Skin" ends the mission. The rest can be finished first, or left for the band to finish without him. The four weeks play in about twenty-five minutes.
 
 ### Fishing
 
@@ -246,7 +255,7 @@ He plays it for her on the Jazzmaster unplugged at the kitchen table, slowly, an
 
 They cut it that night in the great room in one take, the band in the square, Ellis singing it straight into a microphone with the chimney mic open thirty feet above him, and Frank, in the truck, says on the talkback: "That's the one," and nobody asks for another.
 
-> **Design note.** "New Skin" is finished on the medication, in daylight, in the kitchen. The pills took some of Ellis's gift and left a man who could finish a song about his sister without reaching for anything. Riley thinks it's his best song. Ellis, later, won't be able to remember how he wrote it.
+> **Design note.** "New Skin" is finished on the medication, in daylight, in the kitchen. The pills took the reach and left a man who could finish a song about his sister without reaching for anything. Riley thinks it's his best song. Ellis, later, won't be able to remember how he wrote it.
 
 ### Clara?
 
@@ -268,7 +277,7 @@ He doesn't say it again.
 
 ## MISSION 3 — LATE HOUR
 
-**Playable:** Ellis → Riley · **Where:** Studio 6B, a network building, Midtown Manhattan; Knob House · **When:** Thursday June 10, 5:00 – 7:00 p.m. (taping); Friday June 11, 1:00 – 2:10 a.m. (broadcast) · **Length:** ~25 min
+**Playable:** Ellis → Riley · **Where:** Studio 6B, a network building, Midtown Manhattan; Knob House · **When:** Thursday June 10, 5:00 – 7:00 p.m. (taping); Friday June 11, 1:00 – 2:00 a.m. (broadcast) · **Length:** ~25 min
 
 ### Russ Mandel
 
@@ -897,7 +906,7 @@ The Observe cue comes back, faint, after nearly three months. The line is still 
 
 Saturday afternoon. A session in the great room. The band in the square on the rugs. Frank in the truck.
 
-The Room system is different today, and the player can feel it immediately: the sound has more presence, more air, a little more high end, like somebody took a blanket off the speakers. Ellis's hands are quicker. When the player uses *reach* ("Stay with me"), Ellis leaves the arrangement of "Knob House" and goes somewhere nobody planned, and the band follows him, all three at once, and it's the old thing, the thing that made them. Frank's voice on the talkback, from the truck: "Well, *hello*."
+The Room system is different today, and the player can feel it immediately: the sound has more presence, more air, a little more high end, like somebody took a blanket off the speakers. Ellis's hands are quicker. When the player uses *reach* ("Stay with me"), Ellis leaves the arrangement of "Knob House" and goes somewhere nobody planned, and the band follows him, all three at once, and it's the old thing. Frank's voice on the talkback, from the truck: "Well, *hello*."
 
 It's thrilling. Cal looks at Ellis across the square. Riley looks at Ellis across the square. Both of them notice he's brighter. Riley also notices he didn't come down for breakfast because he never went to bed.
 
@@ -927,7 +936,7 @@ The Stony Knob fire tower: a steel frame, sixty feet high, with switchback stair
 
 On the first landing, sitting on a step with her boots on the rail, in the jean jacket, lit gold and blue and red by fireworks on two horizons at once, is Clara.
 
-She's brighter than she's ever been. Sharper. More there.
+She's brighter than he remembers.
 
 **CLARA:** Hey.
 
@@ -937,9 +946,9 @@ She's brighter than she's ever been. Sharper. More there.
 
 **ELLIS:** I know.
 
-**CLARA:** Two months.
+**CLARA:** Since April.
 
-**ELLIS:** Twelve weeks. Since the eighth of April.
+**ELLIS:** The eighth. Twelve weeks.
 
 **CLARA:** You counted?
 
@@ -1193,7 +1202,7 @@ The doors open at seven. The player can switch freely now among the four as they
 - **Cal** sees his parents, in the third row. Walt Mercer has never been to one of their shows. He's in his church suit. Dot is waving. Walt isn't, and doesn't need to.
 - **Dean** sees his parents and Patty, in the sixth row. Richard Holloway in a blazer, looking at the Tabernacle's ceiling the way he looks at a well-built balance sheet. Dean is seven days sober. He hasn't told them. He'll tell them tomorrow at six o'clock.
 - **Riley** sees her father, next to the aisle, in his tie with the atoms on it, and Professor Landry and his wife, halfway back, Landry looking deeply suspicious of the whole proceeding.
-- **Ellis** sees Clara, in the wings beside him, radiant, watching him pick at the tape on his set list. "Quit that," she says. "You'll have nothing to read." And then, if the player lets him look up at the gallery, he sees, in the second row of the gallery, at the rail, a man in a hat. Wayne came. Roy Cagle is beside him in a sport coat that doesn't fit. If Ellis answered Kevin's letter in VII (the stranger mission *Kevin's Sound*), a boy is at the front of the gallery, three seats down from Roy, with a Sears Silvertone case between his knees. He doesn't wave, because he's fifteen.
+- **Ellis** sees Clara, in the wings beside him, radiant, watching him pick at the tape on his set list. "Quit that," she says. "You'll have nothing to read." And then, if the player lets him look up at the gallery, he sees, in the front row of the gallery, at the rail, a man in a hat. Wayne came. Roy Cagle is beside him in a sport coat that doesn't fit. If Ellis answered Kevin's letter in VII (the stranger mission *Kevin's Sound*), a boy is at the front of the gallery, three seats down from Roy, with a Sears Silvertone case between his knees. He doesn't wave, because he's fifteen.
 
 ### "Wondrous Love"
 
@@ -1259,7 +1268,7 @@ The encore. Ellis at the mic:
 
 **ELLIS:** There's somebody up here who can lead one. Mrs. Riley.
 
-Joan looks up from the alto row like she's been shot.
+Joan looks up from the alto row as if somebody had called her name in church.
 
 Riley, at her mic, turns around and looks at her mother.
 
@@ -1270,15 +1279,15 @@ The player is Riley, with no verb. She watches her mother call out a page number
 *Brethren, we have met to worship*
 *and adore the Lord our God…*
 
-It's the hymn from the Linwood living room at Thanksgiving. Joan Riley is leading it. The organist who gave up Oberlin in 1949 and played Bach alone on Saturday mornings for twenty-six years is standing in the middle of the loudest music in the South with her hand in the air, and everyone is singing to her, because that's how the square works: everyone faces the leader.
+It's the hymn from the Linwood living room at Thanksgiving. Joan Riley is leading it. The organist who gave up Oberlin in 1949 and played Bach alone on Saturday mornings for twenty-six years is standing in the middle of a rock band and forty-one singers with her hand in the air, and everyone is singing to her, because that's how the square works: everyone faces the leader.
 
-Up in the gallery, Tom Riley is standing on a pew. Landry has his hand over his mouth.
+Out in the pews, Tom Riley is standing on his. Landry has his hand over his mouth.
 
 > **Design note.** The set piece of Chapter IX: a building the country-music establishment abandoned, a sound older than country music, and one hymn led by a woman who never got to lead anything. Riley has no line.
 
 ### After
 
-The alley behind the Tabernacle, midnight. The class loading their buses. Elmer Tidwell shakes Ellis's hand and says "Your grandmama would've hollered," which is the highest praise in Sacred Harp.
+The alley behind the Tabernacle, midnight. The class loading their buses. Elmer Tidwell shakes Ellis's hand and says "Your grandmama would've hollered."
 
 Brief things, each one playable for a moment as whoever is nearest:
 - **Walt Mercer** finds Cal at the stage door, in his church suit, and shakes his hand, which he has never done. Then he shakes Theo's, who is standing beside Cal. He doesn't say anything. Dot hugs both of them and talks for four minutes without stopping.
@@ -1361,7 +1370,7 @@ The player chooses how Riley says the thing she's learned this year. Every optio
 
 - *"It doesn't show you anything, Ellis. It just turns everything up. I spent two years thinking it showed me things. It showed me my own hand."*
 - *"Name one other person who heard that fish. I'll wait."*
-- *"I did the same thing. With a different bottle. It lied to me too."*
+- *"I did the same thing with mushrooms. It lied to me too."*
 
 He doesn't argue. He doesn't agree either.
 
@@ -1401,7 +1410,7 @@ On the last trip, Cal is standing by the Datsun. He's come up from the lake. He 
 
 **RILEY:** I'll tell her.
 
-She gets in the car. The player drives her down the gravel lane, past the chain, past the fire tower, past the overlook, down the switchbacks, past the pull-off (the ditch where the Corvette was still has tire marks in it), out of the North highlands and through the Laurel Gap to Linwood. It's forty-five minutes. Riley doesn't cry until the Laurel Gap, and then she does, and drives the rest of the way that way, carefully, at the speed limit.
+She gets in the car. The player drives her down the gravel lane, past the chain, past the fire tower, past the overlook, down the switchbacks, past the pull-off (the ditch where the Corvette was still has tire marks in it), out of the North highlands and through the Laurel Gap to Linwood. It's an hour and a quarter. Riley doesn't cry until the Laurel Gap, and then she does, and drives the rest of the way that way, carefully, at the speed limit.
 
 > **Design note — Riley's choice.** The bible said Riley was wrong about three things: that altered perception reveals truth, that understanding someone gives you a say in what happens to them, and that she had special access to Ellis. This chapter takes all three away from her. What's left is the thing she's right about: she can't make him choose, and she won't stand in a kitchen and watch him not. She leaves the house and keeps the band. Nobody makes her.
 
@@ -1508,7 +1517,7 @@ The player can hang up. Or Ellis can hold the receiver away from his ear and let
 
 Richard Holloway will write Monarch a four-page letter on Monday. Monarch will reply with a paragraph. Nothing will come of it.
 
-Out on Main Street the bank clock says ninety-one degrees. The Valiant is at the curb, and Clara is in it before he is. Cold Branch Road is four blocks and a left; Knob House is forty minutes up the mountain. If the player turns the car toward home:
+Out on Main Street the bank clock says ninety-one degrees. The Valiant is at the curb, and Clara is in it before he is. Cold Branch Road is four blocks and a left; Knob House is twenty minutes up the mountain. If the player turns the car toward home:
 
 **CLARA:** Your daddy's on the extra board. He sleeps afternoons, and you'll wake him. Left at the church.
 
@@ -1653,7 +1662,7 @@ It's "Sunday Clothes." A Row singer named Charlene Hobbs cut it in June with a f
 
 Cal and Ellis look at the radio. Then at each other.
 
-Then they both start laughing, and can't stop, the kind of laughing that hurts, bent over Walt Mercer's bench with a clock radio playing Riley's mother's song with strings.
+Then they both start laughing, and can't stop, the kind of laughing that hurts, bent over Walt Mercer's bench with a clock radio playing Riley's song about her mother, with strings.
 
 **WALT** *(from the window, not lowering the paper)*: Who is that?
 
@@ -1728,7 +1737,7 @@ Wayne looks at him. He looks down the hall.
 
 **WAYNE:** Go on in.
 
-He says it the way he says everything, the way Roy says it, the way everybody in Hollow Ridge says it about everything: go on, get out of here, go on in, go on and take it.
+He says it the way he says everything.
 
 The player walks Ellis down the hall. Clara is standing at the end of it, by the front room. She doesn't follow him. She never comes into this room. She's watching. She doesn't point or nag or say a word, and there's no help in Grace's room: the player finds everything in it alone.
 
@@ -1816,7 +1825,7 @@ And his children, in the hall, sing along too: Ellis on the low harmony, Grace o
 
 **GRACE:** WGRC!
 
-For three minutes, the song, three Blakes singing in a hot house on Cold Branch Road, one of them missing, the other three not thinking about it. The player can just stand in the hall and listen.
+For three minutes, the song: three Blakes singing in a hot house on Cold Branch Road, the fourth in Ohio, and none of them thinking about it. The player can just stand in the hall and listen.
 
 **Supper.** Fried okra, tomatoes, peaches. Then Grace at the kitchen table with notebook paper and her green felt-tip, writing.
 
@@ -1886,11 +1895,11 @@ Then he takes it off and hangs it back on the hook, exactly the way it was.
 
 He comes out of Grace's room into the hall and leaves the door open behind him. The hall light's off. The kitchen light's on at the far end, and the sound of Wayne's radio.
 
-At the other end of the hall, by the front room, there's someone standing.
+At the other end of the hall, in the spill from the kitchen light, somebody is sitting on the floor with her back against the wall and her boots out.
 
 She's fourteen.
 
-Small, in the jean jacket that fits her, a child's size, her hair in a ponytail, standing in the hallway of the Blake house with her hands in the pockets. She has Grace's face now, almost. Not quite.
+Small, in the jean jacket that fits her, a child's size, her hair in a ponytail, sitting in the hallway of the Blake house with her hands in the pockets. She has Grace's face now, almost. Not quite.
 
 She's still Clara. The voice is Clara's, younger.
 
@@ -1914,7 +1923,7 @@ Clara almost laughs. It's the old Clara, for a second, in a fourteen-year-old's 
 
 **CLARA:** Hush.
 
-She walks down the hall toward him. The player can move Ellis out of the way or not; she goes past him either way, close, not touching (she never touches anything).
+She gets up and walks down the hall toward him. The player can move Ellis out of the way or not; she goes past him either way, close, not touching (she never touches anything).
 
 She stops at Grace's door, which Ellis left open. The horse sticker, at the height of a six-year-old.
 
@@ -2032,7 +2041,7 @@ Then, looking at the lake:
 
 **RILEY:** I always do.
 
-**ELLIS:** I know. Do it anyway.
+**ELLIS:** I know.
 
 > **Setup.** On every song's ending, Riley drifts back to the stage-left corner of the drum riser, so that when Ellis turns home to face Dean, she's in his eyeline. He's asking her to be where he'll turn.
 
@@ -2071,7 +2080,7 @@ The band made a second album in a lodge on a mountain above the house where Elli
 - **Held back, for Chapter X:** what Grace said after the white. "Stop saying sorry" is known; "Liar," "It's okay" and "Go on" are not. The player has everything except the last three things she said.
 
 ### The medication, honestly
-The chapter was built so that nothing good is reserved for being off the pills and nothing bad is blamed on being on them. On: sleep, swimming, the pie (VIII), Riley's laugh, "New Skin" finished, a calm he's never had, and a television appearance so fluent Riley didn't know him. Off: Clara and the help that comes with her, the reach, the Room thrilling again, "Who Are You?" begun, and 3 a.m., talking to air, a lost verse in front of 2,300 people, and Riley leaving the house. Neither list wins. The chapter shows why he chose, and what the choice cost the people watching.
+The chapter was built so that neither side of the bottle gets all the good, and neither gets the blame. On: sleep, swimming, the pie (VIII), Riley's laugh, "New Skin" finished, a calm he's never had, and a television appearance so fluent Riley didn't know him. Off: Clara and the help that comes with her, the reach, the Room thrilling again, "Who Are You?" begun, and 3 a.m., talking to air, a lost verse in front of 2,300 people, and Riley leaving the house. Neither list wins. The chapter shows why he chose, and what the choice cost the people watching.
 
 ### Riley
 She watched her mother lead a hymn in the middle of the loudest music in the South. She counted pills, twice. She said *I can't watch you choose her.* She left the house and kept the band, and cried in the Laurel Gap at the speed limit. She finished the third verse of "Occasionally Astonishing" at her mother's upright in Linwood. She played him her song on a dock, and it wasn't about him, and he asked her to stand where he'd turn.
@@ -2083,7 +2092,7 @@ Fished and caught nothing, on purpose now. Told the story of his grandfather and
 Sat in a lot four times watching a woman refill ketchups. Put a Corvette in a ditch at the pull-off where Wayne used to listen. Poured it out. Walked two miles in the dark with nothing in his hands. *I think I need help.* Three nights, one voice for everyone, and Theo doing a Cajun Shevek until the laugh turned into something else. Woke up with the Starlite Polaroid on his nightstand. Six days, on a step, with a glass of tea and a five-year-old playing drums. Played "Tomorrow Problem" sober in the Tabernacle with space in it. Said *I'll be there* to his father, and went, at six.
 
 ### Wayne
-Watched his son be nice about Grace on television and called a deputy. Opened the envelope with his own knife and handed his son the knife. *I couldn't have it be nobody's.* Drove to North Carolina with every clipping about the band in the glovebox. Apologized to a stranger and then to his son, both times to the mountains. Stood up in the gallery of the Tabernacle and sang the bass line his mother taught him. Kept every dollar of the rent. *Go on in.* *You want me there?*
+Watched his son be nice about Grace on television and called a deputy. Handed his son his own knife, handle first, to open the envelope. *I couldn't have it be nobody's.* Drove to North Carolina with every clipping about the band in the glovebox. Apologized to a stranger and then to his son, both times to the mountains. Stood up in the gallery of the Tabernacle and sang the bass line his mother taught him. Kept every dollar of the rent. *Go on in.* *You want me there?*
 
 ### Clara's help
 When she's with Ellis, she is the only guidance the chapter gives. Playing as Cal, Riley or Dean there is none, and none with Wayne in the room.
@@ -2093,6 +2102,7 @@ When she's with Ellis, she is the only guidance the chapter gives. Playing as Ca
 | M1–M6 | None. On the medication there's no Clara and no help: no hum in the Room (the player finds the harmony by ear, or Riley's part carries it), Observe muted, the day and the way from the HUD only, and nobody at his shoulder in the *Late Hour* corridors | — | — |
 | M7, day four | "Don't bother with the top. The cab's locked." | directions | no |
 | M7 | "Look at Tannersville. They're doing the blue ones twice, to show off." | Observe (the cue back at full strength) | no |
+| M7 | "Don't do it again." | his body | **yes**: away from the pills |
 | M7 | "Frank wants you Tuesday at ten. Dean still owes you four dollars. And you never touched your supper. Eat something." | the calendar, money, his body | no |
 | M9, the wings | "Quit that. You'll have nothing to read." | the set list | no |
 | M9, "Wondrous Love" | "Watch Elmer's hand. That's where the time is." | the Room: the band's entrance under the class | **yes**: eyes on the stage, away from the gallery, where Wayne is singing |

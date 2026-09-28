@@ -74,7 +74,7 @@ Set list, taped to the deck: LOW WATER · STILL HERE · SUNDAY CLOTHES · TOMORR
 **"Tomorrow Problem" (Dean).** The valley shouts the chorus. On the last chorus Dean throws one stick.
 
 **"New Skin" (Ellis).** `SYS:` The one visible crack. At verse 2, line 2, the lyric input goes dead for 1.5 bars.
-- `SW:` a soft pull to Cal, AI-driven. Cal plays the missing melody high on the bass.
+- `SW:` none. The switch grammar is identical every time, and this isn't a switch. Cal plays the missing melody high on the bass, and it comes up in Ellis's monitor mix.
 - Ellis re-enters a beat late and laughs into the mic.
 
   | ID | Speaker | Line | Delivery |
@@ -87,7 +87,7 @@ Set list, taped to the deck: LOW WATER · STILL HERE · SUNDAY CLOTHES · TOMORR
 **"Shape Note" (all), 8:04 p.m.** `CAM:` The four turn in and face each other across the front of the riser: a hollow square. Ellis's back is to the crowd, and he faces Dean. Riley is at the riser's stage-left corner, Cal at stage right. What's left of the light goes. Blue, then dark blue. The stage lights come up behind them. Lighters appear.
 - `MUS:` Nine minutes of drone, with the Sacred Harp tune under it.
 - `AUD:` The crowd falls to near-silence, the way a room does.
-- `CAM:` In the stage-right wing, Joel taps Kit. She switches on the sun-gun (650 W).
+- `SYS:` Offscreen, in the stage-right wing, Joel taps Kit and she switches on the sun-gun (650 W). The camera never shows the wing, before the fall or during it.
 - `CAM (Ellis):` The left side of frame goes white, low and sudden. His body jerks right in a small, hard flinch. His hand stops on the strings for half a beat.
 - `MUS:` The band covers it. The crowd doesn't notice.
 - `CAM (Riley):` if the player is Riley here, she sees his shoulders go.
@@ -96,7 +96,7 @@ Set list, taped to the deck: LOW WATER · STILL HERE · SUNDAY CLOTHES · TOMORR
   |---|---|---|---|
   | X08_JOE_001 | JOEL | Kill it, it's flaring. | Technical, low, to Kit. |
 
-- `CAM:` Kit kills the light.
+- `SYS:` Kit kills the light (offscreen).
 
 ### 8.4 · "WHO ARE YOU?" — VERSES 1–3 AND THE CHANT
 `SYS:` The switching slows; the camera stays with Ellis longer each time.
@@ -105,7 +105,12 @@ Set list, taped to the deck: LOW WATER · STILL HERE · SUNDAY CLOTHES · TOMORR
 |---|---|---|---|
 | X08_ELL_020 | ELLIS | (sung) *Who are you, in the jacket that was hers, / on the stairs at the top of the world? / I made a room in the house for you to stay in. / I never asked who'd be living there.* | The fire-tower verse. Plain, forward. |
 
-Verses 2 and 3 are the Knob House lyrics (see the Music team's lyric sheet, "Who Are You?" v3).
+Verses 2 and 3, written at Knob House in August:
+
+| ID | Speaker | Line | Delivery |
+|---|---|---|---|
+| X08_ELL_021 | ELLIS | (sung) *I took a white pill every morning from March. / I slept all night. I finished a song. / You came back on the Fourth with the fireworks going, / and I was glad, and I'm not supposed to be.* | Level. The last line is a plain fact about himself, not a confession. |
+| X08_ELL_022 | ELLIS | (sung) *You always knew the day and where I left my keys. / You knew the way home from anywhere but one. / I asked you who you were. You asked me the same. / I've been working on it since.* | Toward the lip, though Clara isn't there yet. Don't lean on "anywhere but one"; the second playthrough does that. |
 
 `AUD:` The turnaround, then the chant, *EL-LIS, EL-LIS, EL-LIS*: enormous and loving.
 
@@ -195,7 +200,7 @@ On the press:
 | X08_DEA_040 | DEAN | (no line; grins, both sticks up, two clicks) | *Hold.* |
 
 - `MUS:` The last chord, all four together, and cut.
-- `AUD:` 1.0 s of room silence ("the right kind"). No music, no crowd yet.
+- `AUD:` 1.5 s of room silence ("the right kind"). No music, no crowd yet.
 - `CAM (Ellis):` Riley is ahead of him and a little to his left, ten yards off. **Blocking:** she stands a step stage-right of the riser's stage-left corner. Glasses, hand out, open.
 
 | ID | Speaker | Line | Delivery |
@@ -204,7 +209,8 @@ On the press:
 
 - `CAM (Ellis):` He steps toward her.
 - `AUD:` The valley comes up. Full crowd bed, all at once.
-- `CAM (objective, 18 frames, from the stage-right wing):` Joel steps out onto the upstage-right deck for the reverse on the bow. Kit steps out with him, raises the sun-gun, and switches it on.
+- `CAM (Ellis):` no cut. Behind his left shoulder, unseen, Joel steps out onto the upstage-right deck for the reverse on the bow, and Kit steps out with him and switches on the sun-gun. The player learns where the light came from only in Roll forty (9.2) and at the case (9.6).
+- **Floor:** at least 3.0 s from the chord cut to the switch-on, with the laugh finished inside it, so the song is over before the light.
 
 **THE FALL. Binding audio, light and camera spec.**
 - **Real time.** About 2.5 s from switch-on to black. No slow motion, no freeze.
@@ -236,7 +242,7 @@ On the press:
   1. The young man in the leather jacket and the ELLIS shirt walks to the stage-left lip and sings to an empty corner.
   2. On line 2 of the verse, he lifts a hand toward nothing.
   3. The band follows. The girl with the twelve-string is at the riser corner with her hand coming out.
-  4. **The hold.** Duration by `home_hold_story_band`: `under_a_minute` → 40 s; `about_two` → 110 s; `almost_three` → 170 s. The footage runs at that length as a montage of real-time fragments cut with jump cuts, as the film magazine allowed.
+  4. **The hold.** Duration by `home_hold_story_band`: `under_a_minute` → 40 s; `about_two` → 110 s; `almost_three` → 170 s. The footage runs continuously at that length. Joel never cuts.
   5. He turns. The drummer's sticks go up. A clean stop. The boy laughs and steps toward the girl.
   6. The frame flares white (the sun-gun beside the lens), then recovers.
   7. The stage-left end is empty. The rope swings. The girl's hand is still out.
@@ -325,12 +331,12 @@ On the press:
 | "I'm proud of you." | You done good up there. | X09_WAY_011 | Flat, like a report on a job. |
 | "I'm scared." | Son. | X09_WAY_012 | Barely out. |
 | "Son." | Son. | X09_WAY_013 | The only one he gets all the way through. |
-| Sing | (hums the bass line of "Wondrous Love," no words) | X09_WAY_014 | Big rough voice, half a beat behind, sure of every note, almost under the siren. |
+| Sing | (hums the bass line of "Wondrous Love," no words; loses it after a phrase and starts again from the top) | X09_WAY_014 | Big rough voice, half a beat behind, almost under the siren. He loses it in the same place twice. It must never turn beautiful. |
 | Silence | (nothing) | — | He holds the hand. |
 
 - `AUD:` No music under any of it. Doreen looks out the side window when he speaks.
 - `CAM:` His thumb moves on the back of his son's hand.
-- `SYS:` No cut. The ride runs as long as the player stays: 40 minutes of story time, with play time governed by input and a minimum of 3 minutes before 9.10 can trigger.
+- `SYS:` No cut. The ride runs as long as the player stays: 50 minutes of story time (wet roads), with play time governed by input and a minimum of 3 minutes before 9.10 can trigger.
 
 ### 9.10 · 9:52
 `UI:` SATURDAY · AUGUST 28 · 9:52 P.M. The date shows only on days somebody says it aloud.

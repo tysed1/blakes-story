@@ -18,8 +18,8 @@ The epilogue is short on purpose. It's about the people who are left, and about 
 | 3 | The List | Cal | the Blake house; Marlon's; the van, Sept – Oct 1976 | 15 min |
 | 4 | Pocket | Dean | Belle Grove; the east slope; the Pine Knot, Sept 1976 | 15 min |
 | 5 | M. | Riley | Linwood; Tannersville College, Oct 1976 – Jan 1977 | 15 min |
-| 6 | 1996 | (documentary, non-interactive) | various, 1996 | 4 min |
-| 7 | Tater | Wayne | the Blake house; the Riley house, Linwood; Hollow Ridge Monument & Vault; Engineers Park, Nov 1976 – Apr 1977 | 20 min |
+| 6 | Tater | Wayne | the Blake house; the Riley house, Linwood; Hollow Ridge Monument & Vault; Engineers Park, Nov 1976 – Apr 1977 | 18 min |
+| 7 | 1996 | (documentary, non-interactive) | various, 1996 | 4 min |
 | — | Coda: Saturday | Ellis | Hollow Ridge, Sat Nov 9, 1974 | open |
 | — | Credits · post-credits | — | — | — |
 
@@ -71,7 +71,7 @@ The waitress, fifty, tired, pencil behind her ear. On the television over the pi
 
 It's Sunday. The list on the dresser in Hollow Ridge said *Dad — Sunday?*, and Wayne told his son, yesterday, in the doorway of a trailer, *Sunday's fine, I'll make biscuits.*
 
-The dialogue options are few. The player can order anything on the menu. One option pulses, gently, not insisting:
+The dialogue options are few. The player can order anything on the menu. One option is at the top of the list:
 
 **WAYNE:** Biscuits.
 
@@ -161,7 +161,7 @@ The player carries. It's a slow walk up a grass slope with five other people, an
 
 The two stones under the cedar: CLARA TATE BLAKE, 1901–1970. GRACE CLARA BLAKE, NOV. 2, 1958 – APR. 12, 1973. The grass around them trimmed close by hand.
 
-The space beside them, which was measured out for Wayne, is open.
+The space beside them, measured out years ago for Wayne, is open, and it's Ellis's now.
 
 ### The square
 
@@ -272,7 +272,7 @@ It's on in the Blake kitchen (Wayne's AM, the Engineers' last homestand, and the
 
 - *Borrowed Stone* re-enters the national album chart the week after the festival at #34. The week after that, #9. On October 9, #1. The player hears a DJ say it, cheerful, on the Vale's radio, while Cal is restringing a customer's guitar.
 - "Still Here" is back on the singles chart. So is "Sunday Clothes," both versions: Riley's from the album, and the New York single with Ellis's lead and, under it, the harmony the player gave Riley in VIII (below him, above him, in unison, or, if she sang nothing, Lenny doubling Ellis). The DJs play the single.
-- The film company that shot the Arbor Jam announces a concert movie for the spring, *Last Light at Glen Arbor*, "featuring the final performance of Ellis Blake." Monarch announces it owns the audio rights to the Blakes' set under the rider and will release it as a live album. The band's lawyer (Richard Holloway found him) files an injunction. The player hears about it on the radio. They hear the phrase *the final performance* nine times.
+- The film company that shot the Arbor Jam announces a concert movie for the spring, *Last Light at Glen Arbor*, "featuring the final performance of Ellis Blake." Monarch announces it owns the audio rights to the Blakes' set under the rider and will release it as a live album. The band's lawyer (Richard Holloway found him) files an injunction. It stops the live album. It doesn't stop Monarch putting out the Knob House record in 1977 as *Last Light*, with a frame of the footage on the cover. The player hears about it on the radio. They hear the phrase *the final performance* nine times.
 - A DJ on a Laurel City station plays thirty seconds of audio from the festival, from somewhere (a bootleg, a crew tape, nobody knows): a voice singing the end of a verse nobody had heard before, *go on*, over a band going around and around. Cal is in the van when it comes on. The player can turn it off. The prompt is right there. If the player doesn't, Cal does it himself, after a few seconds.
 
 Cal doesn't argue with the radio. He changes the station.
@@ -441,11 +441,11 @@ She holds the door. He goes in. Bobby, five and a half, looks up from the blue-s
 
 **Playable:** Riley · **Where:** the Riley house, Linwood; the gymnasium, Tannersville College · **When:** Saturday October 2, 1976 – Friday January 7, 1977 · **Length:** ~15 min
 
-### Maps
+### The bridge
 
 Saturday, October 2. The Riley house in Linwood, with the house empty. Riley has been living in her old room since July, with Gerald on the sill.
 
-The player is Riley, at her mother's upright piano in the front room, working on a song. It's the first thing she's written since August. It's about his maps: the napkins, the ballpoint on his arm, a pasture outside Macon at midnight with a cow looking in the windshield. The verse is done. The bridge won't come.
+The player is Riley, at her mother's upright piano in the front room, working on a song. It's the first thing she's written since August. It's the one whose bridge wouldn't land in the hayfield in New York, and it isn't about him. The verse is done. The bridge won't come.
 
 The songwriting system, her way: a line, a crossed-out line, the Martin, the piano, a word from the list inside her notebook's cover. She gets two lines of the bridge and stops. That's enough for a Saturday.
 
@@ -516,7 +516,9 @@ A small press in Tannersville wants a book. So does a big one in New York. Dex L
 
 Riley decides what the world gets.
 
-This is the player's choice. The player goes through the notebooks with her and chooses which lines and which poems go into a small book: thirty-five pages, a plain gray cover, a title she chooses from a few options (*Western Auto*; *Memo*; *Lines*; *Allegedly*). The player can include anything they collected, and any of the poems to M., or none of them.
+That week, with the notebooks still on her desk, she starts a second song, about his maps: the napkins, the ballpoint on his arm, a pasture outside Macon at midnight with a cow looking in the windshield. It's the only one about him.
+
+This is the player's choice. The player goes through the notebooks with her and chooses which lines and which poems go into a small book: thirty-five pages, a plain gray cover, a title she chooses from a few options (*Western Auto*; *Memo*; *Lines*; *Allegedly*). The player can include anything they collected, and any of the poems to M., or none of them. If the player collected fewer than twenty lines, Riley fills the book from the memo books herself, and one of the lines she picks is from the spring he was on the pills, short, in his hand: *Tater in the water to his chest, looking at a frog.*
 
 There are two things the game will not let the player include.
 
@@ -548,111 +550,11 @@ On the way out, she passes the philosophy building. Landry's door is open. He's 
 
 ---
 
-## MISSION 6 — 1996
+## MISSION 6 — TATER
 
-**Playable:** none (documentary frame) · **Where:** various · **When:** 1996 · **Length:** ~4 min
-
-The picture changes. Video, not film: the slightly soft, too-bright look of mid-1990s Betacam. A title card, white on black:
-
-> **WHO ARE YOU?**
-> **THE BLAKES, 1974–1976**
-> *A documentary*
-
-It accompanied the band's 1996 release of the second album, *Who Are You?*, as they meant it, nineteen years after a label released it against their wishes as *Last Light*. The poster, glimpsed on a wall in the first shot, is the Bowery photograph: the player's version.
-
-The player can't control any of it. Four minutes of what the world got.
-
-### Dean
-
-Dean Holloway, forty-two, in a folding chair in a room full of drum kits. A sign on the wall behind him: HOLLOWAY DRUM STUDIO · LESSONS · ALL AGES. Gray at the temples. The same grin and the same chipped tooth. A coin on a string around his neck that he touches when he talks.
-
-**DEAN:** He was funny. Nobody writes that. Everybody writes about the sister and the girl and the light. He was the funniest person I ever met. He ranked boiled peanuts. He had a list. Fourth place was a crime against God and peanuts.
-
-### Cal
-
-Cal Mercer, forty-three, at a mixing console. MERCER SOUND, on the glass door, in his father's old shop on Rail Street by the yard. On the shelf over the console, an old Philco cathedral radio with no job ticket on it. Theo Marchand at the second chair, gray, adjusting something. Cal refers to him once, in passing, as "Theo, my partner." The documentary doesn't make anything of it.
-
-**INTERVIEWER:** What was Ellis Blake like?
-
-A long pause. Cal taps his pen twice on the console.
-
-**CAL:** He wasn't so bad.
-
-He doesn't elaborate. The interviewer waits. Cal waits longer.
-
-(Cal adds, after a while, if he carried the lost verse at the Tabernacle: *"He lost a verse. Twice. I played it for him up high, both times. He found it."* If Riley carried it there: *"He lost a verse at the end. I played it for him up high. He found it."*)
-
-### Riley
-
-Riley, forty-one, in an office at Tannersville College with a piano, a window, and a spider plant on the sill, enormous, cascading to the floor.
-
-**INTERVIEWER:** Who was Ellis Blake?
-
-Riley pushes her glasses up with a knuckle.
-
-**RILEY:** He drew maps. For the van. How to get to a gig. On napkins, on his arm. They were always wrong. He drew us a map to a show in Macon once and we ended up in a pasture in the middle of the night with a cow looking in the windshield. Dean took a picture of the cow.
-
-She laughs.
-
-**RILEY:** He drew maps that were wrong and he was sure about every one of them.
-
-On the shelf behind her, a small gray book: his notebook lines, with the title the player chose. An insert shows one page of it, made of the Observe lines the player collected.
-
-### Dex
-
-Dex Lundgren, fifty-one, in a leather armchair in Detroit with a lot of books. Sober. Reading glasses instead of sunglasses. His book, *Who the Hell Was Ellis Blake?*, 1977, on the table beside him.
-
-**INTERVIEWER:** Did you make him up?
-
-Dex takes his glasses off and thinks about it for a long time.
-
-**DEX:** I sold a lot of magazines.
-
-### Nina
-
-Nina Sorensen, forty-nine, still at *Metro*, reading off a yellowed clipping:
-
-**NINA** *(reading)*: "He was nineteen."
-
-She puts the clipping down.
-
-**NINA:** In the film you can see him stand at the edge of the stage for *(under a minute / about two minutes / almost three minutes, depending on how long the player held* home*)* before he turns around. Nobody knows what he was looking at.
-
-### Marlon's
-
-A Thursday night at Marlon's Tavern, Hollow Ridge. No interview. The same pool table; the *Fireball* dark, with OUT OF ORDER SINCE 1988 taped to the glass; the WIN button on the register. Behind the bar, in a wooden frame somebody built for it, the old chalkboard, the chalk faded almost to nothing and still legible: *THURSDAY — THE BLAKES (NEW YORK)*.
-
-On the plywood stage a man of thirty-three is playing "No Name" to twenty people, starting on an E minor. At the corner of the bar, an old woman with a Coca-Cola, stirring it, not looking at the camera.
-
-### The door
-
-A title card:
-
-> *Lorraine Hubbard, the singer's mother, declined to be interviewed.*
-
-A handheld shot from a car window: Cold Branch Road, going up the hill. A frame house with a porch that still needs work and a single bulb over the door, on in the daytime. A green Ford pickup, older than it should be, in the yard. A fat, happy mutt on the porch who is not Tater, wagging.
-
-The crew walks up the steps. Somebody knocks.
-
-The door opens. A man of sixty-seven, heavy in the shoulders, in khakis and an undershirt, reading glasses pushed up on his forehead, looks at them. At the camera.
-
-**WAYNE:** Hm.
-
-He closes the door.
-
-> *Wayne Blake declined to be interviewed.*
-
-Over black, the documentary's last cut: the final track on the 1996 album. Riley, Cal and Dean, and Frank Dalton's reel from Knob House, playing the changes of the last verse of "Who Are You?", the one on the reel labeled *LAST V. OPEN*. No vocal. The three of them, and faint underneath, Ellis's guitar from the reel, going around. The documentary lets it go around twice, and fades it out.
-
----
-
-## MISSION 7 — TATER
-
-**Playable:** Wayne · **Where:** the Blake house; the Riley house, Linwood; Hollow Ridge Monument & Vault; Engineers Park, Laurel City · **When:** Tuesday November 2, 1976 – Thursday April 14, 1977 · **Length:** ~20 min
+**Playable:** Wayne · **Where:** the Blake house; the Riley house, Linwood; Hollow Ridge Monument & Vault; Engineers Park, Laurel City · **When:** Tuesday November 2, 1976 – Thursday April 14, 1977 · **Length:** ~18 min
 
 ### November 2
-
-The picture goes back to the game's own. Inside the house, twenty years earlier.
 
 The HUD shows the date: TUESDAY · NOVEMBER 2. Grace would have been eighteen.
 
@@ -792,18 +694,6 @@ He writes a receipt.
 There's money left in the can. Wayne puts the lid back on and carries it out to the truck. He doesn't know yet what it's for.
 
 
-### April 12
-
-Tuesday, April 12, 1977. The HUD shows the date. The fourth anniversary.
-
-Floyd Tolliver's green truck in the yard at seven in the morning. A Pyrex dish on the porch rail, foil, a card in shaky ballpoint: *Thinking of you today. — Ada T.*
-
-The buttermilk pie.
-
-The player, as Wayne, carries it in. There's a prompt the player saw once, a year ago, as Ellis: *Cut a piece.*
-
-Wayne cuts two. One for himself. One for the dog. If Ellis cut a piece a year ago, Wayne doesn't get a plate down. He eats his out of the dish with a fork, standing, the way the two of them did.
-
 ### Opening Day
 
 Thursday, April 14, 1977. Engineers Park, Laurel City. The Laurel City Engineers' home opener, Double-A, a cold bright afternoon, the grandstand half full, bunting on the rail.
@@ -832,7 +722,105 @@ After, walking out to the truck in the lot in the cool of the evening, Roy stops
 
 **ROY:** Go on. I'll catch up.
 
-Wayne goes on.
+Wayne sits in the truck with the windows down and waits for him.
+
+---
+
+## MISSION 7 — 1996
+
+**Playable:** none (documentary frame) · **Where:** various · **When:** 1996 · **Length:** ~4 min
+
+The picture changes. Video, not film: the slightly soft, too-bright look of mid-1990s Betacam. A title card, white on black:
+
+> **WHO ARE YOU?**
+> **THE BLAKES, 1974–1976**
+> *A documentary*
+
+It accompanied the band's 1996 release of the second album, *Who Are You?*, as they meant it, nineteen years after a label released it against their wishes as *Last Light*. The poster, glimpsed on a wall in the first shot, is the Bowery photograph: the player's version.
+
+The player can't control any of it. Four minutes of what the world got.
+
+### Dean
+
+Dean Holloway, forty-two, in a folding chair in a room full of drum kits. A sign on the wall behind him: HOLLOWAY DRUM STUDIO · LESSONS · ALL AGES. Gray at the temples. The same grin and the same chipped tooth. A coin on a string around his neck that he touches when he talks.
+
+**DEAN:** He was funny. Nobody writes that. Everybody writes about the sister and the girl and the light. He was the funniest person I ever met. He ranked boiled peanuts. He had a list. Fourth place was a crime against God and peanuts.
+
+### Cal
+
+Cal Mercer, forty-three, at a mixing console. MERCER SOUND, on the glass door, in his father's old shop on Rail Street by the yard. On the shelf over the console, an old Philco cathedral radio with no job ticket on it. Theo Marchand at the second chair, gray, adjusting something. Cal refers to him once, in passing, as "Theo, my partner." The documentary doesn't make anything of it.
+
+**INTERVIEWER:** What was Ellis Blake like?
+
+A long pause. Cal taps his pen twice on the console.
+
+**CAL:** He wasn't so bad.
+
+He doesn't elaborate. The interviewer waits. Cal waits longer.
+
+(Cal adds, after a while, if he carried the lost verse at the Tabernacle: *"He lost a verse. Twice. I played it for him up high, both times. He found it."* If Riley carried it there: *"He lost a verse at the end. I played it for him up high. He found it."*)
+
+### Riley
+
+Riley, forty-one, in an office at Tannersville College with a piano, a window, and a spider plant on the sill, enormous, cascading to the floor.
+
+**INTERVIEWER:** Who was Ellis Blake?
+
+Riley pushes her glasses up with a knuckle.
+
+**RILEY:** He drew maps. For the van. How to get to a gig. On napkins, on his arm. They were always wrong. He drew us a map to a show in Macon once and we ended up in a pasture in the middle of the night with a cow looking in the windshield. Dean took a picture of the cow.
+
+She laughs.
+
+**RILEY:** He drew maps that were wrong and he was sure about every one of them.
+
+On the shelf behind her, a small gray book: his notebook lines, with the title the player chose. Beside it, spine out, four records with her own name on them. An insert shows one page of it, made of the Observe lines the player collected.
+
+### Dex
+
+Dex Lundgren, fifty-one, in a leather armchair in Detroit with a lot of books. Sober. Reading glasses instead of sunglasses. His book, *Who the Hell Was Ellis Blake?*, 1977, on the table beside him.
+
+**INTERVIEWER:** Did you make him up?
+
+Dex takes his glasses off and thinks about it for a long time.
+
+**DEX:** I sold a lot of magazines.
+
+### Nina
+
+Nina Sorensen, forty-nine, still at *Metro*, reading off a yellowed clipping:
+
+**NINA** *(reading)*: "He was nineteen."
+
+She puts the clipping down.
+
+**NINA:** In the film you can see him stand at the edge of the stage for *(under a minute / about two minutes / almost three minutes, depending on how long the player held* home*)* before he turns around. Nobody knows what he was looking at.
+
+### Marlon's
+
+A Thursday night at Marlon's Tavern, Hollow Ridge. No interview. The same pool table; the *Fireball* dark, with OUT OF ORDER SINCE 1988 taped to the glass; the WIN button on the register. Behind the bar, in a wooden frame somebody built for it, the old chalkboard, the chalk faded almost to nothing and still legible: *THURSDAY — THE BLAKES (NEW YORK)*.
+
+On the plywood stage a man of thirty-three is playing "No Name" to twenty people, starting on an E minor. At the corner of the bar, an old woman with a Coca-Cola, stirring it, not looking at the camera.
+
+### The door
+
+A title card:
+
+> *Lorraine Hubbard, the singer's mother, declined to be interviewed.*
+
+A handheld shot from a car window: Cold Branch Road, going up the hill. A frame house with a porch that still needs work and a single bulb over the door, on in the daytime. A green Ford pickup, older than it should be, in the yard. A fat, happy mutt on the porch who is not Tater, wagging.
+
+The crew walks up the steps. Somebody knocks.
+
+The door opens. A man of sixty-seven, heavy in the shoulders, in khakis and an undershirt, reading glasses pushed up on his forehead, looks at them. At the camera.
+
+**WAYNE:** Hm.
+
+He closes the door.
+
+> *Wayne Blake declined to be interviewed.*
+
+Over black, the documentary's last cut: the final track on the 1996 album. Riley, Cal and Dean, and Frank Dalton's reel from Knob House, playing the changes of the last verse of "Who Are You?", the one on the reel labeled *LAST V. OPEN*. No vocal. The three of them, and faint underneath, Ellis's guitar from the reel, going around. The documentary lets it go around twice, and fades it out.
 
 ---
 
@@ -842,7 +830,7 @@ Wayne goes on.
 
 ### No objective
 
-The picture comes up on morning light through a window. A bedroom on Cold Branch Road. A 1964 Silvertone guitar in its case on the floor. A plastic horse on the dresser. A photograph face down.
+The picture comes up on morning light through a window. A bedroom on Cold Branch Road, in the house the documentary crew just walked away from, twenty-two years earlier. A 1964 Silvertone guitar in its case on the floor. A plastic horse on the dresser. A photograph face down.
 
 The HUD shows one thing: SATURDAY.
 

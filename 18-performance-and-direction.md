@@ -69,7 +69,7 @@
   - "I couldn't have it be nobody's" (IX M4). The truest thing he says. Say it looking at the window over the sink. It must not be offered as an explanation.
   - The ambulance (X M9). "It wasn't your—" stops because his throat stops, not because he chooses to. "Son." is the only thing that comes out whole. No sob.
   - "She carries" (Ep M2). Two words that end an argument.
-  - "He could sing" (Ep M7), at a ballgame, looking at the field.
+  - "He could sing" (Ep M6), at a ballgame, looking at the field.
 - **Never:** tears on camera. Raising his voice after Chapter III.
 
 ### Clara (21, as Ellis sees her)
@@ -153,7 +153,7 @@
 | IX M9, the Tabernacle | Joan beating time. Wayne in the gallery on the bass line. |
 | X M6, the trailer | The Polaroid scene must be the funniest ten minutes of the chapter. |
 | X M8–M9 | See §6 and the scripts in `scripts/`. |
-| Ep M7, the vet | "Then somebody used to be giving him more." Wayne's face doesn't move. |
+| Ep M6, the vet | "Then somebody used to be giving him more." Wayne's face doesn't move. |
 | Coda | An ordinary Saturday. Nothing is lit or scored as meaningful. |
 
 ## 8. Jokes are load-bearing (the protect list)
@@ -167,7 +167,7 @@ If scope forces cuts, these survive first. The late chapters work only because t
 6. Riley's burnt pancakes; Dean eats four (IX).
 7. "Quit writing on yourself. You'll get ink poisoning." / "There's no such thing." / "Ask your grandmama." (X M5)
 8. The Polaroid: "That's just his face." (X M6)
-9. Tom Riley's turkey pun, and Wayne's "Drumsticks" (Ep M7).
+9. Tom Riley's turkey pun, and Wayne's "Drumsticks" (Ep M6).
 10. "Of *course*," at a rock with no money under it (Ep M4).
 11. Peanut rankings: "a crime against God and peanuts."
 12. Ellis's maps, always wrong, and the cow in the windshield.

@@ -24,7 +24,7 @@ The death isn't the meaning. His life had meaning before it ended. This chapter 
 |---|---|---|---|---|
 | — | Cold Open: Roll One | (a film camera) | Glen Arbor Raceway, Fri Aug 27, dawn | 2 min |
 | 1 | North | Cal | Marlon's lot, Hollow Ridge; the bus; I-81; a motel in Harrisburg, Thu Aug 26 | 25 min |
-| 2 | Glen Arbor | Dean → Riley | the raceway; the backstage compound; a hayfield, Fri Aug 27 | 30 min |
+| 2 | Glen Arbor | Dean → Riley | the raceway; the backstage compound; a hayfield, Fri Aug 27 | 25 min |
 | 3 | Morning | Ellis | the Seneca Motor Inn, Route 14, Sat Aug 28, 5:40 a.m. | 15 min |
 | 4 | Press Tent | Ellis | the press tent, 11:30 a.m. | 15 min |
 | 5 | The Field | Ellis | the infield, 12:30 – 2:50 p.m. | 25 min |
@@ -161,7 +161,7 @@ After a while Cal goes in.
 
 ## MISSION 2 — GLEN ARBOR
 
-**Playable:** Dean → Riley · **Where:** Glen Arbor Raceway; the backstage compound; a hayfield on a county road; the Seneca Motor Inn, Route 14 · **When:** Friday August 27 · **Length:** ~30 min
+**Playable:** Dean → Riley · **Where:** Glen Arbor Raceway; the backstage compound; a hayfield on a county road; the Seneca Motor Inn, Route 14 · **When:** Friday August 27 · **Length:** ~25 min
 
 ### Arrival
 
@@ -185,9 +185,8 @@ Behind them, the F-100 has pulled off onto the shoulder of the county road. Wayn
 
 The backstage compound: a fenced acre behind the stage, mud under plywood walkways, a dozen trailers (dressing rooms, production, catering, a medical trailer with a red cross on it and two volunteer EMTs smoking outside), generators, semis, the film company's truck, and a lot of men with walkie-talkies who all seem to be in charge.
 
-The player, as Dean, gets the walk, and Dean is having the time of his life:
-- **Catering.** A striped tent with a hot buffet. Dean eats a plate of something and talks to a cook from Buffalo about wings.
-- **The other bands.** Ten acts. Two of them are famous enough that Dean stops talking when they walk by. He takes an SX-70 of one of them from behind.
+The player, as Dean, gets the walk, about five minutes of it, and Dean is having the time of his life:
+- **Catering.** A striped tent with a hot buffet. Dean eats a plate of something and talks to a cook from Buffalo about wings, and takes an SX-70 of a famous drummer from behind on the way out.
 - **The stage.** Up the stairs at stage right, onto the deck. Twelve feet above the infield. The view: a hundred thousand people already, and more coming. The PA wings on either side: scaffolding towers, cables running up them like vines, and, between the edge of the stage deck and each wing, a gap about a yard wide, with scaffold pipes and cable runs going down twelve feet to the ground and a piece of plywood laid across the bottom. The stage crew has run a line of yellow rope along the edge on each side, at knee height.
 
 ### Tully and Kit
@@ -214,7 +213,7 @@ She shows him on the clipboard. Tully looks at it. Then he walks her across the 
 
 **KIT:** Thanks. Nobody tells me anything.
 
-**TULLY:** Nobody told me anything either. That's why I tell people.
+**TULLY:** Nobody told me anything either.
 
 She writes it on her clipboard. The player can see the note: *BLAKES — stay behind white tape SR — big guy (crew chief)*.
 
@@ -224,7 +223,7 @@ She writes it on her clipboard. The player can see the note: *BLAKES — stay be
 
 Stutter, from the stage-right wing, out over the rail, across the infield: the switch rides a camera pan the player doesn't control, over a hundred thousand heads, to a hayfield on a county road two miles off, where it finds Riley, walking.
 
-The player is Riley. She walked out from the compound to find Wayne and Roy, because somebody had to tell them where to park and how to get in, and she volunteered, and she wanted the walk. She has a bridge in her head that won't finish, for a song nobody has heard but Ellis, and two miles of hayfield is the first quiet she's had in a week. The player can hum it as she walks; the line doesn't land. She'll get it in the winter.
+The player is Riley. She walked out from the compound to find Wayne and Roy, because somebody had to tell them where to park and how to get in, and she volunteered, and she wanted the walk. She has a bridge in her head that won't finish, for a song nobody has heard yet, not even Ellis, and two miles of hayfield is the first quiet she's had in a week. The player can hum it as she walks; the line doesn't land. She'll get it in the winter.
 
 The hayfield: somebody's farm, a man at the gate taking five dollars a car. Rows of cars in the stubble. The F-100 at the end of one row with the tailgate down and the tarp rigged from the cab to two poles for shade, and two lawn chairs under it, and a cooler, and Tater lying in the shade under the truck. Roy Cagle in his new cap, delighted by everything. Wayne in his hat, looking at a hundred thousand strangers like each one of them owes him money.
 
@@ -339,7 +338,7 @@ Most of the choices are his usual clothes. And in the bottom of the bag there's 
 
 If the player looks at it, Ellis holds it up. The patch is a little faded now.
 
-The player can put it on or not. The default (the prompt pulses) is to put it on, under the black leather jacket from New York. If the player chooses something else, Ellis, at the door, comes back and changes into the work shirt anyway.
+The player can put it on or not. The default is to put it on, under the black leather jacket from New York; the shirt is on top when he opens the bag. If the player chooses something else, Ellis, at the door, comes back and changes into the work shirt anyway.
 
 He puts the leather jacket on over it and checks the inside pocket, the way he does: the envelope from Dayton, soft at the corners, and behind it Wayne's twenty, folded in quarters.
 
@@ -515,7 +514,7 @@ Clara, twenty-one, in the jean jacket, boots in the mud, not getting muddy. She'
 
 **ELLIS:** I've got a hat.
 
-**CLARA:** That's Tully's hat. It's been to Vietnam. It's seen things.
+**CLARA:** That's Tully's hat. It's been to Vietnam. Show it some respect.
 
 She looks at his left arm, close, the way you'd hold it up to the light, and reads the ballpoint up his forearm.
 
@@ -907,8 +906,6 @@ The band walks out into it.
 
 The stage faces east. The sun is behind it, touching the hills across the lake, low and gold. The band is backlit: four silhouettes with gold edges. The crowd is facing west into the sunset, a hundred and fifty thousand faces lit gold, and the valley goes from gold to amber as the set begins.
 
-It's the last light.
-
 ### The Room, at the end
 
 The performance system at its largest. Everything the player learned is here.
@@ -983,6 +980,8 @@ The last line:
 *You'd have hated every word of this.*
 
 At the stage-left lip, Clara laughs, once, like she's been caught.
+
+The valley gives the song the stillest response of the set: a long quiet before the applause starts, the way a church sits for a moment after a hymn.
 
 ### "Shape Note" (all)
 
@@ -1106,7 +1105,7 @@ A prompt appears. The band's oldest signal, from the Marlon's rehearsal in Chapt
 
 *HOME.*
 
-Turn all the way around to face Dean. Bring the song to its end.
+(The prompt is the word and nothing else. Pressing it turns him all the way around to face Dean and ends the song.)
 
 No timer. The music doesn't stop.
 
@@ -1120,9 +1119,9 @@ While the player holds off, the band keeps following him, the way it always has.
 
 The band varies the changes to keep them alive. Cal moves the root, Dean shifts the pulse, Riley finds a new voicing, so the screen never goes still. In play, it lasts as long as the player holds. In the story it lasts a few minutes at most: the world counts no further than about three minutes, whatever the player does, and the footage and everyone who talks about it afterward round it the way people do. Holding off is *stay*.
 
-Pressing it is *go on*.
+Pressing it is *go on*. (Neither word is ever on screen. The prompt says *home* and nothing else.)
 
-> **Spec — HOME (binding for UX).** The prompt is the same size and type as every HOME since Chapter II. It never pulses, blinks, grows, rumbles or repeats; there is no idle reminder and no hint. Clara gives no help here: every other time the player has needed to know something with her present, she has told them (bible §11.8), and this is the one decision she leaves to them. The vamp loops indefinitely with authored variation (at least twelve variations per player, band-driven). The band's fatigue animations escalate to a plateau at about three minutes and hold there. If the player puts the controller down, nothing happens, and the music is alive when they come back.
+> **Spec — HOME (binding for UX).** The prompt is the same size and type as every HOME since Chapter II. It never pulses, blinks, grows, rumbles or repeats; there is no idle reminder and no hint. Clara gives no help here: every other time the player has needed to know something with her present, she has told them (bible §11.8), and this is the last decision she leaves to them; the first was the hallway door (IX M14). The vamp loops indefinitely with authored variation (at least twelve variations per player, band-driven). The band's fatigue animations escalate to a plateau at about three minutes and hold there. If the player puts the controller down, nothing happens, and the music is alive when they come back.
 
 ### The turn
 
@@ -1138,7 +1137,7 @@ Riley is ahead of him and a little to his left, ten yards off at the corner of t
 
 Then the valley comes up. A hundred and fifty thousand people, all at once, from the front of the stage to the hills.
 
-In the stage-right wing, Joel Perlman sees the shot of the night: the singer walking to the girl at the riser, backlit, with the whole valley roaring behind him. He steps out from behind the white tape onto the upstage-right deck to get the reverse. Kit, whose job is to put light wherever Joel's lens points, steps out with him, and raises the sun-gun, and switches it on.
+In the stage-right wing, Joel Perlman sees the shot of the night: the singer walking to the girl at the riser, backlit, with the whole valley roaring behind him. He steps out from behind the white tape onto the upstage-right deck to get the reverse. Kit, whose job is to put light wherever Joel's lens points, steps out with him, and raises the sun-gun, and switches it on. None of this is on screen; the camera is in Ellis's eyes.
 
 The light hits him from his left. Low, white, out of the dark past Riley's shoulder, the way a pair of high beams comes around a blind bend on a two-lane road at night, over the line.
 
@@ -1156,7 +1155,7 @@ The player sees it from inside him, every frame and not one frame more:
 - Scaffold pipe.
 - Black.
 
-The Jazzmaster goes with him on its strap. As it goes, it passes the stage-left PA stack, and it feeds back through the whole system, through every speaker in the valley: a guitar too close to an amplifier, the note coming around and growing. The loud part.
+The Jazzmaster goes with him on its strap. As it goes, it passes the stage-left PA stack, and it feeds back through the whole system, through every speaker in the valley: a guitar too close to an amplifier, a howl that climbs until Theo kills it.
 
 At the mix tower eighty yards out, Theo Marchand pulls the guitar channel down to nothing.
 
@@ -1329,7 +1328,7 @@ And holds. And lands.
 
 The player is Wayne Blake.
 
-> **Design note — the first playable Wayne.** For fifty hours the camera has refused him. It has gone to a stranger in a dorm room and to a film camera, and never once to the man at the kitchen table. The game's grammar has taught the player that the switch goes to people the story needs you to be. It chooses Wayne now, because now there's nobody else it can choose.
+> **Design note — the first playable Wayne.** For fifty hours the camera has refused him. It has gone to a stranger in a dorm room and to a film camera, and never once to the man at the kitchen table. The game's grammar has taught the player that the switch goes to people the story needs you to be. It chooses Wayne now, because he's the one getting into the ambulance.
 
 ### Route 14
 
@@ -1351,12 +1350,12 @@ The options are the things this man has never said. The player picks what Wayne 
 - **"I'm proud of you."** It comes out as *"You done good up there."* Flat, like a report on a job.
 - **"I'm scared."** It comes out as *"Son."*
 - **"Son."** *"Son."* This is the only one he gets all the way through.
-- **Sing.** Wayne sings, very low, almost under the siren, the bass line of "Wondrous Love," the hymn his mother taught him, that he stood up and sang in the gallery of the Tabernacle six weeks ago. The bass line and no words. A big rough voice, half a beat behind, sure of every note.
+- **Sing.** Wayne sings, very low, almost under the siren, the bass line of "Wondrous Love," the hymn his mother taught him, that he stood up and sang in the gallery of the Tabernacle six weeks ago. The bass line and no words. A big rough voice, half a beat behind. He loses it after a phrase, and starts again from the top, and loses it in the same place.
 - **Silence.** He holds the hand.
 
 No music under any of it. His thumb moves back and forth on the back of his son's hand.
 
-The ambulance drives. Route 14 south, toward the hospital in Elmira, forty minutes. The game doesn't cut. The player can choose everything, and then nothing, and hold the hand, and watch the mask fog and clear.
+The ambulance drives. Route 14 south, toward the hospital in Elmira, fifty minutes on wet roads. The game doesn't cut. The player can choose everything, and then nothing, and hold the hand, and watch the mask fog and clear.
 
 ### 9:52
 
@@ -1412,11 +1411,11 @@ Every system the game taught pays off in this chapter, and none of them is new:
 
 ### The death is not the meaning
 Tone rule 9: *The death is not the meaning. Ellis's life mattered before it ended.* The chapter is built to it:
-- He doesn't die because he was a poet, or because he was in pain, or because he stopped a medication, or because he took a drug.
+- He doesn't die because he was a poet, or because he was in pain, or because he took a drug.
 - He doesn't die because the player pressed *home*. The song ends first, and ends right.
 - He dies because a stage had a gap at the edge, a film crew needed light after sunset, a reflex three years old turned his body the wrong way, and he hadn't slept.
 - The memory came from a song and from a man who loves him saying something ordinary.
-- The last things he did were laugh with his band, say *Sunday's fine* about biscuits with his father, finish a song, and step toward Riley.
+- The last things he did were laugh with his band, tell his father his biscuits were terrible, finish a song, and step toward Riley.
 
 ### Clara's help
 | Mission | Help | Biased? |
@@ -1438,7 +1437,7 @@ Tone rule 9: *The death is not the meaning. Ellis's life mattered before it ende
 | "What are you?" / "Late, is what." | She doesn't answer; she gives him an order |
 | "Come on. They're waiting on you." | Never *go on* |
 | On the stage lip during the set | Where he sang the last verse |
-| Her hand over her mouth at the second line | She hears it too |
+| Her hand over her mouth after *Go on* | She hears it too |
 | Looks at him, and says nothing; the band goes around behind him | She doesn't send him anywhere |
 | Not in the footage | Rule 3, to the end |
 | Absent after the fall | She was only ever his |
