@@ -255,7 +255,7 @@ Each chain lists its flag or flags, then every touchpoint in play order. *Fixed*
 
 ### 3.1 The Observe lines → *Rave* → Riley's book (Ep. M5, "M.") → 1996
 Flags: `observe_lines`, `arm_lines`, `riley_book_contents`, `riley_book_title`, `observe_lines_prev_run`.
-1. **I M1.** The tutorial prompt: the porch light on the dog Clara pointed at. "Ellis wrote something down."
+1. **I M1.** The first Observe cue: the porch light on the dog Clara pointed at. No text confirms it; the scratch of the pencil does.
 2. **I–VII.** Cues in quiet moments; the scripted ones are listed in 2.0. IV M4's ice-machine line is written anyway if missed. The lines on mushrooms (III M6, VI M9) come out stranger. VII has eleven, in memo books 61–66.
 3. **V M7.** Writing "Still Here," Ellis is offered collected lines (the ice machine, Stony Knob).
 4. **VIII M4.** Dex tears the first half of "New Skin" out of memo 68. Fixed; it's a song, not an Observe line.
