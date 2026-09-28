@@ -61,6 +61,9 @@
 | Wayne would never say "It wasn't your fault" | bible | the ambulance options | X M9 |
 | "You want me to tell her?" (IV) → "You want me there?" | IV; IX M15 | the F-100 in Earl's mirror for nine hundred miles | X M1 |
 | Tater fat because both feed him | I (bible) | the vet; *Feed Tater* twice | Ep. M7 |
+| Strings or gas; the Starlite (the money screen) | I M2 | Cal: "Buy strings."; the needle on the peg; Wayne: "Starlite." | I M7; I M9 |
+| Riley pulls out Grace's chair (`riley_kitchen_chair`) | VIII M16 | Wayne pulls the seventh chair all the way out | Ep. M7 (Thanksgiving) |
+| *Cut a piece* (`april12_pie_cut`) | VIII M18 | Wayne eats his out of the dish, standing | Ep. M7 (April 12) |
 
 ## Spine 4 — The band
 
@@ -112,7 +115,9 @@
 | Ellis learns her name is Margaret | IV | M. | Ep. M5 |
 | The third verse of "Occasionally Astonishing" won't come | IX M6 | finished at her mother's piano | IX M15 |
 | A bridge she can't finish, in the hayfield | X M2 | "Maps," at her mother's piano | Ep. M5 |
-| Nina asks for an interview about her songs (`riley_nina_interview`) | X M2 | it happens in 1979, with her first record | Ep. M5 (setup note) |
+| Nina asks for an interview about her songs (`riley_nina_interview`) | X M2 | it happens in 1979, with her first record; its first line is Riley's answer | Ep. M5 (setup note) |
+| Riley's margin at Linwood Presbyterian (`observe_lines_riley`) | V M1b | the second verse of "Sunday Clothes" | VI M13 |
+| Riley's answer to Dex, or her silence | VII M8 | her paragraph in *Rave*, four ways | VII M13 |
 
 ## Spine 7 — Dean
 
@@ -139,4 +144,7 @@
 - **Carla Vickery** herself never reappears after IV. Her letter does. Accepted: the letter is the payoff.
 - **Hannah Greer** drifts after VI; the bible promises her in the epilogue. **Resolved (V7):** Ep. M5, a card from Macon ("Call me when you want to. Not before."); Riley calls in December.
 - **Mrs. Odom's last book** (Bishop) is returned in IX M11 and nothing is slid back. Accepted.
+- **Kevin's letter** (VII M7). **Resolved (V8):** it can be answered at the kitchen table through VII (12); if it is, Kevin is in the Tabernacle gallery in IX M9.
+- **The festival program** (VII M19's promise). **Resolved (V8):** X M4, on the press table; Ellis turns it face down.
+- **Every other registry bug** is resolved in `17-tracked-state-registry.md` §4.
 - **Landry's note after the funeral** (bible §8). **Resolved (V7):** Ep. M5, three typed lines on letterhead ("There is a chair."), the reason he isn't surprised to see her in January.
