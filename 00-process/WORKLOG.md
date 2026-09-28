@@ -135,3 +135,17 @@ Structure (10 chapters + epilogue + coda):
 I Before the Noise (Oct 10–19, 1974) · II Second Verse (Oct 19–Nov 2, 1974) · III Signal (Nov 1974) · IV Momentum (Dec 1974) · V Velocity (Christmas 1974–Apr 1975; midpoint objective-camera reveal) · VI The Other Side of the Glass (May–Aug 1975; album; Riley switch reveal) · VII Strangers Know Your Name (Sept–Dec 1975; release; myth; NYC; Lorraine's letter) · VIII Feedback (Jan–Apr 1976; machine; the silence on TV; photo reveal; Tolliver Bend; treatment) · IX Who Are You? (May–July 1976; Stony Knob lodge; Late Hour interview on medication; report; witness; argument; stops meds; Dean sober; cassettes) · X The Last Light (Aug 1976; festival; fall) · Epilogue What Remains · Coda (Oct 1974 afternoon; GO HOME).
 
 Finale mechanics: film crew's handheld sun-gun light hits his eyes as he turns home toward Riley; his body repeats the swerve; he steps into the gap between stage deck and PA wing. Player must press the "home" cue to continue (the game waits indefinitely otherwise). After the fall the switch tries to return to Ellis and fails → Riley → Cal → Dean → the camera chooses Wayne for the first time (playable grief).
+
+
+## V4 changes (supersede anything above that conflicts)
+
+- See `00-process/V3-character-audit.md` (voice sheet) and `00-process/V4-red-team.md` (all decisions). Bible §13 records the Chapter VII canon and the rebuilt finale.
+- "Still Here": *Nobody here knows you.*
+- Clara: "your daddy," never "Wayne"; "Daddy" once in VIII; "Liar" in I, V, VIII; "El" first seen in green felt-tip on the crawdad snapshot (IV); "out back of Marlon's" but not when; rules 11–13 added.
+- Chapter IV runs Dec 7–23, 1974. Chapter VII mission order revised (Belle Grove before Ledger; Room 614 before the article).
+- Finale: no drug taken. Roy's "Go on, get up there" opens the memory. Home = facing Dean upstage; Riley at the riser's stage-right corner; sun-gun from stage left hits him from his right; he swerves right into the stage-right gap. Withheld "home" = the band follows and tires; no timer.
+- Hollis couldn't make out Grace's last words.
+- 1972 afternoon: Ellis is fifteen.
+- Epilogue ~1.75 h; Clara absent from the coda; "Number One" folded into "The List."
+- Map renames: Juniper Street → Linden Street; Laurel City "Midtown" → off Tenth / the Tenth Street district; "Emory-style" → the university medical district. SR 400 stays (user's map).
+- Names: Blue Moon Supper Club; Stroud; Virgil; great-aunt Louise; PEARCE & SONS; Gary; Jimmy Ray Tolbert & the Nightcaps; Big Wendell.

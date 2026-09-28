@@ -26,7 +26,7 @@ In October 1974, in a railroad town of 2,100 people in the north Georgia mountai
 
 Over the next twenty-three months the player lives inside these four people as they become The Blakes: bars, a college radio signal you have to drive up a mountain to hear, a 45 pressed on credit, a green van that smells like something died in it, a record contract, a debut album nobody knows how to sell, a single that climbs, a myth that grows faster than the people inside it, and a festival in upstate New York where 150,000 strangers watch Ellis Blake come apart and believe they are watching the greatest performance of the decade.
 
-The rock-band story is the surface. Underneath it: a boy who was driving the night his little sister died, who has been talking to a young woman named Clara for eighteen months, and who has never once asked himself where she lives.
+The rock-band story is the surface. Underneath it: a boy who was driving the night his little sister died, who has been talking to a young woman named Clara since the spring, and who has never once asked himself where she lives.
 
 ## 2. Thematic architecture
 
@@ -113,8 +113,8 @@ What Laurel City means in the story: **the rock city**. It embraces The Blakes b
 - **The Paramount** — a 1929 Moorish movie palace saved from demolition in a 1975 civic campaign (Ch VIII headline show).
 - **Engineers Park** — home of the Laurel City Engineers, a Double-A ballclub. Wayne likes them because of the name.
 - **Linwood** — Riley's parents' leafy suburb; Presbyterian church with a pipe organ.
-- **Midtown apartments** — Theo's place: plants, a reel-to-reel, a fire escape.
-- **Emory-style medical district** — Dr. Harriet Lusk's office (Ch VIII).
+- **The Tenth Street district** — Theo's apartment off Tenth: plants, a reel-to-reel, a fire escape.
+- **The university medical district** — Dr. Harriet Lusk's office (Ch VIII).
 
 ### 3.4 Tannersville (east)
 
@@ -191,7 +191,7 @@ Details are threaded into scenes, never delivered as lectures. The canonical pal
 **Chapter I — Before the Noise:** Thu Oct 10 – Sat Oct 19, 1974.
 **Chapter II — Second Verse:** Sat Oct 19 – Sat Nov 2, 1974.
 **Chapter III — Signal:** Nov 4 – Nov 29, 1974.
-**Chapter IV — Momentum:** Dec 2 – Dec 21, 1974.
+**Chapter IV — Momentum:** Dec 7 – Dec 23, 1974.
 **Chapter V — Velocity:** Dec 24, 1974 – May 2, 1975. (Midpoint.)
 **Chapter VI — The Other Side of the Glass:** May 3 – Aug 16, 1975.
 **Chapter VII — Strangers Know Your Name:** Sept 8 – Dec 13, 1975.
@@ -223,7 +223,7 @@ Estimated speed: 43–48 mph in a posted 45. The pickup never stops and is never
 
 **After:** Ellis's left arm is broken and he has a concussion; he is pinned by the steering column but conscious. Grace is pinned by the door and the oak. She is conscious for several minutes.
 
-A seed salesman named **Hollis Beam**, driving the same direction about 150 yards behind, stops, runs to the car, sees he can't open it, runs to the nearest house (the Hensleys') to call, and comes back. Before he leaves and after he returns he hears pieces:
+A seed salesman named **Hollis Beam**, driving the same direction about 150 yards behind, stops, runs to the car, sees he can't open it, runs to the nearest house (the Hensleys') to call, and comes back. What was said:
 
 > ELLIS: I'm sorry. I'm sorry. I didn't mean it.
 > GRACE: Stop saying sorry.
@@ -232,6 +232,8 @@ A seed salesman named **Hollis Beam**, driving the same direction about 150 yard
 > *(time)*
 > GRACE: It's okay.
 > GRACE: Go on.
+
+**Who heard what.** Hollis heard the first three lines before he ran to the Hensleys'. When he came back, Grace was saying something low that he couldn't make out, and he has never pretended otherwise. Only Ellis heard "Liar," "It's okay" and "Go on," and he does not remember them until the last song of his life (Chapter X).
 
 Hollis tries to pull Ellis out through the driver's window to get him away from the car (gasoline smell). Ellis fights him: he has to stay where she can see him. Grace dies before the Pettigrew combination car arrives at 8:05. Deputy Lyle Pruitt arrives at 8:09.
 
@@ -290,7 +292,7 @@ Looks older when he's quiet and younger when he laughs. Laughs more than his rep
 
 **Sex.** One high-school girlfriend (Donna Kay Sisk, now married to a Carson, works the register at the Piggly Wiggly). Shy, not cold. Fame will offer him more than he wants. He mostly refuses, partly for Riley and partly because being close to someone terrifies him. (One exception, Chapter VIII, a kiss in a hotel bar, reported in a magazine before he can tell Riley himself.)
 
-**Drugs.** Winstons, beer, occasional weed before the game begins. Marijuana with Riley (II). Psilocybin mushrooms (III, VI). Truck-stop amphetamines to drive at night (VII). Cocaine on the national tour (VIII). Prescribed trifluoperazine (VIII–IX), stopped in secret (IX). LSD on the day of the festival (X). He is never an addict in Dean's sense; his use is about reaching and escaping states, and increasingly about Clara.
+**Drugs.** Winstons, beer, occasional weed before the game begins. Marijuana with Riley (II). Psilocybin mushrooms (III, VI). Truck-stop amphetamines to drive at night (VII). Cocaine on the national tour (VIII). Prescribed trifluoperazine (VIII–IX), stopped in secret (IX). On the morning of the festival a fan's letter holds a tab of acid; he holds it at a motel sink and puts it back (X). He dies clean. He is never an addict in Dean's sense; his use is about reaching and escaping states, and increasingly about Clara.
 
 **Death.** Thinks about it the way people in pain do: passively, not as a plan. "If a train came through right now that'd be all right." One notebook line in Chapter VIII makes it visible to the player. He is not trying to die. That distinction matters to the ending.
 
@@ -300,7 +302,7 @@ Looks older when he's quiet and younger when he laughs. Laughs more than his rep
 
 **Physical habits.** Rubs his left forearm. Cracks his knuckles before playing. Stands with his weight on one leg. Smokes with the cigarette cupped backward in his palm (garage habit). Plays with his shoulder half-turned toward the band, not the audience: the hollow square. When he wants a song to end he turns all the way around to face Dean.
 
-**Would never say:** "I need help." "I'm scared." "Grace" (for months). "I love you" (he says it once by accident, Chapter VII, while fixing Riley's car in the rain).
+**Would never say:** "I need help." "I'm scared." "Grace," except rarely. "I love you" (he says it once by accident, Chapter VII, while fixing Riley's car in the rain).
 
 **Misunderstands about himself:** thinks he's cold; he's the warmest person in the band. Thinks he's stupid; he's the most observant. Thinks music is how he'll get away; it's how he stays.
 
@@ -332,7 +334,7 @@ She is possibly also what the clinicians of 1976 would call something. The game 
 
 **Personality.** Dry, teasing, fond, perceptive, protective; bossy like a big sister; loyal; occasionally cutting; later possessive, then frightened, then tender. She must be likable. Players should look forward to her scenes for four chapters.
 
-**What she says and never says.** She says "stay," "come back," "don't," "take me with you," "keep going" (always about the car, never about leaving her). She never says "go on." She says "Liar" exactly three times across the game (I, V, VIII), always as a tease when Ellis claims to be fine. Only Grace ever calls him "El"; Clara slips and says it once (V).
+**What she says and never says.** She says "stay," "come back," "don't," "take me with you," "keep going" (always about the car, never about leaving her). She never says "go on," or "go," or anything that sends him away from her. She says "Liar" exactly three times across the game (I, V, VIII), always as a tease when Ellis claims to be fine. Only Grace ever calls him "El" (the player sees it first in green felt-tip on the back of a snapshot, IV); Clara slips and says it once (V). She calls Wayne "your daddy"; in VIII she slips once and says "Daddy," the way Grace did.
 
 **Relationships.** Likes Riley at first ("Girl's good."), then feels displaced as Riley takes the harmony part. Thinks Cal doesn't like her ("He doesn't like me." / "He doesn't know you." / "Exactly."). Is fond of Dean ("Dean looks insane."). Avoids Wayne.
 
@@ -340,15 +342,15 @@ She is possibly also what the clinicians of 1976 would call something. The game 
 
 | Chapter | Clara |
 |---|---|
-| I–II | Friend and confidant. Appears at night, when Ellis is alone, after shows. Never enters the house while Wayne is awake. |
+| I–II | Friend and confidant. Appears mostly at night, when Ellis is alone, after shows (one unremarked daylight slip in II). Never in the house while Wayne is awake. |
 | III | More vivid on mushrooms, farther away, in a field. "I wish you'd come around more." / "You sure?" |
 | IV | Appears in daylight, sober, behind Marlon's; in the van; backstage at the Lantern. "Take me with you." / "Promise." |
-| V | Possessive of Ellis's attention as strangers start singing his words. Flickers younger for a frame. Says "El." Cannot say where they met. Cries. The midpoint: the camera pulls back and she isn't there. |
+| V | Possessive of Ellis's attention as strangers start singing his words. Flickers younger for a frame, once. Says "El." Can say where they met ("out back of Marlon's") but not when. Cries. The midpoint: the camera pulls back and she isn't there. |
 | VI | Argues for her own reality ("You can see me." "That's not an answer." "It's the only answer that matters."). Seen through Riley's eyes as absent. |
-| VII | Appears in public spaces, crowds, interviews. Jealous of the audience. Says the first cruel thing: "They don't know you. Neither does Riley." |
+| VII | Appears in public spaces, crowds, hotel halls. Jealous of the audience ("It was a conversation"). Says the first cruel thing: "They don't know you. Neither does Riley." Sits in the extra chair at the Rileys' Thanksgiving. Vanishes when Lorraine's letter appears. |
 | VIII | Intrusive. Walks onto a television soundstage. The switch camera stutters on her and fails. After the photographs, she is seen for what she's built from. "Does that make me less real?" Then medication, and silence. |
 | IX | Gone for weeks. Returns when he stops the pills, fiercer and brighter. Then, in Grace's hallway, fourteen years old for the first time: "I couldn't be her." She walks into Grace's room. |
-| X | At the stage edge with Grace. When he remembers "Go on," she has nothing left to hold. He turns toward the living. |
+| X | At his side on the walk to the stage. At the stage lip during the last song, holding him there. When Roy's ordinary "Go on" opens the memory of Grace's, she has nothing left to hold. He turns toward the living. |
 
 ### 6.4 WAYNE BLAKE
 
@@ -522,7 +524,7 @@ She is possibly also what the clinicians of 1976 would call something. The game 
 
 **Tully Voss** (24). The stranger who jumps into Dean's car during the raid in Chapter I ("Who are you?" "Drive." "Good enough."). Tanner Valley boy, infantry in Vietnam 1969–71, drifting since. Big, quiet, funny in a dry, dark way. Turns up at Marlon's in Chapter II and starts carrying amplifiers because nobody told him not to. First roadie, then crew chief. Watches the fall of Saigon on a motel lobby television in Chapter V and walks out to the parking lot; Dean follows him and says nothing for an hour, which is the right thing. At the festival he is the first person down into the gap.
 
-**Theo Marchand** (27). From Lafayette, Louisiana. Live-sound engineer at the Lantern, then the band's front-of-house engineer from Chapter VII. Midtown apartment with a fire escape, plants and a reel-to-reel he can't fix (Cal can). Warm, unafraid in private, careful in public. The one person Cal can talk to about Ellis without being the responsible one. At the festival he is at the mixing tower eighty yards out and sees the whole thing.
+**Theo Marchand** (27). From Lafayette, Louisiana. Live-sound engineer at the Lantern, then the band's front-of-house engineer from Chapter VII. Apartment off Tenth Street with a fire escape, plants and a reel-to-reel he can't fix (Cal can). Warm, unafraid in private, careful in public. The one person Cal can talk to about Ellis without being the responsible one. At the festival he is at the mixing tower eighty yards out and sees the whole thing.
 
 **Lynette Crowe** (22). Night waitress at the Starlite truck stop. Son Bobby, four; ex-husband in the Army in Germany and not coming back. Unimpressed by money and charm, which is why Dean can't stay away. Ends it in Chapter VIII when he's high at Bobby's birthday. Takes him back, provisionally, in Chapter IX, sober.
 
@@ -621,7 +623,7 @@ Lyrics below are fragments for tone; full lyrics are written in the chapters whe
 - **"Low Water"** (all four, Chapter II). Born from Dean tapping on a table. About the low-water bridge on the South Fork: when the creek comes up you can't get across, so you sit on the hood and wait. The first song that belongs to all of them.
 - **"Ice Machine"** (Ellis/Riley, Chapter IV–V). A motel at 3 a.m. *"The only thing awake in Room 12 is the ice machine / and me, and you pretending."*
 - **"Borrowed Stone"** (Ellis, Chapter V). About the coupon book on the kitchen table. The band thinks it's metaphor. *"There's a book in the truck, the pages torn out / one for every month since the rain."*
-- **"Still Here"** (Ellis, Chapter V). The Clara song. The verses quote their first exchange in Chapter I almost word for word. The public hears a love song. *"You said the second one was better / I said nobody asked / you said I did, by playing it at all."* The song that makes them famous: strangers singing Clara's words back to him.
+- **"Still Here"** (Ellis, Chapter V). The Clara song. The verses quote their first exchange in Chapter I almost word for word, prettier than it was (Clara points this out in VII). The key line of the first verse: *"Everybody in this town can see my business. / Nobody here knows you."* The public hears a love song. *"You said the second one was better / I said nobody asked / you said I did, by playing it at all."* The song that makes them famous: strangers singing Clara's words back to him.
 - **"Sunday Clothes"** (Riley, Chapter IV–VI). About her mother playing Bach to an empty church on Saturday mornings. *"She plays for the Lord at a quarter to eleven / and for nobody at all on Saturday."* Their 1976 hit single, re-sung by Ellis at the label's insistence; the press credits him.
 - **"Parietal Hours"** (Riley). Funny, fast, about dorm curfews.
 - **"Linwood"** (Riley). The suburb.
@@ -652,7 +654,8 @@ During story missions the narrative chooses who you play. There is no character 
 - Ch IV: switches mid-performance; the Monday relay (four lives resuming).
 - Ch V: simultaneous journeys in two vehicles.
 - Ch VI: **the switch as revelation**: Ellis → Riley in the same room; Clara vanishes.
-- Ch VII: the Four Rooms: switches without proximity, across distance, the band apart.
+- Ch III–VI relays: every switch across distance rides a **carrier**: a sound both people hear, an object handed on, a vehicle crossing the frame, a phone line.
+- Ch VII: the Four Rooms: the first switch across distance with no carrier, only a **rhyme** (a train whistle heard separately in four places on one rail line), the band apart.
 - Ch VIII–IX: the camera begins to *catch* on Clara, stutters, and fails, snapping back to Ellis. A violation of the grammar the player has learned.
 - Ch X: rapid switching through the final song, "different organs of one body"; then the last switch into Ellis; then, after the fall, the camera tries to find Ellis, stutters, fails, stutters, fails, and lands on Riley. Later it lands, for the first time in the game, on **Wayne**.
 
@@ -685,11 +688,14 @@ Music is never a rhythm game. The player is not pressing colored buttons on time
 7. She never goes to the cemetery.
 8. She never stays long in a room with Wayne.
 9. The switch never catches on her until Chapter VIII, and then it fails.
-10. She never says "go on."
+10. She never says "go on," or anything that sends him away from her.
+11. Until the midpoint (V M16) she never shares a vehicle with a band member, and no third party's point of view ever frames the place where she is.
+12. No horror grammar: she is never revealed in a mirror, a window or a reflection, and she never gets closer between cuts.
+13. She vanishes, rather than leaving, in exactly two situations: when Wayne comes in, and when Lorraine's handwriting appears (VII).
 
 ### 11.4 The objective camera
 
-Whenever the camera is with Ellis, it shows Ellis's perception. The game breaks this deliberately three times:
+Whenever the camera is with Ellis, it shows Ellis's perception. The game breaks this in three authored reveals (Riley's point-of-view scenes in V M7, VI M18 and VII M14 are echoes of these, not new breaks):
 1. **Chapter V (midpoint):** the camera pulls back across the street while Ellis hugs Clara, and he is alone under a streetlight holding air.
 2. **Chapter VI:** the Ellis → Riley switch at the farmhouse.
 3. **Chapter X:** the crowd's view and the film crew's footage: Ellis pointing at an empty stage edge.
@@ -705,7 +711,7 @@ In quiet moments a small cue appears: Ellis has noticed something. Pressing Obse
 - **Chapters I–IV: scarcity.** Every purchase costs another. Strings or the tire; food or gas; Wayne's rent. No morality meter. You simply can't buy everything.
 - **Chapters V–VII: enough.** The band fund; per diems; the first real check.
 - **Chapters VIII–X: too much.** Money stops mattering to Ellis and starts mattering to everyone else. The UI shows it less.
-- **The calendar.** The HUD always shows the day of the week. Ellis always knows what day it is. Thursdays are quieter.
+- **The calendar.** The HUD always shows the day of the week. It shows the date only on days a character says the date aloud (April 12; September 14; August 28). Ellis always knows what day it is, and the band tests him on it (VII: "I know what day it is"). Thursdays are quieter.
 
 ### 11.7 Player agency
 
@@ -730,3 +736,31 @@ Dialogue is never a nice/neutral/asshole wheel. Choices are about timing (say it
 8. **Drugs are neither glamorized nor moralized.** They are fun, useful, beautiful, frightening and dangerous at different times for different people, and the game shows all of it.
 9. **The death is not the meaning.** Ellis's life mattered before it ended. The game never implies his suffering was necessary for his art or that dying completed him.
 10. **Banned phrases in authored prose** (see the anti-AI audit): haunting, raw, burning bright, ghosts and demons as metaphors, shattered, "something in his eyes," "the weight of," "silence hangs," "almost imperceptibly," "voice barely above a whisper," and the negation-pivot rhythm ("Not X. Y.") as a habit. "For the first time" is rationed.
+
+## 13. Canon added in Chapter VII and the V4 red team
+
+**Chapter VII facts other chapters depend on.**
+- *Borrowed Stone*'s cover: the Jazzmaster leaning on a blank granite block in the yard of Hollow Ridge Monument & Vault. Back cover, in Ellis's hand: *for G.* ("Georgia," he says.)
+- The green leather notebook (Riley, Sept 14, 1975). Blank until Chapter IX; the poems to "M." are in it.
+- The gray Dickies work shirt with ELLIS on the patch ("Keep the shirt," Roy). He wears it under the leather jacket at the festival.
+- Wayne's twenty-dollar bill, folded in quarters, slipped into Ellis's jacket at the Lantern (Dec 5, 1975). Spent on the leather jacket if the player kept it; otherwise still in the corduroy jacket, which is in the van in X.
+- Wayne's F-100 has an under-dash FM converter, installed Nov 1974, left on 88.9 (WTCR). Ellis finds it on Oct 21, 1975.
+- Game 6 of the 1975 World Series (Tue Oct 21): "Still Here" breaks on WLRC at 11:47 p.m.; father and son watch the twelfth inning on one couch.
+- The *Rave* article, "WHO THE HELL IS ELLIS BLAKE?" (January 1976 issue, on sale Nov 25, 1975): makes public that Grace died in a car Ellis was driving and that his mother left. Dean's "Blake's a genius" is its first sentence.
+- Sawtooth: the arena band the Blakes open for on 21 dates, Jan 14 – Feb 15, 1976, booked by Ellis alone on a Tuesday (the first broken clause of the van promise).
+- Gil Tarver meets the band in New York (Dec 11, 1975) and calls Ellis "the franchise" where Cal can hear.
+- Nina Sorensen first hears them at the New York showcase (Dec 12, 1975) and watches Riley.
+- Lorraine's letter: postmarked Dayton, Nov 29, 1975; return label *L. Hubbard, 118 Mayfair Dr, Dayton, Ohio 45405*. Received Dec 13 in New York. Never opened.
+- The photograph (Bowery, Dec 13, 1975): four player-chosen variants (*the stare*, *the look*, *Riley*, *the snow picture*). Whichever the player made is the one used everywhere after.
+- Riley's song "Occasionally Astonishing," begun Dec 6, 1975; the first track of her first solo record (1979). Her folded fall-1975 registration form stays in her things.
+- Richmond (Nov 15, 1975): a fan, Denise Allard, sees Ellis argue with nobody in a hotel hallway; the story reaches *Rave*'s letters page in VIII. The same night Ellis sees Cal and Theo; next morning: "He seems all right."
+- Dean is cut off (Nov 9, 1975), lives on Cal's cot, fixes the ledger (*D.H.*; *to be paid in full*), and learns Bobby sings "Tomorrow Problem" in the bathtub.
+
+**The finale (as decided in V4; supersedes earlier notes).**
+- Ellis takes no drug on the day he dies. A tab of acid arrives in a fan's letter at the motel; he puts it back. Dean finds it in the green notebook in the epilogue and flushes it.
+- At the foot of the stage stairs Roy says, as he says about everything, "Go on, get up there." In the improvised last verse of "Who Are You?" the phrase opens the memory of the car: "Stop saying sorry." "Liar." "It's okay." "Go on."
+- "Home" is turning to face Dean at the riser, upstage center; Riley has moved to the riser's stage-right corner for the ending as she always does. The film crew is in the stage-left wing. The sun-gun (Kit Adair, 22) hits Ellis from his right at three-quarter angle as he turns; his body swerves right, away from the light, as it did on Tolliver Bend and on US 19 in the rain; the gap between the stage deck and the PA wing is stage right.
+- While the player withholds "home," the band keeps following and visibly tires. No timer; the music keeps changing. Holding off is *stay*. Pressing is *go on*.
+- Kit Adair is shown before (Tully shows her where to stand) and after (Tully sits with her on an equipment case).
+- Clara is absent from the coda (Nov 9, 1974), and nobody remarks on it.
+

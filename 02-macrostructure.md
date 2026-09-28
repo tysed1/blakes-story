@@ -9,23 +9,23 @@
 | I | Before the Noise | Thu Oct 10 – Sat Oct 19, 1974 | 4.5 h | Four lives, separately, and an accident on a Friday | They are a band with a name on a chalkboard |
 | II | Second Verse | Sat Oct 19 – Sat Nov 2, 1974 | 5 h | Finding each other was an accident; staying is a decision | They choose it; a Polaroid exists |
 | III | Signal | Nov 4 – Nov 29, 1974 | 5 h | Their music leaves the room | Strangers have heard them; someone wants a record |
-| IV | Momentum | Dec 2 – Dec 21, 1974 | 5.5 h | The dream starts rearranging their lives | A 45, a van, a kiss, six dates, a manager's phone number |
+| IV | Momentum | Dec 7 – Dec 23, 1974 | 5.5 h | The dream starts rearranging their lives | A 45, a van, a kiss, six dates, a manager's phone number |
 | V | Velocity | Dec 24, 1974 – May 2, 1975 | 6.5 h | Momentum becomes velocity; nobody can steer | A record offer; the player learns Clara isn't there |
 | VI | The Other Side of the Glass | May 3 – Aug 16, 1975 | 6.5 h | Making something none of them understands | *Borrowed Stone* exists; Riley knows about Clara |
 | VII | Strangers Know Your Name | Sept 8 – Dec 13, 1975 | 7 h | Everyone loses ownership of something | The myth exists; a letter from his mother |
 | VIII | Feedback | Jan 12 – Apr 30, 1976 | 6.5 h | The band's signature sound becomes an uncontrolled loop | Ellis knows he made Clara; medication; silence |
 | IX | Who Are You? | May 10 – Aug 22, 1976 | 6 h | The world discovers Ellis the poet while Ellis discovers what he said | He remembers the argument; stops the pills; hears Grace on tape |
 | X | The Last Light | Thu Aug 26 – Sat Aug 28, 1976 | 4 h | Everything the game taught converges in one song | Ellis dies |
-| — | What Remains (epilogue) + Coda | Aug 29, 1976 – Apr 1977; 1996; Nov 9, 1974 | 2.5 h | Grief, myth, and one ordinary afternoon | — |
+| — | What Remains (epilogue) + Coda | Aug 29, 1976 – Apr 1977; 1996; Nov 9, 1974 | 1.75 h | Grief, myth, and one ordinary afternoon | — |
 
-Total main story ≈ 58 hours. With side content, 80–110.
+Total main story ≈ 57 hours. With side content, 80–110.
 
 **Proportions, by design.** Chapters I–IV (the ordinary life before fame) are 20 hours, a third of the game. The player has to live in 1974 long enough to miss it. Fame arrives in the second half, and the collapse arrives only after the player has spent forty hours wanting these four to make it.
 
 **The mystery ladder** (the question the player is asking at each stage):
 1. I–IV: *Who is Clara?* (Mostly not asked. She's just someone Ellis knows.) *What happened to the little girl in the photograph?*
 2. V (end): *What is Clara?* (She isn't there.)
-3. VI–VII: *Why Clara? Who is she to Ellis?* (Wayne goes pale at her description; the band doesn't see her.)
+3. VI–VII: *Why Clara? Who is she to Ellis?* (Wayne goes pale at her description; the band doesn't see her; for players who climb the cemetery hill, her name is on two stones.)
 4. VIII: *Oh God. She's Grace, grown, with his mother's face.* (The photographs.) *Was it his fault?*
 5. IX: *What did he say to her? What did she say back?*
 6. X: *"Liar." "It's okay. Go on."*
@@ -36,10 +36,11 @@ Total main story ≈ 58 hours. With side content, 80–110.
 - III: Wayne buried a child.
 - IV: "Grace died in a car wreck. I was there."
 - V: the rain drive: a flash of a girl's hand on a dashboard. April 12 passes with a pie nobody eats and a ballgame.
-- VI: Marlon tells Cal she was on her way to Ellis's first gig (Cal only).
-- VIII: Tolliver Bend; "I was driving."
-- IX: the report (a truck over the line; the date); the witness (she spoke); the argument ("I'm not coming back for you").
-- X: her last words.
+- VI: Marlon tells Cal that Grace died the night Ellis was driving to his first gig, and that he was driving (Cal only).
+- VII: *Rave* tells the whole country: a car her brother was driving. (Optional) the cemetery: GRACE CLARA BLAKE. On US 19 in the rain, a pickup's high beams freeze Ellis where he stands.
+- VIII: Tolliver Bend itself: the road, the missing shoulder, the oak with the crooked scar. Ellis says "I was driving" out loud, as his own.
+- IX: the report (a truck over the line; "we were arguing and I looked at her"); the witness (she spoke; he couldn't make out what); the argument ("I'm not coming back for you").
+- X: her last words, opened by Roy's ordinary "Go on."
 
 ---
 
@@ -171,7 +172,7 @@ Total main story ≈ 58 hours. With side content, 80–110.
 
 ## CHAPTER IV — MOMENTUM
 
-**Dates:** Dec 2 – Dec 21, 1974. **Runtime:** 5.5 h. **Playable:** Cal → Dean → Riley → Ellis → relay.
+**Dates:** Dec 7 – Dec 23, 1974. **Runtime:** 5.5 h. **Playable:** Cal → Dean → Riley → Ellis → relay.
 
 **Thesis.** There is a point where a dream stops being something you talk about and starts rearranging your life. Nothing dramatic happens. Everything changes.
 
@@ -313,207 +314,211 @@ Total main story ≈ 58 hours. With side content, 80–110.
 
 ## CHAPTER VII — STRANGERS KNOW YOUR NAME
 
-**Dates:** Sept 8 – Dec 13, 1975. **Runtime:** 7 h. **Playable:** all four in rotation.
+**Dates:** Mon Sept 8 – Sat Dec 13, 1975. **Runtime:** 7 h. **Playable:** all four in rotation. *(Written: `chapters/chapter-07-strangers-know-your-name.md`.)*
 
-**Thesis.** Ownership. Ellis loses his story, Riley her name, Cal the band's public identity, Dean his hold on the drug. The record belongs to its listeners now. So do they.
+**Thesis.** Ownership. The record belongs to whoever buys it. A private conversation becomes something sixteen hundred strangers sing. A magazine decides who Ellis is and prints his sister's death as proof. Riley's song is credited to Ellis. Cal's sentence is used to prove the opposite of what he meant. Dean loses the car, the allowance and the pretense. The first two clauses of the van promise break.
 
-**Primary movement.** Release; silence; a review; a station at 11:47 p.m.; sixteen hundred people singing Clara's words; a garage left behind; an article that decides who Ellis is; a Thanksgiving table with an extra chair; the first real band fight; New York; an envelope from Dayton, Ohio.
+**Set piece.** Sixteen hundred people singing "Nobody here knows you" to a young man none of them know. **Quietest.** Ellis and Joan singing "Holy Manna" from *The Sacred Harp* at the Linwood upright while Riley watches her mother light up. **Funniest.** The surprise nineteenth birthday Ellis walks out of, and the negotiation in the lot. **Most painful.** "Mine cost something." / "Pain doesn't automatically make everything you do important." **Ending.** The photograph on the Bowery, where the player chooses where Ellis looks, with an unopened letter from Dayton in the jacket.
 
-**World state.** WLRC in heavy rotation; posters on Tenth Street; teenagers in homemade shirts; the Row starts saying their name; Hollow Ridge splits between pride and annoyance; the map remembers them.
-
-**Band state.** Professional. A crew (Tully; Theo on sound). A manager. A national writer. Money arriving, and Cal as the band's accountant. The first public fracture.
-
-**Ellis/Clara.** In crowds, interviews and hotel halls. "Who's Clara?" from a fan; "Old friend" enters the mythology. The first cruel thing: "They don't know you. Neither does Riley." Ellis argues with her aloud in a hotel hallway; a fan overhears; a rumor starts.
-**Grace info.** The cemetery (optional, unlocked): CLARA TATE BLAKE; GRACE CLARA BLAKE. Roy mentions Danny. A gas-station man: "Your sister would've liked it."
-**Ellis/Wayne.** Wayne at a show: "Loud." / "I liked it." / "Would've hated Dean." Wayne asks, carefully, whether that girl is still around.
-**Riley.** Doesn't register for fall semester; tells her parents; Joan: "I had a place at Oberlin in 1949." Hears "I love you" while holding a flashlight in the rain.
-**Cal.** Ignored by fans; "It's ours" quoted inside the Ellis story; seen with Theo by Ellis, who says only "He seems all right."
-**Dean.** Cut off by his father; fixes the ledger at 4 a.m. and swears Cal to secrecy; Lynette.
-
-**Gameplay.** Open-world fame layer (recognition, posters, radio rotation); fan encounters; interviews as a dialogue system where the press rewrites your answers; money management shifts to Cal; the Four Rooms (no-proximity switching); off-map New York.
-**Music.** *Borrowed Stone* released; "Still Here" breaks; bigger rooms; crowds sing.
-**Major locations.** Tenth Street record store; WLRC; the Civic Auditorium; Linwood; a Richmond hotel; New York.
-**Set piece.** Sixteen hundred people singing Clara's first words to Ellis back to him.
-**Quietest.** Ellis and Joan Riley at the piano after Thanksgiving dinner, singing a shape-note tune his grandmother taught him while Riley watches her mother light up.
-**Funniest.** The surprise nineteenth birthday party Ellis did not want at Marlon's.
-**Most painful.** "Pain doesn't automatically make everything you do important."
-**Ending transformation.** A famous photograph of four young musicians, Ellis's face unreadable, an unopened envelope from Dayton in his jacket pocket.
-
-**Missions**
-- **1. Nineteen** (Ellis). Sept 14; the party he didn't want; Riley's leather notebook.
-- **2. Release Day** (all). Tenth Street; a stranger buys it.
-- **3. Occasionally Astonishing** (Riley). Reviews.
-- **4. Registration** (Riley). Linwood; Oberlin, 1949.
-- **5. 11:47 P.M.** (Cal → relay). Martin Keller, now on WLRC.
-- **6. Last Shift** (Ellis). Roy; Danny; "Keep the shirt."
-- **7. Where's Ellis?** (Cal).
-- **8. Sixteen Hundred** (all). The Civic Auditorium; "Are they doing that for us?"; "Who's Clara?"
-- **9. East Slope** (Ellis, optional). The cemetery.
-- **10. The Extra Chair** (Riley). Thanksgiving in Linwood.
-- **11. Hold the Light** (Ellis → Riley). Riley's Datsun on US 19 in the rain; "I love you, hold it still."
-- **12. Who the Hell Is Ellis Blake?** (all). Dex Lundgren.
-- **13. Ledger** (Dean → Cal). 4 a.m. arithmetic.
-- **14. Belle Grove** (Dean). Cut off; the Starlite; Lynette.
-- **15. Loud** (Ellis). Wayne at the Laurel City show.
-- **16. Room 614** (Ellis). Richmond; Cal and Theo in a hallway.
-- **17. Twenty-One Dates** (Cal). The fight.
-- **18. Four Rooms** (relay).
-- **19. North** (all). Off the map; Virginia radio; New York; *Deliverance* jokes; a Bowery punk who calls them hippies; the showcase; an envelope; the photograph.
+**Missions (as written, V4 order)**
+- **Cold open.** The Bowery, Dec 13: "Don't smile." It freezes before the shutter.
+- **1. Nineteen** (Ellis). The box of LPs Wayne signed for; the monument-yard cover; *for G.*; the Sunday party; Riley's green notebook; "November."
+- **2. Release Day** (Dean → Riley → Cal → Ellis). Tenth Street Records; a nurse buys it for her son.
+- **3. Registration** (Riley). The form filled in and folded; Landry; Sunday dinner; "I had a place at Oberlin."
+- **4. Occasionally Astonishing** (Riley). Reviews in voices; Cal's correction ("Margaret"); the vote on Theo ("Scheduling").
+- **5. Last Shift** (Ellis). Mrs. Pardue; Floyd Tolliver at the pump ("Your sister would've liked it"); Danny, once; "Keep the shirt."
+- **6. 11:47 P.M.** (Cal → relay → Ellis). WLRC; the FM converter on 88.9; Game 6 on one couch.
+- **7. Where's Ellis?** (Cal → Ellis → Cal). Dex arrives; the search; Engineers Park; "You made it prettier."
+- **8. Sixteen Hundred** (all). The Civic; "This one's for Clara"; the crowd sings; the stage door, where Ellis calls her an "Old friend" and Clara asks "Old?"; the interviews; $378 each.
+- **9. East Slope** (Ellis, optional). The two stones; alone.
+- **10. Belle Grove** (Dean). Cut off; Patty's violet envelope; Tully ("Drive." "Good enough."); Lynette; Cal's door.
+- **11. Ledger** (Dean → Cal). Divides by nine; *to be paid in full*; "Dad's got a girlfriend."
+- **12. Room 614** (Ellis). Richmond: the first cruel thing; the girl with the ice bucket; Cal and Theo; "He seems all right."
+- **13. Who the Hell Is Ellis Blake?** (relay). The article; the barber's haircut.
+- **14. The Extra Chair** (Riley). Thanksgiving; the seventh place; HARMONY IS NOT DECORATION; the Sacred Harp; "After New York."
+- **15. Hold the Light** (Ellis → Riley). The distributor cap; "I love you, hold it still"; high beams; 11:52.
+- **16. Loud** (Ellis). Wayne at the Lantern; "Your sister would've hated him"; the collar and the twenty.
+- **17. Twenty-One Dates** (Cal). The fight; "I know more than you—"; two clauses broken.
+- **18. Four Rooms** (relay by train whistle). Patty's letter answered; Walt's bench; "Occasionally Astonishing" begun; Bobby in the bathtub; the receipt set list.
+- **19. North** (all). The receipt; I-81 at night ("Keep going"); New York; Gil Tarver ("the franchise"); the showcase and Nina Sorensen; the Bowery; the leather jacket; Lorraine's letter; the photograph.
 
 ---
 
 ## CHAPTER VIII — FEEDBACK
 
-**Dates:** Jan 12 – Apr 30, 1976. **Runtime:** 6.5 h. **Playable:** Cal → Riley → Dean → Ellis → Riley → Ellis. **This chapter did not exist in the original draft.**
+**Dates:** Mon Jan 12 – Fri Apr 30, 1976. **Runtime:** 6.5 h. **Playable:** Cal → Riley → Dean → Ellis → Dean → Cal → Ellis → Cal → Dean → Ellis → Riley → Riley → Ellis → Ellis → Riley → Riley/Ellis → Ellis → Ellis. **This chapter did not exist in the original draft.**
 
-**Thesis.** Feedback is a signal re-entering itself until it screams. The band built its sound on controlling it. In this chapter the loop runs through the industry, the press, the drugs and Ellis's mind, and nobody can find the volume.
+**Thesis.** Feedback is a signal re-entering itself until it screams. The band built its sound on controlling it. In this chapter the loop runs through the industry, the press, the drugs and Ellis's mind, and nobody can find the volume. The last two clauses of the van promise break.
 
-**Primary movement.** A major label and a key-man clause; Riley's song sung by Ellis for the radio; an arena tour in winter; a critic on the bus; an irregular heartbeat in Cleveland; a hotel-bar kiss printed in a magazine; the cruelest thing Ellis ever says; forty seconds of silence on national television; a box in a closet; Tolliver Road; a psychiatrist.
+**World state.** "Still Here" at #38 in January. "Sunday Clothes" (Ellis's single version) climbing to #14 by April. The Bowery photograph on dorm walls. *Rave*'s letters page. Carter winning primaries. *Frampton Comes Alive!* everywhere. CB radio. *One Flew Over the Cuckoo's Nest* in theaters.
 
-**World state.** "Still Here" in the Top 40; "Sunday Clothes" climbing; the NY photograph on dorm walls; national press; Carter winning primaries; *Frampton Comes Alive!* everywhere; CB radios; *One Flew Over the Cuckoo's Nest* in theaters.
+**Band state.** National. A Monarch-paid bus. Separate hotel rooms. A product manager who calls Ellis "the franchise." Theo on the tour as front-of-house engineer. Cal leaves for two shows.
 
-**Band state.** National. Separate hotel rooms. A tour bus. A product manager who calls Ellis "the franchise." Cal leaves for two shows. The band's promise is broken in every clause.
+**Ellis/Clara.** Intrusive: on the bus, in a hotel bar, on a soundstage. The switch camera **catches on her, stutters and fails** twice (the bus; *Night Stage*). The third and last teasing "Liar" (on the bus, before it all turns). "Daddy," once, at Tolliver Bend, in Grace's voice. After the photographs: Grace at fourteen in the passenger seat, aging into Clara; "I made you." / "Does that make me less real?" Then trifluoperazine, and she thins to nothing over ten days.
+**Grace info.** Wayne tells Riley what he has known since August: Clara was his mother's name and Grace's middle name, and Grace sang the high part. The photographs: Grace at thirteen (school picture, 1972), Lorraine at nineteen (wedding, 1953), Clara between them. Tolliver Bend itself.
+**Ellis/Wayne.** Wayne brings the box to the kitchen table himself. "There is no Clara." / "She's in the doorway." Wayne drives Ellis to Dr. Lusk and waits two hours in the truck with the Engineers' opener on the radio. On April 12 they eat Ada Tolliver's pie, both of them, for the first time in three years.
+**Riley.** "Sunday Clothes" re-sung by Ellis for the single, and Riley on harmony under her own song. Joan hears it on the radio. Nina Sorensen writes the first serious piece about her, in the same week *Rave* prints the kiss. A trip at a New York party turns on her, and she watches herself hand Ellis the mushrooms at the farmhouse (her silent VI guilt, surfacing). She stops. She drives to Wayne.
+**Cal.** Signs the Monarch rider with SIGNED UNDER PROTEST in the margin. Hears "the franchise" again. Counts Clara conversations ("Eleven times this week"). Provokes first ("She isn't real, Ellis"), is outed in front of Dean and Tully, leaves for two shows, and comes back on his own terms: "Theo's mine. That's real. You don't get to use it."
+**Dean.** In paradise in the arenas, and breaks his own clause of the promise getting into Monarch's limousine ("It's a Lincoln"). An irregular heartbeat in a Cleveland ER; Lynette stays on the phone. Shows up high at Bobby's fifth birthday with a toy drum kit, and she ends it at the trailer door. After Cal comes back, a coffee: "For the record, I figured you were just boring."
 
-**Ellis/Clara.** Intrusive: in interviews, on the bus, on a soundstage between cameras. The switch camera **catches on her, stutters, and fails** (twice). "He's taking me" (about Dex). After the photographs: Grace at fourteen in the passenger seat at Tolliver Bend, aging into Clara; "I made you." / "Does that make me less real?" Then trifluoperazine, and silence.
-**Grace info.** Wayne tells Riley that Clara was his mother's name and Grace's middle name and that Grace sang harmony. The photographs: Grace at thirteen, Lorraine at nineteen, Clara between them. "I was driving."
-**Ellis/Wayne.** "There is no Clara." / "She's right there." Wayne drives Ellis to Laurel City to Dr. Lusk and waits in the truck for two hours.
-**Riley.** "Sunday Clothes" sung by Ellis; her mother hears it on the radio; Nina Sorensen writes about her; a trip turns on her and she stops; reads about the kiss in a magazine; drives to Wayne.
-**Cal.** Signs the key-man clause under protest; counts Clara conversations ("Eleven times this week"); is outed by Ellis to Dean in front of the crew; leaves; comes back without an apology.
-**Dean.** In paradise on an arena tour; chest pain and an irregular heartbeat in a Cleveland ER; Lynette hangs up on him. Learns about Cal and handles it like Dean.
+**Gameplay.**
+- Arena-scale performance (the largest room, the slowest crowd).
+- The tour bus as a social hub.
+- The grammar-violating switch.
+- The television performance, where the player's only input is to continue.
+- The first drive down Tolliver Road.
+- The psychiatrist's office as a dialogue scene built on silence.
+- The medicated free-roam: Clara and Observe flatten; sleep, Tater and Riley's laugh arrive.
+- One notebook line, visible only to the player: *If a train came through right now that'd be all right.*
 
-**Gameplay.** Arena-scale performance (bigger room, slower crowd response); tour bus as social hub; the grammar-violating switch; the television performance where the player's only input is to continue; searching the Blake house; the first drive down Tolliver Road; the psychiatrist's office as a dialogue scene with silence; the medicated free-roam where audio and color flatten.
-**Music.** Singles; arena sound; a song ("New Skin") begun and abandoned.
-**Major locations.** Monarch's New York office; winter Midwest arenas; a Cleveland ER; *Night Stage* soundstage; Cold Branch Road; Tolliver Bend.
-**Set piece.** *Night Stage*: forty seconds of live-to-tape silence that the producers keep because it's electrifying.
-**Quietest.** Ellis on the porch on medication, waiting for someone who doesn't come, Tater's head on his boot.
-**Funniest.** Dean learning about Cal and, a day later, bringing him coffee: "For the record, I figured you were just boring."
-**Most painful.** Ellis to Cal: "At least mine isn't somebody I keep in a hotel room."
-**Ending transformation.** The notebook open on his knee. The pen doesn't move.
+**Music.** "Sunday Clothes" single version; the arena set; "New Skin" begun on the bus and abandoned.
+**Set piece.** *Night Stage*: forty seconds of live-to-tape silence, with the band holding a drone under it, that the producers keep because it's electrifying.
+**Quietest.** April 12. Two men at a kitchen table eating buttermilk pie off one plate, with Tater watching.
+**Funniest.** Dean, the day after Cal comes back, with two coffees: "For the record, I figured you were just boring."
+**Most painful.** "She isn't real, Ellis." / "At least mine isn't somebody I keep in a hotel room."
+**Ending transformation.** The notebook open on his knee on the porch, Riley laughing inside at something he said an hour ago, Tater asleep on his boot. The pen doesn't move.
 
 **Missions**
-- **Cold open.** A New York soundstage in March; a red light; Ellis stops.
-- **1. Key Man** (Cal). Monarch Records; Gil Tarver; the clause.
-- **2. Single Version** (Riley). "Sunday Clothes" re-sung by Ellis.
-- **3. The Opener** (Dean). Winter arenas.
-- **4. The Bus** (Ellis). Dex Lundgren rides along; a page goes missing.
-- **5. Cleveland** (Dean → Cal). The ER.
-- **6. Hotel Bar** (Ellis). "I know who Clara is."
-- **7. Eleven Times** (Cal). The fight.
-- **8. No Floor** (Ellis). Two shows without Cal.
-- **9. Kitchen, Cold Branch Road** (Riley). Wayne and Riley.
-- **10. Night Stage** (Ellis). The silence.
-- **11. Rave** (Riley). The magazine.
-- **12. The Box in the Closet** (Ellis). The photographs; "There is no Clara."
-- **13. Tolliver Road** (Ellis). The bend; the oak; "I made you."
-- **14. Payphone** (Riley). "I was driving."
-- **15. Four Chairs** (Riley → Ellis). The kitchen; the decision.
-- **16. Dr. Lusk** (Ellis). "I don't know yet what this is."
-- **17. Quiet** (Ellis). The porch; the pen.
+- **Cold open. The Poster.** A dorm room in Ohio, January. A girl pins the Bowery photograph (the player's version) to a cinderblock wall. "Which one's Ellis?" / "The one who isn't smiling."
+- **1. Key Man** (Cal). Mon Jan 12, New York. Monarch's rider and the key-man clause; SIGNED UNDER PROTEST; the Lincoln.
+- **2. Single Version** (Riley). Tue Jan 13. "Sunday Clothes" re-sung by Ellis; Riley's harmony (or silence).
+- **3. The Opener** (Dean). Wed Jan 14, Detroit. Twelve thousand people waiting for Sawtooth.
+- **4. The Bus** (Ellis). Jan 19–20. Dex aboard; "Liar" (the last); the page; the first failed catch.
+- **5. Cleveland** (Dean → Cal). Sat Jan 24. The ER; Lynette on the phone; Cal in the plastic chair.
+- **6. Hotel Bar** (Ellis). Thu Jan 29, Chicago. "I know who Clara is." The kiss; Dex at the end of the bar.
+- **7. Eleven Times** (Cal). Fri Jan 30, the bus to Milwaukee. The fight; Tully; Cal gets off.
+- **8. No Floor** (Ellis → Cal). Sun Feb 1 – Tue Feb 3. Two shows with a session bassist; the notebook line; Cal comes back; "Theo's mine"; Dean's coffee.
+- **9. Five** (Dean). Fri Feb 20. Bobby's birthday; the toy drum kit; the trailer door.
+- **10. Night Stage** (Ellis). Sat Mar 13, New York. The silence; the second failed catch.
+- **11. Rave** (Riley). Mon Mar 15, New York. Nina's piece and *Rave*'s, on the same rack; Joan on the phone; the party; the farmhouse, again, from outside; she stops.
+- **12. Kitchen, Cold Branch Road** (Riley). Thu Mar 18. Wayne has known since August.
+- **13. The Box** (Ellis). Sat Mar 20. The photographs on the kitchen table.
+- **14. Tolliver Road** (Ellis). That night. The bend; the oak; "I made you."
+- **15. Payphone** (Riley). The same night. "I drove here." "Stay there."
+- **16. Four Chairs** (Riley → Ellis). Sun Mar 21, morning. "After New York" called in.
+- **17. Dr. Lusk** (Ellis). Thu Apr 8. "I don't know yet what this is."
+- **18. Quiet** (Ellis). Mon Apr 12 (the pie), then late April (the porch; the pen).
 
 ---
 
 ## CHAPTER IX — WHO ARE YOU?
 
-**Dates:** May 10 – Aug 22, 1976. **Runtime:** 6 h. **Playable:** Cal → Ellis → Dean → Riley → Ellis.
+**Dates:** Mon May 10 – Sun Aug 22, 1976. **Runtime:** 6 h. **Playable:** Cal → Ellis → Ellis → Ellis → Ellis → Ellis → Riley → Ellis → Dean → Cal → all → Riley → Ellis → Ellis → Cal → Ellis → Ellis → Ellis → Riley.
 
-**Thesis.** The world discovers Ellis the poet at the exact moment Ellis discovers what he said in the car. Everyone is asked who they are. Grace, on a tape made when she was thirteen, has already answered for him.
+**Thesis.** The world discovers Ellis the poet at the moment Ellis discovers what he said in the car. Everyone is asked who they are. Grace, on a tape made when she was thirteen, has already answered for him, rudely.
 
-**Primary movement.** A lodge on Stony Knob with a recording truck in the drive; medication that makes him quiet and famous; a legendary interview; the accident report; a witness in North Carolina; the argument remembered; pills flushed; Dean's bottom; the Tabernacle; Riley leaving the lodge; poems in a magazine; an apology at a radio bench; Grace's room; the tapes; a fourteen-year-old in a hallway.
+**World state.** Bicentennial summer. Carter nominated. The poems in print without permission. Fans theorizing that Clara is a dead sister (the *Rave* article made that easy). Hollow Ridge sick of tourists and proud of them.
 
-**World state.** Bicentennial summer. Carter nominated. The poems in print. Fans theorizing that Clara is a dead sister. A publisher. Hollow Ridge sick of tourists and proud of them.
+**Band state.** Recording the second album at a lodge on Stony Knob with Frank Dalton and a mobile truck. Healing and splitting at once. Dean sober. Riley out of the lodge. Cal and Ellis mended.
 
-**Band state.** Recording the second album at home. Healing and splitting at once. Dean sober. Riley out of the lodge. Cal and Ellis mended.
+**Ellis/Clara.** Gone for five weeks on medication. The switch catches on an empty chair and fails. When he stops the pills she returns on day four, and so do the 3 a.m. waking and the talking to air. At the Tabernacle she's beside him, and he loses a verse. In Grace's hallway she is fourteen: "I couldn't be her." She walks into Grace's room, the only time. He closes the door.
+**Grace info.**
+- The report: April 12, 1973. The player remembers a pie and a ballgame. A truck over the line; "we were arguing and I looked at her."
+- Wayne knew about the truck the next day.
+- Hollis Beam: "She told you to stop saying sorry." / "She said something after. I couldn't make it out. I'm sorry."
+- The argument, remembered: "When I go, I'm not coming back for you."
+- The tapes: WGRC, the harmony, "Who are you?" / "You're my brother. Unfortunately."
+- A playable afternoon in 1972 with Grace alive. Ellis is fifteen.
+**Ellis/Wayne.** Wayne's confession is short: "I couldn't have it be nobody's." Boiled peanuts on a tailgate outside Sylva: "Grace hated these." / "She ate them anyway." Then: "You want me there?" / "Yeah."
+**Riley.** Has stopped using psychedelics. Finds the untouched pill count. "I can't watch you choose her." Moves back to Laurel City, and stays in the band. Joan sings in the Sacred Harp class at the Tabernacle.
+**Cal.** Brings Theo to the lodge as himself. Tells Ellis about his grandfather and the radio on the dock. Accepts an apology delivered as a soldering job, and tells Ellis he has known about the Thursday since August '75.
+**Dean.** Flushes his stash; "I think I need help." Three nights of Cal reading *The Dispossessed* aloud in a monotone. Goes to Lynette sober, and she lets him sit on the step.
 
-**Ellis/Clara.** Gone for weeks (medication). The switch catches on an empty chair and fails. Returns on day four after he stops, fiercer, brighter. At the Tabernacle, radiant. In Grace's hallway, fourteen: "I couldn't be her." She walks into Grace's room, the first time. He closes the door.
-**Grace info.** The report (April 12, 1973, the player remembers a pie and a ballgame); the truck over the line; Wayne knew. Hollis Beam: "She told you to stop saying sorry." The argument: "I'm not coming back for you." The tapes: WGRC; harmony; "Who are you?" / "You're my brother." / "That's not enough." / "It is to me." A playable afternoon in 1972 with Grace alive.
-**Ellis/Wayne.** "I needed it to be somebody's fault." Boiled peanuts on a tailgate in North Carolina. "You want me there?" / "Yeah."
-**Riley.** Stops using psychedelics; finds the untouched pill count; "I can't watch you choose her"; moves to Laurel City; stays in the band.
-**Cal.** Tells Ellis about his grandfather and the radio. Accepts an apology delivered as a soldering job.
-**Dean.** Flushes his stash; "I think I need help"; three nights with Cal reading *The Dispossessed* aloud badly; goes to Lynette sober.
-
-**Gameplay.** The lodge as a small open hub (dock, lake, truck, kitchen, bedrooms); the medicated Ellis (slower movement, muted Observe, no Clara); the *Late Hour* interview (timing-based silence system); document reading (the report); off-map North Carolina; the Tabernacle performance with a Sacred Harp class onstage (the hollow square); playing a memory as sixteen-year-old Ellis with Grace.
-**Music.** "Who Are You?" begun; "New Skin" finished; the Tabernacle show.
-**Major locations.** Stony Knob lodge; *Late Hour* studio; Sylva, North Carolina; the Tabernacle; Mercer Radio & TV; Grace's room.
+**Gameplay.**
+- The lodge as a small open hub (dock, lake, truck, kitchen, bedrooms).
+- Medicated Ellis: slower, sleeps, muted Observe, no Clara, and "New Skin" finished at the kitchen table in daylight.
+- *Late Hour*: a dialogue system where the medicated answers come easily and every one of them is a little wrong.
+- Document reading: the report.
+- Off-map North Carolina.
+- The Tabernacle performance with a Sacred Harp class onstage in a hollow square. Ellis loses a verse and Cal carries him (the *follow* verb turned toward saving someone).
+- Playing a memory as fifteen-year-old Ellis with Grace.
+**Music.** "New Skin" finished (medicated). "Who Are You?" begun (unmedicated). The Tabernacle show.
 **Set piece.** The Tabernacle: a Sacred Harp class in a hollow square on the stage of a building the country establishment abandoned, singing with a rock band.
-**Quietest.** Wayne and Ellis on a tailgate eating boiled peanuts outside Sylva. "Grace hated these." "She ate them anyway."
-**Funniest.** Dean's detox, night two: Cal reading Le Guin aloud in a monotone and Dean begging him to do the voices.
+**Quietest.** The tailgate outside Sylva.
+**Funniest.** Dean's detox, night two: Cal reading Le Guin in a monotone and Dean begging him to do the voices.
 **Most painful.** Clara, fourteen, in the hallway: "I couldn't be her."
-**Ending transformation.** A closed door. A list on a notebook page. "Dad — Sunday?"
+**Ending transformation.** A closed door. A list on a notebook page: *Dean owes me $4 · Dad — Sunday? · finish Who Are You.*
 
 **Missions**
-- **1. The Lodge** (Cal). Moving in; the truck; the dock; Frank.
-- **2. Under Glass** (Ellis). Medicated; fishing with Cal; the grandfather and the radio.
-- **3. Late Hour** (Ellis). New York, June.
-- **4. The Report** (Ellis). Pruitt's file; Wayne's confession.
-- **5. Sylva** (Ellis). Hollis Beam; peanuts.
-- **6. The Argument** (Ellis → Riley). The memory; "Words don't steer trucks."
-- **7. Flush** (Ellis). Day one to day four; Clara returns; "Who Are You?"
-- **8. Bottom** (Dean → Cal). "I think I need help."
-- **9. The Tabernacle** (all). The hollow square.
-- **10. Count** (Riley). The pills; the lie; leaving the lodge.
-- **11. Excerpts** (Ellis). The poems in *Rave*.
-- **12. Bench** (Ellis → Cal). Mercer Radio & TV.
-- **13. Grace's Room** (Ellis). The jacket; the tapes; 1972.
+- **1. The Lodge** (Cal). Mon May 10. Moving in; the truck; the dock; Frank; Theo.
+- **2. Under Glass** (Ellis). Medicated. Sleep. Fishing with Cal; the grandfather and the radio. "New Skin" finished.
+- **3. Late Hour** (Ellis). Thu Jun 10, New York. Fluent, charming and wrong.
+- **4. The Report** (Ellis). Pruitt's file at the kitchen table, opened for the first time, by both of them.
+- **5. Sylva** (Ellis). Hollis Beam; the Hensleys' telephone; the tailgate.
+- **6. The Argument** (Ellis → Riley). The memory; Riley at the dock.
+- **7. Flush** (Ellis). Day one to day four. Clara returns; so does 3 a.m. "Who Are You?" begun.
+- **8. Bottom** (Dean → Cal). "I think I need help." Le Guin.
+- **9. The Tabernacle** (all). Sat Jul 17, Tannersville. The hollow square; the lost verse.
+- **10. Count** (Riley). The pills; "I can't watch you choose her"; she moves out and stays in the band.
+- **11. Excerpts** (Ellis). Monarch's publicist photocopied the notebooks from the van; *Rave* prints them; Mrs. Pardue: "I told you so, Ellis. In 1973."
+- **12. Bench** (Ellis → Cal). Mercer Radio & TV. An apology by soldering iron. "I've known since August."
+- **13. Grace's Room** (Ellis). The jacket; the tapes; the 1972 afternoon.
 - **14. Hallway** (Ellis). "I couldn't be her."
-- **15. Plans** (Ellis → Riley). New York; "You want me there?"; the dock.
+- **15. Plans** (Ellis → Riley). The festival; "You want me there?" / "Yeah."; the list; the dock.
 
 ---
 
 ## CHAPTER X — THE LAST LIGHT
 
-**Dates:** Thursday Aug 26 – Saturday Aug 28, 1976. **Runtime:** 4 h. **Playable:** Cal → Dean → Riley → Ellis → all → Riley → Cal → Dean → Wayne.
+**Dates:** Thursday Aug 26 – Saturday Aug 28, 1976. **Runtime:** 4 h. **Playable:** Cal → Dean → Riley → Ellis → Ellis → Ellis → Cal → Ellis → all → Riley → Cal → Dean → Wayne.
 
-**Thesis.** Everything the game taught (switching, following, turns, home, stay with me, the crowd, the light, the road) converges in one song. Ellis remembers his sister telling him to go, turns toward the living, and a light he doesn't see coming does the rest.
+**Thesis.** Everything the game taught converges in one song: switching, following, turns, home, *stay with me*, the crowd, the light, the road. Ellis remembers his sister telling him to go, turns toward the living, and a light he doesn't see coming does the rest.
 
-**Primary movement.** A bus north with two old men in a pickup behind it; a racetrack in upstate New York; a tab of acid from a notebook; an interview that will be called prophecy; a walk through 150,000 people; a squall and a three-hour delay; a green room; a promise; a walk to the stage; the sunset set; the last light.
-
-**World state.** The largest crowd of their lives; a concert film crew; helicopters; mud from a hurricane two weeks gone; a state permit fight; Carter on buttons.
+**World state.** The largest crowd of their lives, about 150,000. A concert film crew. Helicopters. Mud from Hurricane Belle two weeks gone. A state permit fight. Carter on buttons.
 
 **Band state.** At their best and least safe. Dean sober. Riley and Ellis tender and not together. Cal watching everything.
 
-**Ellis/Clara.** At his side on the walk: "The part that couldn't leave her there." At the stage edge with Grace. When he remembers, there is nothing left for her to hold.
-**Grace info.** Complete: "Stop saying sorry." "Liar." "It's okay. Go on."
-**Ellis/Wayne.** Wayne came. Ellis sees him in the crowd during the set.
-**Riley.** Reaches for him with her hand out.
+**Ellis/Clara.** At his side on the walk to the stage. At the stage lip during the last song, holding him there. When Roy's ordinary "Go on" opens the memory of Grace's, she has nothing left to hold.
+**Grace info.** Complete: "Stop saying sorry." "Liar." "It's okay." "Go on."
+**Ellis/Wayne.** Wayne came, nine hundred miles, in the F-100 with Roy asleep in the passenger seat. Ellis sees him in the crowd during the set.
+**Riley.** At the riser's stage-right corner for the ending, as always, her hand out.
 **Cal.** Asks what day it is and takes the answer as evidence.
 **Dean.** The man who said yes to everything: "We can cancel."
 
-**Gameplay.** Festival crowd traversal; LSD perception (subtle, beautiful, then not); the green-room decision; the longest backstage walk in the game; the final performance with rapid switching; the "home" cue as the only available input; the fall; the failed switch; hospital; the first playable Wayne.
+**Gameplay.**
+- Festival crowd traversal.
+- The green-room decision.
+- The longest backstage walk in the game.
+- The final performance with rapid switching.
+- The withheld "home." While the player holds off, the band keeps following and tires; there's no timer. Holding off is *stay*; pressing is *go on*.
+- The fall.
+- The failed switch.
+- The first playable Wayne.
+**No drug is taken.** A tab of acid in a fan's letter is held at a motel sink and put back.
 **Music.** "Who Are You?" with an improvised last verse.
-**Major location.** The Arbor Jam, Glen Arbor Raceway, New York.
+**Major location.** The Arbor Jam, Glen Arbor Raceway, Schuyler County, New York.
 **Set piece.** The Last Light.
 **Quietest.** Ellis in the field at noon under a hat, unrecognized, writing overheard sentences on his forearm.
-**Funniest.** The green room before it goes wrong: Dean producing the Polaroid ("We look terrible." / "You look terrible."), the dealership remembered.
-**Most painful.** The crowd chanting his name while he says he isn't him.
+**Funniest.** The green room before it goes wrong: Dean producing the Polaroid ("We look terrible." / "You look terrible."), and the dealership remembered.
+**Most painful.** The crowd chanting his name while he says, into the mic, that he isn't him.
 **Ending transformation.** The camera tries to find Ellis and can't.
 
 **Missions**
 - **1. North** (Cal). The bus; the radio; the F-100 in the mirror.
-- **2. Glen Arbor** (Dean → Riley). The site; the film crew; Theo on the tower; Wayne and Roy park in a hayfield.
-- **3. Morning** (Ellis). The motel; the notebook; the tab.
-- **4. Press Tent** (Ellis). "Like standing at the edge of something."
-- **5. The Field** (Ellis). Walking the crowd; Grace.
-- **6. Weather** (Cal). The squall; the delay; the green room; "One show. Then we go home." / "Promise?"
-- **7. The Walk** (Ellis). Clara.
-- **8. The Last Light** (all). The set.
-- **9. The Gap** (Riley → Cal → Dean → Wayne).
+- **2. Glen Arbor** (Dean → Riley). The site; the film crew; Tully shows Kit Adair where to stand; Theo on the tower; Wayne and Roy park in a hayfield.
+- **3. Morning** (Ellis). The motel; a fan's letter with a tab in it; the sink; he puts it back.
+- **4. Press Tent** (Ellis). The peanut-stand rankings, which Dex will make into prophecy.
+- **5. The Field** (Ellis). Walking the crowd under a hat; Clara.
+- **6. Weather** (Cal). The squall; the delay; the green room; the Polaroid into Dean's pocket; "We can cancel."; "Your call."; "What day is it?"
+- **7. The Walk** (Ellis). Clara; the stairs; Roy: "Go on, get up there."
+- **8. The Last Light** (all). The set; the kick drum with Carla's letter still on it; the verse; home; the light.
+- **9. The Gap** (Riley → Cal → Dean → Wayne). Tully first down; Kit on the case; 9:52 p.m.
 
 ---
 
 ## EPILOGUE — WHAT REMAINS · CODA
 
-**Dates:** Aug 29, 1976 – April 1977, with 1996 frames. Coda: Saturday Nov 9, 1974. **Runtime:** 2.5 h. **Playable:** Wayne → Cal → Dean → Riley → Wayne → (1996 interviews, non-interactive) → Ellis.
+**Dates:** Aug 29, 1976 – April 1977, with 1996 frames. Coda: Saturday Nov 9, 1974. **Runtime:** ~1.75 h. **Playable:** Wayne → Riley → Cal → Dean → Riley → Wayne → (1996 interviews, non-interactive) → Ellis.
 
 **Thesis.** The world explains him. The people who knew him refuse to, and then each keeps one ordinary thing.
 
 **Missions**
-- **1. Route 17** (Wayne). The drive home from New York with Roy asleep in the passenger seat.
-- **2. Pettigrew** (Riley). The funeral; fans in the cemetery; Lorraine; the envelope handed back unopened.
-- **3. The List** (Cal). Ellis's room: "Dean owes me $4 / Dad — Sunday? / finish Who Are You." The ledger: *Clara?*
-- **4. Pocket** (Dean). The Polaroid; four dollars under a rock on a grave, stolen by Tuesday.
-- **5. M.** (Riley). The notebooks; poems addressed to "M."; what she will and won't publish.
-- **6. Number One** (relay). *Borrowed Stone* at #1; the footage; the lawsuit; Dex's piece; Nina's.
-- **7. Tater** (Wayne). Winter; the dog getting thin; the Engineers on the radio; Hollow Ridge Monument & Vault: "I'd like to pay the balance."
-- **8. 1996** (documentary frame). Dean: "He was funny." Cal: "He wasn't so bad." Riley: "Who was Ellis? Without the Blake." Dex: "I made him up. Some of him." Wesley Tate. Wayne's door.
-- **Coda: Saturday** (Ellis, Nov 9, 1974). No objective. Then: **GO HOME**.
-- **Credits** over rehearsal tapes. **Post-credits:** "Don't get weird."
+- **1. Route 17** (Wayne). The drive home from New York, with Roy asleep in the passenger seat.
+- **2. Pettigrew** (Riley). The funeral; fans in the cemetery; Lorraine at the back; the envelope handed back unopened.
+- **3. The List** (Cal). Ellis's room: *Dean owes me $4 · Dad — Sunday? · finish Who Are You.* The ledger: *Clara?* Behind Cal, on a radio he isn't listening to, *Borrowed Stone* climbs to #1; a lawyer calls about the footage.
+- **4. Pocket** (Dean). The Polaroid. The tab in the green notebook, flushed. Four dollars under a rock on a grave, stolen by Tuesday.
+- **5. M.** (Riley). The notebooks. The poems to "M." in the green one. The train line she will never publish. The registration form, still folded.
+- **6. Tater** (Wayne). Winter; the dog getting thin; the Engineers on the radio. Hollow Ridge Monument & Vault: "I'd like to pay the balance." Opening Day, April 1977: two of the four tickets, Wayne and Roy.
+- **7. 1996** (documentary frame). Dean: "He was funny. Nobody writes that." Cal: "He wasn't so bad." Riley on his maps. Dex: "I sold a lot of magazines." Wesley Tate on Marlon's stage. Wayne's door, closed.
+- **Coda: Saturday** (Ellis, Nov 9, 1974). No objective, and no Clara, and nobody remarks on it. Then: **GO HOME**.
+- **Credits** over rehearsal tapes. **Post-credits:** Grace on a cassette: "Don't get weird."
