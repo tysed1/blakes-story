@@ -23,15 +23,15 @@ The death isn't the meaning. His life had meaning before it ended. This chapter 
 | # | Mission | Playable | Where / when | Length |
 |---|---|---|---|---|
 | — | Cold Open: Roll One | (a film camera) | Glen Arbor Raceway, Fri Aug 27, dawn | 2 min |
-| 1 | North | Cal | Marlon's lot, Hollow Ridge; the bus; I-81 and I-83; a motel in Harrisburg, Thu Aug 26 | 25 min |
+| 1 | North | Cal | Marlon's lot, Hollow Ridge; the bus; I-81; a motel in Harrisburg, Thu Aug 26 | 25 min |
 | 2 | Glen Arbor | Dean → Riley | the raceway; the backstage compound; a hayfield, Fri Aug 27 | 30 min |
 | 3 | Morning | Ellis | the Seneca Motor Inn, Route 14, Sat Aug 28, 5:40 a.m. | 15 min |
 | 4 | Press Tent | Ellis | the press tent, 11:30 a.m. | 15 min |
 | 5 | The Field | Ellis | the infield, 12:30 – 2:50 p.m. | 25 min |
 | 6 | Weather | Cal | the green-room trailer, 2:50 – 7:10 p.m. | 30 min |
 | 7 | The Walk | Ellis | backstage to the stage stairs, 7:10 – 7:30 p.m. | 10 min |
-| 8 | The Last Light | all | the stage, 7:26 – 8:41 p.m. | 45 min |
-| 9 | The Gap | (no one) → Riley → Cal → Dean → Wayne | the gap; the compound; Route 14, 8:41 – 9:52 p.m. | 30 min |
+| 8 | The Last Light | all | the stage, 7:26 – 8:22 p.m. | 45 min |
+| 9 | The Gap | (no one) → Riley → Cal → Dean → Wayne | the gap; the compound; Route 14, 8:22 – 9:52 p.m. | 30 min |
 
 ---
 
@@ -61,13 +61,13 @@ The camera holds on the stage in the mist.
 
 Cut.
 
-> **Design note.** The player will see this camera again, at the end of Mission 8 and in the epilogue, and will spend a long time with the footage it takes. It's introduced here as two people doing a job at dawn, a thirty-year-old cameraman and a twenty-two-year-old assistant with tape on her fingers. Nobody in this chapter is a villain. Everybody is doing their job.
+> **Design note.** The player will see this camera again, at the end of Mission 8 and in the epilogue, and will spend a long time with the footage it takes. It's introduced here as two people doing a job at dawn, a thirty-year-old cameraman and a twenty-two-year-old assistant with tape on her fingers.
 
 ---
 
 ## MISSION 1 — NORTH
 
-**Playable:** Cal · **Where:** Marlon's lot, Hollow Ridge; the bus north through the Tanner Valley, off the map, I-81 through Virginia, I-83 into Pennsylvania; a motor inn outside Harrisburg · **When:** Thursday August 26, 6:30 a.m. – 11:00 p.m. · **Length:** ~25 min
+**Playable:** Cal · **Where:** Marlon's lot, Hollow Ridge; the bus north through the Tanner Valley, off the map, I-81 through Virginia and into Pennsylvania; a motor inn outside Harrisburg · **When:** Thursday August 26, 6:30 a.m. – 11:00 p.m. · **Length:** ~25 min
 
 ### Marlon's lot
 
@@ -145,7 +145,7 @@ That's all. Cal doesn't argue. He sits in the back lounge with them for an hour,
 
 ### Harrisburg
 
-A motor inn off I-83 outside Harrisburg, Pennsylvania, 10:40 p.m. Two stories, an outside walkway, an ice machine that sounds like the one at the Tanner Valley Motor Court.
+A motor inn off I-81 outside Harrisburg, Pennsylvania, 10:40 p.m. Two stories, an outside walkway, an ice machine that sounds like the one at the Tanner Valley Motor Court.
 
 The F-100 pulls in behind the bus and parks at the end of the row. Wayne gets out and stretches his back. Roy lets Tater out to water the motel's one tree.
 
@@ -153,7 +153,7 @@ The player, as Cal, can walk the walkway: doors open, the band settling in, Rile
 
 Ellis comes out of his room with two Cokes from the machine and walks down the row and sits on the bumper next to his father and hands him one.
 
-Cal watches them from the walkway. The player can't hear them from here. The game doesn't let them; it keeps the camera with Cal. The two Blakes on a truck bumper under a sodium light in Pennsylvania, not talking much, the dog lying across both their boots.
+Cal watches them from the walkway, too far to hear. The two Blakes on a truck bumper under a sodium light in Pennsylvania, not talking much, the dog lying across both their boots.
 
 After a while Cal goes in.
 
@@ -177,13 +177,13 @@ A racetrack in a green valley, and the whole valley filling with people. Every f
 
 **DEAN:** That's more people than live in *Georgia*.
 
-(It isn't. It's seventy Hollow Ridges, and Dean will spend the evening telling everyone that.)
+(By supper Dean has worked out that it's seventy Hollow Ridges, and tells everyone.)
 
 Behind them, the F-100 has pulled off onto the shoulder of the county road. Wayne and Roy have seen it too.
 
 ### The compound
 
-The backstage compound: a fenced acre behind the stage, mud under plywood walkways, a dozen trailers (dressing rooms, production, catering, a medical trailer with a red cross on it and two volunteer EMTs smoking outside), generators, semis, a helicopter pad marked with lime, the film company's truck, and a lot of men with walkie-talkies who all seem to be in charge.
+The backstage compound: a fenced acre behind the stage, mud under plywood walkways, a dozen trailers (dressing rooms, production, catering, a medical trailer with a red cross on it and two volunteer EMTs smoking outside), generators, semis, the film company's truck, and a lot of men with walkie-talkies who all seem to be in charge.
 
 The player, as Dean, gets the walk, and Dean is having the time of his life:
 - **Catering.** A striped tent with a hot buffet. Dean eats a plate of something and talks to a cook from Buffalo about wings.
@@ -218,7 +218,7 @@ She shows him on the clipboard. Tully looks at it. Then he walks her across the 
 
 She writes it on her clipboard. The player can see the note: *BLAKES — stay behind white tape SR — big guy (crew chief)*.
 
-> **Design note.** Tully is kind to Kit and gives her good advice. She follows it. It doesn't matter. Tomorrow night the last song goes somewhere nobody planned, and Joel steps out from behind the line to get the shot he's paid to get, and she follows her cameraman, because that's her job. Nobody in this mission does anything wrong.
+> **Design note.** Tully is kind to Kit and gives her good advice. She follows it.
 
 ### Wayne and Roy
 
@@ -275,7 +275,7 @@ The player can sit down next to her. Riley does, with a Coke. Two young women in
 The player chooses. It's the question from *Rave* in Chapter VII. The options:
 - **"Define 'girl.'"** Kit laughs. "Twenty-two and doing the slate. Ask me next year."
 - **"I'm the one who can read music."** Kit: "Joel can't read *anything*. He just points."
-- **"Lonely, sometimes."** Kit looks at her. "Yeah." That's all, and it's enough.
+- **"Lonely, sometimes."** Kit looks at her. "Yeah." That's all.
 
 **KIT:** Joel says I talk too much.
 
@@ -634,8 +634,6 @@ Ellis reaches over and puts it back in Dean's shirt pocket and buttons the flap.
 
 **ELLIS:** You won't.
 
-Dean puts his hand flat over the pocket.
-
 ### Four dollars
 
 A little later, Dean, seven weeks sober today, takes four one-dollar bills out of his wallet and holds them out.
@@ -670,54 +668,9 @@ Ellis doesn't look up from the memo book.
 
 Cal looks at his wrist.
 
-He takes the answer as evidence. The player can see him take it: Ellis knows exactly where he is and when. Whatever else is happening, he's here. Cal nods to himself, and gets up.
+He nods, and gets up.
 
-> **Design note.** Cal is right, and it doesn't help. Ellis knows exactly what day it is. He always has. What Cal can't test for is what Ellis doesn't know yet: what his sister said after the white.
-
-### Stop
-
-At 6:10, Dean, who has been watching Ellis talk to the end of the couch for an hour, stands up in the middle of the trailer.
-
-**DEAN:** Stop.
-
-Everyone looks at him.
-
-**DEAN:** We can cancel. People cancel. It rained. We say the gear got wet. Eddie, tell them the gear got wet.
-
-**EDDIE:** Your call.
-
-Eddie means it. He's the manager; he's got a label man on the phone who'd kill him; he means it anyway.
-
-**CAL:** Vote.
-
-It's the band's rule, and ties go to the ledger, which means Cal. The player, as Cal, runs it. He looks around the trailer.
-
-- **Riley** looks at Ellis for a long time. The player can see her weigh it: what she said in the kitchen at Knob House, what she chose, where she's standing now.
-  **RILEY:** Ellis. Define "want."
-  **ELLIS:** I want to play. One show. Then we go home.
-  **RILEY:** That's two things.
-  **ELLIS:** Then I want both.
-  **DEAN:** Exactly. That's the problem.
-  **RILEY:** Yes. I vote yes.
-- **Ellis:** "Yes."
-- **Dean:** "No. I said it." He doesn't look at Ellis when he says it. He looks at Cal. "Write it down."
-- **Cal.** The player chooses, and the player has the evidence: Ellis knows the day, the time and the sunset, and hasn't slept in two days. A yes makes it three to one, and they play. A no makes it two to two, and Cal breaks the tie, and the game makes the player look at Ellis while they decide.
-
-If the tie-break is *no*, the no stands. Nobody argues with the ledger. Eddie picks up the phone to call production. Ellis says "Okay," quietly, and goes back to his corner of the couch, and for twenty minutes the trailer is the worst room in New York.
-
-At 7:05, when the stage manager bangs on the door, Ellis stands up and picks up the Jazzmaster.
-
-**ELLIS:** Then I'll play it by myself.
-
-He goes out the door. Riley goes after him first. Dean looks at Cal, and puts his sticks in his back pocket, and goes. Cal sits alone in the trailer for a moment with the ledger open, and writes the entry, and follows them, because the band follows him. It always has. Eddie, on the phone, says: "Scratch that."
-
-Cal's entry depends on the vote. The player can see it:
-
-> *8/28/76 — Arbor Jam — vote to play, 3–1. D.H. no: "Stop." (On the record.)*
-
-or
-
-> *8/28/76 — Arbor Jam — vote not to play, 2–2, C.M. breaking. D.H.: "Stop." (On the record.) Played.*
+> **Design note.** Cal is right, and it doesn't help. Ellis knows exactly what day it is. He always has.
 
 ### Wayne
 
@@ -735,7 +688,7 @@ Ellis has put the leather jacket back on over the ELLIS shirt.
 
 **ROY:** So I did.
 
-Wayne is standing in the doorway, not coming in. The player, as Cal, steps back to let the Blakes have the doorway. Cal can hear them. The game lets him.
+Wayne is standing in the doorway, not coming in. The player, as Cal, steps back to let the Blakes have the doorway. Cal can hear them.
 
 **WAYNE:** Well.
 
@@ -763,9 +716,54 @@ A pause.
 
 Roy and Wayne go out through the compound gate toward the field. Roy stops at the gate and says something to Wayne, and Wayne keeps walking, and Roy turns around and comes back. The player, as Cal, can hear him say to Tully at the trailer steps: *"He wants to see it from out there. I'm gonna see it from here. Where do the boys come up?"* Tully points: the stairs, stage right.
 
+### Stop
+
+6:50. The trailer door has just shut behind Roy. Dean, who has been watching Ellis talk to the end of the couch for an hour, stands up in the middle of the trailer.
+
+**DEAN:** Stop.
+
+Everyone looks at him.
+
+**DEAN:** We can cancel. People cancel. It rained. We say the gear got wet. Eddie, tell them the gear got wet.
+
+**EDDIE:** Your call.
+
+Eddie means it. He's the manager; he's got a label man on the phone who'd kill him; he means it anyway.
+
+**CAL:** Vote.
+
+It's the band's rule, and ties go to the ledger, which means Cal. The player, as Cal, runs it. He looks around the trailer.
+
+- **Riley** looks at Ellis for a long time. The player can see her weigh it: what she said in the kitchen at Knob House, what she chose, where she's standing now.
+  **RILEY:** Ellis. Define "want."
+  **ELLIS:** I want to play. One show. Then we go home.
+  **RILEY:** That's two things.
+  **ELLIS:** Then I want both.
+  **DEAN:** Exactly. That's the problem.
+  **RILEY:** Yes. I vote yes.
+- **Ellis:** "Yes."
+- **Dean:** "No. I said it." He doesn't look at Ellis when he says it. He looks at Cal. "Write it down."
+- **Cal.** The player chooses, and the player has the evidence: Ellis knows the day, the time and the sunset, and hasn't slept in two days. A yes makes it three to one, and they play. A no makes it two to two, and Cal breaks the tie, and the game makes the player look at Ellis while they decide.
+
+If the tie-break is *no*, the no stands. Nobody argues with the ledger. Eddie picks up the phone to production and gets put on hold. Ellis says "Okay," quietly, and goes back to his corner of the couch, and for fifteen minutes the trailer is the worst room in New York.
+
+At 7:05 the stage manager bangs on the door ("Blakes, twenty-five minutes"), because production still hasn't heard. Ellis stands up and picks up the Jazzmaster.
+
+**ELLIS:** Then I'll play it by myself.
+
+He goes out the door. Riley goes after him first. Dean looks at Cal, and puts his sticks in his back pocket, and goes. Cal sits alone in the trailer for a moment with the ledger open, and writes the entry, and follows them, because the band follows him. It always has. Eddie, on the phone, says: "Scratch that."
+
+Cal's entry depends on the vote. The player can see it:
+
+> *8/28/76 — Arbor Jam — vote to play, 3–1. D.H. no: "Stop." (On the record.)*
+
+or
+
+> *8/28/76 — Arbor Jam — vote not to play, 2–2, C.M. breaking. D.H.: "Stop." (On the record.) Played.*
+
 ### Twenty-five minutes
 
-7:05. The stage manager bangs on the trailer door. "Blakes, twenty-five minutes. Walk in fifteen."
+7:05. If the vote went their way, the stage manager bangs on the trailer door: "Blakes, twenty-five minutes. Walk in fifteen."
 
 In the stage-right wing, visible from the trailer window if the player looks, Tully is helping Kit Adair dry the connector on her sun-gun's power cable with the film crew's hair dryer. She's laughing at something he said.
 
@@ -809,7 +807,7 @@ They walk under the stage. The crowd is a roof of sound.
 
 **CLARA:** It's a good room.
 
-She means it. She sounds almost happy about it.
+She sounds almost happy about it.
 
 **ELLIS:** Why'd you come back?
 
@@ -866,7 +864,7 @@ At the bottom, Roy watches them go (he can only see the one), and takes his hand
 
 ## MISSION 8 — THE LAST LIGHT
 
-**Playable:** all four (rapid switching), ending on Ellis · **Where:** the stage, Glen Arbor Raceway · **When:** Saturday August 28, 7:26 – 8:41 p.m. · **Length:** ~45 min
+**Playable:** all four (rapid switching), ending on Ellis · **Where:** the stage, Glen Arbor Raceway · **When:** Saturday August 28, 7:26 – 8:22 p.m. · **Length:** ~45 min
 
 ### The kick drum
 
@@ -925,7 +923,7 @@ The switching is rapid now, on the band's own signals: Cal's headstock, Dean's t
 
 ### "Low Water" (Cal)
 
-The first song they ever wrote together, in Chapter II, from Dean tapping on a table. The player is Cal. The *lock* verb: sit on the floor, hold Dean back, let the song be patient. Cal looks out over the heads to the mix tower eighty yards out in the infield, where Theo is standing at the board under a work light with his headphones on one ear, and Theo raises a hand without looking up from the faders.
+The first song they ever wrote together, in Chapter II, from Dean tapping on a table. The player is Cal. The *lock* verb: sit on the floor, hold Dean back, let the song be patient. Cal looks out over the heads to the mix tower eighty yards out in the infield, where Theo is standing at the board under a work light with his headphones on one ear.
 
 ### "Still Here" (Ellis)
 
@@ -938,7 +936,7 @@ They sing the first verse with him. Then the second. The whole valley:
 
 The player can take the *space* verb (step back from the mic) and let the valley sing it without him. If they do, it's a hundred and fifty thousand strangers singing a private conversation from an alley in Hollow Ridge to a young woman sitting on the lip of the stage at stage left, with her boots hanging over the edge above the crowd, watching them sing her words.
 
-Clara, twenty-one, in the jacket, perched on the lip the way she perched on a crate in Chapter I. The last light on her from behind.
+Clara, twenty-one, in the jacket, perched on the lip. The last light on her from behind.
 
 With *attention*, the player can look out over the crowd for Wayne, and this time there's a way to find him: the mix tower, the one fixed point in the valley. At the foot of the tower, by the scaffolding, where Theo has let him stand, there's a man in a hat.
 
@@ -946,13 +944,13 @@ He's not singing. He's standing still, a railroad section foreman at a racetrack
 
 He lifts one hand.
 
-The player, as Ellis, can lift one hand off the neck of the guitar, the gesture from Chapter II, through Marlon's window, to an eleven-year-old boy with his face pressed to the glass.
+The player, as Ellis, can lift one hand off the neck of the guitar.
 
 If the player does it, Wayne sees it. The player can see him see it. He puts his hand back in his pocket.
 
 ### "Sunday Clothes" (Riley)
 
-The player is Riley. Her song, her voice, her key. She sings it for her mother, who isn't here, who's in Linwood tonight with the radio on in the kitchen, because WLRC is carrying part of the festival live, and at 7:41 p.m. Joan Riley will hear her daughter's voice come out of the kitchen radio singing about her.
+The player is Riley. Her song, her voice, her key. She sings it for her mother, who isn't here, who's in Linwood tonight with the radio on in the kitchen, because WLRC is carrying part of the festival live, and at 7:37 p.m. Joan Riley will hear her daughter's voice come out of the kitchen radio singing about her.
 
 The valley sings along, and it knows the words because of Ellis's single, and it sings them in Riley's key now. With her *attention* the player can look at Ellis, who is singing the low harmony under her, eyes closed.
 
@@ -968,7 +966,7 @@ Dean throws one stick into the crowd on the last chorus, the way he used to.
 
 The player is Ellis. The song he wrote on the medication, at a kitchen table, in daylight; the song he lost a verse of in the Tabernacle.
 
-He loses it again. Second verse, second line: the words aren't there. The player feels it as a dead spot in the controls, the way the chord change went dead at the Lantern in Chapter V.
+He loses it again. Second verse, second line: the words aren't there. The player feels it as a dead spot in the controls.
 
 Cal is already up the neck. He plays the melody of the missing line high on the bass, and Ellis hears it and finds the words on the next bar, a beat late, and laughs into the microphone, and the valley thinks the laugh is part of the song.
 
@@ -1000,13 +998,13 @@ The band covers it. Nobody in the valley notices.
 
 Riley notices. If the player is Riley, they see his shoulders go, and his head turn away from the light, and come back.
 
-In the wing Joel says "Kill it, it's flaring," and Kit kills it. She'll need it at the end, when he wants the bow.
+In the wing Joel says "Kill it, it's flaring," and Kit kills it.
 
 > **Design note.** The flinch is the reflex from I, III, V and VII, in front of a hundred and fifty thousand people. The body knows it before the mind does. It's the last time the light is shown before the end, and it's shown as a technical problem: a flare in a lens, fixed by switching it off.
 
 ### "Who Are You?" (all)
 
-The last song on the list. The last song he wrote. The first time they've played it for anyone.
+The last song on Cal's list.
 
 The player is Ellis. The first verse, the fire-tower verse:
 
@@ -1029,7 +1027,7 @@ Ellis steps to the mic. The player gets no choice about what he says. He says it
 
 The chant goes on over it.
 
-He turns his head off-mic, to the band, and says what he said the first night, to three strangers on a plywood stage:
+He turns his head off-mic, to the band:
 
 **ELLIS:** Stay with me.
 
@@ -1047,56 +1045,50 @@ The player is Ellis, at the lip, and Clara is looking up at him, and the verse i
 
 ### The verse
 
-This is the songwriting system from "Still Here" and "New Skin," live, with the band going around under him and no second take. There are three lines to make. For each one the player chooses from a few phrasings; some are Observe lines the player collected over the game, and some are new. Whatever they choose, Ellis sings it.
+This is the songwriting system from "Still Here" and "New Skin," live, with the band going around under him and no second take. There are three lines to make, and a fourth that isn't a choice. For each of the three the player picks a phrasing; some are Observe lines collected over the game, and some are new. Whatever they pick, Ellis sings it.
 
-As he sings, the car comes back. Not in order, and not all of it.
+As he starts, rain comes up under the band. It isn't in the PA. The player hears it, and nobody in the valley does.
 
-**The first line.** The options are images: *rain on the roof like somebody counting*; *the engine ticking like it had somewhere to be*; any rain line from the player's notebooks.
+**The first line.** *Rain on the roof like somebody counting*; *the engine ticking like it had somewhere to be*; or a rain line from the player's own notebooks.
 
-As he sings it, the picture cuts, the clean cut from the Impala in Chapter IX, to after the white. Dark. The car tilted wrong. Rain on the roof. In the passenger window, filling it, the bark of the oak. The dash light. His own voice at sixteen, somewhere under the rain, saying something over and over that the rain mostly takes. *Sorry* is in it.
+**The second line.** *The oak in your window like a shut door*; *the dash light on your hands*; *the wipers still going, nobody to stop them.*
 
-Back on the stage.
+On the second line the picture cuts, once, the clean cut from the Impala in Chapter IX, to after the white. Dark. The car tilted wrong. In the passenger window, filling it, the bark of the oak. The dash light. Grace, pinned between the door and the tree, looking at him. His own voice at sixteen, under the rain, saying something over and over that the rain mostly takes. *Sorry* is in it.
 
-**The second line.** *You laughed at me in the dashboard light*; *you were fourteen and tired of me*; *you said I was lying and I was.*
+The picture stays in the car.
 
-Cut. Grace, pinned between the door and the tree, looking at him, and laughing. It's a short laugh, and it hurts her, and she does it anyway. There's a word in it. The rain takes that too. The player sees her mouth make it.
+**The third line.** *You laughed, and the rain kept the word*; *you were fourteen and tired of me*; *I held your hand and it held back.*
 
-Back on the stage. Clara, at the lip, has her hand over her mouth.
-
-**The third line.** *A man with a flashlight couldn't make it out*; *somebody held the light so still*; *I kept saying stay, and you kept saying*.
-
-Cut. A flashlight through the rain on the glass. And one thing that comes through clear, because he's said it every night since: his own voice.
+Under the third line, in the car, she laughs. It's short, and it hurts her, and she does it anyway. There's a word in it, and the rain keeps it. Then the one thing that comes through clear, because he has said it every night since:
 
 > **ELLIS** *(1973)*: Stay with me.
 
-And under it, low, not one thing but two at once, overlapping, the way a man on the other side of the glass couldn't make them out, her voice:
+And under it, low, two things at once, overlapping:
 
 > **GRACE** *(1973)*: It's okay. Go on.
 
-Back on the stage.
+**The last line.** One phrasing on the screen. He sings it as her voice says it, and they land on the same syllable:
 
-The last line isn't a choice. There's one phrasing on the screen, and he sings it plain:
+*Go on.*
 
-*go on.*
+Back on the stage. Clara, at the lip, has her hand over her mouth.
 
-If the player took the first option each time, what a hundred and fifty thousand people heard was this:
+If the player took the first option each time, what a hundred and fifty thousand people heard was:
 
 > *Rain on the roof like somebody counting.*
-> *You laughed at me in the dashboard light.*
-> *I kept saying stay, and you kept saying*
-> *go on.*
+> *The oak in your window like a shut door.*
+> *You laughed, and the rain kept the word.*
+> *Go on.*
 
-The whole of it takes perhaps two minutes. The valley has gone quiet again, the way it did for "Shape Note," because whatever this verse is, it isn't rehearsed.
+It takes about two minutes. The valley has gone quiet again, the way it did for "Shape Note," because whatever this verse is, it isn't rehearsed.
 
-> **Design note — where "go on" comes from.** No drug is involved. Roy said *Go on, get up there* at the foot of the stairs twenty minutes ago, the way he says it about everything, and it went into Ellis on the second step, and it came up in the last verse of the last song. The memory arrives the way memory does in this game: rebuilt, out of order, some of it lost to rain. Only the words he needed come through.
+> **Design note.** No drug is involved. The memory comes back the way memory does in this game: rebuilt, out of order, some of it kept by the rain.
 
 ### Clara
 
 Clara is sitting on the lip with her boots over the edge, looking up at him.
 
-She doesn't say anything. She looks at him for a while with Grace's eyes and their mother's face. Then she looks past him, over his shoulder, upstage: at Dean behind the kit, at Cal, at Riley at the riser's stage-left corner, where she ends up at the end of every song, her twelve-string ringing, her hand coming out from her side.
-
-Clara looks at them. Then back at Ellis.
+She doesn't say anything. She looks at him for a while with Grace's eyes and their mother's face. Behind him, the band goes around.
 
 That's all she does.
 
@@ -1118,7 +1110,7 @@ While the player holds off, the band keeps following him, the way it always has.
 - The **crowd** sways. Lighters. The stars coming out over the hills.
 - **Clara**, at the lip, doesn't move.
 
-The band varies the changes to keep them alive. Cal moves the root, Dean shifts the pulse, Riley finds a new voicing, so the screen never goes still. In play, it lasts as long as the player holds. In the story it lasts a few minutes at most: the world clock stops at about three minutes, whatever the player does, and the footage and everyone who talks about it afterward round it the way people do. Holding off is *stay*, which is what Ellis has been doing for three years and four months.
+The band varies the changes to keep them alive. Cal moves the root, Dean shifts the pulse, Riley finds a new voicing, so the screen never goes still. In play, it lasts as long as the player holds. In the story it lasts a few minutes at most: the world counts no further than about three minutes, whatever the player does, and the footage and everyone who talks about it afterward round it the way people do. Holding off is *stay*.
 
 Pressing it is *go on*.
 
@@ -1132,11 +1124,11 @@ The band lands it. The last chord, all four of them on it together, and cut.
 
 A second of silence, the right kind, the kind at the end of a song when everybody is still in it.
 
-Riley is ahead of him and a little to his left, a few yards off at the corner of the riser, her glasses flashing, her hand out, open. He's got the verse. The song's done. He laughs, and steps toward her to take the hand.
+Riley is ahead of him and a little to his left, ten yards off at the corner of the riser, her glasses flashing, her hand out, open. (Blocking: she stands a step stage-right of the corner, so that from his eyeline facing Dean she reads a little left, and the light behind her comes in about fifteen degrees left of center.) He's got the verse. The song's done. He laughs, and steps toward her to take the hand.
 
 Then the valley comes up. A hundred and fifty thousand people, all at once, from the front of the stage to the hills.
 
-In the stage-right wing, Joel Perlman sees the shot of the night: the singer walking to the girl at the riser, backlit, with the whole valley roaring behind him. He steps out from behind the white tape onto the upstage-right deck to get the reverse. He's a good cameraman. It's the right shot. Kit, whose job is to put light wherever Joel's lens points, steps out with him, and raises the sun-gun, and switches it on.
+In the stage-right wing, Joel Perlman sees the shot of the night: the singer walking to the girl at the riser, backlit, with the whole valley roaring behind him. He steps out from behind the white tape onto the upstage-right deck to get the reverse. Kit, whose job is to put light wherever Joel's lens points, steps out with him, and raises the sun-gun, and switches it on.
 
 The light hits him from his left. Low, white, out of the dark past Riley's shoulder, the way a pair of high beams comes around a blind bend on a two-lane road at night, over the line.
 
@@ -1160,20 +1152,20 @@ At the mix tower eighty yards out, Theo Marchand pulls the guitar channel down t
 
 Silence.
 
-> **Design note — the song ends first.** The player's last input as Ellis finishes the song, and the song finishes right: the band lands it together, and he laughs, and steps toward Riley. What happens after has four ordinary causes: a gap at the edge of a festival stage, a film crew that needed light after sunset, a reflex three years old, and no sleep. The player chose when the song ended. Nobody chose the light.
+> **Design note — the song ends first.** The player's last input as Ellis finishes the song, and the song finishes right: the band lands it together, and he laughs, and steps toward Riley. What happens after has four ordinary causes: a gap at the edge of a festival stage, a film crew that needed light after sunset, a reflex three years old, and no sleep.
 
 
 ---
 
 ## MISSION 9 — THE GAP
 
-**Playable:** (no one) → Riley → Cal → Dean → Wayne · **Where:** the stage; the gap; beneath the stage; the backstage compound; a Schuyler County ambulance on Route 14 south · **When:** Saturday August 28, 8:41 – 9:52 p.m. · **Length:** ~30 min
+**Playable:** (no one) → Riley → Cal → Dean → Wayne · **Where:** the stage; the gap; beneath the stage; the backstage compound; a Schuyler County ambulance on Route 14 south · **When:** Saturday August 28, 8:22 – 9:52 p.m. · **Length:** ~30 min
 
 ### The switch fails
 
 Black. Silence. Then the switch.
 
-The player knows the grammar in their hands by now. The sound narrows. The frame catches, that faint stutter, the projector gate. The depth of field reaches for someone, the way it has reached a thousand times in fifty hours, to carry the player into another body.
+The sound narrows. The frame catches, that faint stutter, the projector gate. The depth of field reaches for someone, the way it has reached a thousand times in fifty hours, to carry the player into another body.
 
 It reaches for Ellis.
 
@@ -1183,15 +1175,13 @@ It reaches again: toward the lip of the stage at stage left, where he was standi
 
 It stutters, catches, fails.
 
-Twice in Chapter VIII the camera tried to become Clara and couldn't, because there was no one there. In Chapter IX it tried to go to an empty chair. The player has felt that failure before. This is the same failure, and it's reaching for Ellis.
-
 It finds something else. It lands on a machine.
 
 ### Roll forty
 
-The viewfinder of a 16mm camera. The third and last time the game breaks its rule that the camera shows Ellis's perception when it's with Ellis. This is what the world saw.
+The viewfinder of a 16mm camera. This is what the world saw.
 
-Joel Perlman's camera, in the stage-right wing, rolling. Color, grainy, the image bouncing slightly on Joel's shoulder. The sound is the camera's own sync sound: thin, the PA roaring through a small microphone. The player can't control it. It's footage.
+Joel Perlman's camera, in the stage-right wing and then on the deck, rolling. Color, grainy, the image bouncing slightly on Joel's shoulder. The sound is the camera's own sync sound: thin, the PA roaring through a small microphone. The player can't control it. It's footage.
 
 It's the last few minutes, played back from the moment the open verse began. What the lens saw:
 
@@ -1219,7 +1209,7 @@ The switch leaves the viewfinder and finds Riley, at the corner of the riser, wi
 
 The player is Riley. The game gives her movement and nothing else.
 
-She runs, the few yards to the edge. The yellow rope. She drops to her knees at the rope and looks down.
+She runs the ten yards to the edge. The yellow rope. She drops to her knees at the rope and looks down.
 
 The gap. A yard wide, twelve feet deep. Steel scaffold pipe and cross-bracing and cable runs going down into the dark, lit from above by the stage wash spilling over the edge, and at the bottom, on a sheet of plywood laid across the mud, the Jazzmaster on its face, and Ellis on his back beside it, half under a crossbar, one leg folded under him wrong, his eyes closed, not moving.
 
@@ -1249,7 +1239,7 @@ The player is Cal, and Cal does the next thing. The game gives the player a list
 
 Cal holds it still.
 
-The EMT works. Pupils. Breathing. The player can hear it: breathing, slow, with a sound in it. Blood from the ear. *Don't move him. Don't move him. Get me the collar.* Tully holding his head. Cal holding the light.
+It takes them forty minutes to get him up out of the gap. The EMT works. Pupils. Breathing. The player can hear it: breathing, slow, with a sound in it. Blood from the ear. *Don't move him. Don't move him. Get me the collar.* Tully holding his head. Cal holding the light.
 
 From down here, through the gap, Cal can see up to the edge of the stage: Riley's face at the rope, her hand still out over the edge.
 
@@ -1269,7 +1259,7 @@ And Dean talks, because Dean talks, because if he stops talking he'll notice:
 
 Ellis's hand doesn't do anything.
 
-The EMTs log-roll him onto the backboard. The collar. Straps. Six people lifting. They carry him out through the scaffold forest toward the compound, toward the ambulance with its lights going behind the medical trailer, and Dean walks beside the board holding the hand, stumbling on the cable runs, until an EMT says *son, you have to let go now, we have to go*, and Dean lets go.
+The EMTs log-roll him onto the backboard. The collar. Straps. Six people lifting. They carry him out through the scaffold forest toward the compound, toward the ambulance with its lights going behind the medical trailer, and Dean walks beside the board holding the hand, stumbling on the cable runs, until an EMT says *you have to let go now, we have to go*, and Dean lets go.
 
 He stands in the compound in the lights. The Polaroid is in his shirt pocket, buttoned, where Ellis put it at five o'clock.
 
@@ -1325,7 +1315,7 @@ The sound narrows. The frame catches, the stutter. The depth of field shifts, of
 
 And holds. And lands.
 
-For the first time in the game, the player is Wayne Blake.
+The player is Wayne Blake.
 
 > **Design note — the first playable Wayne.** For fifty hours the camera has refused him. It has gone to a stranger in a dorm room and to a film camera, and never once to the man at the kitchen table. The game's grammar has taught the player that the switch goes to people the story needs you to be. It chooses Wayne now, because now there's nobody else it can choose.
 
@@ -1368,11 +1358,7 @@ The EMT sees it before Wayne does. She leans forward. She checks. She works (the
 
 **EMT:** Sir.
 
-That's all she says.
-
-Up front, the driver reaches over and turns off the siren. The lights keep going around on the ceiling. The ambulance slows down to the speed limit, and keeps driving, because there's still a hospital, because there are forms, because you don't stop an ambulance on Route 14 in the dark.
-
-Seventeen days before his twentieth birthday.
+Up front, the driver reaches over and turns off the siren. The lights keep going around on the ceiling. The ambulance slows down to the speed limit, and keeps driving. There's still a hospital.
 
 There's no prompt to let go. The ambulance drives on in the dark, quiet, on a two-lane road with a yellow line, and Wayne Blake sits with his son's hand in both of his, and doesn't say anything, and doesn't let go.
 
@@ -1414,7 +1400,7 @@ Every system the game taught pays off in this chapter, and none of them is new:
 
 ### The death is not the meaning
 Tone rule 9: *The death is not the meaning. Ellis's life mattered before it ended.* The chapter is built to it:
-- He doesn't die because he was a poet, or because he was in pain, or because he stopped a medication, or because he took a drug (he didn't).
+- He doesn't die because he was a poet, or because he was in pain, or because he stopped a medication, or because he took a drug.
 - He doesn't die because the player pressed *home*. The song ends first, and ends right.
 - He dies because a stage had a gap at the edge, a film crew needed light after sunset, a reflex three years old turned his body the wrong way, and he hadn't slept.
 - The memory came from a song and from a man who loves him saying something ordinary.
@@ -1431,7 +1417,7 @@ Tone rule 9: *The death is not the meaning. Ellis's life mattered before it ende
 | "Come on. They're waiting on you." | Never *go on* |
 | On the stage lip during the set | Where he sang the last verse |
 | Her hand over her mouth at the second line | She hears it too |
-| Looks upstage at the band | That's all she does |
+| Looks at him, and says nothing; the band goes around behind him | She doesn't send him anywhere |
 | Not in the footage | Rule 3, to the end |
 | Absent after the fall | She was only ever his |
 

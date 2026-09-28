@@ -163,7 +163,7 @@ How the chapters apply it:
 | — | At the bathroom sink, one prompt: *Put it back.* He folds it back into the foil and the paper, puts the envelope inside the back cover of the green leather notebook, puts the notebook in his bag, and goes to shower. "He doesn't take it. He doesn't throw it away." | X M3 |
 | — | Design note: "What matters is that what happens tonight doesn't happen because of a drug. He goes on that stage exhausted, unmedicated, sleepless, grieving, and clean. Dean finds the envelope in the epilogue." | X M3 |
 | Day | No drug, no drink shown. Coffee with Dean at 7:10 ("Seven weeks tomorrow."). The press tent. Tully's hat in the field. The trailer | X M3–M6 |
-| 8:41 p.m. | The light, the swerve, the fall. The truth of the car came "from a song and from a man who loves him saying something ordinary." "No drug is involved." | X M8; X design summary |
+| 8:22 p.m. | The light, the swerve, the fall. The truth of the car came "from a song and from a man who loves him saying something ordinary." "No drug is involved." | X M8; X design summary |
 | 9:52 p.m. | Dies in the ambulance | X M9 |
 | Chapter's statement | "He doesn't die because he was a poet, or because he was in pain, or because he stopped a medication, or because he took a drug (he didn't)." | X design summary |
 | Aug 29 | A talk station on Wayne's drive home: "two men are arguing about whether he was on drugs." | Epi M1 |

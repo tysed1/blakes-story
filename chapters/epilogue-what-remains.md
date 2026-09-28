@@ -39,7 +39,7 @@ Wayne stands by the F-100. Roy is in the passenger seat already with his cap pul
 
 The band's bus left at eleven. Riley stood on the curb until the last minute and got on it because Wayne asked her to.
 
-In the bed of the F-100, under the tarp, a paper sack from the hospital: *PERSONAL EFFECTS — BLAKE, E.* The player can look in it. A black leather jacket, folded. A pair of boots. A wallet: eleven dollars, a driver's license, a laminated ALL ACCESS pass. A ballpoint pen. A memo book, number 73. And, when the player lifts the jacket, in the inside pocket, a twenty-dollar bill folded in quarters. Wayne knows the fold. Behind it, a white envelope, soft at the corners from nine months against his chest, postmarked Dayton, Ohio, November 29, 1975, never opened.
+In the bed of the F-100, under the tarp, a paper sack from the hospital: *PERSONAL EFFECTS — BLAKE, E.* The player can look in it. A black leather jacket, folded. A pair of boots. A wallet: eleven dollars, a driver's license, a laminated ALL ACCESS pass. A ballpoint pen. A memo book, number 73. And, when the player lifts the jacket, in the inside pocket, a white envelope, soft at the corners from nine months against his chest, postmarked Dayton, Ohio, November 29, 1975, never opened. Behind it, a twenty-dollar bill folded in quarters. Wayne knows the fold.
 
 Wayne looks at the handwriting for a long time. He puts it back in the pocket.
 
@@ -47,7 +47,7 @@ The prompt: *Drive.*
 
 ### The drive
 
-The player drives the F-100 nine hundred miles, compressed, the way Chapter VII's drive north through Virginia was compressed, but the other way: Route 17 east along the Southern Tier, hills and dairy farms and the Susquehanna, to Binghamton, then south on I-81 through Pennsylvania in the afternoon, Maryland at dusk, the long Virginia valley at night.
+The player drives the F-100 nine hundred miles, compressed, the way Chapter VII's drive north through Virginia was compressed, but the other way: Route 17 east along the Southern Tier, hills and dairy farms and the Susquehanna, to Binghamton, then south on I-81 through Pennsylvania in the afternoon, Maryland by suppertime, the Shenandoah at dusk, the long Virginia valley at night.
 
 There's nothing to do but drive.
 
@@ -114,7 +114,7 @@ The player is Riley, in her mother's navy dress, which is a little long on her.
 
 Main Street is closed. Deputy Lyle Pruitt and two other deputies are directing traffic at both ends of it, because there are cars parked on both shoulders of US 19 for a mile in each direction, with license plates from eleven states. There are young people on the sidewalks, hundreds of them, with posters and homemade shirts and flowers from the Piggly Wiggly, standing quietly. The Methodist church seats two hundred and forty. The town was there first.
 
-The player walks Riley up Main Street from where Tully parked the van. She can look at any of it:
+The player walks Riley up Main Street from where Tully parked the crew truck. She can look at any of it:
 - **Marlon's**, closed, a black ribbon on the door. The chalkboard, back beside the front door, visible through the glass, still says *THURSDAY — THE BLAKES (NEW YORK)*. Marlon hasn't touched it. He won't.
 - **Roy's** garage, closed, the bays down, a hand-lettered sign: CLOSED — FUNERAL.
 - **The Ridge Pharmacy**, open, because Mr. Cantrell is selling cold drinks to the out-of-towners at cost.
@@ -138,8 +138,6 @@ Mr. Pettigrew opens his mouth. Wayne is standing on the church steps in his suit
 **WAYNE:** She carries.
 
 **MR. PETTIGREW:** Yes sir.
-
-That's the end of that.
 
 ### The service
 
@@ -179,7 +177,7 @@ The player, as Riley, stands at the graveside. She can use *attention* to look a
 
 - At her mother, in the square, singing.
 - At Wayne, at the head of the grave, standing with his hat in his hands. When the class reaches the second verse the player can see his mouth move: the bass line, under his breath.
-- At the cemetery fence, where two hundred young people from eleven states stand in the road and listen to forty country people sing a hymn nobody there has ever heard, and some of them start crying, and none of them know why.
+- At the cemetery fence, where two hundred young people from eleven states stand in the road and listen to forty country people sing a hymn nobody there has ever heard, and some of them start crying.
 - At the gate. Lorraine, standing by the gate, apart from everyone.
 
 ### The envelope
@@ -202,7 +200,7 @@ She holds it against the front of her navy dress with both hands.
 
 Wayne says one more thing, or doesn't. He turns around and walks back up the hill to his son's grave. Lorraine stands at the gate a while longer, and then goes out through it and down the hill to a rented car, and gets in, and doesn't start it for a long time, and then does.
 
-The game never shows what's in the letter. Nobody ever finds out.
+The game never shows what's in the letter.
 
 > **Design note.** Ellis carried his mother's letter unopened for nine months, in the inside pocket of the jacket that became the jacket on the poster, and it was against his chest on the stage in New York. Wayne gives it back to her unopened because it was addressed to Ellis and nobody else has the right to open it. She takes it. That's the whole of what the game will say about Lorraine. It doesn't decide whether she deserves it.
 
@@ -283,7 +281,7 @@ Cal doesn't argue with the radio. He changes the station.
 
 Friday, October 15, 1976. 2:00 a.m. Marlon's, after closing.
 
-The player is Cal, coming in the back door the way he did in Chapter VI, with an envelope: the interest Marlon pushed back across the bar last summer, which Cal has kept in the back of the ledger ever since.
+The player is Cal, coming in the back door the way he did in Chapter VI, with an envelope: the interest Marlon pushed back across the bar the summer before last, which Cal has kept in the back of the ledger ever since.
 
 Marlon locks the door behind him. Two Coca-Colas on the bar. The jukebox dark. A freight going by out back.
 
@@ -331,7 +329,7 @@ The old green Econoline is parked behind Marlon's where it's been since August, 
 
 On the way out, the player can take Cal to it. Pull back the tarp. Open the driver's door. Sit down.
 
-The van smells like it always did: the possum, faintly, from 1974; gasoline; old coffee. The ceiling is covered, every inch, with what Dean stuck there over two years: matchbooks from every venue, set lists in Cal's handwriting on the backs of things, SX-70 prints of club signs and motel pools and a cow looking in the windshield in a pasture outside Macon, a pink envelope corner, a Stuckey's napkin, the parking stub from Dalton Sound. The history of the band nobody else kept.
+The van smells like it always did: the possum, faintly, from 1974; gasoline; old coffee. The ceiling is covered, every inch, with what Dean stuck there over two years: matchbooks from every venue, set lists in Cal's handwriting on the backs of things, SX-70 prints of club signs and motel pools and a cow looking in the windshield in a pasture outside Macon, a pink envelope corner, a Stuckey's napkin, the parking stub from Dalton Sound.
 
 The player can look up at it. Cal can read every set list on the ceiling. They're all in his handwriting.
 
@@ -373,7 +371,7 @@ Dean knows exactly what it is.
 
 The player gets Dean's thoughts in the only way the game ever gives them, which is the dialogue grammar, alone in a room, where nothing Dean says will be heard:
 
-It came back in the bag untouched. It's still here. He didn't take it.
+It's still here. He didn't take it.
 
 The coroner's report came back on Friday. It says he was clean, and Nina Sorensen put that in *Metro* in one sentence. But *Rave* is working on a cover story, and there are men on the radio arguing about drugs, and a tab of acid in the back of his notebook in his own bag would be, in the hands of the wrong person, the whole story.
 
@@ -381,11 +379,11 @@ Dean is eight weeks sober, holding a tab of acid, in the bedroom where his mothe
 
 The prompt: *Flush it.*
 
-There's no other prompt, and no timer. Dean sits on the edge of his childhood bed and holds it. He's shaking a little. He's not tempted; he's shaking because it's the last thing Ellis decided, and it was *no*.
+There's no other prompt, and no timer. Dean sits on the edge of his childhood bed and holds it. He's shaking a little.
 
 When the player presses it, Dean goes into the upstairs bathroom and drops the blotter and the foil into the toilet and flushes it, and watches it go, and flushes it again. He folds the envelope and the note small and puts them in his wallet, behind his driver's license, where they stay.
 
-Then he takes the green notebook out of the bag, and puts it in a paper sack from Mrs. Bea's pantry so it won't get wet, and writes on the sack *RILEY* in his hand-painted-drum-head letters, and puts it by the door.
+Then he takes the green notebook and memo book 71 out of the bag, and puts them in a paper sack from Mrs. Bea's pantry so it won't get wet, and writes on the sack *RILEY* in his hand-painted-drum-head letters, and puts it by the door.
 
 He never tells anyone. Not Riley, not Cal, not Lynette.
 
@@ -494,7 +492,7 @@ Riley reads it at her desk in Linwood under the ceiling stars her father put up 
 
 ### The train
 
-She also has the memo books. Wayne drove them to Linwood himself the week after the sack came, in the Winston carton Cal packed, with 72 on top still open to the list, and handed them to her at her parents' front door. (71 was already in Dean's sack.) He said, "He'd want you to have them," and she said, "You don't know that," and he said, "No. But I want you to." Then he said no to coffee, and drove home.
+She also has the memo books. Wayne drove them to Linwood himself the week after the sack came, in the Winston carton Cal packed, with 72 on top still open to the list and 73, from the hospital sack, under it, and handed them to her at her parents' front door. (71 was already in Dean's sack.) He said, "He'd want you to have them," and she said, "You don't know that," and he said, "No. But I want you to." Then he said no to coffee, and drove home.
 
 There's other mail. Southern Star forwards the condolence cards in a rubber band once a week, from people Riley has never met, and Joan stacks them on the hall table. The player can read any of them. Most say the same thing in the same words.
 
@@ -502,7 +500,7 @@ One is in a student teacher's print, on a drugstore card with a watercolor cardi
 
 Riley props it against the lamp on her desk. She calls in December. The player hears the first minute of it: Hannah talking about a field trip to the waterworks that went wrong in every possible way, and Riley laughing, and Hannah saying *there you are*.
 
-She reads the memo books over two months, at the kitchen table in Linwood, at night, a few at a time. The player can read any of them. The Observe lines the player collected across the whole game are in them, every one, in the order they were written, with the dates.
+She reads the memo books over two months, at the kitchen table in Linwood, at night, a few at a time. The player can read any of them. The Observe lines the player collected across the whole game are in them, every one that reached paper, in the order they were written, with the dates.
 
 In memo book 68, the tour book, after two lines about snow on a parking lot in Madison, Wisconsin, in February:
 
@@ -518,7 +516,7 @@ A small press in Tannersville wants a book. So does a big one in New York. Dex L
 
 Riley decides what the world gets.
 
-This is the player's choice, and it's the last real authorship choice in the game. The player goes through the notebooks with her and chooses which lines and which poems go into a small book: thirty-five pages, a plain gray cover, a title she chooses from a few options (*Western Auto*; *Memo*; *Lines*; *Allegedly*). The player can include anything they collected, and any of the poems to M., or none of them.
+This is the player's choice. The player goes through the notebooks with her and chooses which lines and which poems go into a small book: thirty-five pages, a plain gray cover, a title she chooses from a few options (*Western Auto*; *Memo*; *Lines*; *Allegedly*). The player can include anything they collected, and any of the poems to M., or none of them.
 
 There are two things the game will not let the player include.
 
@@ -582,7 +580,7 @@ A long pause. Cal taps his pen twice on the console.
 
 He doesn't elaborate. The interviewer waits. Cal waits longer.
 
-(If, in Chapter IX, Cal carried the lost verse at the Tabernacle, he adds, after a while: *"He lost a verse once. In the Tabernacle. I played it for him on the bass, up high. He found it."*)
+(Cal adds, after a while, if he carried the lost verse at the Tabernacle: *"He lost a verse. Twice. I played it for him up high, both times. He found it."* If Riley carried it there: *"He lost a verse at the end. I played it for him up high. He found it."*)
 
 ### Riley
 
@@ -618,7 +616,7 @@ Nina Sorensen, forty-nine, still at *Metro*, reading off a yellowed clipping:
 
 She puts the clipping down.
 
-**NINA:** Everybody else was writing about genius. I just wanted somebody to write down how old he was. In the film you can see him stand at the edge of the stage for *(under a minute / about two minutes / almost three minutes, depending on how long the player held* home*)* before he turns around. Nobody knows what he was looking at.
+**NINA:** In the film you can see him stand at the edge of the stage for *(under a minute / about two minutes / almost three minutes, depending on how long the player held* home*)* before he turns around. Nobody knows what he was looking at.
 
 ### Marlon's
 
@@ -644,7 +642,7 @@ He closes the door.
 
 > *Wayne Blake declined to be interviewed.*
 
-Over black, the documentary's last cut: the final track on the 1996 album. Riley, Cal and Dean, and Frank Dalton's reel from Knob House, playing the changes of the last verse of "Who Are You?", the one on the reel labeled *LAST V. OPEN*. No vocal. The three of them, and faint underneath, Ellis's guitar from the reel, going around and around for three minutes and forty seconds. Then Dean's two stick clicks, and it ends.
+Over black, the documentary's last cut: the final track on the 1996 album. Riley, Cal and Dean, and Frank Dalton's reel from Knob House, playing the changes of the last verse of "Who Are You?", the one on the reel labeled *LAST V. OPEN*. No vocal. The three of them, and faint underneath, Ellis's guitar from the reel, going around. The documentary lets it go around twice, and fades it out.
 
 ---
 
@@ -722,8 +720,6 @@ In January Wayne takes him to the vet in Laurel Gap, in the F-100, with Tater on
 
 Wayne stands in the vet's office with his hat in his hand.
 
-Wayne understands it in the vet's office. His face doesn't move.
-
 **WAYNE:** Hm.
 
 He pays the vet.
@@ -734,7 +730,6 @@ That night, and every night after, the prompt at dusk is *Feed Tater*, and the p
 
 The player feeds him again.
 
-> **Design note — the running joke, paid.** Two men in one house fed one dog every night, one at dusk and one at midnight, and neither knew. Wayne learns it from a vet and starts doing both.
 
 ### The balance
 
@@ -773,7 +768,7 @@ In the shed, at the desk, the lettering. Mr. Dockery writes it out on a pad in b
 
 **MR. DOCKERY:** Anything else on it? Some folks put a line. A verse.
 
-The player chooses what Wayne says. It's his last choice in the game.
+The player chooses what Wayne says.
 
 - **"No. That's him."** The stone says his name and his dates.
 - **"Beloved son."**
@@ -796,7 +791,6 @@ He writes a receipt.
 
 There's money left in the can. Wayne puts the lid back on and carries it out to the truck. He doesn't know yet what it's for.
 
-> **Design note.** Ellis's rent, which the player hated Wayne for charging in Chapter II, pays off his sister's headstone and buys his own outright. Wayne saved every dollar without knowing what for. He knows now.
 
 ### April 12
 
@@ -862,7 +856,7 @@ What's there, if the player goes looking:
 
 - **The kitchen.** Wayne left a biscuit on a plate under a paper towel on the stove, which might be for Ellis and might be for Tater, and has always been ambiguous. The coupon book on the bills pile: *Coupon 20 of 48.* The player can turn it face down or leave it.
 - **Tater** on the porch, enormous, eleven, waiting for his second breakfast.
-- **Roy's garage**, a half day. Roy: *"You're late. Go on, get in there, Mrs. Pardue's goose is back."* The player can work the morning or not. If not, Roy says, at noon, *"Go on, get out of here, it's Saturday."*
+- **Roy's garage**, a half day. Roy: *"You're late. Get in there, Mrs. Pardue's goose is back."* The player can work the morning or not. If not, Roy says, at noon, *"Get out of here, it's Saturday."*
 - **The Valiant**, one bald tire, an AM radio.
 - **Marlon's**, closed until four, Marlon sweeping the walk. The chalkboard: *FRIDAY — THE BLAKES.* Marlon: *"Y'all were loud last night."*
 - **Wesley Tate**, eleven, outside the hardware store, who asks if the band's playing next Friday.
@@ -898,7 +892,7 @@ Two plates. Two sandwiches. Four chairs at the table. Two of them empty. They si
 
 Tater under the table, waiting.
 
-They eat. There's nothing to do but eat a sandwich at a kitchen table with your father on a Saturday night in 1974.
+They eat.
 
 **WAYNE:** Hm.
 
@@ -953,7 +947,7 @@ Click.
 ## Epilogue — design summary
 
 ### What remains
-The world explained him. By Christmas 1976 *Borrowed Stone* was #1 and a film company and a record label were in court over his last ninety seconds. By 1977 a critic's book had sold nine hundred thousand copies and a record he didn't finish was in stores with a still of him at the edge of the stage on the cover. By 1996 there were replica shirts. Every one of them knew a version.
+The world explained him. By Christmas 1976 *Borrowed Stone* was #1 and a film company and a record label were in court over his last minutes. By 1977 a critic's book had sold nine hundred thousand copies and a record he didn't finish was in stores with a still of him at the edge of the stage on the cover. By 1996 there were replica shirts. Every one of them knew a version.
 
 The people who knew him refused to explain him, and each of them kept one ordinary thing:
 - **Wayne:** the dog, fed twice a day now; the coupon book stamped PAID IN FULL, with a doctor's letter in it; a chair at a Linwood table and a dish washed and sent back; three hot dogs at Opening Day, one eaten. And a closed door in 1996.
@@ -965,7 +959,7 @@ The people who knew him refused to explain him, and each of them kept one ordina
 - **Lorraine:** an envelope she wrote, handed back unopened. The game never says what she did with it.
 
 ### Clara
-She is absent from the whole epilogue and from the coda. Nobody remarks on it. She never went to the cemetery. She was never in anyone's room but his, and Grace's, once. The coda is an ordinary Saturday in November 1974, when, by the game's own timeline, she already existed in his head; the game shows the day without her and doesn't say why. The player can decide what that means.
+She is absent from the whole epilogue and from the coda. Nobody remarks on it. She never went to the cemetery. The coda is an ordinary Saturday in November 1974, when, by the game's own timeline, she already existed in his head; the game shows the day without her and doesn't say why. The player can decide what that means.
 
 ### Tracked choices, surfacing
 The photograph (the documentary's poster). The harmony on "Sunday Clothes." How long the player held *home* (Nina says it, rounded). Whether Cal carried the lost verse at the Tabernacle (Cal mentions it). What Riley said on the phone in the rain (the M. poem). The title and contents of Riley's book of his lines (the Observe lines the player collected). The stone's inscription. Which way Wayne left the 1964 portrait. What Wayne meant in the ambulance (never repeated; he keeps it).

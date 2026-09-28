@@ -469,7 +469,7 @@ Total main story ≈ 57.5 hours. With side content, 80–110.
 
 **Band state.** At their best and least safe. Dean sober. Riley and Ellis tender and not together. Cal watching everything.
 
-**Ellis/Clara.** At his side on the walk to the stage; asked what she is, she tells him to push his hair out of his eyes, and says "Come on." At the stage lip during the last song. When Roy's ordinary "Go on" opens the memory of Grace's, she looks past him at the band, and that's all she does.
+**Ellis/Clara.** At his side on the walk to the stage; asked what she is, she tells him to push his hair out of his eyes, and says "Come on." At the stage lip during the last song. When Roy's ordinary "Go on" opens the memory of Grace's, she puts her hand over her mouth, looks at him, and says nothing.
 **Grace info.** Complete, in pieces and out of order: his *sorry*; her laugh and a word the rain takes; his clear "Stay with me"; under it, overlapping, "It's okay. Go on."
 **Ellis/Wayne.** Wayne came, nine hundred miles, in the F-100 with Roy and Tater. Two Cokes on a truck bumper in Harrisburg. "Sunday's fine. I'll make biscuits." Ellis sees him in the crowd during the set.
 **Riley.** At the riser's stage-left corner for the ending, as always, her hand out: ahead of him and a little to his left. The swerve takes him away from her.

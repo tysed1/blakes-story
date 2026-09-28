@@ -269,9 +269,9 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | 7:26 p.m. | X M8 | At the kick drum she stands beside him in the wing and looks at Carla's pink letter through the clear shell; she doesn't touch the drum | — | Rule 1 | visible† |
 | After 8:04 p.m. | X M8 | "Shape Note": the band faces inward; Ellis faces upstage; the sun-gun (650 W) comes on from the stage-right wing, on his left; his body jerks right; Joel: "Kill it, it's flaring" | A lens flare, fixed | The reflex from Tolliver Bend | visible† |
 | ~8:35 p.m. | X M8 | The open verse: three chosen image lines, each cutting to the car after the white. His own voice at sixteen, mostly lost to rain ("*Sorry* is in it"); Grace laughing, "a word in it" the rain takes (the player sees her mouth make it); a flashlight on the glass; his own "Stay with me," clear, and under it, overlapping, Grace: "It's okay. Go on." The last sung line is fixed: "go on." Clara, at the lip, has her hand over her mouth | — | Grace's last words, in pieces | **revealed** |
-| ~8:40 p.m. | X M8 | Clara says nothing; looks past him at Dean, Cal and Riley's open hand, then back at him; *HOME* | — | "That's all she does." | **revealed** |
-| ~8:41 p.m. | X M8–M9 | *Home* lands the song; he laughs and steps toward Riley; the sun-gun comes on from his left; he swerves right into the gap. Roll forty shows him singing to an empty corner, lifting a hand toward nothing on the second line, turning, laughing, gone | — | Rule 3 to the end | **revealed** |
-| After 8:41 p.m. | X M9 | Clara absent after the fall | — | She was only ever his | visible |
+| ~8:17 p.m. | X M8 | Clara says nothing; looks at him while the band goes around behind him; *HOME* | — | "That's all she does." (V7: she no longer looks toward the band; nothing she does sends him) | **revealed** |
+| ~8:22 p.m. | X M8–M9 | *Home* lands the song; he laughs and steps toward Riley; the sun-gun comes on from his left; he swerves right into the gap. Roll forty shows him singing to an empty corner, lifting a hand toward nothing on the second line, turning, laughing, gone | — | Rule 3 to the end | **revealed** |
+| After 8:22 p.m. | X M9 | Clara absent after the fall | — | She was only ever his | visible |
 
 ### Epilogue: What Remains (Aug 29, 1976 – Apr 1977; 1996) and Coda
 
@@ -305,7 +305,7 @@ What the player knows (or can reasonably suspect) about Clara at the end of each
 | VII | Players who climb the hill have seen "Clara" cut into two stones. She's jealous of the audience and says the first cruel thing. She vanishes when Lorraine's letter appears. The question becomes *why Clara, and who is she to him?* |
 | VIII | **Revealed:** she's built from Grace and Lorraine, the face between the two photographs, and she is Grace aging in a passenger seat. Wayne gives the name's source. "I made you." Strongly suggested: she exists because he asked someone to stay, at the oak. The medication quiets her to nothing. |
 | IX | She knows only what he knows ("Ask me something I know"). She returns when the pills stop. At fourteen she admits she couldn't be Grace, walks into Grace's room, and he closes the door. |
-| X | Asked what she is, she gives him an order about his hair instead. When Grace's "It's okay. Go on." surfaces in the last verse she puts her hand over her mouth, then looks upstage at the band and back at him. She isn't in the footage. |
+| X | Asked what she is, she gives him an order about his hair instead. When Grace's "It's okay. Go on." surfaces in the last verse she puts her hand over her mouth, then looks at him and says nothing. She isn't in the footage. |
 | Epilogue / Coda | She is absent from everything, including a 1974 Saturday when she should exist. Nobody remarks on it. |
 
 ## 3. The crash ladder
@@ -402,7 +402,7 @@ Ellis calls Wayne "Dad" twice: IV M5 ("Dad.") and the list in IX M15 ("Dad — S
 | 7 | X M8, memory of Apr 12, 1973 | "Stay with me." The one line from the car that "comes through clear, because he's said it every night since." |
 | 8 | Epilogue credits | On Cal's rehearsal tapes: "ELLIS: Stay with me." |
 
-The third-line option "I kept saying stay, and you kept saying" (X M8) is a sung paraphrase, not counted.
+The V7 default verse ends on a plain *Go on*, sung on the same syllable as Grace's; it is counted with Grace's line, not separately.
 
 Throughout, *reach* ("Stay with me") is also a player verb used many times in the Room system; those uses aren't individually scripted. Related: Hollis reports Ellis "said he had to stay where she could see him" (IX M4, M5); Riley says "Stay there." on the phone (VIII M15).
 

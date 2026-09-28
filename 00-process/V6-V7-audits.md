@@ -67,6 +67,38 @@ C's audit is precise. A script confirmed all 190 explicit weekday dates in VII�
 
 The work orders to Agents F (VIII), G (VII) and H (IX) carry every C item for their chapter. The lead applied C's items for I–VI, X, the epilogue, the bible and the macro.
 
-## Part 3 — Quality gate (phase 16)
+## Part 3 — Critic E (V7 verification): decisions
 
-*(Written after the repairs.)*
+Critic E re-read Chapter X and the epilogue after the rebuild (`critic-reports/critic-E-v7-verification.md`). Verdict: the rebuild landed. Six of D's findings landed fully, and four landed partly. E also found new breaks introduced by the rebuild. **All accepted**:
+
+| Finding | Decision |
+|---|---|
+| The verse (§6) | **Accept E's default verbatim, with one cutaway instead of three.** *Rain on the roof like somebody counting. / The oak in your window like a shut door. / You laughed, and the rain kept the word. / Go on.* The rain plays under the whole verse; the picture cuts once, on line 2; the laugh, "Stay with me" and "It's okay. Go on." play under line 3; he sings "Go on" on the same syllable as her voice. The options that leaked the lost word ("you said I was lying"), borrowed Hollis's testimony, or borrowed Riley's "held the light so still" are cut. |
+| Clara looks at the band before HOME (§4, Rule 10 spirit) | **Accept.** She looks at him and says nothing while the band goes around. Nothing she does sends him. |
+| The clock: the hold cap puts the last chord near 8:20 (§3) | **Accept.** The fall is at 8:22. It takes forty minutes to get him out of the gap, and 9:52 stays. Joan hears Riley at 7:37. The unused helipad is cut. |
+| The no-vote branch doesn't hold on the clock (§4.1) | **Accept.** Wayne's visit comes first (6:40). "Stop" is at 6:50, after the biscuits. On a no, Eddie is on hold with production for fifteen minutes; at 7:05 the stage call comes anyway, and Ellis says "Then I'll play it by myself." |
+| Geometry scale and facing (§2) | **Accept.** Riley is ten yards off. A blocking note puts her a step stage-right of the riser corner, and the light comes in about fifteen degrees left. Bible §13 says "on the bow". The footage is shot "in the stage-right wing and then on the deck". |
+| Continuity slips (§4) | **Accept, all fixed.** 1996 Cal's lost verse branches (twice, or once at the end). Memo books 71 (Dean's sack) and 73 (the hospital sack) reach Riley. The envelope comes before the twenty in the pocket. The route runs Maryland by suppertime, then the Shenandoah at dusk. X M1 is on I-81. The crew truck is in town for the funeral. The envelope is "the summer before last". The summary says "his last minutes". The false "never in anyone's room" is cut. The EMT no longer calls Dean "son". |
+| Seventeen prose tells (§5) | **Accept, all cut or rewritten.** Examples: the bow telegraph; the M9 grammar lecture; "the last … in the game" (the new "first time"); the stone and Tater notes; Nina's gloss; the documentary track (now faded after two passes); Roy's "Go on" in the coda. |
+| Callbacks in M8 (E-5) | **Accept.** Nine citations of earlier chapters are cut from the narration, and so is Theo's raised hand; Wayne's stays. Dean's hand flat on the pocket happens once, in the gap. |
+
+## Part 4 — Quality gate (phase 16)
+
+**Method.** Four independent critics (A, B, C, D) and one verifier (E) read the draft at three stages. Every finding was decided in writing (`V3-character-audit.md`, `V4-red-team.md`, and this file) and carried out by work orders that name their scope. The final checks, run after the last repair, came back clean:
+- a grep of the whole game for the anti-AI filter;
+- owned phrases: "Exactly." Dean ×11; "Fair." Riley ×3; "Be specific." Cal ×6; "Allegedly." Ellis ×9;
+- Clara's counts: "Liar" 3, "El" 1, "Daddy" 1, "go" 0;
+- real-city leaks: 0;
+- all dated weekdays.
+
+**The standard.** The master task set RDR2 as the floor: long ordinary time, voices that stay themselves for sixty hours, an ending that trusts the player with plain scenes. It also asked for more: a story that uses the medium, not one that could be a novel.
+
+**Verdict: the story now meets the standard, and in its central device exceeds it.**
+- **Where it clears the floor.**
+  - The ordinary time is long, and it keeps coming back even in grief: Snow Day in VIII, the fishing and the pancakes in IX, the Polaroid and the gorilla in X, biscuits, four dollars, and the vet in the epilogue.
+  - The voices hold to the end. The voice sheet is enforced through X, and Wayne's never-said lines break in his mouth instead of arriving as a checklist.
+  - The ending is played, not narrated. The last song ends right; the death comes from four ordinary causes after it; the footage shows a boy singing to nobody; the switch lands on Wayne for the first time and can't find anyone after.
+- **Where it goes beyond.** The switch is a camera that decides who you are. It's taught for four chapters, betrayed at the midpoint, fails on Clara in VIII and on an empty chair in IX, and finally can't find Ellis at all. That's an argument about perception that only a game can make. The midpoint (the embrace held while the objective camera reveals the empty seat) and the finale (HOME held, then pressed, then the light) put the player's hands where the theme is.
+- **Where it could still fail.** `16-why-this-could-fail.md` is the honest list: early guessing of Clara, grief fatigue, Riley as witness, the medication read as "pills kill art," the myth critique turning hypocritical, the length, and the switch read as a bug. Each has a design answer, and each needs protecting in production, not only on the page. The single most fragile thing is performance. Clara must be played as a bossy older sister at a county fair, and Wayne must never cry on camera.
+
+**Sign-off.** All eighteen deliverables exist, and they agree with the chapters and with each other. This is V7.

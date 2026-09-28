@@ -63,7 +63,7 @@
 | Sat Jul 17, 1976 | Loses the second verse of "New Skin" at the Tabernacle. | IX M9 |
 | Mon Jul 19, 1976 | Riley counts the pills; leaves the house. | IX M10 |
 | Sat Aug 14, 1976 | Grace's room; Clara at fourteen walks in. | IX M13–14 |
-| Sat Aug 28, 1976 | 5:40 a.m. "Put it back." 7:46 p.m. sunset, during "New Skin." After 8:04 p.m., the sun-gun flinch in "Shape Note." ~8:41 p.m. the song ends, the light, the fall. 9:52 p.m. dies in the ambulance. | X M3, M6, M8, M9 |
+| Sat Aug 28, 1976 | 5:40 a.m. "Put it back." 7:46 p.m. sunset, during "New Skin." After 8:04 p.m., the sun-gun flinch in "Shape Note." ~8:22 p.m. the song ends, the light, the fall. 9:52 p.m. dies in the ambulance. | X M3, M6, M8, M9 |
 
 ---
 
@@ -297,7 +297,7 @@ The reflex: a bright light from his left, low, on a two-lane road or its equival
 | 6 | Sun Nov 30, 1975 | US 19, Laurel Gap, rain, standing at Riley's open hood | Pickup with high beams around a bend | Straightens, hits the hose, turns toward the light and freezes | Riley ("Hey. Ellis.") | VII M15 |
 | 7 | Tue Jun 29, 1976 | Memory, the Impala | Left edge of the windshield goes white when he looks at Grace | Cut | The player | IX M6 |
 | 8 | Sat Aug 28, 1976, after 8:04 p.m. | Glen Arbor stage, "Shape Note" | Sun-gun (650 W) from the stage-right wing, on his left as he faces upstage; switched off at once as a lens flare | Small hard jerk to the right; hand stops half a beat | Riley | X M8 |
-| 9 | Sat Aug 28, 1976, ~8:41 p.m. | Glen Arbor stage, just after "Who Are You?" ends | Sun-gun switched on beside Joel on the upstage-right deck: from his left, low, white, past Riley's shoulder | Swerves right, away from the light and from Riley; right foot past the deck edge; the rope behind his knee | The film camera; the band; 150,000 | X M8–9 |
+| 9 | Sat Aug 28, 1976, ~8:22 p.m. | Glen Arbor stage, just after "Who Are You?" ends | Sun-gun switched on beside Joel on the upstage-right deck: from his left, low, white, past Riley's shoulder | Swerves right, away from the light and from Riley; right foot past the deck edge; the rope behind his knee | The film camera; the band; 150,000 | X M8–9 |
 
 Related: on Nov 13, 1974, Roy's headlights sweep Wayne's parked truck at the fire-tower spur and Wayne "turns his face toward the valley just as the headlights reach him" (III M3). The game doesn't comment.
 
@@ -398,7 +398,7 @@ Stage faces east; the sun sets behind it. During the open verse Ellis drifts to 
 
 ### After the fall (X M9)
 
-- 8:41 p.m. The switch fails to find him and lands on Joel's camera: a young man singing to an empty corner, turning, the band stopping clean, the boy laughing and stepping toward the girl at the riser, a white flare, an empty deck, a rope swinging (X M9).
+- 8:22 p.m. The switch fails to find him and lands on Joel's camera: a young man singing to an empty corner, turning, the band stopping clean, the boy laughing and stepping toward the girl at the riser, a white flare, an empty deck, a rope swinging (X M9).
 - Tully is first down and holds his head; Cal holds the EMT's flashlight still; Dean holds his hand ("I owe you four dollars"); Riley kneels at the rope: "Ellis." (X M9).
 - Roy at the gate: "THAT'S HIS DADDY. LET HIM THROUGH." The switch lands on Wayne for the first time (X M9).
 - Ambulance on Route 14 south toward Elmira, EMT Doreen on the jump seat, Wayne holding his hand. The options are the things Wayne has never said, and they break as he says them: "It wasn't your—"; "You done good up there"; only "Son." comes out whole; or he sings the bass line of "Wondrous Love"; or silence (X M9).

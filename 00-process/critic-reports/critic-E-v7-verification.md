@@ -41,8 +41,8 @@ The anchors are right: sunset is 7:46 EDT at Watkins Glen on August 28, 1976, ci
 
 1. **The no branch of the vote (X M6).** "Stop" is at 6:10. On a no, "Eddie picks up the phone to call production." At 6:40 Roy says "We came to say good luck," and nobody mentions the cancellation. At 7:05 production says "Blakes, twenty-five minutes." Eddie's "Scratch that" comes 55 minutes after he picked up the phone. **Repair:** put *Wayne* before *Stop*. "Stop" at **6:50**, "for fifteen minutes," with Eddie on hold. Dean's "Stop" then follows the biscuits, which is stronger.
 2. **The 8:41 fall.** See §3.
-3. **Branch: the "New Skin" rescue.** X M8: "Cal is already up the neck… the way he did in July." But in IX M9, if the player didn't move Cal, "Riley sings the verse." And 1996 Cal says "He lost a verse once." He has now lost it twice, the second time on film. **Repair:** in X, "(If Riley carried it in July, she sings the line under him again.)" In 1996: "He lost a verse. Twice."
-4. **Dean's count.** Last use is Saturday, July 10 (IX: "I'm six days" on July 16). August 28 is 49 days later, seven weeks exactly. X says "seven weeks tomorrow" five times. **Repair:** "Seven weeks today."
+3. **Branch: the "New Skin" rescue.** 1996 Cal: "He lost a verse once. In the Tabernacle." He has now lost it twice, the second time on film. **Repair:** "He lost a verse. Twice. I played it for him up high." *(X M8's "the way he did in July" was cut in `6c7965f` while this audit ran; that part is resolved.)*
+4. **Dean's count.** *Resolved in `6c7965f`:* "Seven weeks today," which matches IX's July 10.
 5. **Memo books.** Ep M5: "(71 was already in Dean's sack.)" But in Ep M4 only the green notebook goes in the sack. M5 also claims "every" Observe line, but 73 went to Wayne with the effects. **Repair:** in M4, "the green notebook and memo book 71"; in M5, "and 73, from the hospital sack, under it."
 6. **Wayne's twenty.** X M3 has "the envelope… and behind it Wayne's twenty," matching bible §13. Ep M1 reverses the order. Put the envelope first.
 7. **Route.** Leaving Elmira at noon and reaching Wytheville at 10:20 p.m. puts Maryland at about 6 p.m., before dusk. **Repair:** "Maryland by suppertime, the Shenandoah at dusk." Not new: X M1's "I-83 into Pennsylvania" should be I-81.
@@ -104,4 +104,4 @@ What holds it at the floor: the verse is the weakest writing at the point of gre
 
 1. **The verse.** Use the default above, a single cutaway, and cut the three options that leak or borrow.
 2. **The narration in M8–M9.** Cut the nine chapter citations and Theo's raised hand (keep Wayne's), the "bow" telegraph, "It's the last light," and the four M9 lines on the switch. In the coda, change Roy's "Go on, get out of here" to "Get out of here, it's Saturday."
-3. **Clock and branches.** The fall at 8:22, with forty minutes in the gap. "Stop" at 6:50, after Wayne leaves. The "New Skin" rescue follows the IX branch. "Seven weeks today."
+3. **Clock and branches.** The fall at 8:22, with forty minutes in the gap. "Stop" at 6:50, after Wayne leaves. Fix 1996 Cal's "once."

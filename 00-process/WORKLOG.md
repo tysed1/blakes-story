@@ -161,7 +161,7 @@ See `00-process/V6-V7-audits.md` for every decision and `15-continuity-audit.md`
   - HOME now lands the song. The band closes it together, Ellis laughs and steps toward Riley (ahead of him and to his left at the riser's stage-left corner), the valley roars, Joel steps out upstage-right for the bow, and Kit's sun-gun comes on past Riley's shoulder. He swerves right, away from her, into the stage-left gap.
   - "Shape Note" is played in a square facing inward; the first flare is switched off as a technical problem.
   - The hold is capped at about three minutes in the story and rounded in the footage and in Nina's line.
-- **Open verse.** Three image lines plus a plain last line, *go on*. The car comes back in pieces: his *sorry* under the rain; her laugh and a word the rain takes; "Stay with me," clear; "It's okay. Go on." under it.
+- **Open verse.** Three image lines (default: *Rain on the roof like somebody counting. / The oak in your window like a shut door. / You laughed, and the rain kept the word.*) plus a plain last line, *Go on*, sung on the same syllable as Grace's. One cutaway. The car comes back in pieces: his *sorry* under the rain; her laugh and a word the rain takes; "Stay with me," clear; "It's okay. Go on." under it.
 - **Clara.**
   - Asked what she is, she tells him to push his hair out of his eyes. No thesis.
   - In the squall she yells "come on, come on." She never says "go."

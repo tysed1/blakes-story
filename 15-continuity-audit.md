@@ -41,7 +41,7 @@
 | Jul 17, 1976 | Sat | The Tabernacle | IX M9 |
 | Aug 22, 1976 | Sun | Plans; the list; the dock | IX M15 |
 | Aug 26, 1976 | Thu | North; Harrisburg | X M1 |
-| **Aug 28, 1976** | **Sat** | **The Arbor Jam. Sunset 7:46. The fall at about 8:41. 9:52 p.m. on Route 14.** | X |
+| **Aug 28, 1976** | **Sat** | **The Arbor Jam. Sunset 7:46. The fall at about 8:22; forty minutes to get him out of the gap. 9:52 p.m. on Route 14.** | X |
 | Aug 29, 1976 | Sun | Biscuits near Wytheville | Ep. M1 |
 | Sep 2, 1976 | Thu | The funeral | Ep. M2 |
 | Sep 14, 1976 | Tue | What would have been his twentieth birthday; the four dollars gone | Ep. M4 |

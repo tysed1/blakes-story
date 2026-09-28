@@ -59,11 +59,11 @@ How the story was rebuilt, in the order it happened:
 
 - `V1-ingest-and-autopsy.md`: what the original draft had, what worked, and what had to go.
 - `research-notes.md`: verified period facts for 1974–76, with sources.
-- `critic-reports/`: independent critiques. A (character and dialogue) and B (continuity and systems) on Chapters I–VI; C (full-draft continuity) and D (emotional arc, replay, anti-AI prose) on the complete draft.
+- `critic-reports/`: independent critiques. A (character and dialogue) and B (continuity and systems) on Chapters I–VI; C (full-draft continuity) and D (emotional arc, replay, anti-AI prose) on the complete draft; E (verification of the rebuilt finale and epilogue).
 - `V3-character-audit.md`: decisions after the character critique.
 - `V4-red-team.md`: the two red teams' findings and the decisions taken, with work orders R1 and R2.
 - `repair-log-R1.md`, `repair-log-R2.md`: what changed in Chapters I–VI.
-- `V6-V7-audits.md`: the continuity, emotional, replay and quality-gate passes on the complete draft, and what was repaired.
+- `V6-V7-audits.md`: the decisions on Critics C, D and E, the work orders, and the phase 16 quality gate.
 - `WORKLOG.md`: the running canon log.
 
 ## Version history
@@ -76,8 +76,8 @@ How the story was rebuilt, in the order it happened:
 | V3 | Character audit | `e1559e0` |
 | V4 | Red-team decisions; bible and macro to V4 canon; Chapters I–VI repaired | `e1559e0`, `db75ff5`, `55afc57`, `9ed13bb` |
 | V5 | Complete draft: Chapters VII–X, epilogue and coda | `d1bec6f`, `0853c99`, `b1b87df`, `5d62593`, `bf4fc7a` |
-| V6 | Continuity repaired across the full draft | see `00-process/V6-V7-audits.md` |
-| V7 | Final: emotional, replay and prose passes; quality gate | see `00-process/V6-V7-audits.md` |
+| V6 | Critics C (continuity) and D (emotion, replay, prose) on the full draft; decisions; continuity repaired across I–X and the epilogue | `f625f14`, `c541f21`, `95fc084`, `129734d`, `2431ed7` |
+| V7 | Finale and epilogue rebuilt and verified (Critic E); prose and voice passes; timelines reconciled; quality gate | `bac4b1b`, `6c7965f`, and the V7 sign-off commit |
 
 ## The fiction line
 
