@@ -1,6 +1,6 @@
 # THE BLAKES — Side-Content Framework
 
-*Deliverable 14. Main story ≈ 57 hours; with side content, 80–110. This framework defines what side content is for, what it may and may not do, and what exists in each chapter, so that the optional game deepens the main one instead of diluting it.*
+*Deliverable 14. Main story ≈ 57.5 hours; with side content, 80–110. This framework defines what side content is for, what it may and may not do, and what exists in each chapter, so that the optional game deepens the main one instead of diluting it.*
 
 ## Principles
 

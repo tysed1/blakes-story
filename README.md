@@ -21,12 +21,12 @@ This repository is the complete story design: the story bible, the macrostructur
 | V | `chapter-05-velocity.md` | Dec 24, 1974 – May 2, 1975 | 6.5 h |
 | VI | `chapter-06-the-other-side-of-the-glass.md` | May 3 – Aug 16, 1975 | 6.5 h |
 | VII | `chapter-07-strangers-know-your-name.md` | Sept 8 – Dec 13, 1975 | 7 h |
-| VIII | `chapter-08-feedback.md` | Jan 12 – Apr 30, 1976 | 6.5 h |
+| VIII | `chapter-08-feedback.md` | Jan 12 – Apr 30, 1976 | 7 h |
 | IX | `chapter-09-who-are-you.md` | May 10 – Aug 22, 1976 | 6 h |
 | X | `chapter-10-the-last-light.md` | Aug 26–28, 1976 | 4 h |
 | Ep. | `epilogue-what-remains.md` | Aug 29, 1976 – Apr 1977; 1996; Nov 9, 1974 | 1.75 h |
 
-Main story: about 57 hours. With side content: 80–110.
+Main story: about 57.5 hours. With side content: 80–110.
 
 **If you only have an hour:** the bible's first three sections, then Chapter I's Mission 9, Chapter V's Mission 16, Chapter VIII's Mission 14 (Tolliver Road), Chapter X's Mission 8, and the epilogue's coda.
 

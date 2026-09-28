@@ -45,6 +45,7 @@
 **The risk.** VIII to the epilogue is six hours of loss. Players check out and the ending lands on numb people.
 
 **What the design does.**
+- VIII has an ordinary interlude with nothing at stake (Snow Day: a fish fry, bowling, a polka, the bus lost at gin), added in V7 because the chapter ran five hours without one.
 - Every late chapter has a real comic set piece: Dean's coffee (VIII), Le Guin in one voice (IX), the Polaroid and the gorilla (X), the four dollars stolen by Tuesday (Ep.).
 - Ordinary-first scenes sit between the heavy ones: the tailgate, the solder, fishing, Opening Day.
 - The epilogue was cut to about 1.75 hours, with "Number One" folded into another mission.
@@ -104,7 +105,7 @@
 
 ## 9. It's too long, and the middle sags
 
-**The risk.** Fifty-seven main-story hours. Chapters VII (about 7h) and VIII (6.5h) are dense with set pieces, and the chapter text for VII runs about 31,000 words.
+**The risk.** Fifty-seven and a half main-story hours. Chapters VII (about 7h) and VIII (7h, including the Snow Day interlude) are dense with set pieces, and the chapter text for VII runs about 31,000 words.
 
 **What the design does.** The proportions are intentional: the ordinary life takes twenty hours so the player misses it.
 

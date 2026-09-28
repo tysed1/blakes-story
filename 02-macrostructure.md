@@ -13,12 +13,12 @@
 | V | Velocity | Dec 24, 1974 – May 2, 1975 | 6.5 h | Momentum becomes velocity; nobody can steer | A record offer; the player learns Clara isn't there |
 | VI | The Other Side of the Glass | May 3 – Aug 16, 1975 | 6.5 h | Making something none of them understands | *Borrowed Stone* exists; Riley knows about Clara |
 | VII | Strangers Know Your Name | Sept 8 – Dec 13, 1975 | 7 h | Everyone loses ownership of something | The myth exists; a letter from his mother |
-| VIII | Feedback | Jan 12 – Apr 30, 1976 | 6.5 h | The band's signature sound becomes an uncontrolled loop | Ellis knows he made Clara; medication; silence |
+| VIII | Feedback | Jan 12 – Apr 30, 1976 | 7 h | The band's signature sound becomes an uncontrolled loop | Ellis knows he made Clara; medication; silence |
 | IX | Who Are You? | May 10 – Aug 22, 1976 | 6 h | The world discovers Ellis the poet while Ellis discovers what he said | He remembers the argument; stops the pills; hears Grace on tape |
 | X | The Last Light | Thu Aug 26 – Sat Aug 28, 1976 | 4 h | Everything the game taught converges in one song | Ellis dies |
 | — | What Remains (epilogue) + Coda | Aug 29, 1976 – Apr 1977; 1996; Nov 9, 1974 | 1.75 h | Grief, myth, and one ordinary afternoon | — |
 
-Total main story ≈ 57 hours. With side content, 80–110.
+Total main story ≈ 57.5 hours. With side content, 80–110.
 
 **Proportions, by design.** Chapters I–IV (the ordinary life before fame) are 20 hours, a third of the game. The player has to live in 1974 long enough to miss it. Fame arrives in the second half, and the collapse arrives only after the player has spent forty hours wanting these four to make it.
 
@@ -346,7 +346,7 @@ Total main story ≈ 57 hours. With side content, 80–110.
 
 ## CHAPTER VIII — FEEDBACK
 
-**Dates:** Mon Jan 12 – Fri Apr 30, 1976. **Runtime:** 6.5 h. **Playable:** Cal → Riley → Dean → Ellis → Dean → Cal → Ellis → Cal → Dean → Ellis → Riley → Riley → Ellis → Ellis → Riley → Riley/Ellis → Ellis → Ellis. **This chapter did not exist in the original draft.**
+**Dates:** Mon Jan 12 – Fri Apr 30, 1976. **Runtime:** 7 h. **Playable:** Cal → Riley → Dean → Ellis → Dean → Cal → Ellis → Cal → Dean → Ellis → Riley → Riley → Ellis → Ellis → Riley → Riley/Ellis → Ellis → Ellis. **This chapter did not exist in the original draft.**
 
 **Thesis.** Feedback is a signal re-entering itself until it screams. The band built its sound on controlling it. In this chapter the loop runs through the industry, the press, the drugs and Ellis's mind, and nobody can find the volume. The last two clauses of the van promise break.
 
@@ -388,6 +388,7 @@ Total main story ≈ 57 hours. With side content, 80–110.
 - **6. Hotel Bar** (Ellis). Thu Jan 29, Chicago. "I know who Clara is." The kiss; Dex at the end of the bar.
 - **7. Eleven Times** (Cal). Fri Jan 30, the bus to Milwaukee. The fight; Tully; Cal gets off.
 - **8. No Floor** (Ellis → Cal). Sun Feb 1 – Wed Feb 4. Two shows with a session bassist; the notebook line; Cal comes back; "Theo's mine"; Dean's coffee.
+- **Interlude: Snow Day** (Dean → Cal → Riley → Ellis → Dean). Fri Feb 6 – Sat Feb 7, Kessel, Wisconsin. Green Bay snowed out: the jukebox that only plays "Convoy," bowling with Tully, the fish fry, Ellis can polka, Dean loses the bus to Earl at gin. Nothing goes wrong.
 - **9. Five** (Dean). Fri Feb 20. Bobby's birthday; the toy drum kit; the trailer door.
 - **10. Night Stage** (Ellis). Sat Mar 13, New York. The silence; the second failed catch.
 - **11. Rave** (Riley). Mon Mar 15, New York. Nina's piece and *Rave*'s, on the same rack; Joan on the phone; the party; the farmhouse, again, from outside; she stops.
