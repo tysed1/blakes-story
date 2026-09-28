@@ -149,3 +149,5 @@ Finale mechanics: film crew's handheld sun-gun light hits his eyes as he turns h
 - Epilogue ~1.75 h; Clara absent from the coda; "Number One" folded into "The List."
 - Map renames: Juniper Street → Linden Street; Laurel City "Midtown" → off Tenth / the Tenth Street district; "Emory-style" → the university medical district. SR 400 stays (user's map).
 - Names: Blue Moon Supper Club; Stroud; Virgil; great-aunt Louise; PEARCE & SONS; Gary; Jimmy Ray Tolbert & the Nightcaps; Big Wendell.
+
+- Finale geometry corrected (bible §13): crew stage right, Ellis at stage-left lip, light from his left as he turns home, swerve right toward Riley's side, gap at stage left.
