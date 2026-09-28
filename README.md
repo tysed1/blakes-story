@@ -76,7 +76,7 @@ How the story was rebuilt, in the order it happened:
 
 - `V1-ingest-and-autopsy.md`: what the original draft had, what worked, and what had to go.
 - `research-notes.md`: verified period facts for 1974–76, with sources.
-- `critic-reports/`: independent critiques. A (character and dialogue) and B (continuity and systems) on Chapters I–VI; C (full-draft continuity) and D (emotional arc, replay, anti-AI prose) on the complete draft; E (verification of the rebuilt finale and epilogue).
+- `critic-reports/`: independent critiques. A (character and dialogue) and B (continuity and systems) on Chapters I–VI; C (full-draft continuity) and D (emotional arc, replay, anti-AI prose) on the complete draft; E (verification of the rebuilt finale and epilogue); F (a table read of the 25 key scenes); G (a three-reader cold read of the whole game after V8: I–IV, V–VIII, IX to the coda).
 - `V3-character-audit.md`: decisions after the character critique.
 - `V4-red-team.md`: the two red teams' findings and the decisions taken, with work orders R1 and R2.
 - `repair-log-R1.md`, `repair-log-R2.md`: what changed in Chapters I–VI.
