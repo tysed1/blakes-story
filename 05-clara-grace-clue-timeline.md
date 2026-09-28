@@ -1,10 +1,10 @@
-# THE BLAKES — Clara/Grace Clue Timeline
+# The Blakes: Clara/Grace Clue Timeline
 
 *Deliverable 7. Compiled from the finished chapters (`chapters/`), checked against the story bible (§4, §5, §6.2–6.3, §11.3, §13) and the macrostructure. Where a chapter and the bible differ, the chapter is treated as correct and the difference is listed under **Discrepancies noticed** at the end.*
 
 ## How to read this document
 
-**Citations.** "VII M8" means Chapter VII, Mission 8. "CO" is a chapter's cold open. "Epi M4" is Epilogue Mission 4. "Coda" is the Saturday, November 9, 1974 coda. "Post-credits" is the WGRC tape after the credits.
+**Citations.** "VII M8" means Chapter VII, Mission 8. "CO" is a chapter's cold open. "Epi M4" is Epilogue Mission 4. "Coda" is the Saturday, November 9, 1974 coda. "Post-credits" is the WGRC tape after the credits. "VIII Snow Day" is the unnumbered interlude between VIII M8 and VIII M9.
 
 **Order.** Rows follow the order in which the player meets them. Three cold opens are flash-forwards (V CO, VI CO, VII CO); they sit at the start of their chapter with their true in-game date. Memories (IX M6, IX M13, X M8) are listed where the player plays them, with the date of the memory in the Date column.
 
@@ -24,7 +24,7 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 
 ## 1. The chronological table
 
-### Chapter I — Before the Noise (Thu Oct 10 – Sat Oct 19, 1974)
+### Chapter I: Before the Noise (Thu Oct 10 – Sat Oct 19, 1974)
 
 | Date | Where | Clue | First-time player perceives | What's true | Level |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | Oct 19 | I M9 | "Everybody knows everything." / "Not everything." | Banter | The town knows the crash, not Clara or what was said in the car | invisible† |
 | Oct 19, dawn | I M9 | Wayne asleep over a snapshot: a girl of about twelve on a chestnut mare, "June 1971" in green felt-tip | A photograph he treasures | Grace on Dolly | visible† |
 
-### Chapter II — Second Verse (Sat Oct 19 – Sat Nov 2, 1974)
+### Chapter II: Second Verse (Sat Oct 19 – Sat Nov 2, 1974)
 
 | Date | Where | Clue | First-time player perceives | What's true | Level |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | Oct 19, dusk | II M3 | Clara: "Half's more than he usually buys." / "I've had practice" (at being annoying) | A neighbor who knows Wayne; an old friend | She knows exactly what Ellis knows; a little sister | invisible |
 | Oct 19 | II M3 | She's gone when Wayne switches on the porch light | People leave when you look away | Rule 8 / Rule 13 | subliminal |
 | Sun Oct 20 | II M4 | In a booth at the Sunday rehearsal (daylight): "That one's better." Riley, 30 feet off: "What?" / "Me and the soda gun are having words." | Too far to hear | She isn't there | invisible |
-| Oct 26 | II M6 | Ellis asks what William James says about "a man [who] says he saw his dead mother at the foot of the bed" | A good question about a book | Ellis asking about himself | invisible† |
+| Oct 26 | II M6 | Ellis asks: "So if a man says he saw his dead mother at the foot of the bed, James says what?" | A good question about a book | Ellis asking about himself | invisible† |
 | Tue Oct 29 | II M7 | Landry: "Memory isn't a recording" (Bartlett, "War of the Ghosts") | College material | His memory of speeding was rebuilt from Wayne's accusations | invisible† |
 | Oct 29 | II M7 | "Had a sister." / "Grace." / "Her name was Grace." / "Young." | A death in the family | Grace | visible† |
 | Oct 29 | II M7 | "You didn't do anything... you don't have to keep saying sorry." | He dislikes pity | "Stop saying sorry" (Grace, as Hollis reports it, IX M4–M5) | subliminal† |
@@ -77,7 +77,7 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | Nov 2 | II M10 | Clara on his bed after Wayne snores: "Keep that." / "You think it'll last?" "Do you want it to?" | The photograph; a wise friend | His happiness; Ellis asking himself | subliminal |
 | Nov 2, morning | II M10 | Her side of the bed is "flat and made" | Nothing | Nobody sat there | invisible† |
 
-### Chapter III — Signal (Nov 4 – Nov 29, 1974)
+### Chapter III: Signal (Nov 4 – Nov 29, 1974)
 
 | Date | Where | Clue | First-time player perceives | What's true | Level |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | Nov 29 | III M11 | "You're doing it." / "Leaving." / "Don't forget me." | A strange line | The argument about leaving | subliminal† |
 | Nov 29 | III M11 | Headlights swing into his eyes; he turns away; the lot is empty | She walked off | She was never there; second headlight reflex | subliminal |
 
-### Chapter IV — Momentum (Dec 7 – Dec 23, 1974)
+### Chapter IV: Momentum (Dec 7 – Dec 23, 1974)
 
 | Date | Where | Clue | First-time player perceives | What's true | Level |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | Sat Dec 21, midnight | IV M10 | "Grace died in a car wreck." / "I was there." | The first plain fact | He was driving | visible† |
 | Sun Dec 22 | IV M11 | Cal's ledger margin: *Clara?*, one line through it | Cal's odd note | Cal's first recorded doubt | subliminal† |
 
-### Chapter V — Velocity (Dec 24, 1974 – May 2, 1975; midpoint)
+### Chapter V: Velocity (Dec 24, 1974 – May 2, 1975; midpoint)
 
 | Date | Where | Clue | First-time player perceives | What's true | Level |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | May 3 | V M16 | Clara cries: "Why are you doing this to me?" / "I'm sorry. I'm sorry." | He comforts her | The phrase Riley isn't allowed to say to him | subliminal† |
 | May 3 | V M16 | The player holds; the camera pulls back; Ellis alone under the streetlight holding nothing | — | She isn't there | **revealed** |
 
-### Chapter VI — The Other Side of the Glass (May 3 – Aug 16, 1975)
+### Chapter VI: The Other Side of the Glass (May 3 – Aug 16, 1975)
 
 | Date | Where | Clue | First-time player perceives | What's true | Level |
 |---|---|---|---|---|---|
@@ -175,40 +175,40 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | Jul 20 | VI M10 | "I see Clara... All the time... Last spring. A year. More." | Riley learns | Clara predates the drugs | visible† |
 | Jul 20 | VI M10 | "I think I've seen her before... Before Clara." | — | Grace | visible (to many) |
 | Jul 20, morning | VI M11 | "You can see me." / "That's not an answer." / "It's the only answer that matters." Riley's elbow two inches from her knee | Clara arguing | Ellis arguing; Rule 1 | visible |
-| Thu Jul 24 | VI M12 | Wayne tells the Raymond story; "Are you hearing something? Seeing something?" | Wayne afraid | Wayne already fears it | visible† |
+| Thu Jul 24 | VI M12 | Wayne tells the Raymond story; "Are you hearing something?" / "Seeing something?" | Wayne afraid | Wayne already fears it | visible† |
 | Wed Aug 6 | VI M14 | Ellis describes her from what the player has looked at: gray Blake eyes, a gap in her teeth, the jacket with the crooked horse. Wayne goes white: "Who is she?" / "You tell me." | A father recognizes something | Grace's eyes and jacket, Lorraine's teeth | **strongly suggested** |
 | Aug 6, 11:30 p.m. | VI M15 | Coupon 29 of 48; "There's a book on the table with the pages torn out... Daddy pays on a stone" | The band hears a metaphor | Grace's headstone, nineteen payments left | visible† |
 | Sat Aug 9, 2 a.m. | VI M16 | Marlon to Cal: invited Ellis at sixteen; sirens; "His sister was in the car." / "He was driving." | Cal learns (player learns) | The first gig, the rain, the crash | visible (Cal only)† |
 | Aug 11–16 | VI M17 | Ellis plays the band's own 45: only Riley on the harmony | Nothing | The V M4 harmony was his perception | subliminal† |
 | Sat Aug 16 | VI M18 | Clara alone in the dark chapel; from Riley's side the chapel is empty; two hands flat on the glass | — | — | visible |
 
-### Chapter VII — Strangers Know Your Name (Sept 8 – Dec 13, 1975)
+### Chapter VII: Strangers Know Your Name (Sept 8 – Dec 13, 1975)
 
 | Date | Where | Clue | First-time player perceives | What's true | Level |
 |---|---|---|---|---|---|
 | Sat Dec 13 (flash-forward) | VII CO | Across the Bowery, by a newsstand, "someone in a faded jean jacket" in the snow | A bystander | Clara, outside the photograph | subliminal† |
 | Mon Sept 8 | VII M1 | Album cover shot in the Monument & Vault yard; *for G.* on the back | A joke about the title | Grace's stone was bought in that yard | subliminal† |
-| Sun Sept 14 | VII M1 | Holds the cake on her knee and never eats it; "When's yours?" / "I don't have one." / "Pick one, then." / "November." | Banter | Grace's birthday, Nov 2; Rule 1 | subliminal / invisible (cake) |
+| Sun Sept 14 | VII M1 | "Give it here." Holds the cake on her knee and doesn't eat it ("She never eats anything."); "When's yours?" / "I don't have one." / "Pick one, then." / "November." | Banter | Grace's birthday, Nov 2; Rule 1 | subliminal / invisible (cake) |
 | Mon Sept 15 | VII M2 | "For G." / "Georgia." Dean lets it stand | A dedication | Dean knows it's Grace | subliminal† |
 | Sat Oct 18 | VII M5 | Floyd Tolliver: "Dolly died. In March." / "Your sister would've liked it. The record." | Kindness | The family Ellis has avoided since the crash | visible† |
-| Sat Nov 1 | VII M7 | In the Engineers Park grandstand: "Those were my words... I said 'you keep playing in public, that's basically asking.'" / "You made it prettier." | She's correcting a lyric | His memory rebuilds things: the alley, and the crash | visible |
+| Sat Nov 1 | VII M7 | In the Engineers Park grandstand: "They'll sing it." / "Those were my words." / "Sit up when I'm talking to you. You didn't even get them right." / "You made it prettier." | She's correcting a lyric | His memory rebuilds things: the alley, and the crash | visible |
 | Nov 1 | VII M7 | "Tell them it's mine." Cal sits in the seat she was in | — | — | visible† |
 | Nov 1 | VII M8 | "This one's for Clara." 1,600 sing "Nobody here knows you"; in the wing she hums the high part, better than Riley | A dedication; jealousy | The private made public; Grace sang that part | visible / subliminal |
 | Nov 1 | VII M8 | Sherry Tolan: "Who's Clara?" / "Old friend." / "Old?" | A tease | — | — |
-| From Nov 2 (optional) | VII M9 | The east slope: CLARA TATE BLAKE 1901–1970; GRACE CLARA BLAKE NOV. 2, 1958 – APR. 12, 1973. Clara never comes past the gate | Her name on two stones | Named for the grandmother and Grace's middle name; Rule 7 | **visible if found** (names revealed) |
-| Sat Nov 15 | VII M12 | Richmond: "Go ahead. Tell her about the car." / "They don't know you... Neither does Riley." A girl with an ice bucket watches him argue with an empty radiator | The first cruel thing; a witness | Fear that being known means being left; the first public sighting | visible |
+| From Nov 2 (optional) | VII M9 | The east slope: CLARA TATE BLAKE 1901–1970; GRACE CLARA BLAKE NOV. 2, 1958 – APR. 12, 1973. If Clara was with him on Main Street, she stops at the foot of the hill, tells him to tuck his shirt in, and turns back | Her name on two stones | Named for the grandmother and Grace's middle name; Rule 7 | **visible if found** (names revealed) |
+| Sat Nov 15 | VII M12 | Richmond: "I don't sleep. Lord, you combed your hair. For bed." / "Tell her about the car, then." / "They don't know you… Neither does Riley." / "Hush. Nobody knows you better than me." A girl with an ice bucket watches him argue with an empty radiator | The first cruel thing; a witness | Fear that being known means being left; the first public sighting | visible |
 | Tue Nov 25 | VII M13 | *Rave*: Grace "was killed in the spring of 1973 on a mountain road outside town, in a car her brother was driving. She was fourteen." / "Old friend... the way men say the names of women who are married or dead." | The country learns | The facts, not the truth | **revealed** (to the world)† |
-| Nov 25 | VII M13 | In the Valiant: "I'm in a magazine." / "Whoever she is." | A joke | — | visible† |
+| Nov 25 | VII M13 | In the Valiant, pointing at her name "a finger's width above the paper": "I'm in a magazine." / "Whoever she is." / "Quit looking at them. Drive." | A joke | Rule 1 | visible† |
 | Thu Nov 27 | VII M14 | The seventh place at the Rileys' table; Ellis keeps glancing at the empty chair; later: "She put her feet on the rung." | Riley's POV | Joan set a place for whoever came | visible |
 | Nov 27 | VII M14 | "She's in Ohio." (Wayne's rhythm) | A short answer | Wayne's only sentence about Lorraine | subliminal† |
 | Sun Nov 30 | VII M15 | Forearm aching before rain; a pickup's high beams; he freezes turning toward the light | A strange stillness | The body remembers Tolliver Bend | visible† |
 | Dec 3–5 | VII M16 | Coupon 33 of 48; Clara gone from the wing when Wayne is in the room; Wayne: "Your sister would've hated him." / "That girl... She still around?" | Wayne softening | Wayne knows | visible† |
 | Sat Dec 6 | VII M18 | "You don't need them." / "Yes I do." | A small quarrel | Ellis choosing the band over her | visible† |
-| Dec 9–10 | VII M19 | On the van's engine cover as he drives at night: "You're driving." "At night." "You've got all of them in here." "Keep going." | Encouragement | Always about a car | subliminal |
-| Sat Dec 13 | VII M19 | Lorraine's letter (blue ink, Dayton postmark Nov 29); Clara isn't in the booth; she didn't leave the usual way | She stepped out | Built partly from Lorraine | **strongly suggested on replay** |
+| Dec 9–10 | VII M19 | On the van's engine cover as he drives at night: "You're driving." "At night." "You've got all of them in here." "Eyes on the road." "Keep going." | Encouragement | Always about a car | subliminal |
+| Sat Dec 13 | VII M19 | Lorraine's letter (blue ink, Dayton postmark Nov 29); Clara ("Eat your eggs") isn't in the booth anymore; she "hasn't gone out a door or around a corner, the way she usually leaves" | She stepped out | Built partly from Lorraine | **strongly suggested on replay** |
 | Dec 13 | VII M19 | The photograph: she's across the street, never in the frame | — | Rule 3 | visible |
 
-### Chapter VIII — Feedback (Jan 12 – Apr 30, 1976)
+### Chapter VIII: Feedback (Jan 12 – Apr 30, 1976)
 
 | Date | Where | Clue | First-time player perceives | What's true | Level |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | Mon Apr 12, 1976 | VIII M18 | Ada's pie cut and eaten from the dish: "Grace liked anything with sugar in it." | — | Third anniversary | visible† |
 | Late April | VIII M18 | Clara absent on medication | — | — | visible |
 
-### Chapter IX — Who Are You? (May 10 – Aug 22, 1976)
+### Chapter IX: Who Are You? (May 10 – Aug 22, 1976)
 
 | Date | Where | Clue | First-time player perceives | What's true | Level |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | Memory: July 1972 | IX M13 | A playable afternoon with Grace at thirteen: laundry, the fence, bikes past an unscarred oak, Dolly, Wayne laughing and singing bass; "When you're famous, you have to tell people I named it." / "When?" / "Later." | — | — | **revealed**† |
 | Aug 14, 9:40 p.m. | IX M14 | Clara at fourteen in the hall: "I tried." "I couldn't be her." "I was too nice." She walks into Grace's room; he closes the door | — | She was never Grace; Rule 5 broken on purpose | **revealed** |
 
-### Chapter X — The Last Light (Thu Aug 26 – Sat Aug 28, 1976)
+### Chapter X: The Last Light (Thu Aug 26 – Sat Aug 28, 1976)
 
 | Date | Where | Clue | First-time player perceives | What's true | Level |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | ~8:41 p.m. | X M8–M9 | *Home* lands the song; he laughs and steps toward Riley; the sun-gun comes on from his left; he swerves right into the gap. Roll forty shows him singing to an empty corner, lifting a hand toward nothing on the second line, turning, laughing, gone | — | Rule 3 to the end | **revealed** |
 | After 8:41 p.m. | X M9 | Clara absent after the fall | — | She was only ever his | visible |
 
-### Epilogue — What Remains (Aug 29, 1976 – Apr 1977; 1996) and Coda
+### Epilogue: What Remains (Aug 29, 1976 – Apr 1977; 1996) and Coda
 
 | Date | Where | Clue | First-time player perceives | What's true | Level |
 |---|---|---|---|---|---|
@@ -338,13 +338,13 @@ What the player knows about the crash and Grace at the end of each chapter.
 | 4 | Tater never reacts to her | I M1 (doesn't look at the car); II M3 (asleep facing the yard); VIII M12 (he barks at and leans on Riley, a real person) | Never broken |
 | 5 | Never enters Grace's room until the end of IX | IX M13 (stays at the end of the hall; "She never comes into this room") | **Broken on purpose, IX M14:** at fourteen she walks in and he closes the door. Epi M7: the room is empty |
 | 6 | Never knows anything Ellis couldn't | IV M6 ("You and Riley kissed," read off his face); V M16 (where, not when); VII M7 (her correction of the lyric is Ellis's own memory); VIII M13 (can't answer "Is that you?"); IX M7 ("I remembered the car." / "I know."; then "Ask me something I know"); X M7 ("What are you?" gets no answer) | Never broken |
-| 7 | Never goes to the cemetery | I M1 (looks away at the church); VII M9 (gone by the gate); Epi M2 (absent from the funeral) | Never broken |
+| 7 | Never goes to the cemetery | I M1 (looks away at the church); VII M9 (stops at the foot of the hill and turns back); Epi M2 (absent from the funeral) | Never broken |
 | 8 | Never stays long in a room with Wayne | I M1 (stays in the car); I M9, II M10 (appears after Wayne snores); II M3 (gone when he flips the porch light); IV M9 (leaves as his boots hit the porch); VII M16 (gone from the wing once Wayne is in the room); VIII M13 (stops at the kitchen door, then vanishes); VIII M16–M17 (never in the kitchen with him); IX M9 (gone when he sings in the gallery) | Strained only in IX M13–M14, where she stands at the end of the hall while Wayne is in the kitchen (same house, not the same room) |
 | 9 | The switch never catches on her until VIII, and then fails | VIII M4 (bus aisle); VIII M10 (*Night Stage*) | Deliberately extended: IX M1 (catches on her empty chair); X M9 (fails to find Ellis); X end (fails to find anyone) |
 | 10 | Never says "go on," or anything that sends him away | I M1 and VII M19 ("Keep going," both in a car); IV M8 ("They're waiting on you"; "I'll be there"); X M5 ("come on, come on" in the squall); X M7 ("Come on. They're waiting on you."); X M8 (she says nothing and looks upstage) | Held |
 | 11 | Until V M16, never in a vehicle with a band member, and no third party's point of view frames her place | III M6 (stops at the fence); IV M8 (in the van's cargo bay only while Ellis is alone; walks off before the others come out); V M5 (stays behind under the club light) | Strained, V M7: played from Riley's side, Riley turns to the fence where Ellis sees her (the chapter calls it "a small preview of the midpoint"; bible §11.4 calls it an echo). After the midpoint she rides freely: VI M1 (Riley's back seat), VII M19 (the van's engine cover), X M1 (the bus) |
 | 12 | No horror grammar: never revealed in a mirror, window or reflection; never closer between cuts | VIII M6 (the bar mirror is never looked into); VIII M10 (back to the glass; "the camera never looks in the mirror"); X M3 (the motel mirror). Studio glass (III M2, VI CO, VI M18) frames her beyond a window, not in a reflection | Strained, VI M1: in Riley's back seat she is "looking at him in the rearview mirror" |
-| 13 | Vanishes rather than leaving in exactly two situations: Wayne entering, and Lorraine's handwriting | Wayne: II M3, VII M16, VIII M13, IX M9. Lorraine: VII M19 (the letter; the chapter notes she didn't go "the way she usually goes") | Strained: several look-away disappearances with neither trigger (III M11 headlights; V CO; V M16 booth after the flicker; VI M3 behind Vance's chair). VIII M13 extends the Lorraine trigger from handwriting to her photograph. In IV M9 she walks out ahead of Wayne rather than vanishing (the chapter's camouflage) |
+| 13 | Vanishes rather than leaving in exactly two situations: Wayne entering, and Lorraine's handwriting | Wayne: II M3, VII M16, VIII M13, IX M9. Lorraine: VII M19 (the letter; the replay note cites Rule 13) | Strained: several look-away disappearances with neither trigger (III M11 headlights; V CO; V M16 booth after the flicker; VI M3 behind Vance's chair). VIII M13 extends the Lorraine trigger from handwriting to her photograph. In IV M9 she walks out ahead of Wayne rather than vanishing (the chapter's camouflage) |
 
 ---
 
@@ -429,7 +429,7 @@ Clara never says it. Her substitutes: "Keep going" (I M1 at the LAUREL CITY 38 s
 
 ## Discrepancies noticed
 
-1. **Clara never says "stay" or "come back" on the page.** Bible §6.3 and the VII M19 design note both say she does. Her actual repertoire is "Don't" (VI M3, IX M7 "Don't do it again"), "Don't tell them," "Don't forget me," "Take me with you," "Sit down a minute" and "Keep going." VIII M15's note that "'Stay' is Clara's word" rests on this.
+1. **Clara never says "stay" or "come back" on the page.** Bible §6.3 says she does (the VII M19 design note said so too until the VII repair, commit 2431ed7). Her actual repertoire is "Don't" (VI M3, IX M7 "Don't do it again"), "Don't tell them," "Don't forget me," "Take me with you," "Sit down a minute," "Keep going," and, from VII on, a big sister's orders ("Eat something," "Sit up," "Eyes on the road," "Button your coat," "Come on"). VIII M15's replay note, "'Stay' is Clara's word," rests on the bible, not on anything she says.
 2. **"No Name" in July 1972.** In the IX M13 memory (July 1972) Grace talks about "that song" that "doesn't have a name" and promises to name it "Later." Bible §4 and I M8 date the song to the winter of 1972–73, and WGRC #14 (March 1973) says "He's been doing this all winter."
 3. **Hollis and "Stay with me."** Bible §5 says Hollis heard the first three lines (through "Stay with me"). In IX M4 and M5 he reports only "I'm sorry" and "stop saying sorry," plus Ellis saying he had to stay where she could see him.
 4. **Daylight in Chapter II.** Bible §6.3 allows "one unremarked daylight slip in II." The chapter has two: the Sunday-morning booth (II M4) and the afternoon quad (II M7).
@@ -438,4 +438,4 @@ Clara never says it. Her substitutes: "Keep going" (I M1 at the LAUREL CITY 38 s
 7. **"Daddy" location (macro only).** The macrostructure says "'Daddy,' once, at Tolliver Bend"; the chapter has her say it on Tolliver Road between the farm and the bend.
 8. **Rules 11, 12 and 13 as written vs. as played.** See the "strained" column above: V M7 (a third-party view before the midpoint), VI M1 (the rearview mirror), and the look-away disappearances that fall outside Rule 13's "exactly two situations."
 
-*Resolved during compilation.* Items flagged in the first draft of this file and since fixed in the chapters by the V6/V7 repairs (commits c541f21 through 129734d): where the first two "Liars" are recalled (VIII M4 now says the floor under the window and the windowsill), Grace's age at the WGRC recorder (bible now 12), the bootleg lyric in Epi M3, Nina's figure for the held *home*, Dolly's years in the paddock (now twenty), and the three hot dogs (Grace's again in Epi M7). Clara's "go, go, go" in the X M5 squall is now "come on, come on," so the Rule 10 strain is gone.
+*Resolved during compilation.* Items flagged in the first draft of this file and since fixed in the chapters by the V6/V7 repairs (commits c541f21 through 2431ed7): where the first two "Liars" are recalled (VIII M4 now says the floor under the window and the windowsill), Grace's age at the WGRC recorder (bible now 12), the bootleg lyric in Epi M3, Nina's figure for the held *home*, Dolly's years in the paddock (now twenty), and the three hot dogs (Grace's again in Epi M7). Clara's "go, go, go" in the X M5 squall is now "come on, come on," so the Rule 10 strain is gone.

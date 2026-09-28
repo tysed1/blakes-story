@@ -4,7 +4,7 @@
 
 **Sources.** Compiled from the finished chapters (`chapters/`), which are canon. `01-story-bible.md` §9–§11 and `02-macrostructure.md` are used only for background the chapters assume; where they differ, the difference is listed under *Discrepancies noticed*.
 
-**Citations.** Roman numeral = chapter; M = mission; CO = cold open; Epi = epilogue. "VII M8" means Chapter VII, Mission 8. Ledger entries are quoted exactly as they appear in the chapters, in italics.
+**Citations.** Roman numeral = chapter; M = mission; CO = cold open; "VIII Snow Day" = the unnumbered interlude between VIII M8 and M9; Epi = epilogue. "VII M8" means Chapter VII, Mission 8. Ledger entries are quoted exactly as they appear in the chapters, in italics.
 
 ---
 
@@ -108,7 +108,7 @@
 | Oct 24, 1975 | Macon | — | — | Gross $1,630 (ledger) | VII M11 |
 | Sat Nov 1, 1975 | Civic Auditorium, Laurel City | Headlining | 1,580 paid of 1,600 ("Eddie comped twenty") | $378 each | VII M7–M8 |
 | Sat Nov 15, 1975 | Richmond, Va. | Road date; the band at the Monroe Hotel | — | — | VII M12 |
-| Fri Dec 5, 1975 | The Lantern | Wayne in the crowd | — | "$378 a night since November" | VII M16 |
+| Fri Dec 5, 1975 | The Lantern | Wayne in the crowd | — | — | VII M16 |
 | Fri Dec 12, 1975 | A showcase club on Bleecker Street, New York | Industry showcase | 400 seats; ~300 industry | — | VII M19 |
 | Jan 14 – Feb 15, 1976 | Sawtooth arena tour, 21 dates | Opening, 35 minutes a night | Arenas 8,000–15,000: Cobo Arena, Detroit, 12,000 (VIII M3); Richfield Coliseum, 18,000 (VIII M5); Toledo, Indianapolis, Chicago, Milwaukee, Madison, Bloomington; ends in Buffalo | Tour support $40,000 against royalties | VII M17; VIII M1–M9 |
 | Fri Feb 6, 1976 | (Green Bay) | Canceled: the bus is stopped by snow in Kessel, Wis.; a day at the Red Pine Supper Club and the Pla-Mor Lanes | — | — | VIII Snow Day |
@@ -164,7 +164,7 @@
 
 ### *Borrowed Stone* (Southern Star SSR-1017)
 
-- Recorded at Dalton Sound, June–August 1975. "Produced by Frank Dalton and The Blakes." Released Monday, Sept 15, 1975 (VI M17; VII M2). Southern Star ordered 5,000 copies (VII world state).
+- "Recorded at Dalton Sound, Tannersville, June–August 1975 · Produced by Frank Dalton and The Blakes · Release date: September 15, 1975" (VI M17). Released Monday, Sept 15 (VII M2). Southern Star ordered 5,000 copies (VII world state).
 - Cover: the Jazzmaster leaning on a blank granite block at Hollow Ridge Monument & Vault. Back: a thanks list (Marlon, Roy & Evelyn, Vale, Walt & Dot, Martin/WTCR, Tully, Theo, Eddie, Mitch, Rhonda, Tater) and "for G." in Ellis's hand ("Georgia") (VII M1–M2).
 - First buyer the band watches: a nurse, for her son Marcus, $4.98, "ALBUM NOT THE 45" (VII M2).
 
@@ -296,7 +296,7 @@ Cal's green clothbound accounts book from the Western Auto. Rule: 20% of every g
 | 1/28/75 | *1/28/75 — Maestro Echoplex EP-3, used (Vale) — $150.00 from band fund.* | V M2 |
 | May 20, 1975 | Southern Star terms (see §6) | VI M3 |
 | 9/15/75 | *9/15/75 — Tenth St., 25 on hand at open.* | VII M2 |
-| 11/1/75 | *11/1/75 — Civic Aud., L.C. — 1,580 pd @ $4.50 = $7,110 gross. Band 1/3 after hall & promoter — $2,400.00. Eddie 15% — 360.00. Crew (T.V. 60, T.M. 90) — 150.00. Fund 20% — 378.00. Shares (4) @ 378.00.* | VII M8 |
+| 11/1/75 | *11/1/75 — Civic Aud., L.C. — 1,580 pd @ $4.50 = $7,110 gross. Band guarantee — $2,400.00. Eddie 15% — 360.00. Crew (T.V. 60, T.M. 90) — 150.00. Fund 20% — 378.00. Shares (4) @ 378.00.* | VII M8 |
 | Nov 12, 1975 | Dean's corrections: "Two-seventy. Divides by nine." Macon gross $1,630 deposited as $1,360; Eddie reimbursed twice for $14.60; each fixed with *D.H.*; Dean's own debts total $340: *D.H. — to be paid in full.* | VII M11 |
 | 1/24/76 | *1/24/76 — Akron City Hosp. — D.H. — ER, 1 night — $86.40. Paid from fund.* and *Not to be paid back.* | VIII M5 |
 | Feb 1976 | Dean's white 1970 Corvette, a thousand dollars cash and a month of per diems, entered under "D.H. — personal," with a question mark | VIII M9 |
@@ -320,10 +320,10 @@ Cal's green clothbound accounts book from the Western Auto. Rule: 20% of every g
 | May 20, 1975 | Advance $7,500, less 15%, into a Tannersville Trust account needing two signatures, one Cal's; about $1,300 each after the fund. Riley: the Rickenbacker. Dean: the Vistalite and $200 to Tully. Cal: six months' rent, his mother's coat, savings. Ellis: nothing; $200 in an envelope, RENT — 10 WEEKS; $100 to Roy "toward the goose," returned | VI M3 |
 | Aug 9, 1975 | Marlon's loan paid off; he refuses the interest | VI M16 |
 | Oct 18, 1975 | Ellis's last shift: a week's pay plus $50 | VII M5 |
-| Nov 1975 | Ellis makes $378 a night; Wayne about $280 a week | VII M16 |
+| Nov 1975 | "He made $378 in one night in November. Wayne makes about $280 a week." | VII M16 |
 | Nov 9, 1975 | Dean cut off; the Chevelle repossessed | VII M10 |
 | Dec 5, 1975 | Wayne slips a $20, folded in quarters, into Ellis's jacket at the Lantern | VII M16 |
-| Dec 1975 | The leather jacket, St. Marks Place, $18 | VII M19 |
+| Dec 1975 | The leather jacket, a secondhand store on St. Marks Place, $18, paid "out of his Civic money"; Wayne's twenty moves from the corduroy to the leather's inside pocket, unspent | VII M19 |
 | Aug 14, 1976 | The Maxwell House can: $1,540, every rent payment, unspent. "I was saving it." / "Didn't know yet." | IX M13 |
 | Aug 28, 1976 | Dean tries to pay the $4 ("amends"); Ellis: "Not that one. … I like having something on you." | X M6 |
 | Sept 8–14, 1976 | Dean leaves $4 under a rock on the grave; gone in six days | Epi M4 |
@@ -355,13 +355,13 @@ The performance system: no rhythm game; the song plays and the player shapes it 
 ## Discrepancies noticed
 
 1. **The ledger's first entry.** II M6: "Cal buys a green clothbound accounts book… and writes the first entry: *10/26/74 — Motor Sales*," and "Ledger begins." VII M11 and Epi M3 turn back to a first page reading *10/18/74 — Marlon's — Friday — $40.00*, "Four shares of ten dollars" (Epi M3). The Oct 18 night predates the book, and I M8 has Marlon paying $160 ($40 each, after Cal's "Each.").
-2. **Wayne's twenty.** VII M16: "He doesn't spend it. (It's still there in Chapter X.)" VII M19: "He pays with the twenty Wayne put in his jacket, if the player kept it… If the player spent it, he pays with something else." X M3, Epi M1 and bible §13 (as revised) say it was never spent and rides in the leather jacket's inside pocket. VII M19 still offers the spend.
-3. **The 45's financing.** Bible §10.4: "500 copies… $412 on credit." IV M2: the band pays $112 and borrows $300 from Marlon ("Against the Fridays"); the plant isn't giving credit.
-4. **"Stony Knob" and "Borrowed Stone" dates.** Bible §10.3 lists "Stony Knob" as Chapter VI; it is written in the studio on Dec 7, 1974 (IV M1) and recorded then. (Bible now has "Borrowed Stone" as Chapter VI, which matches VI M15.)
-5. **"New Skin" timing.** Bible §10.3 says it was written "after the photographs" (Mar 20, 1976). The first half is written on the bus in January 1976 (VIII M4), before the photographs; it's finished in June (IX M2).
-6. **The Echoplex arrives early.** Bible §10.2 lists the Echoplex among Ellis's Chapter VII–X gear. The band buys its own on Jan 28, 1975 (V M2), after using Hoyt's in December 1974 (IV M1).
-7. **Bible gear not in the chapters.** Bible §10.2: Ellis's fuzz box; Riley's Vox AC30 and phaser; Cal's Ampeg SVT on big stages; Dean's new heads (V–VI). None appears. Cal's bass is never named in the chapters (bible: a '66 Precision); the only Precision on the page is Phil Treadway's (VIII M8).
-8. **When Eddie became manager.** Bible §8: manager "from Chapter V." V M9 has him taking 15% of the Exit door; VI M3 says he became manager "as of a handshake in Vance's parlor" (May 20, 1975).
-9. **The album's first chart run.** Bible §10.4: *Borrowed Stone* "peaks at #61 in spring 1976." No chapter gives a chart position before the death; the only album positions on the page are #34, #9 and #1 in fall 1976 (Epi M3).
+2. **The 45's financing.** Bible §10.4: "500 copies… $412 on credit." IV M2: the band pays $112 and borrows $300 from Marlon ("Against the Fridays"); the plant isn't giving credit.
+3. **"Stony Knob" date.** Bible §10.3 lists "Stony Knob" as Chapter VI; it is written in the studio on Dec 7, 1974 (IV M1) and recorded then. (Bible now has "Borrowed Stone" as Chapter VI, which matches VI M15.)
+4. **"New Skin" timing.** Bible §10.3 says it was written "after the photographs" (Mar 20, 1976). The first half is written on the bus in January 1976 (VIII M4), before the photographs; it's finished in June (IX M2).
+5. **The Echoplex arrives early.** Bible §10.2 lists the Echoplex among Ellis's Chapter VII–X gear. The band buys its own on Jan 28, 1975 (V M2), after using Hoyt's in December 1974 (IV M1).
+6. **Bible gear not in the chapters.** Bible §10.2: Ellis's fuzz box; Riley's Vox AC30 and phaser; Cal's Ampeg SVT on big stages; Dean's new heads (V–VI). None appears. Cal's bass is never named in the chapters (bible: a '66 Precision); the only Precision on the page is Phil Treadway's (VIII M8).
+7. **When Eddie became manager.** Bible §8: manager "from Chapter V." V M9 has him taking 15% of the Exit door; VI M3 says he became manager "as of a handshake in Vance's parlor" (May 20, 1975).
+8. **The album's first chart run.** Bible §10.4: *Borrowed Stone* "peaks at #61 in spring 1976." No chapter gives a chart position before the death; the only album positions on the page are #34, #9 and #1 in fall 1976 (Epi M3).
+9. **Recording dates.** Bible §10.4 has *Borrowed Stone* "recorded May–Aug 1975" and the second album "recorded June–Aug 1976." The album credit reads "Recorded at Dalton Sound, Tannersville, June–August 1975" (VI M17; sessions begin Mon Jun 2, VI M6), and the second album's sessions begin at Knob House on Mon May 10, 1976 (IX M1).
 
-*Note on versions.* Chapters VIII–X and the epilogue were revised while this file was being compiled. The entries above follow the committed V6/V7 text (through commit 129734d): the cover of "Sunday Clothes" is by Charlene Hobbs (IX M12; earlier drafts, Darla Kay Hinson); Knob House's assistant engineer is Lamar Pickett; the ticket book, the hot dogs, the bootleg lyric and the route home from Elmira are fixed in the epilogue.
+*Note on versions.* Chapters VII–X and the epilogue were revised while this file was being compiled. The entries above follow the committed V6/V7 text (through commit 2431ed7): the cover of "Sunday Clothes" is by Charlene Hobbs (IX M12; earlier drafts, Darla Kay Hinson); Knob House's assistant engineer is Lamar Pickett; the ticket book, the hot dogs, the bootleg lyric and the route home from Elmira are fixed in the epilogue; and Wayne's twenty is never spent (VII M16, VII M19, X M3, Epi M1 and bible §13 now agree).

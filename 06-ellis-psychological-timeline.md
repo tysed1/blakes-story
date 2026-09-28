@@ -4,7 +4,7 @@
 
 **Sources.** Compiled from the finished chapters (`chapters/`), which are canon. `01-story-bible.md` (§4, §5, §6.1, §6.3, §11.3, §12, §13) and `02-macrostructure.md` are used for backstory the chapters assume, and where they differ from the chapters the difference is listed under *Discrepancies noticed* at the end.
 
-**Citations.** Roman numeral = chapter; M = mission; CO = cold open; Epi = epilogue; Coda; Post-credits. "VII M15" means Chapter VII, Mission 15. "(bible)" marks a fact that is only in the bible.
+**Citations.** Roman numeral = chapter; M = mission; CO = cold open; "VIII Snow Day" = the unnumbered interlude between VIII M8 and M9; Epi = epilogue; Coda; Post-credits. "VII M15" means Chapter VII, Mission 15. "(bible)" marks a fact that is only in the bible.
 
 **Vocabulary.** This document follows the game's own rule and uses no diagnostic label for Ellis. "Clara" means the young woman Ellis sees and hears. "The reflex" means his flinch and swerve away from a bright light coming from his left.
 
@@ -99,7 +99,7 @@
 | Dimension | Detail |
 |---|---|
 | Sleep | Starlite 1:30–4 a.m. Nov 2; home after 4 (II M9–10). Riley to Dean at the same table: "You already don't sleep" (II M9). |
-| Substances | First joint, with Riley on the quad, Oct 29: he coughs; "the world slows"; Clara appears right after, no more vivid than usual ("You're high." / "*You're* high.") (II M7). |
+| Substances | First joint, with Riley on the quad, Oct 29: he coughs; "The world gets a little slower"; "his shoulders come down"; Clara appears right after, no more vivid than usual ("You're high." / "*You're* high.") (II M7). |
 | Clara | Porch steps, gone when Wayne flips the porch light (II M3); Marlon's booth on a closed Sunday ("That one's better," II M4); the quad (II M7); the bar at the first Friday show ("Looks stupid," II M8); his bed on Grace's birthday ("Keep that." / "Then tomorrow, act like it," II M10). |
 | Stressors | Wayne pays half a tire, then: "You don't do anything once" and RENT $20/week (II M3). Nov 2, Grace's birthday: Wayne on her bed with the plastic horse (II M10). Tells Riley "Had a sister… Her name was Grace" (II M7). |
 | Protective | Rehearsal in the empty bar: "For about three minutes Ellis is just eighteen years old making noise with his friends" (II M4). Cal takes $20 back from the PA fund so Ellis can make rent (II M6). The kick-drum ritual (II M8). |
@@ -409,5 +409,5 @@ Stage faces east; the sun sets behind it. During the open verse Ellis drifts to 
 ## Discrepancies noticed
 
 1. **Fixed lines that assume Cal carried the Tabernacle verse.** At the Tabernacle the player may not use Cal's reversed *follow*, in which case Riley sings the lost verse (IX M9). Two later lines assume the Cal branch anyway: Ellis's "Cal got me." / Riley's "Cal got you." (IX M10), and at Arbor Jam Cal plays the missing "New Skin" line "the way he did in July" (X M8). Epi M6 handles the same branch conditionally ("If, in Chapter IX, Cal carried the lost verse…").
-2. **Clara's absence in the bible.** Bible §6.3 has Clara "Gone for weeks" in IX and the VIII row "Then medication, and silence." IX M7 now fixes the count at "Twelve weeks. Since the eighth of April." That matches the dates (first tablet Apr 8, return Jul 4); the bible's table doesn't give a number, so this is only a note.
-*Resolved during compilation.* Several items flagged in the first draft of this file were fixed in the chapters by the V6/V7 repairs (commits c541f21 through 129734d): Riley's pill count (now 40 + 6, which adds up), the length of Clara's absence, the Engineers ticket book (Ellis gave it), the three hot dogs (Grace's), Dr. Lusk's letter to Wayne (now in Epi M7), the hospital (Elmira in both X and the epilogue), and Nina's rounded figure for the held *home*.
+
+*Resolved during compilation.* Several items flagged in the first draft of this file were fixed in the chapters by the V6/V7 repairs (commits c541f21 through 2431ed7): Riley's pill count (now 40 + 6, which adds up), the length of Clara's absence, the Engineers ticket book (Ellis gave it), the three hot dogs (Grace's), Dr. Lusk's letter to Wayne (now in Epi M7), the hospital (Elmira in both X and the epilogue), and Nina's rounded figure for the held *home*.
