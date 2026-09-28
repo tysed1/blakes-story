@@ -443,7 +443,7 @@ She holds the door. He goes in. Bobby, five and a half, looks up from the blue-s
 
 ### Maps
 
-Saturday, October 2. The Riley house in Linwood, with the house empty. Riley has been living in her old room since June, with Gerald on the sill.
+Saturday, October 2. The Riley house in Linwood, with the house empty. Riley has been living in her old room since July, with Gerald on the sill.
 
 The player is Riley, at her mother's upright piano in the front room, working on a song. It's the first thing she's written since August. It's about his maps: the napkins, the ballpoint on his arm, a pasture outside Macon at midnight with a cow looking in the windshield. The verse is done. The bridge won't come.
 
