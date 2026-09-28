@@ -130,7 +130,7 @@ Riley closes her eyes.
 
 **RILEY:** Destroy it.
 
-**CAL:** I've considered fire.
+**CAL:** I've played it forty times. It's wearing out on its own.
 
 **RILEY:** Good.
 
@@ -144,11 +144,11 @@ She puts a card on the counter: WTCR, *10 WATTS OF FREEDOM*.
 
 It isn't a studio. To The Blakes, it might as well be.
 
-**CAL:** Who did you have to kill?
+**CAL:** What's it cost?
 
-**RILEY:** Nobody.
+**RILEY:** Nothing.
 
-**CAL:** Then this worries me more.
+**CAL:** Then something's wrong with it.
 
 ### Switch
 
@@ -400,7 +400,7 @@ Then, during a quiet line in the second verse, Ellis looks through the glass int
 
 Clara is standing there beside Riley, just behind her shoulder, arms folded, the control-room light on her face. No one reacts to her. The framing makes it look natural: the control room is crowded; Tully's by the door; Dean's leaning on the console.
 
-Clara nods, once.
+In the headphones his voice goes thin: he's drifted off the microphone. Clara points at her own mouth, then at the mic. He steps back in. She nods, once.
 
 Ellis finishes the take. It's the best vocal of the night.
 
@@ -716,11 +716,11 @@ She looks at him.
 
 **ELLIS:** Yeah.
 
-**CLARA:** That's okay.
+**CLARA:** Then quit looking like you stole it.
 
-**ELLIS:** Didn't say it wasn't.
+**ELLIS:** Allegedly.
 
-**CLARA:** Didn't have to.
+If the player asks her to get the radio (*"Cut that off?"*), she doesn't look at it: *"I'm not your mama."*
 
 He reaches past her and switches the radio off.
 
@@ -796,7 +796,7 @@ The player can do all the van things: change the radio (Laurel City gets real FM
 
 **DEAN:** The name's growing on me.
 
-**CAL:** So does mold.
+**CAL:** On *you*.
 
 **RILEY:** Strong position.
 
@@ -1013,7 +1013,7 @@ Starfire's bass player, a heavyset man of about thirty-five named **Lonnie**, st
 
 Riley looks at him. He remembered. She smiles.
 
-**CAL:** I hate all of you.
+**CAL:** Vale wants his van back by noon.
 
 ---
 
@@ -1366,6 +1366,10 @@ A long pause. Then she looks ahead to the van, where Riley is climbing into the 
 
 Ellis accepts this. Why wouldn't he? Neither does the player necessarily notice that it isn't an answer.
 
+Cal leans on the van's horn. Clara looks back over her shoulder at the bonfire.
+
+**CLARA:** Fire's not out yet.
+
 At the fence Clara stops with her hands in her jacket pockets. She doesn't get in. Ellis climbs into the back with Dean and the equipment, and Cal pulls out.
 
 ---
@@ -1522,9 +1526,9 @@ Wayne's face changes.
 
 **ELLIS:** You don't get to care now.
 
-**WAYNE:** I have cared every goddamn day of your life.
+**WAYNE:** I have sat up every goddamn night you've been out.
 
-**ELLIS:** Could've fooled me.
+**ELLIS:** Nobody asked you to.
 
 **WAYNE:** I already buried one child.
 
@@ -1812,7 +1816,11 @@ She used to show up mostly when Ellis was alone. Now she's come into the band's 
 
 Ellis smiles toward her.
 
-Riley, at her mic, catches Ellis smiling at apparently nobody over the heads of the crowd. She assumes he's looking at someone behind her. She keeps playing.
+When the last chorus comes around and the player could turn to Dean, Clara lifts one finger: once more. If the player takes it (a look at Cal, *stay with me*), the band goes around again with him.
+
+Riley, at her mic, catches Ellis smiling at apparently nobody over the heads of the crowd. She assumes he's found somebody he knows. She keeps playing.
+
+> **Blocking note.** The camera stays with Ellis for all of this. No one else's view takes the back wall (Rule 11).
 
 ### After
 
@@ -1969,6 +1977,20 @@ A college station recording. A 10-watt broadcast caught from a mountaintop. A sh
 | Leaning on her shoulder after Wayne | Comfort | Alone against a wall | invisible |
 | Cal: "Who's Clara?" | Cal forgot | Nobody has met her | subliminal |
 | Ellis looks back; turns from the headlights; lot empty | She walked off | She was never there (and the camera stayed with Ellis) | subliminal |
+| "Fire's not out yet" as Cal leans on the horn | She'd like him to stay | She can't get in the van | invisible |
+
+### Clara's help
+When she's with Ellis, she is the chapter's only guidance. There's none on the road to Laurel City or at the Blind Tiger (M4–M5), and none with Wayne (the porch in M7, the Starlite in M10). Playing as Cal, Riley or Dean, there's never any.
+
+| Mission | Line | Helps with | Biased? |
+|---|---|---|---|
+| M2, the booth | Points at her mouth, then the mic, when his voice goes thin in the headphones | the take | no |
+| M6, the field | "I think you're fixing to walk in the creek." | where he's walking | no |
+| M6, the walk to the van | "He worries loud." | reading Cal | no |
+| M6, the fence | "Fire's not out yet." | the hour (it's early, for a farmhouse) | **yes**: toward staying out with her |
+| M11, "Low Water" | One finger from the back wall: once more around | the Room: when to turn home | **yes**, mildly: one more chorus before home |
+
+**Test** (`clara_tests` +1). M3, his room: *"Cut that off?" / "I'm not your mama."* Nothing else acknowledges it.
 
 ### The Grace ladder after Chapter III
 Wayne confirms he buried a child. Ellis weaponized "wreck." The player assembles: a car, a death, a son who survived, a father who can't forgive it. Nobody has said Ellis was driving.

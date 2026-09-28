@@ -86,7 +86,7 @@ Marlon's is a 1930s brick bar with a 1950s cinderblock addition that never quite
 - **The chalkboard by the door.** In Marlon's block capitals: THURSDAY — ELLIS BLAKE / FRIDAY — THE COUNTY LINE BOYS / SAT — 8-BALL TOURNEY $2. Somebody has drawn a very small, very anatomical addition next to "8-BALL." Marlon has half-erased it.
 - **The handwritten set list** taped to the Silvertone's case: nine songs in carpenter's pencil, three crossed out, one with a question mark.
 - **The cigarette machine.** Winstons are fifty cents. Ellis has a dollar and change. Buying a pack is possible and costs him.
-- **The pool table.** Two railroad men, Earl Pike and a younger one named Dwayne, are in the middle of a game and a bad mood. Earl works on Wayne Blake's section crew. If Ellis gets close: *"Your daddy know you're down here?" / "Probably." / "Section's down to four men, you know that? Four. On eleven miles."* Ellis: *"I heard."* That's all.
+- **The pool table.** Two railroad men, Earl Pike and a younger one named Dwayne, are in the middle of a game and a bad mood. Earl works on Wayne Blake's section crew. If Ellis gets close: *"Wayne know you're down here?" / "Probably." / "Section's down to four men, you know that? Four. On eleven miles."* Ellis: *"I heard."* That's all.
 - **The *Fireball* pinball machine.** Playable. Ellis is good at it. (Remember this when he claims to be good at pool.)
 - **The jukebox.** Twenty-five cents a play, three for fifty. The selection is mostly country with a rock row: Skynyrd, CCR, the Allmans, Bad Company, a Jim Croce, a Dionne Warwick and the Spinners somebody's wife asked for.
 - **The newspaper** on the bar: the Tannersville *Banner*, Wednesday's. FORD ASKS NATION TO "WHIP INFLATION NOW." A red WIN button is pinned to the cash register. It's hard to tell if Marlon is being sincere.
@@ -155,6 +155,8 @@ Ellis doesn't notice at first, because he's watching his left hand. Then, on the
 
 People are listening. It scares him a little more than being ignored.
 
+Under that last chorus, from somewhere near the back door, a low alto is humming the high part, a third above his line. If the player lets Ellis's reach follow it, the long note opens instead of cracking.
+
 He finishes. There's a full second of nothing. Then applause, small and real. Ellis looks down at the guitar as if he doesn't know where to put it.
 
 **MRS. HENSLEY** *(to her glass, not to him):* That was pretty, hon.
@@ -215,7 +217,7 @@ A young woman is sitting on an upturned Pepsi crate against the brick. Twenty, t
 
 **ELLIS:** Everybody's smarter than me tonight.
 
-She smiles and stands. He picks up the case. They walk.
+She smiles and stands. He picks up the case. They walk. If the player turns toward the hole in the fence and the tracks, she stays put: *"Car's on Depot. Unless you're riding the freight."*
 
 > **Directing note — Clara.** There is no horror language anywhere near Clara. No whispering score, no camera glitch, no chromatic aberration, no strange reflections, no cold light. The game treats her exactly the way Ellis's mind treats her: as a person. Players should like her immediately. Everything depends on that.
 
@@ -239,7 +241,7 @@ The player will assume she means his father. The player is right.
 
 He unlocks the car. She gets in on the passenger side, from Ellis's point of view.
 
-**CLARA:** You going straight home?
+**CLARA:** Straight home?
 
 **ELLIS:** Eventually.
 
@@ -251,7 +253,7 @@ The player can drive straight home up Cold Branch Road, or wander. Main Street i
 
 Clara talks about what they pass.
 
-- At the Gulf station: *"You hungry?" / "Can't afford hungry." / "You got thirty dollars." / "I got thirty dollars for the rest of the week."*
+- At the Gulf station: *"You hungry?" / "Can't afford hungry." / "You got thirty dollars." / "I got thirty dollars for the rest of the week."* If Ellis answers *"You buying?"* instead: *"I'm company."*
 - At the new brick ranch houses going up on the Cold Branch Estates lot: *"You'd live there?" / "I'd rather get shot."*
 - On US 19 at the west edge of town, where the sign says LAUREL CITY 38: *"Keep going." / "Where?" / "Does it matter?"* A pause long enough that the player might actually keep going. *"I work tomorrow." / "Tragic."*
 - At the Methodist church: nothing. She looks the other way.
@@ -271,6 +273,10 @@ The Blake house sits halfway up Cold Branch Road toward Stony Knob: a four-room 
 A fat, elderly dog heaves himself up off the porch and waddles out to meet the car. This is **Tater**: part beagle, part something long, eleven years old and built like a footstool. Ellis gets out, crouches, and gives him the hamburger bun from Marlon's. The player can pet him. Tater leans his whole weight against Ellis's shins.
 
 Clara stays in the car. Tater doesn't look at the car.
+
+**CLARA:** Look at him. Fat as a tick.
+
+Ellis scratches the dog's ears.
 
 **CLARA:** I'll see you.
 
@@ -380,7 +386,7 @@ The plastic horse can't be picked up. The prompt simply doesn't appear.
 
 On the bed, Ellis takes number 44 out of his back pocket. The player gets their first look at the **notebook**: a Western Auto memo book, spiral at the top, pages in carpenter's pencil. There are a dozen earlier entries in this book: short lines, dated, about the garage, the town, the weather. They read like overheard sentences and descriptions. There are no poems, or nothing that calls itself one.
 
-The Observe system is introduced here with a single prompt. The camera finds the window: the porch light throwing the shadow of the screen onto the yard, Tater asleep in the gravel. Pressing Observe, Ellis looks, then writes:
+The Observe system is introduced here with a single prompt. The camera finds the window: the porch light throwing the shadow of the screen onto the yard, and Tater, the dog Clara pointed at from the car, asleep in the gravel. Pressing Observe, Ellis looks, then writes:
 
 > *Oct 10. Porch light on the dog. The screen makes a net on him. He doesn't know he's caught.*
 
@@ -492,7 +498,7 @@ Mrs. Pardue (sixties, cardigan, taught English at Hollow Ridge High for thirty y
 
 **ELLIS:** No ma'am.
 
-**MRS. PARDUE:** Hm.
+**MRS. PARDUE:** I see.
 
 She pays and leaves. Roy looks at Ellis over his glasses and goes back to the Buick.
 
@@ -849,7 +855,7 @@ Dean knows.
 
 He means it. And then Richard says something perfectly reasonable.
 
-**RICHARD:** At some point you've got to decide what you're doing with your life, son.
+**RICHARD:** At some point you've got to decide what you're doing with your life, Dean.
 
 Dean's face changes, a small tightening at the jaw. To him that sentence sounds like: *pick your cage.*
 
@@ -1042,11 +1048,11 @@ Mr. Vale comes back from the office with the deposit settled.
 
 **VALE:** Then Holloway can discover patience.
 
-**CAL:** He doesn't strike me as a man who's interested.
+**CAL:** He doesn't strike me as the type.
 
 **VALE:** You met him ten minutes ago.
 
-**CAL:** I've got instincts.
+**CAL:** Twelve.
 
 Vale laughs and goes back upstairs.
 
@@ -1068,7 +1074,7 @@ Dean stares at him, then takes the change, delighted in spite of himself.
 
 **CAL:** Good night.
 
-Cal doesn't absorb other people's failures. It turns out he doesn't absorb their generosity either. He'll learn the difference late.
+Cal doesn't absorb other people's failures. It turns out he doesn't absorb their generosity either.
 
 ### Cal
 
@@ -1596,6 +1602,8 @@ He counts it in.
 ### The moment
 
 "No Name" begins. People are talking. Then they stop, gradually, a table at a time.
+
+Under the first verse, and only while the camera is with Ellis, Clara is humming the high part from somewhere near the back hall, as she did at the Thursday gig. When Riley comes in on the chorus with the same part, the humming stops.
 
 The player rotates through all four in faster switches now: Ellis, Riley, Cal, Dean, Ellis. The stutters are shorter. It's almost like playing a single body. The Room shows it: Mrs. Hensley isn't here on a Friday, but a woman at the end of the bar is holding her glass halfway to her mouth; the pool game has stopped; Tully is leaning against the back wall with his arms folded and his eyes closed.
 
@@ -2141,6 +2149,8 @@ She watches the cruiser's taillights to the bottom of the mountain.
 
 > **Replay layer.** Pruitt worked Grace's crash. He's the one who got Ellis out of the car. The whole town watches this boy's tires. The flinch at the headlights is the first one; there will be more, and nobody will ever mention them.
 
+If the player stays on the hood after the cruiser's gone, Clara says, to the town: *"Girl's flat on the second verse." / "She was not." / "Little bit."*
+
 ### Before dawn
 
 Ellis comes home near six. It's still black; the ridge won't gray for an hour and a half (Georgia is on year-round daylight time this year). Tater is asleep on the porch and thumps his tail without getting up.
@@ -2239,6 +2249,23 @@ All four instruments hit together. Cut.
 | Says "your daddy," not "Daddy" | A family friend's manners | The disguise | subliminal |
 | "I'm fine." / "Liar." | A friend's tease | The first of three; Chapter X pays it off | invisible |
 | "You ever think about leaving and never coming back?" | Small-town question | What he said to Grace (Ch IX) | subliminal |
+| The hum under "No Name" stops when Riley sings the high part; "Girl's flat on the second verse" | A friend who sings along; jealousy | Grace's part, the first thing anyone takes from her | invisible |
+
+### Clara's help
+When she's with Ellis, she is the chapter's only guidance, and the first help in the game is her hum in the Room before the player has seen her. There's none as Riley, Dean or Cal (M3–M7), and none in the house while Wayne is awake.
+
+| Mission | Line | Helps with | Biased? |
+|---|---|---|---|
+| M1, "No Name" | A low alto humming the high part near the back door; Ellis's reach opens on the long note if it follows her | the Room | no |
+| M1, the alley | "Car's on Depot. Unless you're riding the freight." | directions | no |
+| M1, the Gulf station | "You got thirty dollars." | money | no |
+| M1, US 19 | "Keep going." | the road west | **yes**: out late with her, away from home |
+| M1, the Tolliver Road sawhorse | "Not that way." | directions | **yes**: away from Tolliver Road |
+| M1, the yard | "Look at him. Fat as a tick." | Observe: the first line the player writes is the dog she pointed at | no |
+| M8, "No Name" | Hums the high part under the first verse; stops when Riley takes it on the chorus | the Room | no: it's taken from her |
+| M9, Stony Knob | "He's gonna write you up for that tire." | reading Pruitt | no |
+
+**Test** (`clara_tests` +1). M1, the Gulf station: *"You buying?" / "I'm company."* Nothing else acknowledges it. "Girl's flat on the second verse" (M9, optional) is jealousy and gets no row.
 
 ### Wayne in Chapter I
 Two blows ("cars after the fact," "you got to keep yours"), one wordless kindness (the wax-paper lunch), one sign of fear ("Don't," at the door), one sign of shame (and, if the player holds silence, a half-said name that lands on nothing), and one secret: he looks at the bald tire through the window for a long time. The player should dislike him and not be able to stop thinking about him.

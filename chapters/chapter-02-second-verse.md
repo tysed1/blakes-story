@@ -375,7 +375,7 @@ Roy tells Ellis something came for him. Leaning against the air compressor is a 
 
 Ellis knows immediately.
 
-**ROY:** Carson brought it by this morning. Your daddy was in there last night.
+**ROY:** Carson brought it by this morning. Wayne was in there last night.
 
 **ELLIS:** He pay?
 
@@ -385,7 +385,7 @@ Ellis knows immediately.
 
 Roy looks at him as though the answer is obvious.
 
-**ROY:** 'Cause he's your daddy.
+**ROY:** 'Cause he's your dad.
 
 **ELLIS:** Could've fooled me.
 
@@ -577,7 +577,7 @@ He moves to the next lug.
 
 She doesn't answer. Somewhere down the valley a freight blows for the Depot Street crossing.
 
-**CLARA:** You going tomorrow?
+**CLARA:** You playing tomorrow?
 
 **ELLIS:** I don't know.
 
@@ -590,6 +590,8 @@ He looks over at her. She's smiling.
 **CLARA:** I've had practice.
 
 > **Replay layer.** A perfectly normal line. Much later, horrifying in a very different way.
+
+If the player snugs the new lugs around the circle instead of across it, Clara says, without getting up: *"Crisscross. You'll warp the drum."*
 
 He finishes. He throws the bald tire in the Valiant's trunk to take to Carson's. When he looks back at the porch, she's still there. When the porch light comes on (Wayne, inside, flipping the switch without being asked) she's gone, the way people go when you look away.
 
@@ -771,7 +773,7 @@ All three of them look at him.
 
 **CAL:** That's generally how it works.
 
-Ellis isn't comfortable with the word. The player may notice that; nobody else does.
+Ellis isn't comfortable with the word. Nobody else notices.
 
 > **Band rules, established** (Cal writes them on the bottom of his list, and the list is taped inside the lid of Dean's trap case for the rest of the game): 1. Show up. 2. Know the songs. 3. Riley isn't dropping out because we can't use a calendar. 4. Ellis doesn't rewrite songs halfway through them. *(Rule 4 is broken by the next afternoon.)*
 
@@ -1000,7 +1002,7 @@ Cal almost smiles.
 
 Cal thinks about how to answer.
 
-**CAL:** Because when it's worse I'm going to say that too, and I want you to know I'm not just a man who says worse.
+**CAL:** Because when it's worse I'll say that too. I want you to know I don't only say worse.
 
 Ellis looks up at him. It's the most Cal has said at once.
 
@@ -1022,7 +1024,15 @@ This is the shortest mission in the chapter and it has no objective marker. The 
 
 For six months Ellis has spent Thursday nights at Marlon's. Since Friday, the chalkboard says the band plays Fridays. There's no reason to go to Marlon's tonight. There's nowhere else in Hollow Ridge to be.
 
-The player can drive away (anywhere; the mission quietly ends and the chapter continues). If the player goes inside:
+Clara is in the passenger seat with her boots on the dash.
+
+**CLARA:** It's Thursday. Rent's Friday.
+
+She looks at the lamp in the front window.
+
+**CLARA:** Starlite's open. You haven't eaten.
+
+The player can drive away (anywhere, with Clara along; the mission quietly ends and the chapter continues). If the player goes inside (Clara stays in the car, and she's gone when he comes back out):
 
 Wayne is in his chair. The lamp's on, not just the television. On the television, CBS, the opening of *The Waltons*: the credits over the Blue Ridge, the family on the porch, the narrator talking about the Depression.
 
@@ -1074,7 +1084,7 @@ Dean looks at him.
 
 **DEAN:** But good to know where that land mine is.
 
-Ellis looks embarrassed. Cal redirects before it can become a thing.
+Ellis looks embarrassed. Cal redirects before it can go anywhere.
 
 **CAL:** We earn it.
 
@@ -1456,7 +1466,7 @@ Riley studies him.
 
 **ELLIS:** I don't care about famous.
 
-He believes it. He's eighteen. That will matter later.
+He believes it. He's eighteen.
 
 **RILEY:** What about music?
 
@@ -1688,9 +1698,11 @@ Junior, Marlon's nephew who works the bar on Fridays, passes behind Ellis with a
 
 **JUNIOR:** What?
 
-**ELLIS:** Hm.
+**ELLIS:** No comment.
 
 Junior keeps going.
+
+If the player has Ellis buy a round with Friday's pay, Clara, from beside the pickled eggs: *"That's rent. Put it back."* It's rent day.
 
 ### The radio man
 
@@ -2004,9 +2016,11 @@ He doesn't turn around. The camera finds Clara sitting on his bed. She doesn't a
 
 **ELLIS:** Don't ruin it.
 
-**CLARA:** Wasn't going to.
+**CLARA:** Wasn't fixing to.
 
 He keeps looking at the photograph. She gets up and comes to stand beside him at the dresser to look at it too.
+
+> **Blocking note.** The camera never takes the mirror glass while she's at the dresser. It holds the Polaroid in the frame and their two faces from the side (Rule 12).
 
 **CLARA:** Dean looks insane.
 
@@ -2044,7 +2058,7 @@ He assumes she means the photograph. The player assumes she means the photograph
 
 ### Bed
 
-He turns off the lamp. Dark. After a while:
+The lamp is on the nightstand by her. If the player asks, *"Get the lamp?"*, she doesn't move: *"You've got hands."* Either way he turns it off himself. Dark. After a while:
 
 **ELLIS:** Clara?
 
@@ -2116,6 +2130,22 @@ More complicated without being softer. He bought half a tire because he's terrif
 | Two coffees at the Starlite, both drunk | He's tired | Habit: on other nights the second cup is Clara's | invisible |
 | In his room on Grace's birthday, after Wayne is snoring: "Keep that." | The photograph | His happiness | subliminal |
 | "Do you want it to?" | A wise friend | Ellis asking himself | subliminal |
+| Thursday in the yard: "Starlite's open." | A hungry friend | Steering him away from the house on the night Wayne waits up | invisible |
+
+### Clara's help
+When she's with Ellis, she is the chapter's only guidance. There's none as Riley, Dean or Cal, and none with Wayne in the room (M5 inside, M10's hallway). M10's drive home has no Clara at all.
+
+| Mission | Line | Helps with | Biased? |
+|---|---|---|---|
+| M3, the tire | "Crisscross. You'll warp the drum." | the job in his hands | no |
+| M3, the porch | "Half's more than he usually buys." | reading Wayne | no |
+| M4, the booth | "That one's better." | the song | no |
+| M5, the yard | "It's Thursday. Rent's Friday." | the calendar; money | no |
+| M5, the yard | "Starlite's open. You haven't eaten." | supper | **yes**: away from the house on the night Wayne waits up |
+| M7, the quad | "She likes you." | reading Riley | no |
+| M8, the bar | "That's rent. Put it back." | money (rent day) | no |
+
+**Test** (`clara_tests` +1). M10, bed: *"Get the lamp?" / "You've got hands."* Nothing else acknowledges it.
 
 ### The Grace ladder after Chapter II
 There was a little girl. Something happened involving a car. Wayne blames Ellis. There's a bedroom nobody enters. **New:** her name was Grace; she was his sister; she died young; he flinches when people apologize for it; his father sits in her room at night; there's a date in his notebook. Clara is still not connected to Grace in any way the player can see.
