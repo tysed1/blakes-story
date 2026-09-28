@@ -151,3 +151,43 @@ Finale mechanics: film crew's handheld sun-gun light hits his eyes as he turns h
 - Names: Blue Moon Supper Club; Stroud; Virgil; great-aunt Louise; PEARCE & SONS; Gary; Jimmy Ray Tolbert & the Nightcaps; Big Wendell.
 
 - Finale geometry corrected (bible §13): crew stage right, Ellis at stage-left lip, light from his left as he turns home, swerve right toward Riley's side, gap at stage left.
+
+
+## V6/V7 changes (supersede anything above that conflicts)
+
+See `00-process/V6-V7-audits.md` for every decision and `15-continuity-audit.md` for the final canon checks.
+
+- **Finale.**
+  - HOME now lands the song. The band closes it together, Ellis laughs and steps toward Riley (ahead of him and to his left at the riser's stage-left corner), the valley roars, Joel steps out upstage-right for the bow, and Kit's sun-gun comes on past Riley's shoulder. He swerves right, away from her, into the stage-left gap.
+  - "Shape Note" is played in a square facing inward; the first flare is switched off as a technical problem.
+  - The hold is capped at about three minutes in the story and rounded in the footage and in Nina's line.
+- **Open verse.** Three image lines plus a plain last line, *go on*. The car comes back in pieces: his *sorry* under the rain; her laugh and a word the rain takes; "Stay with me," clear; "It's okay. Go on." under it.
+- **Clara.**
+  - Asked what she is, she tells him to push his hair out of his eyes. No thesis.
+  - In the squall she yells "come on, come on." She never says "go."
+- **The vote.** Dean votes no, on the record. If Cal's tie-break is no, it stands; Ellis says "Then I'll play it by myself," and the band follows him.
+- **The ambulance.** Wayne's never-said lines break. Only "Son." comes out whole.
+- **Epilogue.**
+  - The 1996 documentary moves before the Tater mission and is cut to four minutes; the empty track has no voice-over.
+  - Riley says "I'm carrying him."
+  - The M. mission opens with "Maps."
+  - Thanksgiving has no caption, and Wayne leaves before the coffee.
+  - "He paid rent" is cut. Lusk's letter is added.
+  - Hannah's card and Landry's note are added.
+  - The post-credits tape opens "Hi, El."
+- **Geography.**
+  - Tolliver Road is a through road: farm → Hensley house → (0.3 mi) the Bend → the Tanner Valley road. It's the back way home when the low-water bridge floods.
+  - The sawhorse is only in Chapter I.
+  - The hospital is in Elmira; the way home is Route 17 east, then I-81.
+- **Objects.**
+  - Wayne's twenty is never spent; it goes into the leather jacket and comes back to Wayne.
+  - The Polaroid goes to Dean's nightstand (IX M8) and is buttoned back ("Keep it.") in the X trailer.
+  - Forty pills.
+  - The coupons stop in October 1976.
+  - Ellis gave the ticket book to Wayne.
+- **VIII.**
+  - A Snow Day interlude (Kessel, Wisconsin, Feb 6–7).
+  - Elaine asks which one Clara is.
+  - Wayne keeps "Clara was my mama's name" but no longer says "Grace Clara."
+- **Voices.** The V3 minimum is restored in VII–X; "Hm." is back to Wayne only; the narrator tics are cut by three-quarters or more.
+- **Renames.** Lamar Pickett, Charlene Hobbs, Mr. Cantrell, Nadine Pike.
