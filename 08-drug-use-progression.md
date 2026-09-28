@@ -69,7 +69,7 @@ How the chapters apply it:
 | VIII M6 (Thu Jan 29, 1976) | Drinks at a Chicago hotel bar | After the show | — | Dex, Elaine | The kiss |
 | VIII M8 (Feb 2–3, 1976) | None that night | Madison | — | — | Can't sleep anyway. Memo book 68: "If a train came through right now that'd be all right." |
 | VIII Snow Day (Fri Feb 6, 1976) | A brandy old fashion sweet | The Red Pine, Kessel, Wis. | Once | The band | Clara: "You're drinking a fruit cup." |
-| VIII M17 (Thu Apr 8, 1976) | Discloses cocaine to Dr. Lusk | "Anything from the road?" / "Cocaine. On the tour, most nights, before we went on. Off the back of a hand." | — | Lusk | She writes it down and says nothing |
+| VIII M17 (Thu Apr 8, 1976) | Discloses cocaine to Dr. Lusk | "Have you been taking anything?" / "Cocaine. On the tour, most nights, before we went on. Off the back of a hand." | — | Lusk | She writes it down and says nothing |
 | VIII M17 – IX M7 (Apr 8 – Jun 30, 1976) | Trifluoperazine 2 mg twice a day, and "this other one" for restlessness | Prescribed | Twice daily; the evening dose taken at the Knob House sink in view of everyone (IX M1) | Wayne, Riley, the band | Slow, sleepy, steady; Clara gone; sleeps through the night (see `06-ellis-psychological-timeline.md`) |
 | IX M7 (Thu Jul 1, 1976) | Stops the medication | *Palm it.* into a Sucrets tin | — | Nobody, until Riley counts on Jul 19: 40 in the bottle, 6 in the tin (IX M10) | Clara back on day four; the verse lost at the Tabernacle; "I can't watch you choose her." (IX M10) |
 | IX M8 (Jul 10–13, 1976) | None | Sits up with Dean at 3 a.m. while Dean crashes | — | — | "You're up too." |

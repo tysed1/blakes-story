@@ -119,7 +119,7 @@ The player walks Riley up Main Street from where Tully parked the crew truck. Sh
 - **Roy's** garage, closed, the bays down, a hand-lettered sign: CLOSED — FUNERAL.
 - **The Ridge Pharmacy**, open, because Mr. Cantrell is selling cold drinks to the out-of-towners at cost.
 - **A girl of about sixteen** sitting on the curb outside the Western Auto crying with the Bowery poster in her lap. Riley can stop. If she sits down with her, the girl says *I didn't even know him*, and Riley says *I know*, and sits with her a minute, and that's all.
-- **Dex Lundgren**, at the cemetery fence across from the church, not inside, in a black suit for once, with no notebook visible. He sees Riley. He doesn't come over. She can go to him or not. If she does, he says *I'm not writing about today*, and she says *Good*, and he says *I'm writing about everything else*, and she walks away.
+- **Dex Lundgren**, at the cemetery fence across from the church, not inside, in a black suit for once, with no notebook visible. He sees Riley. He doesn't come over. She can go to him or not. If she does, he says *I'm not writing about today*, and she says *Good*, and he says *Rave wants it by the fifteenth*, and she walks away.
 
 ### Pallbearers
 
@@ -303,7 +303,7 @@ They drink the Cokes.
 
 Marlon looks up.
 
-**CAL:** I told him I knew. About the Thursday. In August. I didn't tell him who told me.
+**CAL:** I told him I knew. About the Thursday. That's all I told him.
 
 **MARLON:** Huh.
 
@@ -319,7 +319,7 @@ A long pause. Marlon wipes a spot on the bar that's already clean.
 
 Marlon nods. He looks at the chalkboard.
 
-**MARLON:** I'm not going to erase that.
+**MARLON:** I'm not erasing that.
 
 **CAL:** I know.
 
@@ -773,7 +773,7 @@ The player chooses what Wayne says.
 - **"No. That's him."** The stone says his name and his dates.
 - **"Beloved son."**
 - **"Wondrous love."** The hymn.
-- **"Later."** Mr. Dockery looks up. "Later?" / Wayne: "That's what it says."
+- **"Later."** Mr. Dockery looks up. "Later?" / Wayne: "That's what it'll say."
 
 Mr. Dockery writes it down.
 

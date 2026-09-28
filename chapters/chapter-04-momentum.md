@@ -1882,7 +1882,7 @@ A pause.
 
 They look at each other. Neither says anything about why it matters. The player doesn't know why it matters. The two of them know exactly.
 
-**WAYNE:** How are you getting there?
+**WAYNE:** Getting there how?
 
 **ELLIS:** The van. They're picking me up.
 
@@ -1922,7 +1922,7 @@ Ellis's face changes.
 
 **WAYNE:** Go on.
 
-**ELLIS:** What does she need to know?
+**ELLIS:** What's she need to know?
 
 Wayne holds his son's eyes.
 

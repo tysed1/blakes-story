@@ -1903,7 +1903,7 @@ Ellis regrets it instantly.
 
 **ELLIS:** Every goddamn thing I say.
 
-**WAYNE:** I'm trying to keep you from pissing your life away.
+**WAYNE:** Just watching you piss your life away.
 
 **ELLIS:** It's my life.
 
@@ -1957,7 +1957,7 @@ Down the hall Wayne's door shuts. After a while, through the wall, the slow saw 
 
 **ELLIS:** Asshole.
 
-**CLARA** *(o.s.):* He's right though.
+**CLARA** *(o.s.):* Bass player's right, though.
 
 Ellis doesn't turn around.
 
@@ -2031,7 +2031,7 @@ He stiffens.
 
 She doesn't push. She waits a while.
 
-**CLARA:** You don't have to believe everything he says.
+**CLARA:** Quit listening to him.
 
 **ELLIS:** Yeah.
 

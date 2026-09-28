@@ -1380,7 +1380,7 @@ Wayne's hands stop. It's tiny. Ellis sees it.
 
 **ELLIS:** Answer me.
 
-**WAYNE:** Watch your tone.
+**WAYNE:** Watch your mouth.
 
 **ELLIS:** Did he hear people?
 
@@ -1460,7 +1460,7 @@ Wayne stares at him. Ellis pulls his arm away.
 
 **ELLIS:** I'm fine.
 
-**WAYNE:** Ellis—
+**WAYNE:** Son—
 
 **ELLIS:** I'm fine.
 

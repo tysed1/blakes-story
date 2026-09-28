@@ -2258,7 +2258,7 @@ The Friday show at Marlon's becomes a party. Word got around that "the Blakes go
 
 **LOCAL MAN:** Knew you boys had something.
 
-**RILEY:** I'm not a boy.
+**RILEY:** Define "boys."
 
 **LOCAL MAN:** You know what I mean.
 
@@ -2278,7 +2278,7 @@ Dean raises a glass.
 
 **DEAN:** To owning a van built after the moon landing.
 
-**CAL:** Now we're dreaming.
+**CAL:** Which one? There were six.
 
 Laughter.
 
@@ -2396,7 +2396,7 @@ She looks hurt.
 
 Ellis stares at her. Clara looks at the dark stage, at the house kit under its cover.
 
-**CLARA:** You used to need me.
+**CLARA:** I sang it first.
 
 He goes still.
 

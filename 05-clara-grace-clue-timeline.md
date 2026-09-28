@@ -148,7 +148,7 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | Fri May 2 | V M15 | Ellis's van-promise clause: "Nobody leaves somebody behind." | A sweet rule | What he said to Grace, reversed | invisible† |
 | May 2 | V M16 | Wayne walks into Marlon's for the first time since April 1973: "Grace too." | A father trying | He hasn't entered the bar his son was driving to | visible† |
 | May 2 | V M16 | Toast: "To Grace." (Riley told the band in March) | The band knows | Grief made public inside the band | visible† |
-| May 2 | V M16 | "She sings my part." / "You used to need me." | Jealous of Riley | Grace sang the harmony | subliminal |
+| May 2 | V M16 | "She sings my part." / "I sang it first." | Jealous of Riley | Grace sang the harmony | subliminal |
 | May 2 | V M16 | For an instant she's fourteen, the jacket too big, a ponytail; then the booth is empty | A trick of light | Grace | visible |
 | May 3, 1:40 a.m. | V M16 | Her voice comes without her ("Ellis.") | Strange | The first time | visible† |
 | May 3 | V M16 | "Out back of Marlon's." / "When?" She can't say | A true answer, then a blank | She knows where because he does; he has never asked himself when (late April 1974) | invisible |
@@ -264,7 +264,7 @@ Grades come from each chapter's design-summary clue ledger where that ledger cov
 | Sat Aug 28, 5:40 a.m. | X M3 | Absent since the Harrisburg motel | — | She comes back in the field, easier | visible† |
 | Aug 28, noon | X M4 | To Dex: "She's in the room with my sister." / "Hollow Ridge." | Nonsense to Dex | Grace's room, IX M14 | visible† |
 | Aug 28, 12:30–2:50 p.m. | X M5 | Back in the field, easier, not pretending to be anyone's older sister: "Quit writing on yourself. You'll get ink poisoning." / "Eat something." In the squall she runs beside him shouting "come on, come on" | Joy | Toward her, never away | visible† |
-| Aug 28, ~7:15 p.m. | X M7 | "It's a good room." / "I didn't go anywhere. You did." / "What are you?" / "Late, is what. Push your hair out of your eyes." / "Come on. They're waiting on you." | A sister's order | Asked what she is, she doesn't answer; never "go on" | visible† |
+| Aug 28, ~7:15 p.m. | X M7 | "It's a good room." / "Free show." / "What are you?" / "Late, is what. Push your hair out of your eyes." / "Come on. They're waiting on you." | A sister's order | Asked what she is, she doesn't answer; never "go on" | visible† |
 | ~7:28 p.m. | X M7 | Roy: "Go on. Get up there." Ellis stops on the second step | A long hold | The phrase lodges; paid in the verse | subliminal† |
 | 7:26 p.m. | X M8 | At the kick drum she stands beside him in the wing and looks at Carla's pink letter through the clear shell; she doesn't touch the drum | — | Rule 1 | visible† |
 | After 8:04 p.m. | X M8 | "Shape Note": the band faces inward; Ellis faces upstage; the sun-gun (650 W) comes on from the stage-right wing, on his left; his body jerks right; Joel: "Kill it, it's flaring" | A lens flare, fixed | The reflex from Tolliver Bend | visible† |

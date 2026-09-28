@@ -528,7 +528,7 @@ It's three and a half hours. They don't talk much. The player can do the passeng
   **ELLIS:** How do you know?
   **WAYNE:** Somebody did the chickweed.
 
-If the player talks, Wayne answers with one word. Except once. If the player asks where they are, somewhere past the state line, Wayne says, "Cowee Gap," and then, after a mile, without being asked: "Your granddaddy worked a section up here in the thirties. Before me. Said it was the prettiest track in the South and the worst to keep." That's all.
+If the player talks, Wayne answers with one word. Except once. If the player asks where they are, somewhere past the state line, Wayne says, "Cowee Gap," and then, after a mile, without being asked: "Your granddaddy worked a section up here in the thirties. Before my time. Said it was the prettiest track in the South and the worst to keep." That's all.
 
 ### Hollis Beam
 
@@ -554,7 +554,7 @@ The truck:
 
 The car:
 
-**HOLLIS:** You went right. I saw your right wheels drop off the edge. There's no shoulder there, just the clay. You came back hard. That's what anybody does. That's what I'd have done.
+**HOLLIS:** You went right. I saw your right wheels drop off the edge. There's no shoulder there, just the clay. You came back hard. I'd have done the same.
 
 **ELLIS:** How fast was I going?
 
@@ -644,7 +644,7 @@ Ellis cracks another. He tastes it, seriously.
 
 **WAYNE:** Out of what?
 
-**ELLIS:** All of them. Every stand between the two cities. And now this one.
+**ELLIS:** All of them. Every stand from Laurel City to Tannersville. And now this one.
 
 **WAYNE:** You rank them?
 
@@ -672,7 +672,7 @@ Then:
 
 **WAYNE:** These are too salty.
 
-**ELLIS:** That's why they're second.
+Ellis cracks another one.
 
 > **Design note.** Wayne apologizes twice today, once to a stranger and once to his son, both times with his eyes on the mountains. Neither apology is accepted, and neither is refused. Then they talk about salt.
 
@@ -1328,7 +1328,7 @@ He says it simply. It's true, and she knows it, and it doesn't help.
 The player chooses how Riley says the thing she's learned this year. Every option says it; the choice is how hard.
 
 - *"It doesn't show you anything, Ellis. It just turns everything up. I spent two years thinking it showed me things. It showed me my own hand."*
-- *"You're not hearing better. You're hearing more. Those aren't the same."*
+- *"Name one other person who heard that fish. I'll wait."*
 - *"I did the same thing. With a different bottle. It lied to me too."*
 
 He doesn't argue. He doesn't agree either.
@@ -1357,13 +1357,13 @@ On the last trip, Cal is standing by the Datsun. He's come up from the lake. He 
 
 **CAL:** Session's Wednesday.
 
-**RILEY:** I'll be here Wednesday. I'm not leaving the band. I'm leaving the house.
+**RILEY:** I'll be here Wednesday. I'll drive up.
 
 **CAL:** Okay.
 
 **RILEY:** I'll be at my parents'. Mama can have me for August.
 
-**CAL:** Tell her I've never heard anything like Saturday.
+**CAL:** Tell your mother her tempo never moved.
 
 **RILEY:** I'll tell her.
 

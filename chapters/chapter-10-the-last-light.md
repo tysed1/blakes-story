@@ -521,9 +521,9 @@ She looks at his left arm, close, the way you'd hold it up to the light, and rea
 
 **CLARA:** Quit writing on yourself. You'll get ink poisoning.
 
-**ELLIS:** That's not a thing.
+**ELLIS:** There's no such thing.
 
-**CLARA:** It's a thing.
+**CLARA:** Ask your grandmama.
 
 **CLARA:** "Bring the blue blanket, not the red one."
 
@@ -611,7 +611,7 @@ They all lean over it.
 
 **DEAN:** That's just his face.
 
-**CAL:** That's just my face.
+**CAL:** That's the flash.
 
 And they're off, the four of them remembering. The player, as Cal, can prompt memories by picking up things in the trailer, or just let it go.
 
@@ -640,7 +640,7 @@ Ellis reaches over and puts it back in Dean's shirt pocket and buttons the flap.
 
 A little later, Dean, seven weeks sober today, takes four one-dollar bills out of his wallet and holds them out.
 
-**DEAN:** I'm doing amends. It's a thing you do. Starlite, November second, nineteen seventy-four. Chess pie, two coffees, a patty melt. Four dollars.
+**DEAN:** I'm making amends. It's in a book. Starlite, November second, nineteen seventy-four. Chess pie, two coffees, a patty melt. Four dollars.
 
 **ELLIS:** Not that one.
 
@@ -740,9 +740,9 @@ It's the band's rule, and ties go to the ledger, which means Cal. The player, as
   **RILEY:** Ellis. Define "want."
   **ELLIS:** I want to play. One show. Then we go home.
   **RILEY:** That's two things.
+  **DEAN:** Exactly.
   **ELLIS:** Then I want both.
-  **DEAN:** Exactly. That's the problem.
-  **RILEY:** Yes. I vote yes.
+  **RILEY:** Fair. Yes.
 - **Ellis:** "Yes."
 - **Dean:** "No. I said it." He doesn't look at Ellis when he says it. He looks at Cal. "Write it down."
 - **Cal.** The player chooses, and the player has the evidence: Ellis knows the day, the time and the sunset, and hasn't slept in two days. A yes makes it three to one, and they play. A no makes it two to two, and Cal breaks the tie, and the game makes the player look at Ellis while they decide.
@@ -801,7 +801,7 @@ He looks at it. The ink from the field, run down to his wrist.
 
 **ELLIS:** I lost all of it.
 
-**CLARA:** You'll remember the good ones.
+**CLARA:** Then remember it.
 
 They walk under the stage. The crowd is a roof of sound.
 
@@ -813,7 +813,7 @@ She sounds almost happy about it.
 
 **ELLIS:** Why'd you come back?
 
-**CLARA:** I didn't go anywhere. You did.
+**CLARA:** Free show.
 
 They come out from under the scaffold into the gold light. The stairs are ahead. He stops.
 
@@ -1441,7 +1441,7 @@ Tone rule 9: *The death is not the meaning. Ellis's life mattered before it ende
 The film leader and the slate (R1 T1). Marlon's chalkboard: THURSDAY — THE BLAKES (NEW YORK), and the erased ELLIS BLAKE under it. Roy's new cap. Wesley's E minor. Gerald in a coffee can. The F-100 in Earl's mirror. Two Cokes on a truck bumper. The hayfield: the tarp, the lawn chairs, Tater. Tully's white tape line and Kit's clipboard note. The fan's envelope with the blotter, inside the back cover of the green notebook. The ELLIS shirt; the leather jacket's inside pocket (Lorraine's letter, Wayne's twenty). Two coffees, one spilled. Tully's boonie hat. The ballpoint on his arm, washed off. The almanac: sunset 7:46. The Polaroid, from Ellis's mirror frame to Dean's nightstand in July, and buttoned back into Dean's pocket for good. Four dollars, put back. The ledger: *D.H.: "Stop." (On the record.)* The list, answered: *Sunday's fine.* Carla's pink letter inside the clear kick drum. Cal's last set list. The sun-gun. Roll forty. The Jazzmaster on the plywood. The yellow rope. Cal's flashlight. The ambulance. Wayne's thumb on the back of a hand.
 
 ### Language
-"Behind the line." "Nobody told me anything either." "Define 'girl.'" "Put it back." "I'll take it under advisement." "That's a matter for the courts." "You have to go back and check things." "She's in the room with my sister." "Quit writing on yourself." "I'm fixing to." "Come on, come on." "We look terrible." / "You look terrible." "It fell near Cal." "Keep it." / "I'll lose it." / "You won't." "I like having something on you." "What day is it?" "Stop." "Your call." "Define 'want.'" "Then I want both." "Exactly. That's the problem." "No. I said it." "Then I'll play it by myself." "That's my shirt." / "You said keep it." "Sunday's fine. I'll make biscuits." / "Your biscuits are terrible." / "I know." "It's a good room." "Late, is what." "Come on. They're waiting on you." "Go on. Get up there." "That's not— I'm not him." "Stay with me." "It's okay. Go on." "I owe you four dollars." "That's his daddy." "It wasn't your—" "You done good up there." "Son." "Sir."
+"Behind the line." "Nobody told me anything either." "Define 'girl.'" "Put it back." "I'll take it under advisement." "That's a matter for the courts." "You have to go back and check things." "She's in the room with my sister." "Quit writing on yourself." "I'm fixing to." "There's no such thing." / "Ask your grandmama." "Come on, come on." "We look terrible." / "You look terrible." "It fell near Cal." "Keep it." / "I'll lose it." / "You won't." "I like having something on you." "What day is it?" "Stop." "Your call." "Define 'want.'" "Then I want both." "Fair. Yes." "Exactly." "No. I said it." "Then I'll play it by myself." "That's my shirt." / "You said keep it." "Sunday's fine. I'll make biscuits." / "Your biscuits are terrible." / "I know." "It's a good room." "Late, is what." "Come on. They're waiting on you." "Go on. Get up there." "That's not— I'm not him." "Stay with me." "It's okay. Go on." "I owe you four dollars." "That's his daddy." "It wasn't your—" "You done good up there." "Son." "Sir."
 
 ### Tracked choices this chapter
 Riley's answer to Kit. Riley's answer to Nina (`riley_nina_interview`). Whether Ellis talked to Dex. What Ellis wrote on his arm, and how far up it went. Cal's vote, and the tie-break, which can stand. Whether Ellis lifted his hand to Wayne. The phrasings of the open verse. How long the player held *home* (the footage and the epilogue round it: under a minute, about two, or close to three). What Wayne meant in the ambulance, and whether he sang. How long the player held the hand.

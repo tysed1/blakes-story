@@ -165,7 +165,7 @@ If scope forces cuts, these survive first. The late chapters work only because t
 4. Snow Day: the Seeburg that only plays "Convoy," the polka, the bus lost at gin (VIII).
 5. Le Guin read in one voice, and Theo's Cajun Shevek (IX M8).
 6. Riley's burnt pancakes; Dean eats four (IX).
-7. "Quit writing on yourself. You'll get ink poisoning." / "That's not a thing." / "It's a thing." (X M5)
+7. "Quit writing on yourself. You'll get ink poisoning." / "There's no such thing." / "Ask your grandmama." (X M5)
 8. The Polaroid: "That's just his face." (X M6)
 9. Tom Riley's turkey pun, and Wayne's "Drumsticks" (Ep M7).
 10. "Of *course*," at a rock with no money under it (Ep M4).
