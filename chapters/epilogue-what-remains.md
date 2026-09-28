@@ -493,7 +493,13 @@ Riley reads it at her desk in Linwood under the ceiling stars her father put up 
 
 She also has the memo books. Wayne drove them to Linwood himself the week after the sack came, in the Winston carton Cal packed, with 72 on top still open to the list, and handed them to her at her parents' front door. (71 was already in Dean's sack.) He said, "He'd want you to have them," and she said, "You don't know that," and he said, "No. But I want you to." Then he said no to coffee, and drove home.
 
-She reads them over two months, at the kitchen table in Linwood, at night, a few at a time. The player can read any of them. The Observe lines the player collected across the whole game are in them, every one, in the order they were written, with the dates.
+There's other mail. Southern Star forwards the condolence cards in a rubber band once a week, from people Riley has never met, and Joan stacks them on the hall table. The player can read any of them. Most say the same thing in the same words.
+
+One is from Macon, in a fourth-grade teacher's print, on a drugstore card with a watercolor cardinal on it. Hannah. She saw it on the news in the teachers' lounge. Her class is doing the fifty states, and on the Monday a boy named Travis asked where New York was, and she had to go out in the hall for a minute. *Call me when you want to. Not before. — H.*
+
+Riley props it against the lamp on her desk. She calls in December. The player hears the first minute of it: Hannah talking about a field trip to the Ocmulgee mounds that went wrong in every possible way, and Riley laughing, and Hannah saying *there you are*.
+
+She reads the memo books over two months, at the kitchen table in Linwood, at night, a few at a time. The player can read any of them. The Observe lines the player collected across the whole game are in them, every one, in the order they were written, with the dates.
 
 In memo book 68, the tour book, after two lines about snow on a parking lot in Madison, Wisconsin, in February:
 
@@ -535,7 +541,7 @@ The player presses it. Riley hands it over. The woman stamps it.
 
 In Riley's bag, in the shoebox with the notebooks, the other form (fall 1975, folded in quarters, the courses in her handwriting, never handed in) stays where it is. She keeps both.
 
-On the way out, she passes the philosophy building. Landry's door is open. He's on the phone. He sees her go by, and raises one finger (*one minute*), and she doesn't wait, and he doesn't mind, and she'll be in his seminar on Tuesday.
+On the way out, she passes the philosophy building. Landry's door is open. He's on the phone. He sees her go by, and raises one finger (*one minute*), and she doesn't wait, and he doesn't mind, and she'll be in his seminar on Tuesday. He isn't surprised to see her. In September he sent her three lines on department letterhead, typed, which she kept in the shoebox with the forms: *Mind and Self II meets Tuesdays and Thursdays at ten. There is a chair. I was sorry to read about your friend. — A. Landry*
 
 > **Setup.** Riley's first solo record, *Occasionally Astonishing*, comes out in 1979. It opens with the song she wrote at her kitchen table on Cutler Street in December 1975 and played for Ellis on a dock in August 1976. It's the only record she ever makes that has a song about him on it, and it's the last track, and it's called "Maps," and it's about how his were always wrong.
 

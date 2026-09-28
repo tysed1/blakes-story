@@ -1675,7 +1675,7 @@ Every time the player looks at the passenger seat (and they can, freely, with th
 
 - At the first bend, fifteen. Her hair longer.
 - Past the church, sixteen or seventeen. The jacket is bigger now, a grown-up jacket, the same one.
-- At the Tolliver farm (lights on in the farmhouse, Floyd's green truck in the yard, the empty paddock where Dolly stood for thirty years), nineteen.
+- At the Tolliver farm (lights on in the farmhouse, Floyd's green truck in the yard, the empty paddock where Dolly stood for twenty years), nineteen.
 
 And somewhere between the farm and the bend, twenty-one. Clara. Boots up on the dash.
 
