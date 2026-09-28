@@ -657,6 +657,8 @@ Mr. Dockery takes the coupon book. The player may remember it: on the kitchen ta
 
 **MR. DOCKERY:** Six left, Wayne. Sixty-nine dollars.
 
+Wayne hasn't mailed a coupon since September. Mr. Dockery hasn't asked.
+
 Wayne takes the lid off the coffee can. The player can see what's in it: Ellis's rent. Every Friday from October 1974. The RENT envelopes. Folded twenties, facing the same way.
 
 He counts out sixty-nine dollars on the desk. The player counts with him.

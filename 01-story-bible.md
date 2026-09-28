@@ -526,7 +526,7 @@ She is possibly also what the clinicians of 1976 would call something. The game 
 
 **Theo Marchand** (27). From Lafayette, Louisiana. Live-sound engineer at the Lantern, then the band's front-of-house engineer from Chapter VII. Apartment off Tenth Street with a fire escape, plants and a reel-to-reel he can't fix (Cal can). Warm, unafraid in private, careful in public. The one person Cal can talk to about Ellis without being the responsible one. At the festival he is at the mixing tower eighty yards out and sees the whole thing.
 
-**Lynette Crowe** (22). Night waitress at the Starlite truck stop. Son Bobby, four; ex-husband in the Army in Germany and not coming back. Unimpressed by money and charm, which is why Dean can't stay away. Ends it in Chapter VIII when he's high at Bobby's birthday. Takes him back, provisionally, in Chapter IX, sober.
+**Lynette Crowe** (22). Night waitress at the Starlite truck stop. Son Bobby, three in 1974 (born February 1971); ex-husband in the Army in Germany and not coming back. Unimpressed by money and charm, which is why Dean can't stay away. Ends it in Chapter VIII when he's high at Bobby's birthday. Takes him back, provisionally, in Chapter IX, sober.
 
 **Patty Holloway** (15 in 1974). Dean's sister. Sarcastic, smart, a better judge of people than anybody in her family. Ellis is unexpectedly gentle with her, and Dean doesn't understand why until much later. Writes Ellis a letter in Chapter VII about a song; he writes back. In the epilogue she's in college and has the letter framed.
 
