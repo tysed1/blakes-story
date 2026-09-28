@@ -1293,7 +1293,7 @@ The ambulance: a Schuyler County rescue squad box on a Ford chassis, white with 
 
 And at the compound gate, a man in a hat is trying to get through.
 
-The player sees it from Dean's eyes first: Wayne Blake, forty-seven, muddy to the waist, out of breath, with a laminated ALL ACCESS pass in his fist, arguing with a state trooper and a security man who don't believe him. He was at the foot of the mix tower. When the guitar screamed and the music stopped and the valley went strange, he started walking, and then he ran, a quarter mile through a hundred and fifty thousand people and mud and blankets in the dark, a railroad section man with bad knees, running.
+The player sees it from Dean's eyes first: Wayne Blake, forty-seven, muddy to the waist, out of breath, with a laminated ALL ACCESS pass in his fist, arguing with a state trooper and a security man who don't believe him, and haven't for half an hour. He was at the foot of the mix tower. When the guitar screamed and the music stopped and the valley went strange, he started walking, and then he ran, a quarter mile through a hundred and fifty thousand people and mud and blankets in the dark, a railroad section man with bad knees, running.
 
 **WAYNE:** That's my son.
 
