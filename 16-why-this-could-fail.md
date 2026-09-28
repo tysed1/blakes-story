@@ -123,7 +123,7 @@
 
 **The risk.** Fifty-seven and a half main-story hours. Chapters VII (about 7h) and VIII (7h, including the Snow Day interlude) are dense with set pieces, and the chapter text for VII runs about 31,000 words.
 
-**What the design does.** The proportions are intentional: the ordinary life takes twenty hours so the player misses it.
+**What the design does.** The proportions are intentional: the ordinary life takes about twenty-two hours so the player misses it.
 
 **Watch.** VII in particular has nineteen missions. In production, protect Missions 6, 8, 14, 15, 17 and 19. Merge 4 into 2, and 11 into 10, if the game needs to lose an hour.
 

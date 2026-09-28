@@ -6,21 +6,21 @@
 
 | # | Title | Dates | Est. runtime | Emotional thesis | What permanently changes |
 |---|---|---|---|---|---|
-| I | Before the Noise | Thu Oct 10 – Sat Oct 19, 1974 | 4.5 h | Four lives, separately, and an accident on a Friday | They are a band with a name on a chalkboard |
+| I | Before the Noise | Thu Oct 10 – Sat Oct 19, 1974 | 5.25 h | Four lives, separately, and an accident on a Friday | They are a band with a name on a chalkboard |
 | II | Second Verse | Sat Oct 19 – Sat Nov 2, 1974 | 5 h | Finding each other was an accident; staying is a decision | They choose it; a Polaroid exists |
-| III | Signal | Nov 4 – Nov 29, 1974 | 5 h | Their music leaves the room | Strangers have heard them; someone wants a record |
-| IV | Momentum | Dec 7 – Dec 23, 1974 | 5.5 h | The dream starts rearranging their lives | A 45, a van, a kiss, six dates, a manager's phone number |
-| V | Velocity | Dec 24, 1974 – May 2, 1975 | 6.5 h | Momentum becomes velocity; nobody can steer | A record offer; the player learns Clara isn't there |
-| VI | The Other Side of the Glass | May 3 – Aug 16, 1975 | 6.5 h | Making something none of them understands | *Borrowed Stone* exists; Riley knows about Clara |
-| VII | Strangers Know Your Name | Sept 8 – Dec 13, 1975 | 7 h | Everyone loses ownership of something | The myth exists; a letter from his mother |
+| III | Signal | Nov 4 – Nov 29, 1974 | 5.5 h | Their music leaves the room | Strangers have heard them; someone wants a record |
+| IV | Momentum | Dec 7 – Dec 23, 1974 | 6 h | The dream starts rearranging their lives | A 45, a van, a kiss, six dates, a manager's phone number |
+| V | Velocity | Dec 24, 1974 – May 2, 1975 | 7.75 h | Momentum becomes velocity; nobody can steer | A record offer; the player learns Clara isn't there |
+| VI | The Other Side of the Glass | May 3 – Aug 16, 1975 | 7.25 h | Making something none of them understands | *Borrowed Stone* exists; Riley knows about Clara |
+| VII | Strangers Know Your Name | Sept 8 – Dec 13, 1975 | 8.25 h | Everyone loses ownership of something | The myth exists; a letter from his mother |
 | VIII | Feedback | Jan 12 – Apr 30, 1976 | 7 h | The band's signature sound becomes an uncontrolled loop | Ellis knows he made Clara; medication; silence |
 | IX | Who Are You? | May 10 – Aug 22, 1976 | 6 h | The world discovers Ellis the poet while Ellis discovers what he said | He remembers the argument; stops the pills; hears Grace on tape |
-| X | The Last Light | Thu Aug 26 – Sat Aug 28, 1976 | 4 h | Everything the game taught converges in one song | Ellis dies |
+| X | The Last Light | Thu Aug 26 – Sat Aug 28, 1976 | 3.75 h | Everything the game taught converges in one song | Ellis dies |
 | — | What Remains (epilogue) + Coda | Aug 29, 1976 – Apr 1977; 1996; Nov 9, 1974 | 1.75 h | Grief, myth, and one ordinary afternoon | — |
 
-Total main story ≈ 57.5 hours. With side content, 80–110.
+Total main story ≈ 63.5 hours: the sum of the mission lengths in each chapter's "At a glance" table (V8). With side content, 85–115.
 
-**Proportions, by design.** Chapters I–IV (the ordinary life before fame) are 20 hours, a third of the game. The player has to live in 1974 long enough to miss it. Fame arrives in the second half, and the collapse arrives only after the player has spent forty hours wanting these four to make it.
+**Proportions, by design.** Chapters I–IV (the ordinary life before fame) are about 22 hours, a third of the game. The player has to live in 1974 long enough to miss it. Fame arrives in the second half, and the collapse arrives only after the player has spent forty hours wanting these four to make it.
 
 **The mystery ladder** (the question the player is asking at each stage):
 1. I–IV: *Who is Clara?* (Mostly not asked. She's just someone Ellis knows.) *What happened to the little girl in the photograph?*
@@ -46,7 +46,7 @@ Total main story ≈ 57.5 hours. With side content, 80–110.
 
 ## CHAPTER I — BEFORE THE NOISE
 
-**Dates:** Thursday Oct 10 – Saturday Oct 19, 1974. **Runtime:** 4.5 h. **Playable:** Ellis → Riley → Dean → Cal → all four.
+**Dates:** Thursday Oct 10 – Saturday Oct 19, 1974. **Runtime:** 5.25 h. **Playable:** Ellis → Riley → Dean → Cal → all four.
 
 **Thesis.** The player should finish Chapter I believing they have watched the accidental beginning of a rock band. They have actually met four people shortly before their lives became inseparable, and a family built around a room nobody enters.
 
@@ -129,7 +129,7 @@ Total main story ≈ 57.5 hours. With side content, 80–110.
 
 ## CHAPTER III — SIGNAL
 
-**Dates:** Nov 4 – Nov 29, 1974. **Runtime:** 5 h. **Playable:** Cal → Riley → Ellis → Dean → all.
+**Dates:** Nov 4 – Nov 29, 1974. **Runtime:** 5.5 h. **Playable:** Cal → Riley → Ellis → Dean → all.
 
 **Thesis.** Until now The Blakes existed only where they were standing. This is the chapter their music leaves the room, and once something leaves you, you don't control what it becomes.
 
@@ -172,7 +172,7 @@ Total main story ≈ 57.5 hours. With side content, 80–110.
 
 ## CHAPTER IV — MOMENTUM
 
-**Dates:** Dec 7 – Dec 23, 1974. **Runtime:** 5.5 h. **Playable:** Cal → Dean → Riley → Ellis → relay.
+**Dates:** Dec 7 – Dec 23, 1974. **Runtime:** 6 h. **Playable:** Cal → Dean → Riley → Ellis → relay.
 
 **Thesis.** There is a point where a dream stops being something you talk about and starts rearranging your life. Nothing dramatic happens. Everything changes.
 
@@ -215,7 +215,7 @@ Total main story ≈ 57.5 hours. With side content, 80–110.
 
 ## CHAPTER V — VELOCITY
 
-**Dates:** Dec 24, 1974 – May 2, 1975. **Runtime:** 6.5 h. **Playable:** Dean → Ellis → Cal → Riley → relay. **Contains the midpoint.**
+**Dates:** Dec 24, 1974 – May 2, 1975. **Runtime:** 7.75 h. **Playable:** Dean → Ellis → Cal → Riley → relay. **Contains the midpoint.**
 
 **Thesis.** Momentum still feels controllable. Velocity doesn't. One yes creates the next yes before anyone has processed the last one.
 
@@ -265,7 +265,7 @@ Total main story ≈ 57.5 hours. With side content, 80–110.
 
 ## CHAPTER VI — THE OTHER SIDE OF THE GLASS
 
-**Dates:** May 3 – Aug 16, 1975. **Runtime:** 6.5 h. **Playable:** Ellis → Dean → Cal → Riley → all.
+**Dates:** May 3 – Aug 16, 1975. **Runtime:** 7.25 h. **Playable:** Ellis → Dean → Cal → Riley → all.
 
 **Thesis.** Four people make something none of them fully understands, in a room behind glass, while one of them is increasingly on the other side of a glass nobody else can see.
 
@@ -314,7 +314,7 @@ Total main story ≈ 57.5 hours. With side content, 80–110.
 
 ## CHAPTER VII — STRANGERS KNOW YOUR NAME
 
-**Dates:** Mon Sept 8 – Sat Dec 13, 1975. **Runtime:** 7 h. **Playable:** all four in rotation. *(Written: `chapters/chapter-07-strangers-know-your-name.md`.)*
+**Dates:** Mon Sept 8 – Sat Dec 13, 1975. **Runtime:** 8.25 h. **Playable:** all four in rotation. *(Written: `chapters/chapter-07-strangers-know-your-name.md`.)*
 
 **Thesis.** Ownership. The record belongs to whoever buys it. A private conversation becomes something sixteen hundred strangers sing. A magazine decides who Ellis is and prints his sister's death as proof. Riley's song is credited to Ellis. Cal's sentence is used to prove the opposite of what he meant. Dean loses the car, the allowance and the pretense. The first two clauses of the van promise break.
 
@@ -461,7 +461,7 @@ Total main story ≈ 57.5 hours. With side content, 80–110.
 
 ## CHAPTER X — THE LAST LIGHT
 
-**Dates:** Thursday Aug 26 – Saturday Aug 28, 1976. **Runtime:** 4 h. **Playable:** Cal → Dean → Riley → Ellis → Ellis → Ellis → Cal → Ellis → all → Riley → Cal → Dean → Wayne.
+**Dates:** Thursday Aug 26 – Saturday Aug 28, 1976. **Runtime:** 3.75 h. **Playable:** Cal → Dean → Riley → Ellis → Ellis → Ellis → Cal → Ellis → all → Riley → Cal → Dean → Wayne.
 
 **Thesis.** Everything the game taught converges in one song: switching, following, turns, home, *stay with me*, the crowd, the light, the road. Ellis remembers his sister telling him to go on, finishes the song, turns toward the living, and a light he doesn't see coming does the rest.
 

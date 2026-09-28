@@ -14,19 +14,19 @@ This repository is the complete story design: the story bible, the macrostructur
 
 | # | File | Dates | Runtime |
 |---|---|---|---|
-| I | `chapter-01-before-the-noise.md` | Oct 10–19, 1974 | 4.5 h |
+| I | `chapter-01-before-the-noise.md` | Oct 10–19, 1974 | 5.25 h |
 | II | `chapter-02-second-verse.md` | Oct 19 – Nov 2, 1974 | 5 h |
-| III | `chapter-03-signal.md` | Nov 4–29, 1974 | 5 h |
-| IV | `chapter-04-momentum.md` | Dec 7–23, 1974 | 5.5 h |
-| V | `chapter-05-velocity.md` | Dec 24, 1974 – May 2, 1975 | 6.5 h |
-| VI | `chapter-06-the-other-side-of-the-glass.md` | May 3 – Aug 16, 1975 | 6.5 h |
-| VII | `chapter-07-strangers-know-your-name.md` | Sept 8 – Dec 13, 1975 | 7 h |
+| III | `chapter-03-signal.md` | Nov 4–29, 1974 | 5.5 h |
+| IV | `chapter-04-momentum.md` | Dec 7–23, 1974 | 6 h |
+| V | `chapter-05-velocity.md` | Dec 24, 1974 – May 2, 1975 | 7.75 h |
+| VI | `chapter-06-the-other-side-of-the-glass.md` | May 3 – Aug 16, 1975 | 7.25 h |
+| VII | `chapter-07-strangers-know-your-name.md` | Sept 8 – Dec 13, 1975 | 8.25 h |
 | VIII | `chapter-08-feedback.md` | Jan 12 – Apr 30, 1976 | 7 h |
 | IX | `chapter-09-who-are-you.md` | May 10 – Aug 22, 1976 | 6 h |
-| X | `chapter-10-the-last-light.md` | Aug 26–28, 1976 | 4 h |
+| X | `chapter-10-the-last-light.md` | Aug 26–28, 1976 | 3.75 h |
 | Ep. | `epilogue-what-remains.md` | Aug 29, 1976 – Apr 1977; 1996; Nov 9, 1974 | 1.75 h |
 
-Main story: about 57.5 hours. With side content: 80–110.
+Main story: about 63.5 hours (the sum of each chapter's mission lengths). With side content: 85–115.
 
 **If you only have an hour:** the bible's first three sections, then Chapter I's Mission 9, Chapter V's Mission 16, Chapter VIII's Mission 14 (Tolliver Road), Chapter X's Mission 8, and the epilogue's coda.
 

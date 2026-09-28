@@ -2570,7 +2570,7 @@ His arms wrapped around nothing. His head bowed onto nobody's shoulder. His hand
 
 No character sees this. Only the player, who is still holding.
 
-> **This is the first objective camera shot in the game that shows the truth.** No horror sting, no distortion, no music at all: just a freight horn, very far down the valley, two longs, a short, a long. The player has spent five chapters (about twenty-six hours) seeing Clara through Ellis. Now the camera stands across the street, and she isn't there. Every piece of help the player took from her in I–V (the hum, the directions, the day of the week, the reads on people) is recast by the empty seat in the booth and the empty street.
+> **This is the first objective camera shot in the game that shows the truth.** No horror sting, no distortion, no music at all: just a freight horn, very far down the valley, two longs, a short, a long. The player has spent five chapters (nearly thirty hours) seeing Clara through Ellis. Now the camera stands across the street, and she isn't there. Every piece of help the player took from her in I–V (the hum, the directions, the day of the week, the reads on people) is recast by the empty seat in the booth and the empty street.
 
 ### Do not explain it
 
