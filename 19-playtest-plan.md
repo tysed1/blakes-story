@@ -33,10 +33,10 @@ Each session is recorded (screen, controller input, face camera with consent). T
 ### T3. Does the failed switch read as a bug? (risk 10)
 - **Measure.** In Slice C, the first failed catch (VIII M4) and the second (VIII M10). Unprompted: "Did anything seem wrong with the game?" Prompted: "What happened on the bus?"
 - **Pass.** Fewer than 10% report a glitch, and at least 60% describe the camera "trying" to go to Clara.
-- **Fallback.**
+- **Fallback.** The grammar is already fixed and identical every time (bible §11.1). If it still reads as a bug:
   1. Lengthen the focus-on-Clara window from 6 frames to 12.
-  2. Add the switch rumble twice (try, fail).
-  3. Last resort: let the HUD fade and return exactly as it does in a real switch.
+  2. Let the HUD fade and return exactly as it does in a real switch.
+  3. Last resort: hold the second stutter two frames longer before the snap-back.
 
   Don't add any text.
 

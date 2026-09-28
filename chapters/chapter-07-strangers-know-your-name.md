@@ -871,7 +871,7 @@ Then the prompt. Ellis can leave the converter on 97.1, or turn it back to 88.9.
 
 Either way, Ellis gets out, and pats his leg for Tater, and goes back inside.
 
-> **Replay layer.** The converter was installed in November 1974, the week of the WTCR broadcast in Chapter III (the dome light at the pull-off below the summit). Wayne has left it on 88.9 for eleven months even though WTCR has been off the air every summer and he can't hear it from the yard anyway. Tracked: on the drive to Sylva in Chapter IX, if Ellis left it on 97.1, Wayne looks at it and says, "Somebody moved my radio last fall." If not, it's still on 88.9, and Wayne turns it on as they pass the fire tower.
+> **Replay layer.** The converter was installed in November 1974, the week of the WTCR broadcast in Chapter III. Wayne has left it on 88.9 for eleven months even though WTCR has been off the air every summer and he can't hear it from the yard anyway. Tracked: on the drive to Sylva in Chapter IX, if Ellis left it on 97.1, Wayne looks at it and says, "Somebody moved my radio last fall." If not, it's still on 88.9, and Wayne turns it on as they pass the fire tower.
 
 ### Extra innings
 
@@ -1589,7 +1589,7 @@ The line of light under Riley's door is on. She's waiting up. This is what they 
 
 ### The radiator
 
-Clara is sitting on the radiator under the window at the end of the hall by the ice machine, with her boots up on the ice machine, blocking nothing, sitting in his way anyway.
+Clara is sitting on the radiator at the end of the hall, with her boots up on the ice machine, blocking nothing, sitting in his way anyway.
 
 **CLARA:** Where you headed in your sock feet?
 
@@ -2693,7 +2693,6 @@ New York is an off-map mission space, a compact slice of lower Manhattan and Mid
 
 - **The hotel.** The Albemarle, lower Lexington Avenue, cheap, radiators that bang all night. The desk clerk reads GEORGIA on Ellis's registration card and hums the banjo part from *Deliverance*. Dean hums the guitar part back, perfectly, and the clerk laughs and gives them a better room.
 - **Riley** at a newsstand on Astor Place that has every magazine in the world. She buys *Ms.* and turns *Rave* around to face the wall. Then she walks up Fifth Avenue to a church where an organist is practicing on a weekday afternoon and sits in a back pew for all of it, Bach to an empty nave, so she can tell her mother.
-- **Cal** on West 48th Street, holding a bass he'll never buy, knowing more about it than the salesman. **Dean** on the Staten Island Ferry, three round trips, taking SX-70s of the Statue of Liberty.
 - **Ellis** walking. Clara with him, delighted, in the crowds on Fourteenth Street. *"Nobody looks at anybody here,"* she says. *"I like it. Button your coat."* She points him at strangers (*"Look at that one, with the cake box on her head"*), and the Observe cue comes up where she's pointing; when he turns the wrong way, *"Not that way. Hotel's behind you."* The notebook fills with strangers.
 
 ### Lunch
@@ -2923,9 +2922,9 @@ Older lines ("Eyes on the road," "Eat your eggs") work the same way; the sharpes
 
 ### The four, and Wayne
 - **Riley.** Her chapter as much as anyone's. She wanted Counterpoint and walked out of the line anyway, learned about Oberlin, had her song credited to Ellis and corrected to "Margaret," was reduced to a comeback in a magazine, heard "I love you" with a flashlight in her hand, took a new ending for "Sunday Clothes" to New York, and started a song that's about neither Ellis nor her mother. She took a promise ("After New York") she knows is hollow.
-- **Cal.** Quoted as saying the opposite of what he meant, abstained on Theo, was seen by Ellis in a hallway and heard "He seems all right." He said a hard true thing and kept his promise to Marlon. He overheard "the franchise."
-- **Dean.** Cut off, on Cal's cot, using every day. "Blake's a genius" became the myth's first sentence. He wrote *to be paid in full* under his own debts, and learned that a four-year-old sings his song in the bathtub.
-- **Wayne.** Signed for the box, has had a radio tuned to his son for a year, watched a ballgame on the same couch, said "Loud" and "I liked it," and put twenty dollars in his son's pocket with his own hands.
+- **Cal.** Quoted as saying the opposite of what he meant; abstained on Theo; heard "He seems all right"; said a hard true thing and kept his promise to Marlon; overheard "the franchise."
+- **Dean.** Cut off, on Cal's cot, using every day. "Blake's a genius" became the myth's first sentence. *To be paid in full.* A four-year-old sings his song in the bathtub.
+- **Wayne.** A radio tuned to his son for a year, a ballgame on one couch, "Loud," "I liked it," and twenty dollars put in a pocket with his own hands.
 
 ### Clara in Chapter VII (clue ledger)
 | Moment | Surface | Truth | Level |
@@ -2942,7 +2941,7 @@ Older lines ("Eyes on the road," "Eat your eggs") work the same way; the sharpes
 | Across the street in the photograph, never in it | — | Rule 3 | visible |
 
 ### Objects introduced
-*Borrowed Stone* (the monument-yard cover; "for G."). The green leather notebook (blank). The HOME OF THE BLAKES sign. Wesley's one-E shirt. The ELLIS work shirt. Floyd Tolliver's exact change. The matchbook marked *11:47*. The FM converter on 88.9. Sherry Tolan's cassette. Kevin's letter. The Civic ledger page. Dean's initials and *to be paid in full*. The ice bucket in the hall. *Rave*, January 1976. Tom's pencil note: HARMONY IS NOT DECORATION. *The Sacred Harp* on Joan's piano. The folded registration form. Joan's dish towel. Wayne's twenty. The Western Auto receipt set list. Patty's violet envelope and Ellis's reply. The leather jacket. Lorraine's letter. The photograph.
+*Borrowed Stone* (the monument-yard cover; "for G."). The green leather notebook (blank). The HOME OF THE BLAKES sign. Wesley's one-E shirt. The ELLIS work shirt. The matchbook marked *11:47*. The FM converter on 88.9. Kevin's letter. Dean's initials and *to be paid in full*. The ice bucket in the hall. *Rave*, January 1976. Tom's pencil note: HARMONY IS NOT DECORATION. *The Sacred Harp* on Joan's piano. The folded registration form. Joan's dish towel. Wayne's twenty. The Western Auto receipt set list. Patty's violet envelope and Ellis's reply. The leather jacket. Lorraine's letter. The photograph.
 
 ### Language introduced
 "Allegedly" (and Donna Kay can't spell). "November's fine." "Four ninety-eight." "Occasionally astonishing." "Scheduling." "Keep the shirt." "Don't become an asshole." "Your sister would've liked it." "Bass is buried" (Cal, now). "This one's for Clara." "Old friend." / "Old?" "Are they doing that for us?" / "Yes." "It's ours." "Divides by nine." "Dad's got a girlfriend." "He seems all right." "Harmony is not decoration." "Your mama set a place." "After New York." "I love you, hold it still." "Loud." / "I liked it." "Mine cost something." "Pain doesn't automatically make everything you do important." "I know more than you—" "Yes I do." "Keep going." "The franchise." "Don't smile."

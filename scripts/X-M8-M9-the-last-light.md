@@ -12,14 +12,14 @@
   - `UI:` HUD or prompt;
   - `SYS:` a system state.
 - **Flags** are listed in `17-tracked-state-registry.md`.
-- **The switch cue** (`SW_CUE`) is identical every time it fires, whether it lands or fails:
+- **The switch cue** (`SW_CUE`, bible §11.1) is identical every time it fires:
   - ambience narrows over 8 frames;
   - a one-frame projector-gate stutter;
   - a depth-of-field pull toward the target over 12 frames;
-  - the controller rumble `RMB_SWITCH` (two short pulses);
+  - the soft double rumble `RMB_SWITCH`;
   - the HUD fades.
 
-  A failed switch adds, after the pull, a second stutter and a snap-back with `RMB_SWITCH` again.
+  A **failed** switch then holds six frames of the target in focus, gives a second stutter, and snaps back with one hard pulse (`RMB_FAIL`).
 - **Clara** (CLA) is recorded and mixed like any person in the room. No processing.
 
 **Flags read here:**
@@ -228,7 +228,7 @@ On the press:
 ## MISSION 9 — THE GAP (8:22–9:52 p.m.)
 
 ### 9.1 · BLACK — THE SWITCH FAILS
-`SW:` `SW_CUE` toward Ellis → failed (stutter, snap-back to black, `RMB_SWITCH` ×2). `SW:` `SW_CUE` toward the stage-left lip → failed. `SW:` lands on a machine.
+`SW:` `SW_CUE` toward Ellis → failed (six frames with no one in them, a second stutter, snap-back to black, `RMB_FAIL`). `SW:` `SW_CUE` toward the stage-left lip → failed. `SW:` lands on a machine.
 
 ### 9.2 · ROLL FORTY — JOEL'S VIEWFINDER
 - `CAM:` 16mm, color, grain, the shoulder bob. Sync sound is thin: the PA through a small mic. No player control.
