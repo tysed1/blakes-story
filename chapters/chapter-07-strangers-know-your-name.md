@@ -459,7 +459,7 @@ In the van on the way back to Tannersville, Dean has one of the copies open on h
 
 Riley, in the passenger seat, doesn't turn around. The player can't see her face.
 
-> **Knowledge.** Riley knows the sister's name is Grace (Chapter IV). Cal knows (Chapter VI). Neither says anything in the van.
+> **Knowledge.** All four of them raised a glass to Grace at Marlon's in May (Chapter V). Dean knows exactly who G is. He asked so Ellis could say "Georgia," and he let him have it. Nobody else in the van says anything.
 
 ---
 
@@ -873,13 +873,13 @@ The gray shirt goes in his closet. It comes out again in Chapter X.
 
 ## MISSION 6 — 11:47 P.M.
 
-**Playable:** Cal → relay (Eddie, a stranger, Dean) → Ellis · **Where:** Midtown, Laurel City → the SR 9 Spur → a bedroom past the reservoir → the Starlite → the Blake house · **When:** Tuesday October 21, 11:40 p.m. – 12:40 a.m. · **Length:** ~25 min
+**Playable:** Cal → relay (Eddie, a stranger, Dean) → Ellis · **Where:** off Tenth Street, Laurel City → the SR 9 Spur → a bedroom past the reservoir → the Starlite → the Blake house · **When:** Tuesday October 21, 11:40 p.m. – 12:40 a.m. · **Length:** ~25 min
 
 ### Theo's kitchen
 
 Cal has been spending Tuesdays in Laurel City since September. The band believes this involves a man who sells vacuum tubes.
 
-Theo's apartment in Midtown, the one with the fire escape and the plants. The sixth game of the World Series is on the little black-and-white television on the counter with the sound off (Theo can't stand the announcers). The kitchen radio is on WLRC with the sound up, because Theo listens to other people's mixes the way other people read the paper. Cal is at the kitchen table with Theo's reel-to-reel in pieces in front of him. Theo is drying a skillet.
+Theo's apartment off Tenth Street, the one with the fire escape and the plants. The sixth game of the World Series is on the little black-and-white television on the counter with the sound off (Theo can't stand the announcers). The kitchen radio is on WLRC with the sound up, because Theo listens to other people's mixes the way other people read the paper. Cal is at the kitchen table with Theo's reel-to-reel in pieces in front of him. Theo is drying a skillet.
 
 On the television, in silence, a man in a Red Sox uniform slides into home and is called out. Theo doesn't look.
 
@@ -1223,9 +1223,7 @@ The player chooses Cal's answer. Every option is technical, because that's how C
 
 Ellis looks at him.
 
-**ELLIS:** Okay.
-
-**CAL:** Okay.
+**ELLIS:** Huh.
 
 He doesn't ask who Ellis was talking to. He stands up.
 
@@ -1344,7 +1342,7 @@ Before the second verse, the game offers Ellis the *space* verb: step back from 
 And sixteen hundred people, in a municipal auditorium in Laurel City, sing the second verse of "Still Here" without him:
 
 *Everybody in this town can see my business.*
-*Nobody here can see you.*
+*Nobody here knows you.*
 
 Off-mic, behind the kit, Dean says it to Cal, and he means it:
 
@@ -1366,7 +1364,7 @@ Sixteen hundred people stand up. It arrives at the stage a beat and a half late,
 
 Ellis doesn't turn back around to face them for a few seconds. He stands facing the drum riser. Dean, behind the Vistalite, is the only one who can see his face.
 
-> **Replay layer.** Sixteen hundred strangers sang "Nobody here can see you" to a young man who was looking at someone nobody could see. The first-time player hears a love song. The second-time player hears the crowd confirming Clara's absence, in unison.
+> **Replay layer.** Sixteen hundred strangers sang "Nobody here knows you" to a young man none of them knew, who was looking at someone none of them could see. The first-time player hears a love song. The second-time player hears the crowd get it exactly right, in unison, without knowing it.
 
 ### Encore
 
@@ -2002,9 +2000,7 @@ Cal reads it twice. The player can see his pen tap twice on the glass, the thing
 
 **CAL:** What?
 
-**VALE:** Nothing.
-
-Mr. Vale goes back to the repair bench. After a minute, from the bench, without turning around:
+Mr. Vale doesn't answer. He goes back to the repair bench. After a minute, from the bench, without turning around:
 
 **VALE:** I played in a territory band for eleven years. Nobody ever wrote down the name of anybody but the man in front. I don't remember his name now. I remember the bass player's.
 
@@ -2312,11 +2308,9 @@ The pickup goes by in a hiss of spray. Its taillights go around the bend.
 
 Ellis is still standing there.
 
-**RILEY:** Ellis.
+She puts her hand flat on his back, through the wet shirt.
 
-Nothing.
-
-**RILEY:** Ellis. Hey.
+**RILEY:** Hey. Ellis.
 
 He comes back. He looks at the cap in his hand like he's not sure how it got there.
 
