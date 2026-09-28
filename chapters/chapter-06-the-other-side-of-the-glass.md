@@ -111,7 +111,7 @@ He looks at her differently. She knows it. He knows something is wrong. Neither 
 
 **ELLIS:** Morning.
 
-A long quiet. Tater barks once at something in the yard.
+A long quiet. Out in the yard, Tater barks once at the mail truck.
 
 **ELLIS:** Were you at Marlon's last night?
 
@@ -161,7 +161,7 @@ That makes no sense. Ellis notices it makes no sense. The player notices him not
 
 ### Riley's horn
 
-A car horn in the yard, twice, short. Ellis looks out: Riley's orange Datsun. She's taking him to breakfast at the Starlite and then to Belle Grove, where Dean's father is going to look at the contract (see Mission 2; it's scheduled for next Sunday, but she's taking him to Tannersville for the week).
+A car horn in the yard, twice, short. Ellis looks out: Riley's orange Datsun. She's taking him to breakfast at the Starlite and then to Tannersville for the week; Dean's father reads the contract next Sunday.
 
 **CLARA:** She honks like a Yankee.
 
@@ -327,7 +327,7 @@ Dean stops.
 
 **RICHARD:** Your mother plays it. In the kitchen, on Patty's portable—never mind. She plays it.
 
-Dean doesn't know what to say. He says nothing. He goes out to the van and gets into the back and sits on his bench, and Riley looks at him, and he says, "What," and she says, "Nothing," and smiles.
+Dean doesn't know what to say. He goes out to the van and gets into the back and sits on his bench, and Riley looks at him, and he says, "What," and she says, "Nothing," and smiles.
 
 > **Replay layer.** Richard Holloway soundproofed his son's basement in 1967 and never mentioned it. He protected his son's songs in 1975 and mentioned it once.
 
@@ -559,8 +559,6 @@ Riley doesn't know. She opens her mouth and nothing comes.
 
 **LANDRY:** That isn't criticism. But eventually you should know.
 
-This begins something deeper in Riley. College was the obvious future: she chose it because she was supposed to have a future. The band she chose because she wanted a life.
-
 ### The letter
 
 Sunday, June 1. Her dorm room, mostly packed. Gerald the spider plant in a box. Hannah already gone home to Macon (they hugged in the parking lot; Hannah said *don't get famous* and Riley said *I won't* and they both laughed).
@@ -569,7 +567,7 @@ On the desk: the Edinburgh acceptance, and a sheet of college stationery.
 
 The player writes the letter. It's a short interaction: choosing between drafts of each sentence, from formal to honest. Every version declines. The player can make it gracious or blunt or apologetic. She signs it: *Margaret A. Riley.*
 
-Riley called home before she walked to the mailbox; her mother said very little. She walks it to the campus mailbox. The slot takes it. It's June first and Scotland is a long way for a letter, so she sends a cable from the Western Union on River Street too: *REGRET CANNOT ATTEND. LETTER FOLLOWS. M. RILEY.* It's charged by the word. She counts them twice.
+She walks it to the campus mailbox. The slot takes it. It's June first and Scotland is a long way for a letter, so she sends a cable from the Western Union on River Street too: *REGRET CANNOT ATTEND. LETTER FOLLOWS. M. RILEY.* It's charged by the word. She counts them twice.
 
 ### Her mother
 
@@ -916,7 +914,7 @@ Rehearsal at Dalton Sound. Cal comes in early. Riley's already there tuning the 
 
 **CAL:** Riley—
 
-**RILEY** *(not looking up)*: Your B string's flat.
+**RILEY** *(not looking up)*: Your G string's flat.
 
 Cal looks at his bass. It isn't. He tunes it anyway.
 
@@ -942,7 +940,7 @@ Ellis lies on the floor watching it. Riley watches Ellis watching it.
 
 ### The offer
 
-Someone passes a mason jar of mushroom tea, cooled, from the June pasture. Riley has done this before and will tonight. Ellis looks at the jar.
+The mason jar of mushroom tea comes around the room, cooled, from the June pasture. Riley drinks and, because it's in her hand, holds it out to Ellis. Ellis looks at the jar.
 
 **ELLIS:** You said last time it depends.
 
@@ -984,7 +982,7 @@ Stutter. Control transfers to Ellis.
 
 ### Clara walks in
 
-She doesn't appear. She walks.
+She walks in.
 
 Through the screen door, from the porch, the door slapping shut behind her on its spring. The player hears the slap. Nobody else in the room turns. She's in her jean jacket, in July, and she's more physically convincing than she has ever been: her shadow on the floor, her boots on the boards, the fabric of the jacket moving, the colored light from the projector sliding across her face.
 
@@ -1048,7 +1046,7 @@ Clara is not there.
 
 Ellis is standing alone by the screen door, talking quietly to nobody. The screen door is still. There's no one on the porch behind it but fireflies.
 
-> **This is the game's second objective reveal, and it's delivered by the core mechanic.** The player has trusted the switch for six chapters: it moves you between real people in a shared, real world. Now it moves you three yards across a room and removes a person from it. Nothing about the room changes except her. It's more disturbing than any visual effect could be.
+> **This is the game's second objective reveal, and it's delivered by the core mechanic.** The player has trusted the switch for six chapters: it moves you between real people in a shared, real world. Now it moves you three yards across a room and removes a person from it. Nothing about the room changes except her.
 
 From Riley's side there's no help, because Riley has never had any. Nobody tells her where to look.
 
@@ -1064,7 +1062,7 @@ Riley touches his elbow.
 
 **ELLIS:** Wait.
 
-Riley takes her hand back. She watches her boyfriend smile at the screen door. Concern replaces everything else on her face.
+Riley takes her hand back. She watches her boyfriend smile at the screen door.
 
 ### Back to Ellis
 
@@ -1286,7 +1284,7 @@ It's a terrible joke. She laughs anyway, because he needs somebody to.
 
 ### Riley's guilt
 
-Riley thinks about the jar going around the front room, and what she told him about it. She bites the inside of her cheek, hard, and says nothing. Ellis is watching the tree line and doesn't see her do it.
+Riley thinks about the jar, and whose hand it came from, and what she told him about it. She bites the inside of her cheek, hard, and says nothing. Ellis is watching the tree line and doesn't see her do it.
 
 ### "Before Clara"
 
@@ -1326,7 +1324,7 @@ Then, not teasing:
 
 **CLARA:** You told her.
 
-He says nothing.
+He looks at Riley asleep in the chair.
 
 **CLARA:** I asked you not to.
 
@@ -1510,7 +1508,7 @@ Frank stops.
 
 ### The experimentation sandbox
 
-The funeral home becomes a playground, and this is one of the chapter's best gameplay sections: a studio sandbox where the player (as Ellis, with Frank's help) moves microphones and amplifiers through the building and hears the results on playback.
+The funeral home becomes a playground: a studio sandbox where the player (as Ellis, with Frank's help) moves microphones and amplifiers through the building and hears the results on playback.
 
 - Put the Fender Twin in the **hallway** and the microphone at the far end, around a corner.
 - Put the amp at the bottom of the **casket-elevator shaft** and hang a microphone thirty feet up: a natural echo chamber nobody on the Row knew they had. (Frank, when he hears it: *"Twenty years in this building."*)
@@ -1782,7 +1780,7 @@ The gravel lot behind Dalton Sound, where the hearses used to park. August heat.
 
 **ELLIS:** *Who is she?*
 
-Wayne stops with his hand on the truck door. He turns around. He looks at Ellis with something that's grief and terror at once.
+Wayne stops with his hand on the truck door. He turns around. He looks at Ellis a long time.
 
 **WAYNE:** You tell me.
 
@@ -2089,7 +2087,7 @@ Everyone looks at Ellis.
 
 **ELLIS:** I'll allow it.
 
-He looks at the reel on the machine. He thinks about the song he wrote at the kitchen table on Wednesday night.
+He looks at the reel on the machine. He thinks about the song he wrote at the kitchen table the week before.
 
 **ELLIS:** *Borrowed Stone.*
 
@@ -2214,4 +2212,4 @@ Her older steers work the same way: "Sit down a minute" and "Not in front of her
 Richard Holloway's legal pad. Stony Knob Music (BMI). The Southern Star contract. The Jazzmaster (and Loretta retired to the wall). The RENT envelope. The Rickenbacker 12. The Vistalite, and Bobby's drawing of it in Dean's shirt pocket. Cal's fresh copy of *What's Going On*. The Edinburgh letter (sent) and the cable. Theo's Teac and a part number on a matchbook. Cal's bass chart with TACET over the verses of "Sunday Clothes." Cal's three-item list for the pay phone. The coupon (29 of 48). The master reel. *Borrowed Stone*.
 
 ### Language introduced
-"Don't tell them." "The record is the rent; the songs are the house." "My tante set a plate for Saint Jude." "Mine's real." "Your B string's flat." "It depends." "You don't have to sit up front." "I see her." "I'm scared. There's a difference." "Doctor called it something long." "Mostly scared." "Then let 'em die." "Give it structure. Then destroy it." "You turn pages." Frank's "There it is." "Wanted to see it." "You tell me." "It's a song on it." "That's ten!"
+"Don't tell them." "The record is the rent; the songs are the house." "My tante set a plate for Saint Jude." "Mine's real." "Your G string's flat." "It depends." "You don't have to sit up front." "I see her." "I'm scared. There's a difference." "Doctor called it something long." "Mostly scared." "Then let 'em die." "Give it structure. Then destroy it." "You turn pages." Frank's "There it is." "Wanted to see it." "You tell me." "It's a song on it." "That's ten!"

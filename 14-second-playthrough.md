@@ -33,7 +33,6 @@
 ### Chapter III
 - **The dome light at the pull-off.** Wayne, with an FM converter he bought at the Western Auto, on 88.9 for a year (VII M6).
 - **"I already buried one child."**
-- **The farmhouse tea.** Riley's hand. She'll watch it on a loop in a SoHo bathroom (VIII M11).
 - **Clara in the field, far off.** "I wish you'd come around more." / "You sure?" The first time she asks him to stay.
 
 ### Chapter IV
@@ -56,6 +55,7 @@
 - **"Before Clara."**
 - **Raymond** "heard people." Wayne drove him to Milledgeville singing every verse.
 - **Marlon tells Cal.** Every Cal scene afterward is a man keeping a promise.
+- **The jar at the farmhouse.** Riley's hand holds it out. She'll watch it on a loop in a SoHo bathroom (VIII M11).
 - **The glass.** Riley's hand beside his, if she walked to it. At the grave in the epilogue she kneels with the same hand, framed the same way.
 
 ### Chapter VII

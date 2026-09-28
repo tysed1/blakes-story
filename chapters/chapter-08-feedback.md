@@ -389,7 +389,9 @@ Then the snap-back: the focus on Ellis, the HUD back all at once, the bus engine
 
 Ellis doesn't notice. He goes into the bathroom.
 
-> **Design note — the failed catch.** For eight chapters the switch has meant *you are about to become someone else*, and it only goes to real people. Tonight it tries to go to Clara and can't, because there's nobody there to become. The six frames are Ellis's own eyes (§11.4), so Rule 3 holds. The sequence is fixed and must be identical every time it happens, pulse for pulse, so it reads as grammar, not a glitch. No text, no music cue. It happens once more, on television.
+> **Design note — the failed catch.** For eight chapters the switch has meant *you are about to become someone else*, and it only goes to real people. Tonight it tries to go to Clara and can't, because there's nobody there to become. The six frames are Ellis's own eyes (§11.4), so Rule 3 holds. The sequence is fixed and must be identical every time it happens, pulse for pulse, so it reads as grammar, not a glitch. No text, no music cue. It happens again on television (M10), and in IX and X.
+>
+> **Binding spec (every firing).** Input stays live: Ellis keeps walking, or keeps doing whatever he was doing, and the player keeps control of him. The camera keeps following him; the catch is a focus pull within the existing frame, which is Ellis's eyes (§11.4), never a decoupled camera or a cut to a point of view. The six frames are 200 ms (six frames at the 30 fps cinematic timebase), whatever the render rate. The snap-back returns focus to the walk with no jump.
 
 ### New skin
 
@@ -859,7 +861,7 @@ Walt turns off his iron and goes upstairs. In the morning the station wagon is w
 
 Tuesday afternoon, a hotel near the Met Center. A band meeting in Dean's room: Dean, Riley, Ellis, Tully, Eddie, and Theo by the window, who has mixed two shows without a bass player and looks like it. Phil has gone home with Monarch's check and Riley's charts, which he asked to keep.
 
-The door opens. Cal, with his bass case, in his father's old overcoat. Nobody says anything. Dean half stands. There's no dialogue wheel. Cal sets the case down and looks at Ellis.
+The door opens. Cal, with his bass case, in his father's old overcoat. Dean half stands. There's no dialogue wheel. Cal sets the case down and looks at Ellis.
 
 **CAL:** Theo's mine.
 
@@ -1253,7 +1255,7 @@ The player has one input: **Continue.** It comes up forty seconds in, and until 
 - **Dean** plays a pulse on the floor tom with mallets, soft, a heartbeat.
 - **Riley** lets one open string on the twelve ring, then another, and holds a drone.
 
-Ellis looks at the floor between the cameras. Clara looks back at him. She doesn't say anything. In the control room the director says *what's he doing* into his headset, and the producer behind him, with a cigarette, says *stay on him, don't cut, don't you dare cut.*
+Ellis looks at the floor between the cameras. Clara looks back at him, her hands in her jacket pockets. In the control room the director says *what's he doing* into his headset, and the producer behind him, with a cigarette, says *stay on him, don't cut, don't you dare cut.*
 
 - If the player presses **Continue**, Ellis sings the next line (*"And I'm still here"*), the band comes up under him as if they'd planned it, and the song finishes.
 - If not, at ninety seconds Riley steps to her own mic and sings the line herself, quietly, and on the second phrase Ellis comes in under her.
@@ -1402,17 +1404,17 @@ The player isn't given a choice. Riley takes it. She has always believed, the wa
 
 It starts beautifully, and it's played straight: the white walls breathe, and *Horses* becomes a building she can walk around inside.
 
-Then the bathroom: a clawfoot tub, a bare bulb, a mug of tea somebody gave her. She looks down at her hands. It's the chipped enamel mug from the farmhouse in the South Fork in July.
+Then the bathroom: a clawfoot tub, a bare bulb, a jar of tea somebody gave her. She looks down at her hands. It's the jar from the farmhouse in the South Fork in July.
 
-The camera leaves Riley's body and shows the pasture party from Chapter VI from a few yards away: the porch, the fireflies, the light-show wheel on the barn wall. Riley, eight months younger, in her peasant blouse, crossing the porch with the mug, holding it out to Ellis.
+The camera leaves Riley's body and shows the pasture party from Chapter VI from a few yards away: the front room, the fireflies past the screen door, the colored oil sliding on the plaster. Riley, eight months younger, in her peasant blouse, on the floor with the jar, holding it out to Ellis.
 
-The player can move the camera around this scene. They can't change it. If they try to make the Riley in the memory stop (the prompt is *Don't*), her hand keeps moving, and the scene loops back three seconds and plays again: the porch, the mug, her hand, his hand taking it. The harder the player tries, the more often it loops. The screen door. Her own voice, eight months ago, saying something about how it doesn't put things in your head.
+The player can move the camera around this scene. They can't change it. If they try to make the Riley in the memory stop (the prompt is *Don't*), her hand keeps moving, and the scene loops back three seconds and plays again: the room, the jar, her hand, his hand taking it. The harder the player tries, the more often it loops. The screen door. Her own voice, eight months ago: *You don't have to.*
 
-It releases only when the player stops pressing anything. She's on the bathroom floor with her back against the tub, holding a mug of cold tea.
+It releases only when the player stops pressing anything. She's on the bathroom floor with her back against the tub, holding a jar of cold tea.
 
 ### The stairwell
 
-Four in the morning. The loft's back stairwell, one bulb, rain on a skylight. Riley on a step with her knees up. Nina finds her there, sits two steps below, and doesn't say anything for a long time.
+Four in the morning. The loft's back stairwell, one bulb, rain on a skylight. Riley on a step with her knees up. Nina finds her there, sits two steps below, and waits a long time.
 
 **RILEY:** I gave it to him.
 
@@ -1440,7 +1442,7 @@ Nina walks her down four flights and hails her a cab on Houston.
 
 The cab pulls away. Riley watches Nina get smaller in the back window, standing in the rain in a man's jacket with her hands in the pockets.
 
-> **Design note — Riley's belief, broken.** Riley has always believed altered perception shows you what's true. Tonight it shows her one true thing (she handed him the cup) and loops it until she stops fighting. She stops that night, for good, on her own.
+> **Design note — Riley's belief, broken.** Riley has always believed altered perception shows you what's true. Tonight it shows her one true thing (she handed him the jar) and loops it until she stops fighting. She stops that night, for good, on her own.
 
 ---
 
@@ -1518,7 +1520,7 @@ Wayne sets his mug down. He gets up and goes to the sink and runs the water over
 
 **WAYNE:** Not for you.
 
-He doesn't say anything else about it.
+He sits back down.
 
 ### What she came for
 
@@ -1553,6 +1555,12 @@ A long pause.
 Riley knows who Raymond is. Ellis told her in a pasture in July.
 
 Tater comes in from the porch and puts his head on Riley's knee. The player can scratch his ears. Wayne watches that.
+
+**WAYNE:** That church song on the radio. Radio says it's his.
+
+**RILEY:** Radio's wrong.
+
+**WAYNE:** Usually is.
 
 ### The door, going
 
@@ -1636,7 +1644,7 @@ Clara looks at the two photographs on the table for a long time. Then she looks 
 
 She doesn't answer.
 
-Then, between one look and the next, the doorway is empty.
+Then, while the player is looking straight at her, she isn't there. No cut, no turn of the head: the doorway is empty in the same frame.
 
 **WAYNE:** Your grandmama's name. Grace's middle name.
 
@@ -1678,13 +1686,13 @@ Tonight Clara is in the passenger seat with her boots on the dash, and as the tu
 
 The player can drive past. If they do, the South Fork road goes on to the farmhouse and the low-water bridge and nothing happens; Ellis turns around in a church lot and comes back, and the turn is still there. The mission waits.
 
-He turns anyway. The Valiant's headlights swing across a green county sign, TOLLIVER RD, and the road narrows to a strip of old asphalt with no center line, between fences and dark pasture, going south and down toward the South Fork.
+He turns anyway. The Valiant's headlights swing across a green county sign, TOLLIVER RD, and the road narrows to a strip of old asphalt, its center line worn down to a dash here and there, between fences and dark pasture, going south and down toward the South Fork.
 
 ### Who's in the car
 
 There's someone else in the passenger seat.
 
-A girl of fourteen, in a jean jacket that fits her, a child's size, with a horse sewn on the pocket, crooked. Muddy riding boots. A ponytail. She smells like a horse. Ellis rolls his window down an inch without thinking about it.
+A girl of fourteen in a 4-H sweatshirt with the sleeves pushed up, hay on her jeans. Muddy riding boots. A ponytail. She smells like a horse. Ellis rolls his window down an inch without thinking about it.
 
 Grace.
 
@@ -1698,14 +1706,14 @@ The player can answer or not. The dialogue options are Ellis at sixteen: *"Speed
 
 **GRACE:** You're gonna be late.
 
-She says these things the way she would have said them, on a Thursday, three years ago, in this car's older brother. The player drives. The Tolliver farm is two miles ahead.
+She says these things the way she would have said them, on a Thursday, three years ago, in their daddy's Impala. The player drives. The Tolliver farm is two miles ahead.
 
 ### Older
 
 Every time the player looks at the passenger seat (and they can, freely, with the camera), she's older.
 
 - At the first bend, fifteen. Her hair longer.
-- Past the church, sixteen or seventeen. The jacket is bigger now, a grown-up jacket, the same one.
+- Past the church, sixteen or seventeen, and the jacket's on her now, the horse on the pocket, a grown-up size.
 - At the Tolliver farm (lights on in the farmhouse, Floyd's green truck in the yard, the empty paddock where Dolly stood for twenty years), nineteen.
 
 And somewhere between the farm and the bend, twenty-one. Clara. Boots up on the dash.
@@ -1768,7 +1776,7 @@ Clara looks at the oak. At the scar at the height of a car door.
 
 **CLARA:** Right here.
 
-Ellis sits down on the clay with his back against the oak. No timer. Clara sits down beside him, not touching him (she never touches anything).
+Ellis sits down on the clay with his back against the oak. No timer. Clara sits down beside him, not touching him (she never moves anything).
 
 **CLARA:** Button your jacket.
 
@@ -1790,7 +1798,7 @@ He stops.
 
 ### The call
 
-Cutler Street. Riley's kitchen. Saturday night. Gerald on the sill. The Martin on the table with a capo on it. The first two verses of "Occasionally Astonishing" in her notebook and a third that won't come.
+Cutler Street. Riley's kitchen. Saturday night. Gerald on the sill. The Martin on the table with a capo on it. The first two verses of "Occasionally Astonishing" in her notebook and a third that won't come. Tonight's try is at the bottom of the page: *Ask the girl in the band what the girl in the band plays.* She sings it once against the Martin and puts a line through it.
 
 The wall phone rings. The player answers.
 
@@ -1948,7 +1956,7 @@ Four chairs. Wayne's, empty while he cooks. Ellis's. One piled with old newspape
 
 Riley needs somewhere to sit. The player chooses:
 
-- **Move the newspapers.** She lifts the pile off the third chair and sets it on the floor. Under it, on the seat, is a folded cardigan, a woman's, pale blue, very old. She looks at it. She puts it back on top of the newspapers on the floor, carefully. Wayne sees her do it, from the stove. He doesn't say anything.
+- **Move the newspapers.** She lifts the pile off the third chair and sets it on the floor. Under it, on the seat, is a folded cardigan, a woman's, pale blue, very old. She looks at it. She puts it back on top of the newspapers on the floor, carefully. Wayne sees her do it, from the stove, and turns the bacon.
 - **Pull out the fourth chair.** She pulls it out from the table and sits in it. Wayne turns around with the spatula and sees her there, and stops, for a long moment. Then he sets a plate in front of her. *"Eat."*
 - **Stand at the counter.** Wayne says "Sit down," and points at the chair with the newspapers.
 
@@ -2014,9 +2022,19 @@ Wayne parks on the second level of the deck, facing the building.
 
 **WAYNE:** I got a radio.
 
+Ellis crosses the deck alone. In the clinic building's elevator, Clara is in the back corner with her hands in her jacket pockets.
+
+**CLARA:** Third floor. You don't have to.
+
+He presses 3. When the doors open he reads the sign across the hall, and when he looks back the elevator is empty.
+
+> **Design note.** This is her last help before the medication, and it steers away from the doctor. The quiet starts at the first pill, not at the clinic door.
+
 ### The office
 
 Dr. Harriet Lusk's office is small and ordinary: files stacked square, two chairs that don't face each other directly, a box of Kleenex she doesn't push toward him, a window onto the parking deck, a spider plant like Gerald. She's forty-four, in a gray suit, with reading glasses pushed up in her hair, and she's careful in the way people are careful when they've seen what careless does.
+
+Clara isn't in the office. The player can look for her. She isn't anywhere in it.
 
 No timer. If the player holds silence, Dr. Lusk doesn't fill it. She writes something, or doesn't, and waits.
 
@@ -2038,7 +2056,7 @@ A few of the things that are said:
 
 **ELLIS:** Cocaine. On the tour, most nights, before we went on. Off the back of a hand.
 
-Dr. Lusk writes it down. She doesn't say anything about it.
+Dr. Lusk writes it down and goes on.
 
 ---
 
@@ -2202,6 +2220,8 @@ A Pyrex dish covered in foil, with a card taped to it in shaky ballpoint:
 
 > *Thinking of you all today. — Ada T.*
 
+**ELLIS** *(to the dog)*: Twelfth.
+
 The buttermilk pie. Every April 12 nobody eats it, and Tater gets it.
 
 Ellis carries it in and sets it on the kitchen table. The player can do what's always done: put it on the counter for later, which means for Tater. Or there's a new prompt: *Cut a piece.*
@@ -2304,14 +2324,14 @@ Twice the camera tries to switch to Clara and fails (a bus aisle at walking pace
 | Fixes his collar; it doesn't move | A gesture | Rule 1 | visible |
 | Gone from the doorway when the photographs come out | Vanishing | Lorraine's face | **strongly suggested** |
 | The face between the two photographs | — | Grace grown, with Lorraine's face | **revealed** |
-| "Not that way." He turns anyway | Her old refusal | The first of her help he doesn't take | visible |
-| Grace in the passenger seat, older at each glance | — | Clara is Grace aging | **revealed** |
+| "Not that way." He turns anyway | Her old refusal | The biggest of her help he refuses | visible |
+| Grace in the passenger seat, older at each glance | — | What Ellis grew Grace into (never Grace; IX M14) | **revealed** |
 | "Daddy'll kill us both." | A slip | Ellis's words to Grace in the car | visible (paid in IX) |
 | "You asked me to." / "Right here." | — | "Stay with me" | strongly suggested |
 | Absent on medication, and her help with her | — | — | visible |
 
 ### Objects introduced
-Page nine, SIGNED UNDER PROTEST. The label copy: *(M. Riley)*. Memo book 68 and its torn stub. Cal's eleven tick marks. The ER bill: *not to be paid back.* The napkin: IOU ONE (1) BUS. The drum kit that says BOBBY. *Metro*: RILEY. *Rave*, April 1976, and Denise's letter. The chipped enamel mug. The Buster Brown shoebox. The HENSLEY mailbox. The oak's scar. The pale blue cardigan. The white pharmacy sack. Bishop's *Complete Poems*. Memo book 69, the page blank.
+Page nine, SIGNED UNDER PROTEST. The label copy: *(M. Riley)*. Memo book 68 and its torn stub. Cal's eleven tick marks. The ER bill: *not to be paid back.* The napkin: IOU ONE (1) BUS. The drum kit that says BOBBY. *Metro*: RILEY. *Rave*, April 1976, and Denise's letter. The jar, again. The Buster Brown shoebox. The HENSLEY mailbox. The oak's scar. The pale blue cardigan. The white pharmacy sack. Bishop's *Complete Poems*. Memo book 69, the page blank.
 
 ### Language introduced
 "SIGNED UNDER PROTEST." "Noted." "It's a Lincoln with ambitions." "Sing it right." "(M. Riley)." "It's not a joke." "Liar" (last). "He's taking me." "He took a song." / "Same thing." "A jazz thing." "Keep him alive till Tuesday." "Not to be paid back." "Make her stop." "…the way men say the names of women who are married or dead." / "Which one is she?" "Eleven times in two weeks." "She isn't real, Ellis." "At least mine isn't somebody I keep in a hotel room." "That's enough." "Make them sound good without me." / "That's impossible." / "I know." "You fixed that radio twice." "Theo's mine. That's real. You don't get to use it." "For the record, I figured you were just boring." "Leave the drums." "He sings it too fast." "I gave it to him." "Any of it." "Clara was my mama's name." "Raymond didn't sleep." "It's gonna rain." "There is no Clara." / "She's in the doorway." "Daddy'll kill us both." "I made you." / "Does that make me less real?" "You asked me to." / "Right here." "Like a knuckle." "I was driving." "Stay there." "Name one more thing it has to be after." "I'll drive you." "I don't know yet." "A name is hard to take back." "He's got a radio." "Bobby plays those drums every day." "Grace liked anything with sugar in it." "He's load-bearing."
@@ -2335,8 +2355,9 @@ Playing as Cal, Riley or Dean there is none, and none with Wayne in the room.
 | M8 | "Quit glaring at him. He's reading as fast as he can. Give him his eight bars." | the Room: don't *reach* on Phil | no |
 | Snow Day | "Eat something." | his body | no |
 | M10 | "Sing to the one with the red light on it." | the Room: the live camera | no (it's also where she is) |
-| M14 | "Not that way." | directions at the Tolliver Road turnoff | **yes**: away from the bend. He turns anyway: the first of her help that fails |
-| M17–M18 | None: no Clara, no hum, Observe muted, the day of the week from the HUD only | — | — |
+| M14 | "Not that way." | directions at the Tolliver Road turnoff | **yes**: away from the bend. He turns anyway. |
+| M17, the clinic elevator | "Third floor. You don't have to." | directions | **yes**: away from doctors |
+| M17 (from the first pill) – M18 | None: no Clara, no hum, Observe muted, the day of the week from the HUD only | — | — |
 
 ### Tracked choices this chapter
 Cal's vote on the rider. Riley's harmony on the single (above, below, unison, silence), which changes Nina's paragraph and what America hears on the radio all spring. Whether Ellis asked Dex about the page. How long the *Night Stage* silence lasted, and whether Riley sang the line. What Riley did with *Rave* at the rack. Which chair Riley sat in. Whether Ellis cut a piece of the pie.

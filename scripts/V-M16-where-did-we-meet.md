@@ -36,7 +36,7 @@
 - Clara has been possessive of his attention since the Exit ("Nobody understands." / "She just did."). In five chapters she has never cried.
 - Bible §11.3 Rule 11 is in force for the last time. Clara has never shared a vehicle with a band member, and no third party's point of view has framed the place where she is (the V M7 fence, played from Riley's side, is the one sanctioned exception). She isn't in M15.
 - Ellis has had one flash before this: twelve frames on the Laurel Gap in M5 (the green felt-tip hand on a dashboard).
-- The help layer is active for Ellis. None is authored for M16, and none plays with Wayne in the room.
+- The help layer is active for Ellis. One line is authored for M16, after the truth (V16_CLA_091, 16.8), and none plays with Wayne in the room.
 - `clara_tests` stands wherever the player left it.
 - `UI:` HUD: FRIDAY.
 
@@ -51,7 +51,7 @@
 - Wesley Tate outside, at the window.
 
 `AUD:` A full room: pool balls, ice, the door. Walla is indistinct: townspeople who once complained the band was too loud now telling Ellis they always knew. No intelligible words except the scripted lines.
-`MUS:` The jukebox, from its existing Chapter V rotation. This script adds no selection.
+`MUS:` The jukebox, from its existing Chapter V rotation. This script adds one selection, in 16.3: the band's 45.
 
 The local man's exchange fires when Ellis is within 3 m of Riley at the band's table.
 
@@ -147,6 +147,9 @@ Dean's toast fires when Ellis is back at the band's table.
 `CAM:` They drink.
 `CAM (Ellis):` A scripted look down the bar. Clara is standing at the far end by the cigarette machine, and she isn't smiling.
 `SYS:` Rule 11 blocking: Riley, Cal and Dean face the bar or each other. None of their eyelines lands on the cigarette machine, and no shot is taken from their side of the bar toward it.
+`MUS:` After the toast, somebody puts a quarter in the jukebox for the band's 45: "No Name" (the A-side, IV M7), Ellis's lead with Riley's recorded high part, at the room's level.
+`AUD:` For one chorus, Clara hums the high part under Riley's recorded one, from the cigarette machine, so the player can hear both. She's mixed like any person at that distance, unprocessed. After the chorus she stops, and the record plays out under the room.
+- **Clara:** not smiling, not looking at the band; she hums it plainly, the way she did before Riley took the part in I M8 (record it against the 45 on the bar set).
 
 ### 16.4 · INT. MARLON'S · A BOOTH · AFTER CLOSING · "WHAT'S WRONG?"
 `CAM:` Cut. After closing. Everyone else has gone; Riley went home with Hannah. Marlon is mopping behind the bar and has turned the jukebox off. The sign outside is dark. Ellis sits in a booth with the last of a beer.
@@ -227,6 +230,7 @@ Dean's toast fires when Ellis is back at the band's table.
 `CAM:` Late, cold for May. The one streetlight (the Chapter I fixture). The rail line dark. The street is dry, or damp at most, with no standing water. No rain.
 - **Geography, fixed by the pull-back's path:** the streetlight stands across Depot Street from Marlon's front.
 - Ellis walks out of Marlon's and across toward the streetlight, and stops short of its pool, in the middle of Depot Street.
+- The depot stands down Depot Street at the rail line (the pull-back passes its roof in Beat E). The far sidewalk, the streetlight side, runs from the depot end of the street into the pool of light. V16_CLA_052 comes from there: across the street, the direction he was walking.
 
 `SYS:` Walk control. He lights a cigarette on his first steps (automatic; the I M1 gesture, cupped backward in his palm). His hands are shaking.
 
@@ -249,13 +253,13 @@ The first call fires about 8 m out from the door. Its source sits behind him, to
 |---|---|---|---|
 | V16_ELL_050 | ELLIS | Clara? | Toward the empty street. Asking. |
 
-`AUD:` Nothing. About 2 s of the street. Then, behind him (the streetlight side):
+`AUD:` Nothing. About 2 s of the street. Then, across the street (the streetlight side, the way he was walking), from the far sidewalk at the edge of the pool of light:
 
 | ID | Speaker | Line | Delivery |
 |---|---|---|---|
-| V16_CLA_052 | CLARA | What? | Ordinary, a little put out, as if he called her. |
+| V16_CLA_052 | CLARA | What? | Ordinary, a little put out, as if he called her. Across a street, at speaking volume, walking. |
 
-`CAM (Ellis):` He turns. She's there, under the streetlight, completely normal, her hands in her jacket pockets. He's a few steps outside the pool of light. She's there when the turn arrives; she never pops in on screen. He stares at her.
+`CAM (Ellis):` He turns back toward it. She's already in motion, walking back from the depot end of the street into the pool of the streetlight, completely normal, her hands in her jacket pockets, and she stops under the light. She was never hidden, only not where he was looking: she's in frame, walking, from the first frame of the turn, and never pops in. He's a few steps outside the pool of light. He stares at her.
 
 | ID | Speaker | Line | Delivery |
 |---|---|---|---|
@@ -301,7 +305,7 @@ The first call fires about 8 m out from the door. Its source sits behind him, to
 - `CAM:` Then twelve frames, cut in and out hard. Four images of 3 frames each (faster than the M5 flash, which put fewer images in its twelve):
   1. A windshield, broken into a web, rain coming through it.
   2. A car seat, before: the passenger seat, dry, in the dash light. The laugh (V16_GRA_001) starts here.
-  3. A green felt-tip hand: a teenager's hand flat on a dashboard, green ink on the knuckles (the M5 image).
+  3. A green felt-tip hand: a girl's hand flat on a dashboard, green felt-tip on the knuckles (the M5 image).
   4. Headlights.
 - Gone. A hard cut back to Depot Street in the framing it left.
 - No face in any frame. No flash-frame, no white-out, no transition, no shake, no color shift.
@@ -354,7 +358,7 @@ She comes toward him. Gentle again. A few steps; she's at arm's length when he s
 
 | ID | Speaker | Line | Delivery |
 |---|---|---|---|
-| V16_ELL_075 | ELLIS | I'm sorry. I'm sorry. | The way people say it who have been saying it for years: quick, low, automatic. It's the phrase Riley isn't allowed to say to him. |
+| V16_ELL_075 | ELLIS | I'm sorry. I'm sorry. | The way people say it who have been saying it for years: quick, low, automatic. It's the phrase he told Riley she didn't have to keep saying (II M7). |
 
 `CAM (Ellis):` Clara puts her arms around him. From Ellis's side: real. Warm. A person. Her hair against his face, the jacket, the horse patch pressed against his shirt. They stand under the streetlight, side-on to the lens. Two shadows on the asphalt.
 
@@ -424,11 +428,12 @@ She comes toward him. Gentle again. A few steps; she's at arm's length when he s
 1. `CAM (objective):` Far off under the streetlight, Ellis's arms open around nothing (1.2 s) and come down to his sides (0.8 s). The frame holds on him standing alone for 2.0 s more.
 2. `CAM (Ellis):` A straight cut back to Ellis, close, in Beat A's framing. The camera doesn't travel back. Clara is there again, stepping back from him and wiping her face with her jacket cuff, because the camera is with Ellis again.
    - `SYS:` objective → perception on the cut. Clara re-enters already a step back, farther from him than at the handover, so Rule 12 holds.
-3. Hold 4.0 s. She wipes once and lowers her hand. He looks at her. No lines.
+3. Hold 4.0 s. She wipes once and lowers her hand, and tells him the day. He looks at her. It's the first help after the truth, inside the midpoint.
 
    | ID | Speaker | Line | Delivery |
    |---|---|---|---|
    | V16_CLA_090 | CLARA | (a breath; the cuff across her face) | Unprocessed, close. Done crying and a little embarrassed about it. |
+   | V16_CLA_091 | CLARA | It's Saturday. | Wiping her face with her cuff. Plain, the calendar, the way she always tells him the day. Nothing meant twice. |
 
 4. Fade to black over 2.0 s. The street holds 1.0 s into black, then silence.
 5. `UI:` CHAPTER V COMPLETE · VELOCITY
@@ -473,7 +478,7 @@ She comes toward him. Gentle again. A few steps; she's at arm's length when he s
   - The release doesn't cut it. It plays out under the cut back and, if it has to, into the fade.
   - It doesn't repeat, however long the player holds. After it, only the town bed.
 - **The close (16.8).** The street at close perspective; Clara's breath and the cuff, unprocessed; Ellis's breath.
-- **Captions.** Dialogue subtitles have nothing to show after V16_ELL_075. Clara's lines, the off-screen calls included, are labeled CLARA like anyone's (`19-playtest-plan.md` §3). If sound captions are on, the horn gets one plain caption, *[Freight horn, far off]*, cleared when it ends. Nothing else in 16.7 is captioned.
+- **Captions.** Dialogue subtitles have nothing to show between V16_ELL_075 and V16_CLA_091. Clara's lines, the off-screen calls included, are labeled CLARA like anyone's (`19-playtest-plan.md` §3). If sound captions are on, the horn gets one plain caption, *[Freight horn, far off]*, cleared when it ends. Nothing else in 16.7 is captioned.
 
 **Binding camera and light spec (16.5–16.8)**
 - **The streetlight.** The Chapter I Depot Street fixture (the Valiant parked under it in I M1): same pole, same lamp, same color, same pool. It isn't relit for the midpoint. No fill, rim or key is added for either of them. While she's in frame, Clara takes the same light as Ellis and casts a shadow the way he does.
@@ -523,7 +528,7 @@ She comes toward him. Gentle again. A few steps; she's at arm's length when he s
   - "El." slips out, and she doesn't hear herself say it. Record several reads and use the least marked.
   - The silence after "When?" (V16_CLA_058) is a real blank.
   - The off-screen calls are projected, at speaking volume.
-  - She has no lines in 16.7–16.8: crying that runs down to breath, then the cuff.
+  - In 16.7–16.8 she has one line: crying that runs down to breath, then the cuff, then "It's Saturday." (V16_CLA_091), plain, the calendar.
 - **Grace (1973).** The X M8 actor.
   - The laugh (V16_GRA_001): recorded in the car shell, dry, with no rain machine, improvised with the Ellis-at-sixteen actor. Choose a take with no word shape in it.
   - The 8-frame flicker in 16.4: the same actor in Clara's adult-sized jacket (too big for her) and a ponytail, matched to Clara's seat, pose and look.

@@ -21,7 +21,7 @@ The player spends most of this chapter enjoying it. That's the point. Fame in th
 |---|---|---|---|---|
 | — | Cold Open | Ellis | the Bowery, New York, Sat Dec 13, 3:40 p.m. | 2 min |
 | 1 | Nineteen | Ellis | the Blake house, Mon Sept 8; Marlon's, Sun Sept 14 | 35 min |
-| 2 | Release Day | Dean → Riley → Cal → Ellis | Tenth Street Records, Laurel City, Mon Sept 15 | 25 min |
+| 2 | Release Day | Dean → Riley → Cal → Ellis | Tenth Street Records, Laurel City, Mon Sept 15 | 18 min |
 | 3 | Registration | Riley | Tannersville College, Fri Sept 19; Linwood, Sun Sept 21 | 30 min |
 | 4 | Occasionally Astonishing | Riley | the van, the road to Chattanooga, Sat Oct 11 | 20 min |
 | 5 | Last Shift | Ellis | Roy's garage, Sat Oct 18 | 25 min |
@@ -266,11 +266,11 @@ He drives home the long way, with the green notebook inside his jacket.
 
 ## MISSION 2 — RELEASE DAY
 
-**Playable:** Dean → Riley → Cal → Ellis · **Where:** Tenth Street Records, Laurel City · **When:** Monday September 15, 10 a.m. – 6 p.m. · **Length:** ~25 min
+**Playable:** Dean → Riley → Cal → Ellis · **Where:** Tenth Street Records, Laurel City · **When:** Monday September 15, 10 a.m. – 6 p.m. · **Length:** ~18 min
 
 ### The plan
 
-Dean's idea: go to Tenth Street on release day and watch somebody buy it. Cal came to make sure Dean didn't do anything insane. Roy gave Ellis the day: "It's your record, go on." Mitch has twenty-five copies in the NEW bin by the register and a card in the window: LOCAL · HEARD 'EM FIRST.
+Dean's idea: go to Tenth Street on release day and watch somebody buy it. Roy gave Ellis the day: "It's your record, go on." Mitch has twenty-five copies in the NEW bin by the register.
 
 **MITCH:** You people can't stand in my store all day.
 
@@ -280,11 +280,11 @@ Four two-hour shifts, the switch passing between them at the door. Nobody buys t
 
 ### Dean (10:00 – 12:00)
 
-Dean re-files *Borrowed Stone* in front of *Fleetwood Mac*, then on top of the Eagles in the window. Mitch moves it back each time. The player can talk to every customer, and it goes nowhere. Two girls from the university want to know if he's anybody. ("I'm the drummer." / "Of what?" / "That's a great question.") A man flips past *Borrowed Stone* without stopping.
+Dean re-files *Borrowed Stone* on top of the Eagles in the window. Mitch moves it back. Two girls ask if he's anybody. ("I'm the drummer." / "Of what?")
 
 ### Riley (12:00 – 2:00)
 
-Riley in the classical bins, where nobody under forty goes, holding Bach chorale preludes played on a church organ in Leipzig. The player can buy it ($3.49, for her mother) or put it back. A woman reads the back of *Borrowed Stone* all the way through and puts it down. Riley watches her with her heart going.
+Riley in the classical bins, where nobody under forty goes, holding Bach chorale preludes played on a church organ in Leipzig. The player can buy it ($3.49, for her mother) or put it back. A woman reads the back of *Borrowed Stone* all the way through and puts it down.
 
 **RILEY** *(to Mitch)*: She read the whole back.
 
@@ -292,45 +292,29 @@ Riley in the classical bins, where nobody under forty goes, holding Bach chorale
 
 ### Cal (2:00 – 4:00)
 
-Cal fixes the listening-station headphones on the counter with a pocketknife and electrical tape while Mitch watches with his arms folded.
-
-**MITCH:** That's been broke three years.
-
-**CAL:** Your cord's shot at the strain relief.
-
-**MITCH:** I don't know what that means.
-
-**CAL:** It means it's been broke three years.
-
-He notes the stock in the ledger without being asked (*9/15/75 — Tenth St., 25 on hand at open*) and looks at the NEW bin every time the door opens.
+Cal fixes the listening-station headphones, broken three years, with electrical tape, notes the stock in the ledger (*9/15/75 — Tenth St., 25 on hand at open*), and looks at the NEW bin every time the door opens.
 
 ### Ellis (4:00 – 6:00)
 
 The light's going orange on Tenth Street. The player is Ellis, waiting for a stranger to want something he made.
 
-At 5:40 a woman in a white nurse's uniform under a raincoat goes straight to the NEW bin, takes *Borrowed Stone* without looking at anything else, and carries it to the register. Ellis stops breathing. So does the band, who have all come back and are hiding behind the soul section, badly.
+At 5:40 a woman in a nurse's uniform goes straight to the NEW bin and carries *Borrowed Stone* to the register. Ellis stops breathing. So does the band, hiding behind the soul section, badly.
 
 **MITCH:** Four ninety-eight.
 
-She pays. Dean can't stand it. He comes out from behind the bin.
+Dean comes out from behind the bin.
 
-**DEAN:** Excuse me, ma'am. Can I ask why you bought that one?
+**DEAN:** Ma'am. Can I ask why you bought that one?
 
-**NURSE:** My son asked for it.
+**NURSE:** My son heard it on the college station. He broke his leg on a motorbike, and he's driving me up the wall.
 
-**DEAN:** Where'd he hear it?
-
-**NURSE:** College station. He's in the hospital with his leg. He broke it on a motorbike, he's fine, he's driving me up the wall. He had me write it down.
-
-She shows them the scrap of paper in her pocketbook: *BLAKES — BORROWED STONE — ALBUM NOT THE 45*. Then she looks at the four of them, and at the cover in the bag.
+She shows them the scrap of paper from her pocketbook: *BLAKES — BORROWED STONE — ALBUM NOT THE 45*. Then she looks at the four of them.
 
 **NURSE:** Oh. You're them.
 
 **ELLIS:** Allegedly.
 
-**NURSE:** Would you sign it for him? He'll die.
-
-Ellis signs it with Cal's Parker Jotter; the player chooses the words (default: *To Marcus · Stay off the motorbike · Ellis Blake*). Dean adds a drawing of a drum, Riley signs small in the corner, Cal his full name.
+Ellis signs it for her son with Cal's Parker Jotter; the player chooses the words (default: *To Marcus · Stay off the motorbike · Ellis Blake*). Dean adds a drum, Riley signs small in the corner, Cal his full name.
 
 **NURSE:** Is it any good?
 
@@ -338,7 +322,7 @@ Ellis signs it with Cal's Parker Jotter; the player chooses the words (default: 
 
 **ELLIS:** Some of it.
 
-She laughs and leaves. The bell over the door rings. Nobody says anything for a while.
+She laughs and leaves. The bell over the door rings.
 
 **CAL:** Twenty-four on hand.
 
@@ -354,13 +338,9 @@ In the van, Dean is reading the back cover for the fortieth time.
 
 **ELLIS:** It's a good state.
 
-**DEAN:** That's the most sentimental thing you've ever done.
-
-**ELLIS:** Don't tell anybody.
-
 Riley, in the passenger seat, doesn't turn around.
 
-> **Knowledge.** All four of them raised a glass to Grace at Marlon's in May (Chapter V). Dean knows exactly who G is. He asked so Ellis could say "Georgia," and he let him have it.
+> **Knowledge.** Dean raised a glass to Grace at Marlon's in May (Chapter V). He asked so Ellis could say "Georgia," and he let him have it.
 
 ---
 
@@ -618,7 +598,7 @@ Eddie's fall dates don't leave room for a garage. Ellis told Roy two weeks ago. 
   **MRS. PARDUE:** The Western Auto. They had two.
   **ELLIS:** Who bought the other one?
   **MRS. PARDUE:** I couldn't say. *(Then:)* Are you writing, Ellis?
-  In Chapter I he lied to her. Now: "Yes ma'am" gets "Good." "Some" gets "Some is plenty." Silence gets a long look and the same *hm* as Chapter I.
+  In Chapter I he lied to her. Now: "Yes ma'am" gets "Good." "Some" gets "Some is plenty." Silence gets a long look and the same *I see* as Chapter I.
 
 > **Replay layer.** If the player didn't leave a record on the kitchen table in Mission 1, Wayne bought the other Western Auto copy, and Mrs. Pardue knows it. Either way Wayne has one.
 
@@ -688,7 +668,7 @@ Ellis doesn't know what to do next, so he looks at the shelf. Roy follows his ey
 
 **ROY:** Danny worked that bay. Summer of sixty-six.
 
-Ellis doesn't say anything.
+Ellis turns the check over in his hands.
 
 **ROY:** He couldn't tell a carburetor from a coffee pot. Wanted to be a radio announcer. Talked all day. Talked to the cars.
 
@@ -724,7 +704,7 @@ At the door:
 
 **ELLIS:** I'll try.
 
-**ROY:** Don't try. Just don't.
+**ROY:** That's what they all say.
 
 He waves him out without looking up.
 
@@ -859,7 +839,7 @@ Ellis looks at it.
 
 88.9 is WTCR, the ten-watt college station in Tannersville. The one you can only hear from the top of Stony Knob.
 
-Ellis doesn't say anything. He turns the dial to 97.1.
+Ellis turns the dial to 97.1.
 
 The last chorus of the second play. Through one bad speaker in his father's truck, in the dark, with the dog sitting in the gravel by the door looking up at him.
 
@@ -898,7 +878,7 @@ A pitch. A foul ball.
 
 **ELLIS:** "Still Here."
 
-Wayne doesn't say anything. (He heard that song once, in a funeral home in Tannersville, and asked who it was about, and went white.)
+Wayne watches the pitcher shake off a sign. (He heard that song once, in a funeral home in Tannersville, and asked who it was about, and went white.)
 
 **WAYNE:** Twice?
 
@@ -990,7 +970,7 @@ Cal takes the van. No destination is marked; on the map there's a list in Cal's 
 - **The pawnshop on Tenth Street**, where he looked at a Telecaster for an hour last week. Not here.
 - **The boiled-peanut stand on the Spur**, second in Ellis's rankings. A boy of about fifteen in a homemade THE BLAKES shirt, both E's present: "You're the bass player? Can you give this to Ellis?" A letter addressed ELLIS BLAKE (SINGER). Cal pockets it.
 - **The rail-yard overpass.** Just trains. Cal stands there a minute anyway.
-- **Engineers Park**, closed for the season, the gate open for a groundskeeper mowing the outfield. Cal knows Ellis came here with Wayne on April 12; it's in the ledger. He goes in.
+- **Engineers Park**, closed for the season, the gate open for a groundskeeper mowing the outfield. Cal knows Ellis came here with Wayne on April 12. Ellis told him on the Galveston run. He goes in.
 
 ### The grandstand (Ellis)
 
@@ -1458,7 +1438,7 @@ He thinks about it.
 
 She brings him chess pie and sits across from him for her whole fifteen-minute break.
 
-Then a prompt: *Wash up.* The Starlite bathroom, cold water on his face, and then the film canister comes out, if he took it, or a folded paper packet from his wallet if he didn't; there's always a spare. The player can't stop it. The camera stays on the mirror, on his face. He comes back out wiping his nose and sits down, and Lynette looks at him, and knows, and doesn't say anything, and that's worse.
+Then a prompt: *Wash up.* The Starlite bathroom, cold water on his face, and then the film canister comes out, if he took it, or a folded paper packet from his wallet if he didn't; there's always a spare. The player can't stop it. The camera stays on the mirror, on his face. He comes back out wiping his nose and sits down, and Lynette looks at him, and knows. She doesn't say anything. She slides the pie back in front of him, and that's worse.
 
 > **Design note — dependence.** Until now Dean's using has happened at parties. This is a truck-stop bathroom at suppertime. By November 1975 it isn't a choice Dean is making, so it isn't one the player gets. No music, no slow motion, no cutaway.
 
@@ -1806,7 +1786,7 @@ Clara is in the passenger seat, reading along. She points at her name, a finger'
 
 **CLARA:** I'm in a magazine.
 
-Ellis doesn't say anything.
+Ellis folds the magazine in half.
 
 **CLARA:** "Whoever she is."
 
@@ -1837,7 +1817,7 @@ Riley invited Ellis in October. He said maybe. On Tuesday night, after the artic
 
 Wayne works Thanksgiving; the railroad doesn't stop, and the Blakes haven't done Thanksgiving since 1972 anyway. Ellis told Riley, "We don't really do it," the way you'd say you don't really do golf.
 
-So Ellis is at the Rileys' for the long weekend. He'll sleep in Tommy's room. (Tommy's on his ship.) Tom has already made two jokes about the hallway floorboards and which ones squeak.
+So Ellis is at the Rileys' for the long weekend. He'll sleep in Tommy's room. (Tommy's on his ship. In Norfolk he brought eleven sailors instead of half his ship, and they bought every T-shirt on the table.) Tom has already made two jokes about the hallway floorboards and which ones squeak.
 
 ### The table
 
@@ -1882,7 +1862,9 @@ A small pause.
 
 **JOAN:** No. It doesn't.
 
-Riley flinches at *She's in Ohio*. It's Wayne's sentence, the only one he ever gave his children about their mother, and Ellis says it in his father's exact rhythm.
+Riley flinches at *She's in Ohio*: three flat words and a door shut behind them.
+
+> **Replay layer.** It's Wayne's sentence, the only one he ever gave his children about their mother, and Ellis says it in his father's exact rhythm.
 
 ### The chair
 
@@ -2072,7 +2054,7 @@ The flashlight beam doesn't move a quarter of an inch for the rest of the job.
 
 Around the bend, a pickup comes the other way with its high beams on.
 
-The whole engine bay goes white. Ellis's hands stop. He straightens up, too fast, and his wrist hits the radiator hose, and he turns toward the light with the distributor cap in his hand and doesn't move.
+The whole engine bay goes white. Ellis's hands stop. His body jerks right, away from it, too fast, and his wrist hits the radiator hose, and he stands there with the distributor cap in his hand and doesn't move.
 
 The pickup goes by in a hiss of spray. Its taillights go around the bend.
 
@@ -2100,7 +2082,7 @@ The player gets the dialogue grammar:
 
 - **"What did you say?"** Ellis: "Hold it still." / Riley: "Before that." / Ellis, not looking up, after a second: "I don't know. Hold it still." His ears have gone red. He knows.
 - **"Ellis."** He says "What," and she says "Nothing," and he says "Then hold it still."
-- **Silence.** She holds the light and doesn't say anything, and neither does he.
+- **Silence.** She holds the light, and he works.
 
 The distributor cap goes back on. He clips it.
 
@@ -2374,7 +2356,7 @@ And then Cal speaks anyway.
 
 If the player speaks, Cal says it before Ellis can say the rest. Either way it's the same sentence, said quietly, the way Cal says everything:
 
-**CAL:** Pain doesn't automatically make everything you do important.
+**CAL:** Pain doesn't make everything you do important.
 
 Nobody moves.
 
@@ -2426,7 +2408,7 @@ Dean thinks about that.
 
 **DEAN:** It's a really good joke.
 
-> **The van promise, first breach.** In May the four of them made four promises in the van. Tonight two of them broke: *no band decisions alone* (Cal's, broken by Ellis on Tuesday) and *no treating each other like employees* (Riley's, broken by Ellis this afternoon, with a set list). The other two break in Chapter VIII.
+> **The van promise, first breach.** In May the four of them made four promises in the van. This afternoon two of them broke: *no band decisions alone* (Cal's, broken by Ellis on Tuesday) and *no treating each other like employees* (Riley's, broken by Ellis with a set list). The other two break in Chapter VIII.
 
 ---
 
@@ -2525,7 +2507,7 @@ She's writing a song, and it's about neither Ellis nor her mother. The first lin
 
 > **Setup.** "Occasionally Astonishing" is the first song on Riley's first solo record, in 1979.
 
-At some point the player can have her dial the Blake house. Three rings. A sleep-thick voice: "Hm?" It's Wayne. Riley doesn't say anything. "Hello?" twice. She hangs up, and writes the second line, while the freight's horn goes on and on across the trestle.
+At some point the player can have her dial the Blake house. Three rings. A sleep-thick voice: "Hm?" It's Wayne. Riley holds her breath. "Hello?" twice. She hangs up, and writes the second line, while the freight's horn goes on and on across the trestle.
 
 ### Dean
 
@@ -2541,7 +2523,7 @@ The horn carries west, sixty miles, to the Laurel Gap, where a freight is rollin
 
 **LYNETTE:** Go to Cal's.
 
-**DEAN:** Cal's at his mama's.
+**DEAN:** Cal left a note. He's at his mama's.
 
 She sets down the ketchups.
 
@@ -2619,7 +2601,7 @@ A truck stop near Wytheville at 11 p.m. Cal has driven eight hours. He's falling
 
 **ELLIS:** I'll drive.
 
-Cal looks at him. The player, as Cal, has the choice, and Cal knows what happened the last time Ellis drove someone at night.
+Cal looks at him. The player, as Cal, has the choice, and Cal has heard from Dean what happened the last time Ellis drove someone at night.
 
 - **Give him the keys.**
 - **"I'm fine."** Ellis waits. Cal nearly falls asleep standing up. Riley says, "Cal. Let him." The prompt comes back with one option in it.
@@ -2674,7 +2656,7 @@ Near Staunton, a little after two, she tells him it's Wednesday now and to quit 
 
 **DJ** *(on the radio)*: …a band out of Georgia I don't know one thing about, except that my phone won't stop ringing when I play it. So here it is again.
 
-"Still Here," through one speaker in the dash, four hundred miles from home, in a state none of them has ever set foot in.
+"Still Here," through one speaker in the dash, four hundred miles from home, on a station out of a city none of them has ever seen.
 
 Ellis reaches over and turns it down, so it won't wake them.
 
@@ -2693,6 +2675,8 @@ Dean wakes up and screams, and everybody wakes up.
 Ellis, driving, doesn't look for a long time, because he's driving. Then he does.
 
 The Lincoln Tunnel. Tile walls, fumes, the long curve. Then light, and they're in it.
+
+> **Checkpoint.** M19 runs about an hour, so it saves at the Lincoln Tunnel. A player who stops after the night drive comes back at the tunnel's New York mouth, in daylight, with the city ahead.
 
 ### The city
 
@@ -2737,7 +2721,7 @@ The set is the one on the receipt and on Cal's list:
 - **"No Name,"** into **"Low Water."** The room keeps talking.
 - **"Sunday Clothes."** Riley's lead. This is where it turns, if the player has the band facing inward: Nina Sorensen puts her pen down; the talking at the front tables stops, then the bar. The player, as Riley, controls her phrasing and harmony choices, and the song, in this room, is entirely hers. If the player wants it, she takes the new ending from Cutler Street: the band drops out, and the room holds still for her last line.
 - **"Still Here."** Before it, the player, as Ellis, can say "This one's for Clara," or not. (If he does, Dex, at the bar, grins into his drink.)
-- **"Tomorrow Problem."** The waitresses by the kitchen door know it from the Washington station and shout the tomorrow part, and the bartender joins them, and a man from Monarch looks around and then shouts it too, embarrassed.
+- **"Tomorrow Problem."** The waitresses by the kitchen door have the tomorrow part by the second chorus and shout it, and the bartender joins them, and a man from Monarch looks around and then shouts it too, embarrassed.
 - **"Stony Knob."**
 - **"Shape Note,"** five minutes, because Cal said.
 
@@ -2817,7 +2801,7 @@ A plain white envelope. Blue ink. A looping, careful hand the player hasn't seen
 
 A small printed return-address label: *L. HUBBARD · 118 MAYFAIR DR · DAYTON, OHIO 45405.* Postmark: DAYTON OH, NOV 29 1975.
 
-When Ellis looks up from it, the other side of the booth is empty. Clara hasn't gone out a door or around a corner, the way she usually leaves. She isn't in the booth anymore. Her help goes with her: until the Bowery, nobody tells the player where to look or which way to walk.
+Ellis looks up from it, straight at her, and in the same frame the other side of the booth is empty. Clara hasn't gone out a door or around a corner, the way she usually leaves. She isn't in the booth anymore. Her help goes with her: until the Bowery, nobody tells the player where to look or which way to walk.
 
 The player gets three options:
 
@@ -2952,7 +2936,7 @@ Older lines ("Eyes on the road," "Eat your eggs") work the same way; the sharpes
 *Borrowed Stone* (the monument-yard cover; "for G."). The green leather notebook (blank). The HOME OF THE BLAKES sign. Wesley's one-E shirt. The ELLIS work shirt. The matchbook marked *11:47*. The FM converter on 88.9. Kevin's letter. Dean's initials and *to be paid in full*. The ice bucket in the hall. *Rave*, January 1976. Tom's pencil note: HARMONY IS NOT DECORATION. *The Sacred Harp* on Joan's piano. The folded registration form. Joan's dish towel. Wayne's twenty. The Western Auto receipt set list. Patty's violet envelope and Ellis's reply. The leather jacket. Lorraine's letter. The photograph.
 
 ### Language introduced
-"Allegedly" (and Donna Kay can't spell). "November's fine." "Four ninety-eight." "Occasionally astonishing." "Scheduling." "Keep the shirt." "Don't become an asshole." "Your sister would've liked it." "Bass is buried" (Cal, now). "This one's for Clara." "Old friend." / "Old?" "Are they doing that for us?" / "Yes." "It's ours." "Divides by nine." "Dad's got a girlfriend." "He seems all right." "Harmony is not decoration." "Your mama set a place." "After New York." "I love you, hold it still." "Loud." / "I liked it." "Mine cost something." "Pain doesn't automatically make everything you do important." "I know more than you—" "Yes I do." "Keep going." "The franchise." "Don't smile."
+"Allegedly" (and Donna Kay can't spell). "November's fine." "Four ninety-eight." "Occasionally astonishing." "Scheduling." "Keep the shirt." "Don't become an asshole." "Your sister would've liked it." "Bass is buried" (Cal, now). "This one's for Clara." "Old friend." / "Old?" "Are they doing that for us?" / "Yes." "It's ours." "Divides by nine." "Dad's got a girlfriend." "He seems all right." "Harmony is not decoration." "Your mama set a place." "After New York." "I love you, hold it still." "Loud." / "I liked it." "Mine cost something." "Pain doesn't make everything you do important." "I know more than you—" "Yes I do." "Keep going." "The franchise." "Don't smile."
 
 ### The van promise ledger
 | Clause | Whose | Broken |

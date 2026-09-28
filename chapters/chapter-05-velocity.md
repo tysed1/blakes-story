@@ -190,7 +190,7 @@ A pause. Dean looks at him. He realizes Ellis isn't joking.
 
 **ELLIS:** I'd be a hell of an accountant.
 
-Dean laughs. It lands anyway. Dean has never had to look at his father through somebody else's eyes before, and these eyes were hungry.
+Dean laughs. It lands anyway. Dean has never had to look at his father through somebody else's eyes before.
 
 > **Seed.** Each envies the other's father. Neither can have the other's life. That will come back.
 
@@ -466,9 +466,9 @@ Within about forty-seven minutes of leaving Vale's, Cal's beautiful schedule mea
 
 **CAL:** We've been touring for forty-seven minutes.
 
-**DEAN:** And we're already making memories.
+**DEAN:** And we're having the time of our lives.
 
-**CAL:** I'm making an ulcer.
+**CAL:** I'm having an ulcer.
 
 ### Leaving the map
 
@@ -610,17 +610,7 @@ Cal stops.
 
 **CAL:** We're working.
 
-**DEAN:** We already played.
-
-**CAL:** Touring is work.
-
-Dean laughs.
-
-**DEAN:** Jesus Christ.
-
-**CAL:** What's funny?
-
-**DEAN:** You finally get into a rock band and you're trying to turn it into a savings and loan.
+**DEAN:** We already played. You finally get into a rock band and you're trying to turn it into a savings and loan.
 
 **CAL:** Better than an excuse.
 
@@ -914,7 +904,7 @@ On a long right-hand curve, a pickup comes around the bend with its high beams o
 
 Then, for twelve frames, too fast to read:
 
-A small hand flat on a dashboard. A child's hand, a teenager's, green felt-tip ink on the knuckles. Rain on a windshield. A different windshield.
+A girl's hand flat on a dashboard, green felt-tip on the knuckles. Rain on a windshield. A different windshield.
 
 Gone.
 
@@ -996,7 +986,7 @@ That isn't entirely true. Some part of Ellis wants ordinary more than anything: 
 
 They wait another twenty minutes. Then Dean drives the rest of the way, carefully, which is new, and Ellis sleeps sitting up in the passenger seat with his forehead against the cold window.
 
-> **Replay layer.** The hand on the dashboard is Grace's. She drew on her knuckles in green felt-tip. Ellis just swerved right on a wet curve toward a pickup with its high beams on. The player, on a first playthrough, has seen a strange flash and a tired boy nearly go off the road.
+> **Replay layer.** The hand on the dashboard is Grace's. She drew on her knuckles in green felt-tip. Ellis just swerved right on a wet curve, away from a pickup with its high beams on. The player, on a first playthrough, has seen a strange flash and a tired boy nearly go off the road.
 
 ### The exam (Riley)
 
@@ -1054,7 +1044,7 @@ He finally says it.
 
 **DEAN:** I don't want your life.
 
-Richard goes still. It's a deeply hurtful thing to hear. Dean knows immediately. He doesn't take it back.
+Richard goes still. Dean knows immediately. He doesn't take it back.
 
 **RICHARD:** You think I wanted it at twenty?
 
@@ -1110,7 +1100,7 @@ She holds one up: a Louvin Brothers album, *Tragic Songs of Life*, the one with 
 
 **CLARA:** No I don't. Look at them. Two men selling burial insurance.
 
-**ELLIS:** You literally told me—
+**ELLIS:** You told me your own self—
 
 He stops. When? He can't remember. He can remember her saying it, the exact tone, and he cannot remember when.
 
@@ -1292,41 +1282,41 @@ The Blakes' name is alone on the printed poster this time, in big type. Dean ste
 
 ### The first interview
 
-Before the show, in the green room with the untouched fruit, a journalism student from the state university paper (a serious young woman named Denise with a cassette recorder and a steno pad) interviews the band. It's their first interview and it's played as an interactive scene: Denise asks questions, and the player chooses which member answers (by moving the camera to them), and each answers in character.
+Before the show, in the green room with the untouched fruit, a journalism student from the state university paper (a serious young woman named Paula with a cassette recorder and a steno pad) interviews the band. It's their first interview and it's played as an interactive scene: Paula asks questions, and the player chooses which member answers (by moving the camera to them), and each answers in character.
 
-**DENISE:** Where did the name come from?
+**PAULA:** Where did the name come from?
 
 *(Any member can take it. Dean's answer is the canonical one:)* **DEAN:** Me. **ELLIS:** Unfortunately.
 
-**DENISE:** Who writes the songs?
+**PAULA:** Who writes the songs?
 
 **CAL:** All of us. **DEAN:** Mostly Ellis. **RILEY:** It depends on the song. **ELLIS:** *(if the player chooses him)* We all do. "Low Water," all four of us. It says so on the record.
 
-**DENISE:** Are Ellis and Riley together?
+**PAULA:** Are Ellis and Riley together?
 
 **DEAN** *(immediately):* Yes.
 
 **RILEY:** *Dean.*
 
-Denise laughs.
+Paula laughs.
 
 **ELLIS:** Next question.
 
-**DENISE:** What kind of music is it? Psychedelic?
+**PAULA:** What kind of music is it? Psychedelic?
 
 **CAL:** Sometimes.
 
-**DENISE:** Hard rock?
+**PAULA:** Hard rock?
 
 **DEAN:** Definitely.
 
 **RILEY:** Not always.
 
-**DENISE:** Progressive?
+**PAULA:** Progressive?
 
 **ELLIS:** I don't know what that means.
 
-**DENISE:** What would you call it?
+**PAULA:** What would you call it?
 
 Silence.
 
@@ -1346,7 +1336,7 @@ Dean groans.
 
 It's funny now. Decades later critics will invent genre names for them.
 
-**DENISE** *(last question, to Ellis)*: People seem especially interested in your lyrics. Where does all the darkness come from?
+**PAULA** *(last question, to Ellis)*: People seem especially interested in your lyrics. Where does all the darkness come from?
 
 Ellis's smile goes, slightly.
 
@@ -1402,7 +1392,7 @@ He does.
 
 Tannersville. The record store on the Row where, in December, the owner told Cal *we don't carry that kind of thing*. Its front window now has a hand-lettered card that says **LOCAL — AS HEARD ON WLSU & WTCR**, and under it, standing up in its white sleeve, the 45. THE BLAKES, stamped crooked.
 
-Dean sees it first and stops everyone on the sidewalk. Nobody says anything.
+Dean sees it first and stops everyone on the sidewalk.
 
 Riley touches the glass.
 
@@ -1420,11 +1410,11 @@ Ellis looks at the record in the window for a long time.
 
 **ELLIS:** I'd like to file a complaint about the stamping.
 
-**DEAN:** It's artisanal.
+**DEAN:** It's folk art.
 
 **CAL:** It's crooked.
 
-**DEAN:** Artisanally.
+**DEAN:** Crooked folk art.
 
 ### The Exit
 
@@ -1442,7 +1432,7 @@ Then everything opens.
 
 The song ends. Two seconds of silence. Then enormous applause.
 
-Ellis looks overwhelmed. For years his most private, impossible experience has isolated him. Now four hundred strangers are applauding a song made of it. They don't know what it's about. They feel it anyway. To Ellis, that distinction almost doesn't matter.
+Ellis looks overwhelmed. For years his most private, impossible experience has isolated him. Now four hundred strangers are applauding a song made of it. They don't know what it's about. They feel it anyway.
 
 ### After
 
@@ -1522,13 +1512,11 @@ Morning. Ellis comes into the kitchen. Wayne's at the table with coffee. On the 
 
 Ellis looks at the pie. At the card. At Wayne, who is reading the sports page with enormous concentration.
 
-In March, Wayne had said, looking at the ticket book on the refrigerator, *"We'll go Saturday the twelfth. That's opening day."* And Ellis had gone very still and said *"The twelfth,"* and Wayne had said *"That's opening day,"* again, and that was all. The player saw it (a two-line exchange in the kitchen in Mission 7's week) and didn't know why it mattered.
-
 **WAYNE:** We going or not?
 
 **ELLIS:** We're going.
 
-> **Replay layer.** April 12 is the day Grace died. It's the second anniversary. Ada Tolliver (whose farm Grace was driving home from) sends a pie every year. Nobody in this house has ever eaten one. Wayne chose this date for the ballgame out of the whole month. He couldn't say why. He didn't have to. On a first playthrough, the player sees a pie, a card, and two men not mentioning something.
+> **Replay layer.** April 12 is the day Grace died. It's the second anniversary. Ada Tolliver (whose farm Grace was riding home from) sends a pie every year. Nobody in this house has ever eaten one. Wayne chose this date for the ballgame out of the whole month. He couldn't say why. He didn't have to. On a first playthrough, the player sees a pie, a card, and two men not mentioning something.
 
 ### The drive
 
@@ -1688,8 +1676,6 @@ The argument works either way. Riley sits with it.
 
 **HANNAH:** You can't have both that Thursday.
 
-That's Riley's whole arc: two things she loves, both needing the same hour.
-
 ### She decides
 
 Riley doesn't tell Ellis. Ellis doesn't pressure her; she knows what he'd say, or thinks she does, and she makes the decision herself.
@@ -1834,7 +1820,7 @@ Dean looks at him. Then laughs.
 
 **CAL:** That isn't the point.
 
-**DEAN:** It's literally my job.
+**DEAN:** Playing's my job.
 
 **CAL:** Your job is to show up before the fucking show.
 
@@ -1894,7 +1880,7 @@ Dean looks away.
 
 They play anyway. Of course they do. Cal with a swollen nose and a bruise coming up under one eye; Dean with a split lip that opens again on the second song. Three thousand people in a civic auditorium who came to see Galveston think it looks tough. They cheer when Dean spits blood into a towel between songs.
 
-They have no idea. That's a recurring motif of fame: the audience turns private damage into image.
+They have no idea.
 
 ### After
 
@@ -2054,7 +2040,7 @@ Ellis smiles.
 
 **ROY:** Good.
 
-Roy genuinely wants him to succeed. That's going to make leaving the garage hurt.
+Roy genuinely wants him to succeed.
 
 ---
 
@@ -2122,7 +2108,7 @@ Cal immediately starts reading every word of the typed draft.
 
 **DEAN:** Same thing.
 
-**CAL:** Those are catastrophically different things.
+**CAL:** Those are different things.
 
 Vance smiles.
 
@@ -2372,6 +2358,8 @@ They drink.
 
 Ellis looks down the bar. Clara is standing at the far end by the cigarette machine, and she isn't smiling.
 
+Somebody puts a quarter in the jukebox for the 45, and "No Name" comes on. Clara hums the high part under Riley's recorded one, and for one chorus the player can hear both.
+
 ### What's wrong?
 
 After closing. Everyone else has gone. Riley went home with Hannah. Marlon's mopping behind the bar and has turned the jukebox off. Ellis is sitting in a booth with the last of a beer, and Clara is sitting across from him.
@@ -2460,11 +2448,11 @@ Her voice has never come without her before.
 
 **ELLIS:** Clara?
 
-Nothing. Then, behind him:
+Nothing. Then, across the street:
 
 **CLARA:** What?
 
-He turns. She's there, under the streetlight, completely normal, her hands in her jacket pockets.
+He turns. She's there, walking back from the depot under the streetlight, completely normal, her hands in her jacket pockets.
 
 He stares at her.
 
@@ -2516,9 +2504,7 @@ He freezes.
 
 **CLARA:** You know.
 
-That phrase. *You know.*
-
-Ellis's breathing changes. The screen doesn't distort; the sound does, just slightly, like a room with the doors closing. Then twelve frames, faster than on the mountain road:
+Ellis's breathing changes. The screen doesn't distort; the sound does, just slightly, like a room with the doors closing. Then twelve frames again, cut faster than on the mountain road:
 
 A windshield, broken into a web, rain coming through it. A girl's laugh, from a car seat, before. A green felt-tip hand. Headlights.
 
@@ -2562,7 +2548,9 @@ The defense protects itself through Ellis's guilt. He steps toward her.
 
 **ELLIS:** I'm sorry. I'm sorry.
 
-He says it the way people say it who have been saying it for years. The player may notice it's the phrase Riley isn't allowed to say to him.
+He says it the way people say it who have been saying it for years.
+
+> **Replay layer.** On the quad in II M7 he told Riley she didn't have to keep saying sorry.
 
 Clara puts her arms around him. From Ellis's side: real. Warm. A person. Her hair against his face, the jacket, the horse patch pressed against his shirt.
 
@@ -2582,13 +2570,17 @@ His arms wrapped around nothing. His head bowed onto nobody's shoulder. His hand
 
 No character sees this. Only the player, who is still holding.
 
-> **This is the first objective camera shot in the game that shows the truth.** No horror sting, no distortion, no music at all: just a freight horn, very far down the valley, two longs, a short, a long. The player has spent five chapters (twenty-five hours) seeing Clara through Ellis. Now the camera stands across the street, and she isn't there. Every piece of help the player took from her in I–V (the hum, the directions, the day of the week, the reads on people) is recast by the empty seat in the booth and the empty street; and the player who guessed early guessed the tabloid version ("his dead sister's ghost"), which VIII–IX correct: Grace was fourteen, and Clara is twenty-one, with their mother's face and their grandmother's name.
+> **This is the first objective camera shot in the game that shows the truth.** No horror sting, no distortion, no music at all: just a freight horn, very far down the valley, two longs, a short, a long. The player has spent five chapters (about twenty-six hours) seeing Clara through Ellis. Now the camera stands across the street, and she isn't there. Every piece of help the player took from her in I–V (the hum, the directions, the day of the week, the reads on people) is recast by the empty seat in the booth and the empty street.
 
 ### Do not explain it
 
 No text, no diagnosis, no flashback, no voice-over.
 
 Let the player sit in it. The wide shot lasts exactly as long as the player keeps holding. There's no timer; the player chooses when to let go. When they release, far off under the streetlight, Ellis's arms open around nothing and come down to his sides. Then the camera returns to Ellis, close, and Clara is there again, stepping back from him and wiping her face with her jacket cuff, because the camera is with Ellis again, and the player now knows exactly what that means.
+
+**CLARA:** It's Saturday.
+
+Wiping her face, still keeping his calendar.
 
 Fade.
 
@@ -2641,7 +2633,7 @@ The best day he and Ellis have had in two years happened on the anniversary of G
 | The phantom harmony on the radio; Ellis says nothing to anybody | Ellis mishearing | Auditory perception; ideas of reference | subliminal |
 | "Not in the rain." Then, alone at the parked van: "Slow down." / "I'm parked." | A worried friend | The car | subliminal |
 | The green-ink hand on a dashboard | A strange flash | Grace, in the Impala | invisible→visible later |
-| The Louvin record: "You literally told me—" | He forgot when | Grace | subliminal |
+| The Louvin record: "You told me your own self—" | He forgot when | Grace | subliminal |
 | "Still Here": "Nobody here knows you." | A song about a friend from somewhere else | Nobody but Ellis has ever met her | visible (post-midpoint) |
 | Ellis looks past Riley; nothing there (Riley's POV) | ? | First withheld perception | visible |
 | Mouthing the first verse in the Lantern wings | A friend who knows the song | It's their conversation; she knows it because he does | subliminal |
@@ -2661,6 +2653,7 @@ Until M16 the player trusts it. After the pull-back, every piece of it (in I–V
 | M7, late | "Put the alley in it." | writing "Still Here" | mildly: toward her |
 | M7, the kitchen | "Pick another Saturday. That book's good for any game in April." | the calendar; the ticket book | **yes**: away from April 12. Ellis doesn't take it |
 | M8 | "Riley held that chord for you. Wind hers too." | a read on Riley; load-out | no |
+| M16, after the pull-back | "It's Saturday." | the calendar: her first help after the truth | no |
 
 **Test.** M1, midnight: "Pull." / "I'm not your mama." Optional; it counts toward `clara_tests`. At M16, three or more tests across I–V put one line in the notebook after the fade: *I kept asking her to prove it and she kept not.*
 

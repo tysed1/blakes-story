@@ -91,7 +91,7 @@ Distances are real-scale. Level design may compress them (bible §3.1) as long a
 |---|---|---|---|
 | VIII14_CLA_001 | CLARA | Not that way. | A direction, the way you'd give one ("Left at the church."). Boots on the dash, eyes on the road ahead. Match her I M1 read of the same line. There's nothing extra in it tonight. |
 
-`SYS:` This is help (bible §11.8: directions), and it's biased, away from the Bend. It's the first of her help that fails.
+`SYS:` This is help (bible §11.8: directions), and it's biased, away from the Bend. He refuses it.
 
 **Node N14.1a · the turnoff** (repeatable; sets `tolliver_passes`)
 
@@ -102,17 +102,17 @@ Distances are real-scale. Level design may compress them (bible §3.1) as long a
 
 `SYS:` A turn taken from the south is a right turn. Everything below runs the same.
 
-`CAM (Ellis):` He turns anyway. His head leads into the turn, as a driver's does. The headlights swing across the green county sign, TOLLIVER RD, and the road narrows to a strip of old asphalt with no center line, between fences and dark pasture, going south and down toward the South Fork.
+`CAM (Ellis):` He turns anyway. His head leads into the turn, as a driver's does. The headlights swing across the green county sign, TOLLIVER RD, and the road narrows to a strip of old asphalt, its center line worn down to a dash here and there, between fences and dark pasture, going south and down toward the South Fork.
 `SYS:` During the turn, with the passenger out of frame, she changes from Clara (21) to Grace (14) under the rules in 14.3. If the player holds the view on her through the turn, the change waits for their first look away.
 `SYS:` `tolliver_road_driven = true`.
 
 ### 14.2 · WHO'S IN THE CAR · THE TURN TO THE FIRST BEND · 7:00 P.M.
 `SYS:` Look 1, age 14. The look rules and the fallback glance are in 14.3.
 `CAM (Ellis):` There's someone else in the passenger seat.
-- A girl of fourteen, in a jean jacket that fits her, a child's size, with a horse sewn on the pocket, crooked.
-- Muddy riding boots. A ponytail.
+- A girl of fourteen in a 4-H sweatshirt with the sleeves pushed up, hay on her jeans.
+- Muddy riding boots. A ponytail. No jacket.
 - She's turned to her window, looking out at the pastures: a fourteen-year-old who's been riding all afternoon and is annoyed about something.
-- Grace. The same likeness and clothes as the M13 school picture and the IX M6 Impala. She's dry tonight; in IX M6 she's wet.
+- Grace. The same likeness as the M13 school picture and the IX M6 Impala, but not IX's clothes: the jean jacket that fits her, a child's size, is IX's image of her at fourteen (IX M6, IX M14), and M14 doesn't spend it. She's dry tonight; in IX M6 she's wet.
 
 `SYS:` 3 s after the change, whether or not the player has looked, Ellis rolls his window down an inch without thinking about it. She smells like a horse. His left hand goes to the crank, one inch, and back to the wheel. The camera stays on the road. The window stays down an inch until Pickens.
 `SYS:` GRA_010 plays 6 s after the change, or once the player's first look has held for 1 s, whichever comes first.
@@ -138,7 +138,7 @@ The next two lines play whichever option was taken. Neither answers him.
 | VIII14_GRA_011 | GRACE | Dolly threw a shoe. Mr. Tolliver said he'd get it Monday. | News from her afternoon, told as a grievance. Still mostly to the window. |
 | VIII14_GRA_012 | GRACE | You're gonna be late. | Singsong, pleased about it, and not sorry. |
 
-- `SYS:` 4–6 s between the lines, the way she'd have said them on a Thursday three years ago, in this car's older brother. If the player drives fast the gaps shrink.
+- `SYS:` 4–6 s between the lines, the way she'd have said them on a Thursday three years ago, in their daddy's Impala. If the player drives fast the gaps shrink.
 - `SYS:` All three Grace lines finish before the church. They may run past the first bend: she's fifteen by then, and the voice doesn't change.
 - Nothing more is said until the farm. The Tolliver farm is two miles ahead.
 
@@ -149,14 +149,14 @@ Every time the player looks at the passenger seat, she's older. The player can't
 
 | Look | Age | Where | What the player sees |
 |---|---|---|---|
-| 1 | 14 | after the turn | Grace, as in 14.2. |
-| 2 | 15 | at the first bend | Her hair longer. Nothing else the player can name. (18 §6: the player should doubt the first change.) |
-| 3 | 16 or 17 | past the church | The jacket is bigger now, a grown-up jacket, the same one: the same horse, the same crooked stitching, the same pocket. The face is halfway. One build that reads as either age; don't settle it. |
+| 1 | 14 | after the turn | Grace, as in 14.2: the 4-H sweatshirt, sleeves pushed up, hay on her jeans. |
+| 2 | 15 | at the first bend | Her hair longer, the same sweatshirt. Nothing else the player can name. (18 §6: the player should doubt the first change.) |
+| 3 | 16 or 17 | past the church | The jacket's on her now, the horse on the pocket, a grown-up size: the same horse, the same crooked stitching, the same pocket as Clara's. The face is halfway. One build that reads as either age; don't settle it. |
 | 4 | 19 | at the Tolliver farm | Behind her, through her window: lights on in the farmhouse, Floyd's green truck in the yard, the empty paddock where Dolly stood for twenty years. Her face most of the way to Clara: the girl on the church steps in M13's wedding portrait, with Grace's eyes. |
 | 5 | 21 | between the farm and the Bend | Clara. Dark hair to her shoulders, Lorraine's cheekbones, Grace's eyes, the gap, Grace's jacket in an adult size, Ellis's red flannel under it. Boots up on the dash. |
 
-- Carried through all five: the gap in her front teeth, Grace's gray-green eyes, the crooked horse patch.
-- Under the jacket she wears a shirt of Grace's until 21, when it's his red flannel.
+- Carried through all five: the gap in her front teeth and Grace's gray-green eyes. The crooked horse patch only from 16 or 17, when the jacket arrives.
+- At 14 and 15 there's no jacket, only the sweatshirt. From 16 or 17, under the jacket, she wears a shirt of Grace's until 21, when it's his red flannel.
 - `SYS:` Each look the player makes adds 1 to `tolliver_looks` and adds that age to `tolliver_ages_seen`. Fallback glances (below) add nothing.
 
 `SYS:` Between look 4 and look 5, with the passenger out of frame and Ellis looking at the road, she says one more thing, in Grace's voice.
@@ -200,7 +200,7 @@ Every time the player looks at the passenger seat, she's older. The player can't
   - Z3, the church to the farm: 16 or 17.
   - Z4, the farm to the end of GRA_020: 19.
   - Z5, from there to the Bend: 21.
-- **Repeat looks in one zone.** The chapter says every look finds her older, so a second look in the same zone finds her a half-step further toward the next age (hair, jacket fit, face blend). She never reaches the next age inside a zone. In Z5 she's Clara and stays Clara.
+- **Repeat looks in one zone.** The chapter says every look finds her older, so a second look in the same zone finds her a half-step further toward the next age (hair, face blend and, from Z3, the jacket's fit). She never reaches the next age inside a zone. In Z5 she's Clara and stays Clara.
 - **Fallback glance.** The five ages are the mission's reveal (the chapter's clue ledger marks it *revealed*), so they mustn't be missable.
   - If the player hasn't looked in a zone by the point where that zone's glance is due, Ellis glances on his own. Due points: Z1, 2 s after GRA_010; Z2 and Z3, the zone's midpoint; Z4, before GRA_020's window opens; Z5, before the HENSLEY mailbox.
   - The fallback uses the same head-turn speed and angle as the player's look, holds 1.2 s, and goes back to the road.
@@ -282,7 +282,7 @@ Every time the player looks at the passenger seat, she's older. The player can't
 | VIII14_CLA_034 | CLARA | Right here. | To the scar, off his eyeline. Placing it, the way you'd say where you parked. Don't underline it; the player does that. (18 §7 names this line as one of the three things M14 must get right.) |
 
 `SYS:` After a 2 s beat, Ellis sits down on the clay with his back against the oak, under the scar. No timer from here on.
-`CAM (Ellis):` Clara sits down beside him, not touching him. She never touches anything, and her back doesn't touch the trunk either.
+`CAM (Ellis):` Clara sits down beside him, not touching him. She never moves anything, and her back doesn't touch the trunk either.
 - She sits only in view, in one continuous move. If she's out of frame when he sits, she stays standing until the player's view finds her, then comes over and sits. (Rule 12: never closer between cuts.)
 
 8 s after she sits:
@@ -359,7 +359,7 @@ Every time the player looks at the passenger seat, she's older. The player can't
   - "Rain on Tolliver Road (Mar 20)" in `11-open-world-evolution.md` is M15's rain at Pickens.
 - **Engine and road.**
   - The Valiant's slant-six: a slow, honest car. Dry tires.
-  - On Tolliver Road the tire note turns coarser (old asphalt, no center line), with grit at the edges.
+  - On Tolliver Road the tire note turns coarser (old asphalt, its center line worn down to a dash here and there), with grit at the edges.
   - From 14.2, the inch of open window on Ellis's side: a thin, steady hiss of air on the left.
   - At the Bend, engine off: the block and exhaust ticking as they cool, dying away over about three minutes.
 - **Radio.** None.
@@ -455,18 +455,18 @@ Every time the player looks at the passenger seat, she's older. The player can't
   - Record GRA_011 in the same session as IX M6's "Dolly threw a shoe. Mr. Tolliver had to hold her." Read the shared first sentence the same way both times; IX pays it.
   - Keep the contractions as written. M14's "Daddy'll" is hers; IX M6's "Daddy'd" is Ellis's. Don't make them match.
   - She must sound like a real fourteen-year-old, and specifically not like Clara (bible §6.2).
-  - Capture: looks 1 and 2. Fifteen is the same face with longer hair.
+  - Capture: looks 1 and 2, in the 4-H sweatshirt with the sleeves pushed up, hay on her jeans, muddy riding boots, no jacket. Fifteen is the same face with longer hair, in the same sweatshirt.
   - Look 3 (16 or 17) is a blend of the two actors' scans, in the grown-up jacket.
 - **The aging, for makeup and VFX.**
   - Five held idle poses, one per look.
-  - The half-steps between them are blends of hair length, jacket fit and face.
+  - The half-steps between them are blends of hair length, face and, from look 3, jacket fit. The sweatshirt gives way to the jacket between looks 2 and 3, on a look-away like every other change.
   - No transition asset.
   - Subtle age makeup and VFX (18 §6). The first change should leave the player unsure they saw it.
 - **Ellis's actor.**
   - Record ELL_010 and ELL_011 in the car shell with Grace's actor in the seat if the schedule allows. It's the brother bit coming back on reflex, played at nineteen. Don't pitch up to sound sixteen.
   - The oak lines are plain and busy-minded, not brooding (18 §2). No tears are written, so don't add them.
   - Efforts: the window crank, getting out, the sit, buttoning the jacket, the hand on the trunk to rise.
-- **Wardrobe.** Ellis's jacket must button: the line says so.
+- **Wardrobe.** Ellis's jacket must button: the line says so. Grace at 14 and 15 wears a 4-H sweatshirt, sleeves pushed up, and jeans with hay on them. The jean jacket with the horse on the pocket first appears at look 3, in a grown-up size. The child-size jacket belongs to IX (M6, M14) and isn't used in M14.
 - **The rain rig: off.** M14 is dry (see Audio).
   - Keep the rain machine off for every M14 session, including car-shell days shared with IX M6 or with X M8's 1973 stems, which are both wet.
   - Record M14 first, or re-dress the shell dry: no wet glass, no drip, no wipers.

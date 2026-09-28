@@ -53,10 +53,10 @@
 | Ch | Beat |
 |---|---|
 | I–II | The Martin D-18; the dorm; harmony found in a bar; rules; "Professor." |
-| III | The WTCR session; the farmhouse (she gives Ellis the tea); Joan: "Who's got the melody?" |
+| III | The WTCR session; the farmhouse (she's there when he takes the tea); Joan: "Who's got the melody?" |
 | IV | Room 12 ("Riley does things"); the kiss; Ellis tells her about Grace. |
 | V | "Saturday Bach" (she writes "Sunday Clothes" in a back pew); the missed exam; "Can I meet her?" |
-| VI | Edinburgh declined; arranging "Sunday Clothes" and arguing Cal out of every verse; the Pasture switch (she can't see Clara); "I'm scared. There's a difference."; her hand on the glass. |
+| VI | Edinburgh declined; arranging "Sunday Clothes" and arguing Cal out of every verse; the Pasture (she holds out the jar; then the switch, and she can't see Clara); "I'm scared. There's a difference."; her hand on the glass. |
 | VII | The registration form, filled in and folded; Oberlin, 1949; her song credited to Ellis; "Margaret"; the girl in the band (*Rave*); HARMONY IS NOT DECORATION; the seventh chair; "I love you, hold it still"; "Occasionally Astonishing" begun. |
 | VIII | "Sing it right": she gives her song to his voice, by her own consent; her harmony (or silence) under it; Nina's piece; the trip that loops her own hand; she stops; she drives to Wayne; "Stay there"; "Name one more thing it has to be after." |
 | IX | Swims every morning; her mother leads "Holy Manna" in the Tabernacle; counts the pills; "I can't watch you choose her"; leaves the house, keeps the band; plays him her song on a dock. |
@@ -95,7 +95,7 @@
 | X | "Is she here?" / "Yeah." / "Okay."; the vote; "What day is it?"; holds the flashlight in the gap. |
 | Ep. | The list on the dresser; the empty shares column; tells Marlon he kept it; cries once, in the van under the tarp; Mercer Sound; "He wasn't so bad." |
 
-**Turning points.** *Clara?* struck through (IV). The promise to Marlon (VI M16). "Pain doesn't automatically make everything you do important" / "I know more than you—" (VII M17). "She isn't real, Ellis" (VIII M7). "Theo's mine" (VIII M8). The bass high up the neck (IX M9).
+**Turning points.** *Clara?* struck through (IV). The promise to Marlon (VI M16). "Pain doesn't make everything you do important" / "I know more than you—" (VII M17). "She isn't real, Ellis" (VIII M7). "Theo's mine" (VIII M8). The bass high up the neck (IX M9).
 
 **Last lines.** To Ellis: "Okay." (X M1). To Marlon: "I never told him it was you." In 1996: "He wasn't so bad."
 

@@ -145,14 +145,14 @@
 |---|---|
 | Sleep | Can't sleep past 1 a.m. (V M7). Sleeps sitting up in the van after the Laurel Gap swerve (V M5). |
 | Substances | Beer (V M1, V M16). No drug use by Ellis shown. Drives the van sober on Feb 26 while Dean comes down (V M5). |
-| Clara | Windowsill at Christmas ("Liar," V M1). A girl's voice singing harmony on the radio, gone on playback (V M4). "Not in the rain." / "Slow down." / "Keep it under forty-five" at the parked van (V M5). Flipping his records: "You literally told me—" and he can't remember when (V M7). Mouthing the words in the Lantern wings (V M8). Possessive at the Exit ("You bowed at her," V M9). Watching from a porch across from Vance's office (V M14). At the midpoint: flickers to about fourteen for a frame; says "El"; can say where they met but not when; cries (V M16). |
+| Clara | Windowsill at Christmas ("Liar," V M1). A girl's voice singing harmony on the radio, gone on playback (V M4). "Not in the rain." / "Slow down." / "Keep it under forty-five" at the parked van (V M5). Flipping his records: "You told me your own self—" and he can't remember when (V M7). Mouthing the words in the Lantern wings (V M8). Possessive at the Exit ("You bowed at her," V M9). Watching from a porch across from Vance's office (V M14). At the midpoint: flickers to about fourteen for a frame; says "El"; can say where they met but not when; cries (V M16). |
 | Stressors | Grace's paper star in the kitchen window (V M1). Wayne: "Saturday the twelfth. That's opening day" (V M7). Strangers singing his words (V M3–V M9). The Southern Star offer (V M14). |
 | Protective | Opening Day, Apr 12, with Wayne; Wayne laughs for the first time; Ada Tolliver's pie (V M10). The van promise (V M15). Wayne walks into Marlon's for the first time since April 1973; "To Grace" (V M16). |
 | Visible to others | Cal to Riley: "I think Ellis has spent a long time learning how to look okay" (V M5). Riley asks "Who is Clara?"; he looks past her at an empty fence; "It's the first one Riley counts" (V M7). Cal: "Can I meet her?" and Ellis walks out (V M7). Misses a chord at the Lantern; Riley covers (V M8). Wayne sees him flinch (V M10). Marlon: "You all right?" at an empty booth (V M16). |
 | Insight | V M16: "Where did we meet?" / "Out back of Marlon's." / "When?" Nothing. "Because I don't remember." Then "El," and "You know." The camera pulls back: he is alone under a streetlight. From here Ellis knows something is wrong. |
 | Mood / function | Performing at his best (Lantern sold out, V M8). Defensive and abrupt about Clara (V M7). |
 | Creative | "Still Here," Mar 10–14, quoting the first alley exchange (V M7); premiere Mar 20 (V M8). Leaves memo book 46 at Roy's (V M3). |
-| Reflex | **Feb 26–27, driving:** flinches at oncoming headlights, right hand off the wheel, drifts right (V M5). On a right-hand curve in rain a pickup's high beams trigger twelve frames (a small hand flat on a dashboard, green felt-tip on the knuckles, rain on another windshield); he jerks the wheel right and the right front tire leaves the pavement (V M5). **Apr 12, passenger:** high beams around a curve; right hand to his face, shoulder to the door; Wayne drops to 40, both hands, keeps right, for forty minutes (V M10). |
+| Reflex | **Feb 26–27, driving:** flinches at oncoming headlights, right hand off the wheel, drifts right (V M5). On a right-hand curve in rain a pickup's high beams trigger twelve frames (a girl's hand flat on a dashboard, green felt-tip on the knuckles, rain on another windshield); he jerks the wheel right and the right front tire leaves the pavement (V M5). **Apr 12, passenger:** high beams around a curve; right hand to his face, shoulder to the door; Wayne drops to 40, both hands, keeps right, for forty minutes (V M10). |
 
 ### Chapter VI (Sat May 3 – Sat Aug 16, 1975)
 
@@ -176,13 +176,13 @@
 | Sleep | Clara in Richmond: "I don't sleep"; he lies awake in 610 past 3:10 a.m. (VII M12). Drives I-81 overnight (VII M19). |
 | Substances | Truck-stop white crosses, Dec 9: player choice, take one or leave them; tracked; neither changes the story (VII M19). Beer. Winstons from the Ridge Pharmacy (VII M13). |
 | Clara | The alley crate at his birthday party; picks November for her own birthday (VII M1). Engineers Park grandstand: "Those were my words." "Tell them it's mine." (VII M7). Stage-left wing at the Civic (VII M8). Richmond radiator: "Neither does Riley," the first cruel thing (VII M12). The Valiant after *Rave* ("I'm in a magazine," VII M13). The seventh chair at the Rileys' Thanksgiving (VII M14). Lantern wing, gone when Wayne is seen (VII M16). Engine cover on I-81: "Keep going." (VII M19). Vanishes when Lorraine's letter appears (VII M19). Never in the Bowery photograph (VII CO, VII M19). |
-| Stressors | Quits Roy's (VII M5). "This one's for Clara" to 1,600 people (VII M8). *Rave*, Nov 25: Grace died "in a car her brother was driving"; his mother left (VII M13). The Sawtooth fight: Cal's "Pain doesn't automatically make everything you do important" (VII M17). Lorraine's letter, Dec 13 (VII M19). |
+| Stressors | Quits Roy's (VII M5). "This one's for Clara" to 1,600 people (VII M8). *Rave*, Nov 25: Grace died "in a car her brother was driving"; his mother left (VII M13). The Sawtooth fight: Cal's "Pain doesn't make everything you do important" (VII M17). Lorraine's letter, Dec 13 (VII M19). |
 | Protective | Riley; Thanksgiving in Linwood (VII M14). Wayne and Game 6 on one couch (VII M6). Wayne at the Lantern: fixes his collar, leaves a $20 in his pocket (VII M16). Roy's last shift: "Don't become an asshole" (VII M5). |
 | Visible to others | Cal hears the grandstand conversation (VII M7). Sherry Tolan: "Who's Clara?" / "Old friend." (VII M8). Denise Allard, 17, watches him argue with nobody in the Monroe Hotel hall (VII M12). *Rave*: "the way men say the names of women who are married or dead" (VII M13). Riley: "Was she at dinner?" / "Yeah." (VII M14). Riley slows from 50 to 40 in the rain and sees the freeze (VII M15). Wayne: "That girl… She still around?" (VII M16). Roy: "You don't talk to the cars." / "Sometimes." / "Not out loud." (VII M5). |
 | Insight | Negotiates with her; tells Riley "After New York… I'll talk to somebody" (VII M14). "Yes I do," to Clara's "You don't need them" (VII M18). |
 | Mood / function | Famous and capable; also books 21 dates alone and tells the band "Mine cost something" (VII M17). Says "I love you" by accident, fixing Riley's distributor (VII M15). |
 | Creative | Little new writing; the live set grows. Memo books 61–66 (VII). |
-| Reflex | **Nov 30, standing at an open hood in rain:** high beams around a bend; he straightens, his wrist hits the radiator hose, he turns toward the light and doesn't move until Riley's hand is on his back. "I'm fine." (VII M15). |
+| Reflex | **Nov 30, standing at an open hood in rain:** high beams around a bend; his body jerks right, away from the light, his wrist hits the radiator hose, and he doesn't move until Riley's hand is on his back. "I'm fine." (VII M15). |
 
 ### Chapter VIII, part 1 (Mon Jan 12 – Sun Mar 21, 1976)
 
@@ -294,7 +294,7 @@ The reflex: a bright light from his left, low, on a two-lane road or its equival
 | 3 | Wed Feb 26, 1975 | Two-lane toward Birmingham, driving | Oncoming headlights | Right hand off the wheel, shoulder turn, van drifts right | Dean (asleep or coming down) | V M5 |
 | 4 | Feb 26–27, 1975 | Laurel Gap, long right-hand curve, rain, driving | Pickup with high beams | Twelve frames of the crash; jerks the wheel right; right front tire off the pavement | Dean ("You want me to drive?") | V M5 |
 | 5 | Sat Apr 12, 1975 | Driving home from Engineers Park, passenger | Oncoming car, high beams around a curve | Right hand toward his face, shoulder to the door | Wayne, who slows to 40 for forty minutes | V M10 |
-| 6 | Sun Nov 30, 1975 | US 19, Laurel Gap, rain, standing at Riley's open hood | Pickup with high beams around a bend | Straightens, hits the hose, turns toward the light and freezes | Riley ("Hey. Ellis.") | VII M15 |
+| 6 | Sun Nov 30, 1975 | US 19, Laurel Gap, rain, standing at Riley's open hood | Pickup with high beams around a bend | Body jerks right, away from the light; hits the hose; freezes, distributor cap in hand | Riley ("Hey. Ellis.") | VII M15 |
 | 7 | Tue Jun 29, 1976 | Memory, the Impala | Left edge of the windshield goes white when he looks at Grace | Cut | The player | IX M6 |
 | 8 | Sat Aug 28, 1976, after 8:04 p.m. | Glen Arbor stage, "Shape Note" | Sun-gun (650 W) from the stage-right wing, on his left as he faces upstage; switched off at once as a lens flare | Small hard jerk to the right; hand stops half a beat | Riley | X M8 |
 | 9 | Sat Aug 28, 1976, ~8:22 p.m. | Glen Arbor stage, just after "Who Are You?" ends | Sun-gun switched on beside Joel on the upstage-right deck: from his left, low, white, past Riley's shoulder | Swerves right, away from the light and from Riley; right foot past the deck edge; the rope behind his knee | The film camera; the band; 150,000 | X M8–9 |
@@ -325,7 +325,7 @@ Related: on Nov 13, 1974, Roy's headlights sweep Wayne's parked truck at the fir
 |---|---|---|
 | 1 | She's a friend. He talks about her to Roy and Cal as someone they could meet. | I M2; III M8; IV M6 |
 | 2 | He can't remember when she said things. He deflects Riley ("Before." / "Everything."). | V M7 |
-| 3 | He can't say when they met. She says "El." He says "You know." | V M16 |
+| 3 | He can't say when they met. She says "El," and then "You know." | V M16 |
 | 4 | Others can't see her; he must not tell them. | VI M1 |
 | 5 | He tells Riley he sees her all the time, sober, for a year or more, and that it frightens him. | VI M10 |
 | 6 | "You're not real." / "That's cruel." | VI M11 |
